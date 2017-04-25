@@ -1,0 +1,200 @@
+#!/usr/bin/env python3
+
+import json
+import re
+import urllib.request
+import sys
+import hashlib
+
+class disposableHostGenerator():
+    sources = {
+        'list': [ 'https://gist.githubusercontent.com/adamloving/4401361/raw/66688cf8ad890433b917f3230f44489aa90b03b7',
+                  'https://gist.githubusercontent.com/michenriksen/8710649/raw/d42c080d62279b793f211f0caaffb22f1c980912',
+                  'https://raw.githubusercontent.com/wesbos/burner-email-providers/master/emails.txt',
+                  'https://raw.githubusercontent.com/andreis/disposable/master/blacklist.txt' ],
+        'file': [ 'blacklist.txt' ],
+        'json': [ 'https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json',
+                  'https://api.temp-mail.ru/request/domains/format/json/' ],
+        'sha1': [ 'https://raw.githubusercontent.com/GeroldSetz/Mailinator-Domains/master/mailinator_domains_from_bdea.cc.txt' ],
+        'discard.email': [ 'https://discard.email/about-getDomains=55bea3fee498cb80f4d3060b738a5936.htm' ],
+        'option-select-box': [ 'https://temp-mail.org/en/option/change/', 'https://spamwc.de/' ]
+    }
+
+    domain_regex = re.compile(r'^[a-z\d-]{,63}(\.[a-z\d-]{,63})+$')
+    sha1_regex = re.compile(r'^[a-fA-F0-9]{40}')
+    skip = ['qq.com', 'sibmail.com']
+
+    def __init__(self, verbose = None, out_file = None):
+        self.domains = {}
+        self.sha1 = {}
+        self.old_domains = {}
+        self.old_sha1 = {}
+
+        self.verbose = verbose
+        self.supported_formats = list(self.sources.keys())
+        self.out_file = 'domains' if out_file is None else out_file
+
+    def verbosePrint(self, msg):
+        if self.verbose:
+            print(msg)
+
+    def process_source(self, url, fmt, encoding='utf-8', timeout=3):
+        if fmt not in self.supported_formats:
+            return
+
+        lines = []
+        if fmt == 'file':
+            with open(url, 'rb') as f:
+                lines = [line.strip().decode('utf8') for line in f]
+        else:
+            data = ''
+            try:
+                req = urllib.request.Request(
+                    url,
+                    data=None,
+                    headers={
+                        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0'
+                    }
+                )
+
+                data = urllib.request.urlopen(req, timeout=timeout).read() or ''
+            except Exception as err:
+                self.verbosePrint('WRN Fetching URL {0} failed, see error: {1}'.format(url, err))
+                return
+
+        if fmt == 'list':
+            lines = [line.decode(encoding) for line in data.splitlines()]
+        elif fmt == 'json':
+            raw = json.loads(data.decode(encoding))
+            if not isinstance(raw, list):
+                self.verbosePrint('WRN This URL does not contain a JSON array: {0}'.format(url))
+                return
+            lines = list(filter(lambda line: line and isinstance(line, str), raw))
+        elif fmt == 'option-select-box':
+            dom_re = re.compile("""<option value="@?[^"]+">@?([a-z0-9\-\.]+\.[a-z0-9\-\.]+)<\/option>""", re.I)
+            lines = dom_re.findall(data.decode(encoding))
+        elif fmt == 'discard.email':
+            raw = json.loads(data.decode(encoding))
+            if not raw.get('active') or \
+               not isinstance(raw['active'], list) or \
+               not raw['active'][0].get('domain'):
+                self.verbosePrint('WRN The discard.email list format has changed: {0}'.format(url))
+                return
+            lines = list(map(lambda line: line['domain'], raw['active']))
+        elif fmt == 'sha1':
+            lines = data.splitlines()
+            lines = [line.decode('ascii').lower() for line in lines]
+            for sha1_str in lines:
+                if not sha1_str or not self.sha1_regex.match(sha1_str):
+                    continue
+
+                self.sha1[sha1_str.lower()] = None
+            return True
+
+        lines = [line.lower().strip(' .,;@') for line in lines]
+        lines = list(filter(lambda line: self.domain_regex.match(line), lines))
+
+        for host in lines:
+            self.domains[host] = None
+            self.sha1[hashlib.sha1(host.encode('idna')).hexdigest()] = None
+
+        return True
+
+    def readFile(self):
+        # read and compare to current (old) domains file
+        self.old_domains = {}
+        with open(self.out_file + '.txt') as f:
+            for line in f:
+                self.old_domains[line.strip()] = None
+
+        self.old_sha1 = {}
+        with open(self.out_file + '_sha1.txt') as f:
+            for line in f:
+                self.old_sha1[line.strip()] = None
+
+    def generate(self, dns_verify = None):
+        # build domains dict
+        for fmt in self.supported_formats:
+            for src in self.sources[fmt]:
+                self.process_source(src, fmt)
+
+        # add custom whitelist
+        for domain in self.skip:
+            self.domains.pop(domain, None)
+            self.sha1.pop(hashlib.sha1(domain.encode('idna')).hexdigest(), None)
+
+        # MX verify check
+        no_mx = []
+        if dns_verify:
+            import dns.resolver
+            self.verbosePrint('Check for domains without MX.')
+            for domain in self.domains.keys():
+                valid = False
+                try:
+                    if dns.resolver.query(domain, 'MX'):
+                        valid = True
+                except:
+                    pass
+
+                if not valid:
+                    self.verbosePrint('%s: without MX record' % (domain, ))
+                    no_mx.append(domain)
+
+            for domain in no_mx:
+                self.domains.pop(domain, None)
+                self.sha1.pop(hashlib.sha1(domain).hexdigest(), None)
+
+        if self.verbose:
+            if not self.old_domains:
+                self.readFile()
+
+            added = list(
+                filter(lambda domain: domain not in self.old_domains, self.domains.keys()))
+            removed = list(
+                filter(lambda domain: domain not in self.domains, self.old_domains.keys()))
+
+            added_sha1 = list(
+                filter(lambda sha_str: sha_str not in self.old_sha1, self.sha1.keys()))
+            removed_sha1 = list(
+                filter(lambda sha_str: sha_str not in self.sha1, self.old_sha1.keys()))
+
+            self.verbosePrint('Fetched {0} domains and {1} hashes'.format(len(self.domains), len(self.sha1)))
+            if no_mx:
+                self.verbosePrint(' - {0} domain(s) have no MX'.format(len(no_mx)))
+            self.verbosePrint(' - {0} domain(s) added'.format(len(added)))
+            self.verbosePrint(' - {0} domain(s) removed'.format(len(removed)))
+            self.verbosePrint(' - {0} hash(es) added'.format(len(added_sha1)))
+            self.verbosePrint(' - {0} hash(es) removed'.format(len(removed_sha1)))
+            # stop if nothing has changed
+            if len(added) == len(removed) == len(added_sha1) == len(removed_sha1) == 0:
+                return False
+
+        return True
+
+    def writeToFile(self):
+        # write new list to file(s)
+        domains = list(self.domains.keys())
+        domains.sort()
+        with open(self.out_file + '.txt', 'w') as ff:
+            ff.write('\n'.join(domains))
+
+        with open(self.out_file + '.json', 'w') as ff:
+            ff.write(json.dumps(domains))
+
+        # write new list to file(s)
+        domains_sha1 = list(self.sha1.keys())
+        domains_sha1.sort()
+        with open(self.out_file + '_sha1.txt', 'w') as ff:
+            ff.write('\n'.join(domains_sha1))
+
+        with open(self.out_file + '_sha1.json', 'w') as ff:
+            ff.write(json.dumps(domains_sha1))
+
+if __name__ == '__main__':
+    exit_status = 1
+    dhg = disposableHostGenerator(verbose = True)
+    dns_verify = True if '--dns-verify' in sys.argv else False
+    if dhg.generate(dns_verify = dns_verify):
+        exit_status = 0
+    dhg.writeToFile()
+    sys.exit(exit_status)
