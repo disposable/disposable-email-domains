@@ -1434,6 +1434,7 @@ ironiebehindert.de
 irssi.tv
 is.af
 isdaq.com
+islam.igg.biz
 ispuntheweb.com
 ispyco.ru
 istakalisa.club
@@ -2249,6 +2250,7 @@ puttanamaiala.tk
 putthisinyourspamdatabase.com
 pw.flu.cc
 pw.igg.biz
+pw.islam.igg.biz
 pw.nut.cc
 pwp.lv
 pwrby.com

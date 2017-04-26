@@ -6,7 +6,7 @@ import urllib.request
 import sys
 import hashlib
 
-class disposableHostGenerator():
+class DisposableHostGenerator(object):
     sources = {
         'list': [ 'https://gist.githubusercontent.com/adamloving/4401361/raw/66688cf8ad890433b917f3230f44489aa90b03b7',
                   'https://gist.githubusercontent.com/michenriksen/8710649/raw/d42c080d62279b793f211f0caaffb22f1c980912',
@@ -24,19 +24,14 @@ class disposableHostGenerator():
     sha1_regex = re.compile(r'^[a-fA-F0-9]{40}')
     skip = ['qq.com', 'sibmail.com']
 
-    def __init__(self, verbose = None, out_file = None):
+    def __init__(self, out_file = None):
         self.domains = {}
-        self.sha1 = {}
         self.old_domains = {}
+        self.sha1 = {}
         self.old_sha1 = {}
 
-        self.verbose = verbose
         self.supported_formats = list(self.sources.keys())
         self.out_file = 'domains' if out_file is None else out_file
-
-    def verbosePrint(self, msg):
-        if self.verbose:
-            print(msg)
 
     def process_source(self, url, fmt, encoding='utf-8', timeout=3):
         if fmt not in self.supported_formats:
@@ -59,7 +54,7 @@ class disposableHostGenerator():
 
                 data = urllib.request.urlopen(req, timeout=timeout).read() or ''
             except Exception as err:
-                self.verbosePrint('WRN Fetching URL {0} failed, see error: {1}'.format(url, err))
+                print('WRN Fetching URL {0} failed, see error: {1}'.format(url, err))
                 return
 
         if fmt == 'list':
@@ -67,7 +62,7 @@ class disposableHostGenerator():
         elif fmt == 'json':
             raw = json.loads(data.decode(encoding))
             if not isinstance(raw, list):
-                self.verbosePrint('WRN This URL does not contain a JSON array: {0}'.format(url))
+                print('WRN This URL does not contain a JSON array: {0}'.format(url))
                 return
             lines = list(filter(lambda line: line and isinstance(line, str), raw))
         elif fmt == 'option-select-box':
@@ -78,7 +73,7 @@ class disposableHostGenerator():
             if not raw.get('active') or \
                not isinstance(raw['active'], list) or \
                not raw['active'][0].get('domain'):
-                self.verbosePrint('WRN The discard.email list format has changed: {0}'.format(url))
+                print('WRN The discard.email list format has changed: {0}'.format(url))
                 return
             lines = list(map(lambda line: line['domain'], raw['active']))
         elif fmt == 'sha1':
@@ -127,7 +122,7 @@ class disposableHostGenerator():
         no_mx = []
         if dns_verify:
             import dns.resolver
-            self.verbosePrint('Check for domains without MX.')
+            print('Check for domains without MX.')
             for domain in self.domains.keys():
                 valid = False
                 try:
@@ -137,37 +132,37 @@ class disposableHostGenerator():
                     pass
 
                 if not valid:
-                    self.verbosePrint('%s: without MX record' % (domain, ))
+                    print('%s: without MX record' % (domain, ))
                     no_mx.append(domain)
 
             for domain in no_mx:
                 self.domains.pop(domain, None)
                 self.sha1.pop(hashlib.sha1(domain).hexdigest(), None)
 
-        if self.verbose:
-            if not self.old_domains:
-                self.readFile()
+        if not self.old_domains:
+            self.readFile()
 
-            added = list(
-                filter(lambda domain: domain not in self.old_domains, self.domains.keys()))
-            removed = list(
-                filter(lambda domain: domain not in self.domains, self.old_domains.keys()))
+        # Report the outcome of this run
+        print('Fetched {0} domains and {1} hashes'.format(len(self.domains), len(self.sha1)))
 
-            added_sha1 = list(
-                filter(lambda sha_str: sha_str not in self.old_sha1, self.sha1.keys()))
-            removed_sha1 = list(
-                filter(lambda sha_str: sha_str not in self.sha1, self.old_sha1.keys()))
+        added = list(
+            filter(lambda domain: domain not in self.old_domains, self.domains.keys()))
+        removed = list(
+            filter(lambda domain: domain not in self.domains, self.old_domains.keys()))
+        print(' - {0} domain(s) added'.format(len(added)))
+        print(' - {0} domain(s) removed'.format(len(removed)))
+        if no_mx:
+            print(' - {0} domain(s) have no MX record'.format(len(no_mx)))
 
-            self.verbosePrint('Fetched {0} domains and {1} hashes'.format(len(self.domains), len(self.sha1)))
-            if no_mx:
-                self.verbosePrint(' - {0} domain(s) have no MX'.format(len(no_mx)))
-            self.verbosePrint(' - {0} domain(s) added'.format(len(added)))
-            self.verbosePrint(' - {0} domain(s) removed'.format(len(removed)))
-            self.verbosePrint(' - {0} hash(es) added'.format(len(added_sha1)))
-            self.verbosePrint(' - {0} hash(es) removed'.format(len(removed_sha1)))
-            # stop if nothing has changed
-            if len(added) == len(removed) == len(added_sha1) == len(removed_sha1) == 0:
-                return False
+        added_sha1 = list(
+            filter(lambda sha_str: sha_str not in self.old_sha1, self.sha1.keys()))
+        removed_sha1 = list(
+            filter(lambda sha_str: sha_str not in self.sha1, self.old_sha1.keys()))
+        print(' - {0} hash(es) added'.format(len(added_sha1)))
+        print(' - {0} hash(es) removed'.format(len(removed_sha1)))
+        # stop if nothing has changed
+        if len(added) == len(removed) == len(added_sha1) == len(removed_sha1) == 0:
+            return False
 
         return True
 
@@ -192,7 +187,7 @@ class disposableHostGenerator():
 
 if __name__ == '__main__':
     exit_status = 1
-    dhg = disposableHostGenerator(verbose = True)
+    dhg = DisposableHostGenerator()
     dns_verify = True if '--dns-verify' in sys.argv else False
     if dhg.generate(dns_verify = dns_verify):
         exit_status = 0
