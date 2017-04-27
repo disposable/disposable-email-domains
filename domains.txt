@@ -575,6 +575,7 @@ comwest.de
 conf.work
 config.work
 consumerriot.com
+contbay.com
 contentwanted.com
 contrasto.cu.cc
 cool.fr.nf
@@ -622,6 +623,7 @@ dacoolest.com
 daemsteam.com
 daintly.com
 dammexe.net
+damnthespam.com
 dancemanual.com
 dandikmail.com
 darkharvestfilms.com
@@ -2917,6 +2919,7 @@ u.civvic.ro
 u.dmarc.ro
 u.labo.ch
 u.qvap.ru
+u14269.gq
 u14269.ml
 u6lvty2.com
 ua3jx7n0w3.com
