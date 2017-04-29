@@ -389,7 +389,6 @@ blogmyway.org
 blogos.net
 blogspam.ro
 bloq.ro
-bloxter.cu.cc
 bluedumpling.info
 bluewerks.com
 blutig.me
@@ -472,6 +471,7 @@ c.theplug.org
 c.wlist.ro
 c2.hu
 c51vsgq.com
+c7fk799.com
 cachedot.net
 cafecar.xyz
 californiafitnessdeals.com
@@ -2356,10 +2356,6 @@ royal.net
 royaldoodles.org
 rppkn.com
 rq6668f.com
-rr-0.cu.cc
-rr-1.cu.cc
-rr-2.cu.cc
-rr-3.cu.cc
 rtotlmail.net
 rtrtr.com
 rudymail.ml
@@ -2997,7 +2993,6 @@ vipmail.pw
 vipsohu.net
 vipxm.net
 viralplays.com
-viroleni.cu.cc
 visa.coms.hk
 vixletdev.com
 vkcode.ru
