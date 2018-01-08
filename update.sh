@@ -1,6 +1,6 @@
 #!/bin/bash
 cd disposable
-git pull >/dev/null
+git pull -q -f
 cd ..
 
 updated=0
