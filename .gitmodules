@@ -1,0 +1,3 @@
+[submodule "disposable"]
+	path = disposable
+	url = https://github.com/andreis/disposable.git
