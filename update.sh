@@ -16,4 +16,4 @@ fi
 
 git commit -m "$(printf "Update domains\n\n"; cat $tmpfile)" domains.txt domains.json domains_sha1.json domains_sha1.txt disposable
 rm "$tmpfile"
-git push
+git push -q
