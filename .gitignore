@@ -411,4 +411,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.gitignore.io/api/osx,vim,linux,emacs,python,windows,pycharm,eclipse,textmate,intellij,sublimetext
+blacklist.txt
