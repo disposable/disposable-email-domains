@@ -7,7 +7,7 @@ cd ..
 
 updated=0
 tmpfile=$(mktemp)
-./disposable/.generate >$tmpfile && updated=1
+./disposable/.generate --source-map >$tmpfile && updated=1
 if [ "$updated" == "0" ]; then
     # no update
     rm "$tmpfile"
