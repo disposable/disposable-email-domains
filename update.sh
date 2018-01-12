@@ -7,13 +7,16 @@ cd ..
 
 updated=0
 tmpfile=$(mktemp)
-./disposable/.generate --source-map >$tmpfile && updated=1
+./disposable/.generate --source-map >$tmpfile --dns-verify && updated=1
 if [ "$updated" == "0" ]; then
     # no update
     rm "$tmpfile"
     exit
 fi
 
-git commit -m "$(printf "Update domains\n\n"; cat $tmpfile)" domains.txt domains.json domains_sha1.json domains_sha1.txt domains_source_map.txt disposable
+git commit -m "$(printf "Update domains\n\n"; cat $tmpfile)" \
+    domains.txt domains.json domains_legacy.txt domains_mx.txt domains_mx.json \
+    domains_sha1.json domains_sha1.txt domains_source_map.txt \
+    disposable
 rm "$tmpfile"
 git push -q
