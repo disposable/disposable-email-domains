@@ -14,6 +14,6 @@ if [ "$updated" == "0" ]; then
     exit
 fi
 
-git commit -m "$(printf "Update domains\n\n"; cat $tmpfile)" domains.txt domains.json domains_sha1.json domains_sha1.txt disposable
+git commit -m "$(printf "Update domains\n\n"; cat $tmpfile)" domains.txt domains.json domains_sha1.json domains_sha1.txt domains_source_map.txt disposable
 rm "$tmpfile"
 git push -q
