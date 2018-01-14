@@ -5,15 +5,8 @@ cd disposable
 git pull -q -f
 cd ..
 
-updated=0
 tmpfile=$(mktemp)
-./disposable/.generate --source-map >$tmpfile --dns-verify && updated=1
-if [ "$updated" == "0" ]; then
-    # no update
-    rm "$tmpfile"
-    exit
-fi
-
+./disposable/.generate --source-map --dns-verify >$tmpfile
 git commit -m "$(printf "Update domains\n\n"; cat $tmpfile)" \
     domains.txt domains.json domains_legacy.txt domains_mx.txt domains_mx.json \
     domains_sha1.json domains_sha1.txt domains_source_map.txt \
