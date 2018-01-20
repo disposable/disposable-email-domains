@@ -315,6 +315,7 @@ backflip.cf
 badamm.us
 badgerland.eu
 badhus.org
+badoo.live
 badpotato.tk
 bakar.bid
 balanc3r.com
@@ -614,7 +615,6 @@ d1yun.com
 d3p.dk
 d8u.us
 dab.ro
-dacha-24.ru
 dadd.kikwet.com
 daemsteam.com
 damai.webcam
@@ -783,6 +783,7 @@ dwango.gq
 dwango.ml
 dwango.tk
 dweezlemail.crabdance.com
+dynu.net
 dz17.net
 e-mail.com
 e-mail.net
@@ -848,6 +849,7 @@ emailigo.de
 emailinfive.com
 emailmenow.info
 emailo.pro
+emailofnd.cf
 emailondeck.com
 emailr.win
 emailresort.com
@@ -971,7 +973,6 @@ flarmail.ga
 flash-mail.xyz
 flashbox.5july.org
 fleckens.hu
-flemail.com
 flemail.ru
 floodbrother.com
 flowerss.website
@@ -1130,7 +1131,6 @@ gmx1mail.top
 gmxmail.top
 gmxmail.win
 go1.site
-go2usa.info
 go2vpn.net
 goat.si
 gok.kr
@@ -1658,6 +1658,7 @@ mail.mnisjk.com
 mail.myde.ml
 mail.partskyline.com
 mail.stars19.xyz
+mail.unionpay.pl
 mail.zp.ua
 mail0.ga
 mail114.net
@@ -2156,7 +2157,6 @@ pc1520.com
 pcmylife.com
 pcusers.otherinbox.com
 peapz.com
-pejovideomaker.tk
 penguincreationdate.pw
 penis.computer
 penoto.tk
@@ -2476,10 +2476,10 @@ sendingspecialflyers.com
 sendspamhere.com
 sendto.cf
 senseless-entertainment.com
+sensualerotics.date
 senttmail.ga
 serv.craigslist.org
 server.ms
-servermaps.net
 sexxfun69.site
 sexymail.gq
 sfmail.top
@@ -2915,7 +2915,6 @@ trashcanmail.com
 trashdevil.de
 trashemail.de
 trashemails.de
-trashimail.de
 trashmail.at
 trashmail.com
 trashmail.de
@@ -3248,6 +3247,7 @@ yodx.ro
 yogamaven.com
 yomail.info
 yoo.ro
+yood.org
 yop.ze.cx
 yopmail.biz.st
 yopmail.com

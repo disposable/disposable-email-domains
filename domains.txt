@@ -580,6 +580,7 @@ backflip.cf
 badamm.us
 badgerland.eu
 badhus.org
+badoo.live
 badoop.com
 badpotato.tk
 bakar.bid
@@ -1402,6 +1403,7 @@ emailll.org
 emailmenow.info
 emailmiser.com
 emailo.pro
+emailofnd.cf
 emailondeck.com
 emailproxsy.com
 emailr.win
@@ -2742,6 +2744,7 @@ mail.partskyline.com
 mail.piaa.me
 mail.stars19.xyz
 mail.ticket-please.ga
+mail.unionpay.pl
 mail.wtf
 mail.zp.ua
 mail0.ga
@@ -3954,6 +3957,7 @@ sendingspecialflyers.com
 sendspamhere.com
 sendto.cf
 senseless-entertainment.com
+sensualerotics.date
 senttmail.ga
 seriousalts.de
 serv.craigslist.org
@@ -5127,6 +5131,7 @@ yodx.ro
 yogamaven.com
 yomail.info
 yoo.ro
+yood.org
 yop.email
 yop.ze.cx
 yopmail.biz.st
