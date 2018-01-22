@@ -1,9 +1,10 @@
 0-mail.com
 0039.cf
 0039.ga
-0039.gq
 0039.ml
+02466.cf
 027168.com
+07819.cf
 0815.ru
 0815.su
 0box.eu
@@ -104,6 +105,7 @@
 6.emailfake.ml
 60minutemail.com
 675hosting.com
+67832.cf
 69-ew.tk
 69postix.info
 6brmwv.cf
@@ -124,6 +126,7 @@
 80665.com
 8191.at
 82c8.com
+888z5.ml
 88clean.pro
 8chan.co
 900k.es
@@ -226,7 +229,6 @@ anonmail.xyz
 anonmails.de
 anonymail.dk
 anonymize.com
-anonymized.org
 anonymousfeedback.net
 anonymousness.com
 anonymousspeech.com
@@ -1578,6 +1580,7 @@ lee.mx
 leeching.net
 leemail.me
 legalrc.loan
+lehman.gq
 lei.kr
 lenovog4.com
 letmeinonthis.com
@@ -1741,6 +1744,7 @@ mailjunk.cf
 mailjunk.gq
 mailjunk.ml
 mailmate.com
+mailme.gq
 mailme.judis.me
 mailme.lv
 mailme24.com
@@ -2013,7 +2017,6 @@ nezdiro.org
 nezzart.com
 nfast.net
 nguyenusedcars.com
-nice-4u.com
 nicegarden.us
 nicewoodenbaskets.com
 nie-podam.pl
@@ -2763,6 +2766,7 @@ tarma.cf
 tarma.ml
 tarma.tk
 tarzanmail.cf
+taskforcetech.com
 tb-on-line.net
 te.caseedu.tk
 tech69.com
@@ -2819,7 +2823,6 @@ tempmailer.com
 tempmailer.de
 tempomail.fr
 temporarioemail.com.br
-temporaryemail.net
 temporaryemail.us
 temporarymailaddress.com
 tempr.email
@@ -2939,6 +2942,7 @@ trungtamtoeic.com
 tryprice.co
 ts-by-tashkent.cf
 ts-by-tashkent.tk
+tualias.com
 tucumcaritonite.com
 tukupedia.co
 turoid.com
@@ -2986,6 +2990,7 @@ urfunktion.se
 uroid.com
 us.af
 us.to
+usa-gov.ga
 usachan.cf
 usachan.gq
 usachan.ml
