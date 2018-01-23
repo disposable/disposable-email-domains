@@ -2,9 +2,10 @@
 0039.cf
 0039.ga
 0039.ml
-02466.cf
+02466.ga
+02466.gq
+02466.ml
 027168.com
-07819.cf
 0815.ru
 0815.su
 0box.eu
@@ -106,6 +107,8 @@
 60minutemail.com
 675hosting.com
 67832.cf
+67832.ga
+67832.ml
 69-ew.tk
 69postix.info
 6brmwv.cf
@@ -539,7 +542,6 @@ cmc88.tk
 cnamed.com
 cnew.ir
 cnmsg.net
-co.cc
 cobin2hood.com
 cock.li
 cocodani.cf
@@ -863,6 +865,7 @@ emailtech.info
 emailtemporanea.net
 emailtemporario.com.br
 emailthe.net
+emailto.de
 emailwarden.com
 emailx.at.hm
 emailxfer.com
@@ -975,6 +978,7 @@ flarmail.ga
 flash-mail.xyz
 flashbox.5july.org
 fleckens.hu
+flemail.com
 flemail.ru
 floodbrother.com
 flowerss.website
@@ -1075,6 +1079,7 @@ garasikita.pw
 garbagemail.org
 gardenscape.ca
 garizo.com
+garliclife.com
 garrymccooey.com
 gav0.com
 gbcmail.win
@@ -1360,7 +1365,6 @@ indeedtime.us
 india2in.com
 indirect.ws
 indomaed.pw
-indomina.cf
 indosukses.press
 infest.org
 infocom.zp.ua
@@ -1385,6 +1389,7 @@ ipemail.win
 ippandansei.tk
 ipswell.com
 iqemail.win
+iroid.com
 ironiebehindert.de
 irr.kr
 irssi.tv
@@ -1580,7 +1585,10 @@ lee.mx
 leeching.net
 leemail.me
 legalrc.loan
+lehman.cf
+lehman.ga
 lehman.gq
+lehman.ml
 lei.kr
 lenovog4.com
 letmeinonthis.com
@@ -1635,6 +1643,7 @@ luckymail.org
 lucyu.com
 lukecarriere.com
 luo.kr
+lupabapak.org
 luv2.us
 m2r60ff.com
 m4ilweb.info
@@ -2048,6 +2057,7 @@ nonze.ro
 noref.in
 norseforce.com
 northemquest.com
+nospam.thurstons.us
 nospam.ze.tc
 nospam4.us
 nospammail.net
@@ -2161,6 +2171,7 @@ pc1520.com
 pcmylife.com
 pcusers.otherinbox.com
 peapz.com
+pejovideomaker.tk
 penguincreationdate.pw
 penis.computer
 penoto.tk
@@ -2195,6 +2206,7 @@ pokeett.site
 pokemail.net
 polacy-dungannon.tk
 polarkingxx.ml
+polimi.ml
 politikerclub.de
 poliusraas.tk
 polres-aeknabara.cf
@@ -2500,7 +2512,6 @@ shitmail.org
 shitposting.agency
 shitware.nl
 shonky.info
-shopbaby.me
 shorten.tempm.ml
 shortmail.net
 shotmail.ru
@@ -2746,6 +2757,7 @@ syujob.accountants
 szerz.com
 szucsati.net
 t.psh.me
+t099.tk
 tafmail.com
 tafoi.gr
 tagyourself.com
@@ -2990,7 +3002,6 @@ urfunktion.se
 uroid.com
 us.af
 us.to
-usa-gov.ga
 usachan.cf
 usachan.gq
 usachan.ml
@@ -3157,7 +3168,6 @@ wikisite.co
 wil.kr
 wilemail.com
 willhackforfood.biz
-williamcastillo.me
 willselfdestruct.com
 wimsg.com
 winemaven.info
@@ -3282,6 +3292,7 @@ z1p.biz
 z7az14m.com.com
 z86.ru
 za.com
+zain.site
 zainmax.net
 zaktouni.fr
 zane.rocks

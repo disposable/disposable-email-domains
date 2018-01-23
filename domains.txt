@@ -4,9 +4,10 @@
 0039.ga
 0039.gq
 0039.ml
-02466.cf
+02466.ga
+02466.gq
+02466.ml
 027168.com
-07819.cf
 0815.ru
 0815.ry
 0815.su
@@ -177,6 +178,8 @@
 675hosting.net
 675hosting.org
 67832.cf
+67832.ga
+67832.ml
 69-ew.tk
 69postix.info
 6brmwv.cf
@@ -2591,7 +2594,10 @@ lee.mx
 leeching.net
 leemail.me
 legalrc.loan
+lehman.cf
+lehman.ga
 lehman.gq
+lehman.ml
 lei.kr
 lellno.gq
 lenovog4.com
@@ -2692,6 +2698,7 @@ lukecarriere.com
 lukemail.info
 lukop.dk
 luo.kr
+lupabapak.org
 luv2.us
 lyfestylecreditsolutions.com
 m.ddcrew.com
@@ -2834,6 +2841,7 @@ mailhazard.com
 mailhazard.us
 mailhero.io
 mailhz.me
+mailimails.patzleiner.net
 mailimate.com
 mailin8r.com
 mailinatar.com
@@ -3293,6 +3301,7 @@ norih.com
 norseforce.com
 northemquest.com
 nosh.ml
+nospam.thurstons.us
 nospam.wins.com.br
 nospam.ze.tc
 nospam4.us
@@ -3530,6 +3539,7 @@ pokemail.net
 pokiemobile.com
 polacy-dungannon.tk
 polarkingxx.ml
+polimi.ml
 politikerclub.de
 poliusraas.tk
 polres-aeknabara.cf
@@ -4321,6 +4331,7 @@ syujob.accountants
 szerz.com
 szucsati.net
 t.psh.me
+t099.tk
 t24e4p7.com
 t3t97d1d.com
 tafmail.com
@@ -4709,7 +4720,6 @@ urfunktion.se
 uroid.com
 us.af
 us.to
-usa-gov.ga
 usa.cc
 usachan.cf
 usachan.gq
