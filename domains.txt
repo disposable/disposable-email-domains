@@ -4,10 +4,10 @@
 0039.ga
 0039.gq
 0039.ml
-02466.ga
 02466.gq
 02466.ml
 027168.com
+07819.ga
 0815.ru
 0815.ry
 0815.su
@@ -73,6 +73,7 @@
 14n.co.uk
 15qm-mail.red
 15qm.com
+19922.ml
 1ce.us
 1chuan.com
 1clck2.com
@@ -179,7 +180,6 @@
 675hosting.org
 67832.cf
 67832.ga
-67832.ml
 69-ew.tk
 69postix.info
 6brmwv.cf
@@ -1863,6 +1863,7 @@ glassaas.site
 glassworks.cf
 gleeze.com
 glitch.sx
+global.idn.vn
 globaltouron.com
 glubex.com
 glucosegrin.com
@@ -2666,7 +2667,6 @@ lolllipop.stream
 lolmail.biz
 lom.kr
 london2.space
-long.idn.vn
 longio.org
 lonthe.ml
 lookugly.com
@@ -3097,6 +3097,7 @@ msgden.com
 msgos.com
 msgsafe.ninja
 msk.ru
+mskey.co
 mspeciosa.com
 msrc.ml
 mswork.ru
@@ -3726,6 +3727,7 @@ randomail.net
 rao.kr
 raqid.com
 rarame.club
+raspberrypi123.ddns.net
 rawhidefc.org
 rawmails.com
 rax.la
