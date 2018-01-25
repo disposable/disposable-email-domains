@@ -11,6 +11,7 @@
 0box.eu
 0clickemail.com
 0mixmail.info
+0sg.net
 0u.ro
 0v.ro
 0w.ro
@@ -48,6 +49,7 @@
 14n.co.uk
 15qm-mail.red
 15qm.com
+19922.ga
 19922.ml
 1ce.us
 1dmedical.com
@@ -129,6 +131,7 @@
 80665.com
 8191.at
 82c8.com
+888z5.gq
 888z5.ml
 88clean.pro
 8chan.co
@@ -228,7 +231,6 @@ anit.ro
 ano-mail.net
 anon-mail.de
 anon.leemail.me
-anonmail.xyz
 anonmails.de
 anonymail.dk
 anonymize.com
@@ -490,6 +492,7 @@ ceweknakal.cf
 ceweknakal.ga
 ceweknakal.ml
 cfo2go.ro
+chacuo.net
 chammy.info
 cheap3ddigitalcameras.com
 cheaphub.net
@@ -719,6 +722,7 @@ dispose.it
 dispostable.com
 divad.ga
 divismail.ru
+diwaq.com
 dko.kr
 dlemail.ru
 dm.w3internet.co.uk
@@ -903,6 +907,7 @@ ether123.net
 ethereum1.top
 ethersports.org
 etlgr.com
+euaqa.com
 evilbruce.com
 evyush.com
 ewa.kr
@@ -965,6 +970,7 @@ fiat-chrysler.tk
 ficken.de
 fido.be
 fightallspam.com
+figjs.com
 figshot.com
 film-blog.biz
 filzmail.com
@@ -1007,7 +1013,6 @@ foy.kr
 fr.nf
 fr33mail.info
 fragolina2.tk
-francanet.com.br
 frapmail.com
 frappina.tk
 free-email.cf
@@ -1305,6 +1310,7 @@ i-taiwan.tv
 i.istii.ro
 i.xcode.ro
 i2pmail.org
+iaoss.com
 ibsats.com
 iccmail.men
 icetmail.ga
@@ -1568,6 +1574,7 @@ lakelivingstonrealestate.com
 lal.kr
 lancego.space
 landmail.co
+laoeq.com
 laoho.com
 last-chance.pro
 lastmail.co
@@ -1576,6 +1583,7 @@ lawlz.net
 lazyinbox.com
 lazyinbox.us
 lbe.kr
+lbhxz.storeyee.com
 ldtp.com
 ledoktre.com
 lee.mx
@@ -1657,7 +1665,6 @@ mail-temporaire.fr
 mail-tester.com
 mail.aws910.com
 mail.bentrask.com
-mail.bestoption25.club
 mail.by
 mail.fast10s.design
 mail.fettometern.com
@@ -1774,6 +1781,7 @@ mailscrap.com
 mailseal.de
 mailshell.com
 mailsiphon.com
+mailspam.me
 mailspam.xyz
 mailspeed.ru
 mailtemp.info
@@ -1799,6 +1807,7 @@ malibucoding.com
 mall.tko.co.kr
 mallinator.com
 malove.site
+mamber.net
 mandraghen.cf
 mankyrecords.com
 mansiondev.com
@@ -1922,7 +1931,6 @@ mrresourcepacks.tk
 msgden.com
 msgos.com
 msgsafe.ninja
-mskey.co
 mspeciosa.com
 mswork.ru
 msxd.com
@@ -2055,6 +2063,7 @@ nonze.ro
 noref.in
 norseforce.com
 northemquest.com
+nospam.barbees.net
 nospam.thurstons.us
 nospam.ze.tc
 nospam4.us
@@ -2192,10 +2201,12 @@ pi.vu
 pidmail.com
 pig.pp.ua
 pii.at
+pika.pc486.net
 pingir.com
 pisls.com
 pjjkp.com
 plhk.ru
+ploae.com
 plw.me
 poalmail.ga
 podam.pl
@@ -2425,10 +2436,6 @@ s.proprietativalcea.ro
 s0ny.net
 s33db0x.com
 s8sigmao.com
-saab9-3.cf
-saab9-3.ga
-saab9-3.gq
-saab9-3.ml
 saab9-3.tk
 sabrestlouis.com
 sach.ir
@@ -2597,6 +2604,7 @@ spam-nicht.de
 spam.2012-2016.ru
 spam.netpirates.net
 spam.pyphus.org
+spam.trajano.net
 spam4.me
 spamail.de
 spamarrest.com
@@ -2618,6 +2626,7 @@ spamcowboy.com
 spamcowboy.net
 spamcowboy.org
 spamdecoy.net
+spameater.org
 spamex.com
 spamfighter.cf
 spamfighter.gq
@@ -2636,6 +2645,9 @@ spamhereplease.com
 spamhole.com
 spamify.com
 spaml.de
+spammail.me
+spammehere.com
+spammehere.net
 spammotel.com
 spamobox.com
 spamoff.de
@@ -2664,6 +2676,7 @@ ss00.ga
 sso-demo-okta.com
 ssoia.com
 ssunz.cricket
+stanford-edu.tk
 stanfordujjain.com
 starlight-breaker.net
 startfu.com
@@ -2816,7 +2829,6 @@ tempemail.biz
 tempemail.com
 tempemail.net
 tempemail.pro
-tempemails.io
 tempinbox.co.uk
 tempinbox.com
 tempm.cf
@@ -2913,6 +2925,7 @@ tosunkaya.com
 totalvista.com
 totesmail.com
 tp-qa-mail.com
+tqoai.com
 tracciabi.li
 tradermail.info
 tralalajos.tk
@@ -2926,6 +2939,7 @@ trash-mail.net
 trash-me.com
 trash2009.com
 trash247.com
+trashbox.eu
 trashcanmail.com
 trashdevil.de
 trashemail.de
@@ -3186,6 +3200,7 @@ wordme.stream
 work4uber.us
 worldpetcare.cf
 worldsonlineradios.com
+wpmail.org
 wralawfirm.com
 writeme.us
 wronghead.com
@@ -3295,6 +3310,7 @@ zain.site
 zainmax.net
 zaktouni.fr
 zane.rocks
+zasod.com
 zavio.nl
 ze.cx
 ze.tc
@@ -3313,7 +3329,6 @@ zipcad.com
 zippymail.info
 zipzaprap.beerolympics.se
 ziyap.com
-zoaxe.com
 zoemail.com
 zoemail.net
 zomg.info

@@ -15,6 +15,7 @@
 0box.eu
 0clickemail.com
 0mixmail.info
+0sg.net
 0u.ro
 0v.ro
 0w.ro
@@ -73,6 +74,7 @@
 14n.co.uk
 15qm-mail.red
 15qm.com
+19922.ga
 19922.ml
 1ce.us
 1chuan.com
@@ -96,7 +98,6 @@
 2012-2016.ru
 2014mail.ru
 2018-12-23.ga
-2018.igg.biz
 20boxme.org
 20email.eu
 20email.it
@@ -213,6 +214,7 @@
 8127ep.com
 8191.at
 82c8.com
+888z5.gq
 888z5.ml
 88clean.pro
 8chan.co
@@ -484,10 +486,6 @@ apssdc.ml
 arakcarpet.ir
 arduino.hk
 area-thinking.de
-area51.flu.cc
-area51.igg.biz
-area51.nut.cc
-area51.usa.cc
 ariasexy.tk
 ariaz.jetzt
 armyspy.com
@@ -2153,7 +2151,6 @@ i-booking.us
 i-taiwan.tv
 i.istii.ro
 i.klipp.su
-i.r-6.usa.cc
 i.ryanb.com
 i.wawi.es
 i.xcode.ro
@@ -2588,6 +2585,7 @@ lawson.gq
 lazyinbox.com
 lazyinbox.us
 lbe.kr
+lbhxz.storeyee.com
 ldop.com
 ldtp.com
 ledoktre.com
@@ -2904,6 +2902,7 @@ mailshell.com
 mailsiphon.com
 mailslapping.com
 mailslite.com
+mailspam.me
 mailspam.xyz
 mailspeed.ru
 mailtemp.info
@@ -2936,6 +2935,7 @@ malibucoding.com
 mall.tko.co.kr
 mallinator.com
 malove.site
+mamber.net
 mandraghen.cf
 manifestgenerator.com
 mankyrecords.com
@@ -3097,7 +3097,6 @@ msgden.com
 msgos.com
 msgsafe.ninja
 msk.ru
-mskey.co
 mspeciosa.com
 msrc.ml
 mswork.ru
@@ -3302,6 +3301,7 @@ norih.com
 norseforce.com
 northemquest.com
 nosh.ml
+nospam.barbees.net
 nospam.thurstons.us
 nospam.wins.com.br
 nospam.ze.tc
@@ -3472,7 +3472,6 @@ partskyline.com
 party4you.me
 passionwear.us
 password.colafanta.cf
-password.flu.cc
 password.nafko.cf
 passwort.schwarzmail.ga
 pastebitch.com
@@ -3520,6 +3519,7 @@ pi.vu
 pidmail.com
 pig.pp.ua
 pii.at
+pika.pc486.net
 piki.si
 pimpedupmyspace.com
 pinehill-seattle.org
@@ -3640,13 +3640,8 @@ purplemail.tk
 put2.net
 puttanamaiala.tk
 putthisinyourspamdatabase.com
-pw.2018.igg.biz
-pw.area51.usa.cc
 pw.islam.igg.biz
 pw.loyalherceghalom.ml
-pw.mymail.igg.biz
-pw.rs6.igg.biz
-pw.rs6.usa.cc
 pwp.lv
 pwrby.com
 q314.net
@@ -3833,7 +3828,6 @@ rr-group.ml
 rr-group.tk
 rrwbltw.xyz
 rs311e8.com
-rs6.igg.biz
 rtotlmail.net
 rtrtr.com
 rtskiya.xyz
@@ -3854,7 +3848,6 @@ s-s.flu.cc
 s.bloq.ro
 s.bungabunga.cf
 s.dextm.ro
-s.mymail.igg.biz
 s.proprietativalcea.ro
 s.vdig.com
 s00.orangotango.ga
@@ -4121,6 +4114,7 @@ spam.nut.cc
 spam.org.es
 spam.pyphus.org
 spam.su
+spam.trajano.net
 spam.usa.cc
 spam4.me
 spamail.de
@@ -4148,6 +4142,7 @@ spamcowboy.net
 spamcowboy.org
 spamday.com
 spamdecoy.net
+spameater.org
 spamex.com
 spamfighter.cf
 spamfighter.ga
@@ -4174,7 +4169,10 @@ spamkill.info
 spaml.com
 spaml.de
 spamlot.net
+spammail.me
 spammedic.com
+spammehere.com
+spammehere.net
 spammotel.com
 spamobox.com
 spamoff.de
@@ -4222,6 +4220,7 @@ ssgjylc1013.com
 sso-demo-okta.com
 ssoia.com
 ssunz.cricket
+stanford-edu.tk
 stanfordujjain.com
 starlight-breaker.net
 startfu.com
@@ -4593,6 +4592,7 @@ trash2010.com
 trash2011.com
 trash247.com
 trash4.me
+trashbox.eu
 trashcanmail.com
 trashdevil.com
 trashdevil.de
@@ -4893,7 +4893,6 @@ wealthymoney.pw
 web-contact.info
 web-emailbox.eu
 web-ideal.fr
-web-mail.igg.biz
 web-mail.pp.ua
 web.discard-email.cf
 web.id
@@ -5000,6 +4999,7 @@ worldspace.link
 wormseo.cn
 wow.royalbrandco.tk
 wpg.im
+wpmail.org
 wr.moeri.org
 wr9v6at7.com
 wralawfirm.com
