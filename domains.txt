@@ -4,6 +4,7 @@
 0039.ga
 0039.gq
 0039.ml
+02466.ga
 02466.gq
 02466.ml
 027168.com
@@ -181,6 +182,7 @@
 675hosting.org
 67832.cf
 67832.ga
+67832.tk
 69-ew.tk
 69postix.info
 6brmwv.cf
@@ -214,7 +216,6 @@
 8127ep.com
 8191.at
 82c8.com
-888z5.gq
 888z5.ml
 88clean.pro
 8chan.co
@@ -2585,7 +2586,6 @@ lawson.gq
 lazyinbox.com
 lazyinbox.us
 lbe.kr
-lbhxz.storeyee.com
 ldop.com
 ldtp.com
 ledoktre.com
@@ -3097,6 +3097,7 @@ msgden.com
 msgos.com
 msgsafe.ninja
 msk.ru
+mskey.co
 mspeciosa.com
 msrc.ml
 mswork.ru
@@ -3369,6 +3370,7 @@ odnorazovoe.ru
 oe1f42q.com
 oepia.com
 oerpub.org
+office.ms365.ml
 offshore-proxies.net
 ohaaa.de
 ohdomain.xyz
@@ -4220,7 +4222,6 @@ ssgjylc1013.com
 sso-demo-okta.com
 ssoia.com
 ssunz.cricket
-stanford-edu.tk
 stanfordujjain.com
 starlight-breaker.net
 startfu.com
@@ -4722,6 +4723,8 @@ urfunktion.se
 uroid.com
 us.af
 us.to
+usa-gov.cf
+usa-gov.gq
 usa.cc
 usachan.cf
 usachan.gq
@@ -4801,6 +4804,7 @@ vikingsonly.com
 vinernet.com
 vip-mail.ml
 vip-mail.tk
+vip.cool
 vipepe.com
 vipmail.name
 vipmail.pw

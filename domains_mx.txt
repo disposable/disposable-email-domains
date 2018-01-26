@@ -2,6 +2,7 @@
 0039.cf
 0039.ga
 0039.ml
+02466.ga
 02466.gq
 02466.ml
 027168.com
@@ -56,7 +57,6 @@
 1fsdfdsfsdf.tk
 1lv.in
 1mail.ml
-1pad.de
 1rentcar.top
 1s.fr
 1usemail.com
@@ -111,6 +111,7 @@
 675hosting.com
 67832.cf
 67832.ga
+67832.tk
 69-ew.tk
 69postix.info
 6brmwv.cf
@@ -131,7 +132,6 @@
 80665.com
 8191.at
 82c8.com
-888z5.gq
 888z5.ml
 88clean.pro
 8chan.co
@@ -869,7 +869,6 @@ emailtech.info
 emailtemporanea.net
 emailtemporario.com.br
 emailthe.net
-emailto.de
 emailwarden.com
 emailx.at.hm
 emailxfer.com
@@ -1013,6 +1012,7 @@ foy.kr
 fr.nf
 fr33mail.info
 fragolina2.tk
+francanet.com.br
 frapmail.com
 frappina.tk
 free-email.cf
@@ -1181,6 +1181,7 @@ gudanglowongan.com
 guerillamail.biz
 guerillamail.com
 guerillamail.de
+guerillamail.info
 guerrillamail.biz
 guerrillamail.com
 guerrillamail.de
@@ -1583,7 +1584,6 @@ lawlz.net
 lazyinbox.com
 lazyinbox.us
 lbe.kr
-lbhxz.storeyee.com
 ldtp.com
 ledoktre.com
 lee.mx
@@ -1632,7 +1632,6 @@ longio.org
 lonthe.ml
 lookugly.com
 lopeure.com
-lordsofts.com
 lortemail.dk
 losemymail.com
 lovebitco.in
@@ -1931,6 +1930,7 @@ mrresourcepacks.tk
 msgden.com
 msgos.com
 msgsafe.ninja
+mskey.co
 mspeciosa.com
 mswork.ru
 msxd.com
@@ -2109,6 +2109,7 @@ obxpestcontrol.com
 odaymail.com
 odnorazovoe.ru
 oerpub.org
+office.ms365.ml
 offshore-proxies.net
 ohaaa.de
 ohi.tw
@@ -2676,7 +2677,6 @@ ss00.ga
 sso-demo-okta.com
 ssoia.com
 ssunz.cricket
-stanford-edu.tk
 stanfordujjain.com
 starlight-breaker.net
 startfu.com
@@ -2829,6 +2829,7 @@ tempemail.biz
 tempemail.com
 tempemail.net
 tempemail.pro
+tempemails.io
 tempinbox.co.uk
 tempinbox.com
 tempm.cf
@@ -3015,6 +3016,8 @@ urfunktion.se
 uroid.com
 us.af
 us.to
+usa-gov.cf
+usa-gov.gq
 usachan.cf
 usachan.gq
 usachan.ml
@@ -3072,6 +3075,7 @@ vikingsonly.com
 vinernet.com
 vip-mail.ml
 vip-mail.tk
+vip.cool
 vipepe.com
 vipmail.pw
 viralhits.org
