@@ -2,11 +2,11 @@
 0039.cf
 0039.ga
 0039.ml
-02466.ga
 02466.gq
 02466.ml
 027168.com
 07819.ga
+07819.tk
 0815.ru
 0815.su
 0box.eu
@@ -40,6 +40,7 @@
 10minutenemail.de
 10minutesmail.fr
 10minutesmail.net
+10minutmail.pl
 10vpn.info
 10x.es
 117.yyolf.net
@@ -108,7 +109,6 @@
 5ymail.com
 6.emailfake.ml
 60minutemail.com
-675hosting.com
 67832.cf
 67832.ga
 67832.tk
@@ -132,6 +132,7 @@
 80665.com
 8191.at
 82c8.com
+888z5.ga
 888z5.ml
 88clean.pro
 8chan.co
@@ -241,6 +242,7 @@ anotherdomaincyka.tk
 anthony-junkmail.com
 antichef.com
 antichef.net
+antireg.com
 antireg.ru
 antispam.de
 anyalias.com
@@ -426,6 +428,7 @@ btcmail.pw
 btizet.pl
 buchhandlung24.com
 buffemail.com
+bugmenot.ml
 bulrushpress.com
 bum.net
 bumpymail.com
@@ -869,6 +872,7 @@ emailtech.info
 emailtemporanea.net
 emailtemporario.com.br
 emailthe.net
+emailto.de
 emailwarden.com
 emailx.at.hm
 emailxfer.com
@@ -1675,7 +1679,6 @@ mail.myde.ml
 mail.partskyline.com
 mail.stars19.xyz
 mail.unionpay.pl
-mail.zp.ua
 mail0.ga
 mail114.net
 mail1999.cf
@@ -2175,6 +2178,7 @@ paulfucksallthebitches.com
 paulkippes.com
 pavilionx2.com
 payperex2.com
+pb-shelley.tk
 pc1520.com
 pcmylife.com
 pcusers.otherinbox.com
@@ -2189,6 +2193,7 @@ perfect-u.pw
 perfectu.pw
 pers.craigslist.org
 petertijj.com
+petrolgames.com
 petrzilka.net
 pfui.ru
 phd-com.ml
@@ -2445,7 +2450,6 @@ safermail.info
 safersignup.com
 safersignup.de
 safetymail.info
-safetypost.de
 sahrulselow.cf
 sahrulselow.ga
 sahrulselow.gq
@@ -2869,7 +2873,6 @@ thembones.com.au
 theone2017.us
 theopposition.club
 theothermail.com
-theplug.org
 theslatch.com
 thespawningpool.com
 thetrash.email
@@ -2943,7 +2946,6 @@ trash247.com
 trashbox.eu
 trashcanmail.com
 trashdevil.de
-trashemail.de
 trashemails.de
 trashmail.at
 trashmail.com
@@ -2970,6 +2972,7 @@ ts-by-tashkent.cf
 ts-by-tashkent.tk
 tualias.com
 tucumcaritonite.com
+tukudawet.tk
 tukupedia.co
 turoid.com
 tvchd.com
@@ -3016,7 +3019,6 @@ urfunktion.se
 uroid.com
 us.af
 us.to
-usa-gov.cf
 usa-gov.gq
 usachan.cf
 usachan.gq
