@@ -1,19 +1,4 @@
 https://api.temp-mail.ru/request/domains/format/json/:p33.org
-https://emailfake.com:asgaccse-pt.ga
-https://emailfake.com:gwfh.tk
-https://emailfake.com:indosukses.press
-https://emailfake.com:johnpo.ml
-https://emailfake.com:miur.ml
-https://emailfake.com:mp-j.ga
-https://emailfake.com:mpaaf.tk
-https://emailfake.com:predatorrat.gq
-https://emailfake.com:puglieisi.com
-https://emailfake.com:rollindo.agency
-https://emailfake.com:suntory.gq
-https://emailfake.com:thinkingus24.com
-https://emailfake.com:visal168.ga
-https://emailfake.com:with-u.us
-https://emailfake.com:yood.org
 https://gist.githubusercontent.com/adamloving/4401361/raw/66688cf8ad890433b917f3230f44489aa90b03b7:0-mail.com
 https://gist.githubusercontent.com/adamloving/4401361/raw/66688cf8ad890433b917f3230f44489aa90b03b7:0815.ru
 https://gist.githubusercontent.com/adamloving/4401361/raw/66688cf8ad890433b917f3230f44489aa90b03b7:0clickemail.com
@@ -1437,6 +1422,7 @@ https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.js
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:asdhgsad.com
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:asfdasd.com
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:asgaccse-pt.cf
+https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:asgaccse-pt.tk
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:asgardia-space.tk
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:ashik2in.com
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:ashleyandrew.com
@@ -1473,6 +1459,7 @@ https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.js
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:azazazatashkent.tk
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:azcomputerworks.com
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:azmeil.tk
+https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:azote.cf
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:azote.ga
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:b.reed.to
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:b.royal-syrup.tk
@@ -2332,6 +2319,7 @@ https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.js
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:fuw65d.tk
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:fuwamofu.com
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:fux0ringduh.com
+https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:fw-nietzsche.tk
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:fw.moza.pl
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:fw2.me
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:fw6m0bd.com
@@ -2726,6 +2714,7 @@ https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.js
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:iwi.net
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:j-keats.cf
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:j-keats.ga
+https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:j-keats.ml
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:j-p.us
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:j.rvb.ro
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:j3rqt89ez.com
@@ -2742,6 +2731,7 @@ https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.js
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:jancokancene.gq
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:jancokancene.ml
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:janproz.com
+https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:javmail.tech
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:jcdmail.men
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:jcpclothing.ga
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:jdmadventures.com
@@ -3247,6 +3237,7 @@ https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.js
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:mirrorrr.asia
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:mirrror.asia
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:mituvn.com
+https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:miur.tk
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:mixi.gq
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:mjukglass.nu
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:mko.kr
@@ -3369,6 +3360,7 @@ https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.js
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:nada.ltd
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:nafko.cf
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:nakedtruth.biz
+https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:nameaaa.myddns.rocks
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:namefake.com
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:namilu.com
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:nanonym.ch
@@ -3768,6 +3760,7 @@ https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.js
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:recursor.net
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:recyclemail.dk
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:redfeathercrow.com
+https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:redmail.tech
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:redpeanut.com
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:redpen.trade
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:reftoken.net
@@ -3933,6 +3926,7 @@ https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.js
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:shitmail.de
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:shitmail.me
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:shitmail.org
+https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:shittymail.ga
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:shittymail.ml
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:shitware.nl
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:shonky.info
@@ -3991,6 +3985,7 @@ https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.js
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:smuse.me
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:smwg.info
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:snakemail.com
+https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:snam.gq
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:sneakemail.com
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:sneakerbunko.cf
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:sneakerbunko.ga
@@ -4170,6 +4165,8 @@ https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.js
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:styliste.pro
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:subaru-wrx.ga
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:subaru-wrx.tk
+https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:subaru-xv.ml
+https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:subaru-xv.tk
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:subpastore.co
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:suburbanthug.com
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:successforu.pw
@@ -4572,6 +4569,7 @@ https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.js
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:vistore.co
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:vixletdev.com
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:vkcode.ru
+https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:vmail.tech
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:vmani.com
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:vmpanda.com
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:vnedu.me

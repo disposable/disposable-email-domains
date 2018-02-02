@@ -520,7 +520,7 @@ asdfmail.net
 asdhgsad.com
 asfdasd.com
 asgaccse-pt.cf
-asgaccse-pt.ga
+asgaccse-pt.tk
 asgardia-space.tk
 ashik2in.com
 ashleyandrew.com
@@ -576,6 +576,7 @@ azazazatashkent.tk
 azcomputerworks.com
 azjuggalos.com
 azmeil.tk
+azote.cf
 azote.ga
 b.reed.to
 b.royal-syrup.tk
@@ -1765,6 +1766,7 @@ fuw65d.ml
 fuw65d.tk
 fuwamofu.com
 fux0ringduh.com
+fw-nietzsche.tk
 fw.moza.pl
 fw2.me
 fw6m0bd.com
@@ -2341,6 +2343,7 @@ iwi.net
 ixx.io
 j-keats.cf
 j-keats.ga
+j-keats.ml
 j-p.us
 j.rvb.ro
 j3rqt89ez.com
@@ -2357,6 +2360,7 @@ jancokancene.ga
 jancokancene.gq
 jancokancene.ml
 janproz.com
+javmail.tech
 jcdmail.men
 jcpclothing.ga
 jdmadventures.com
@@ -3050,7 +3054,7 @@ mirrorrr.asia
 mirrror.asia
 misterpinball.de
 mituvn.com
-miur.ml
+miur.tk
 mixi.gq
 mji.ro
 mjukglass.nu
@@ -3112,7 +3116,6 @@ mp-j.gq
 mp-j.ml
 mp-j.tk
 mp3geulis.net
-mpaaf.tk
 mr24.co
 mrblacklist.gq
 mrchinh.com
@@ -3224,6 +3227,7 @@ nada.email
 nada.ltd
 nafko.cf
 nakedtruth.biz
+nameaaa.myddns.rocks
 namefake.com
 namilu.com
 nanonym.ch
@@ -3785,6 +3789,7 @@ recyclemail.dk
 redchan.it
 reddithub.com
 redfeathercrow.com
+redmail.tech
 redpeanut.com
 redpen.trade
 reftoken.net
@@ -4112,6 +4117,7 @@ smtp99.com
 smuse.me
 smwg.info
 snakemail.com
+snam.gq
 sneakemail.com
 sneakerbunko.cf
 sneakerbunko.ga
@@ -4329,6 +4335,8 @@ stumpfwerk.com
 styliste.pro
 subaru-wrx.ga
 subaru-wrx.tk
+subaru-xv.ml
+subaru-xv.tk
 subpastore.co
 suburbanthug.com
 successforu.pw
@@ -4877,6 +4885,7 @@ vistore.co
 vixletdev.com
 vkcode.ru
 vmail.me
+vmail.tech
 vmailing.info
 vmani.com
 vmpanda.com

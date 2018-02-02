@@ -57,7 +57,6 @@
 19922.ga
 19922.gq
 19922.ml
-1ce.us
 1dmedical.com
 1fsdfdsfsdf.tk
 1lv.in
@@ -282,7 +281,7 @@ asdasd.nl
 asdhgsad.com
 asfdasd.com
 asgaccse-pt.cf
-asgaccse-pt.ga
+asgaccse-pt.tk
 asgardia-space.tk
 ashik2in.com
 asiarap.usa.cc
@@ -320,6 +319,7 @@ ay33rs.flu.cc
 azazazatashkent.tk
 azcomputerworks.com
 azmeil.tk
+azote.cf
 azote.ga
 b2email.win
 b5safaria.com
@@ -386,7 +386,6 @@ bgisfri.pw
 bgx.ro
 bho.hu
 bho.kr
-big1.us
 bigstring.com
 bin.8191.at
 binkmail.com
@@ -661,7 +660,6 @@ ddmail.win
 ddosed.us
 de-a.org
 de4ce.gq
-dea.soon.it
 deadfake.cf
 deagot.com
 decoymail.mx
@@ -883,6 +881,7 @@ emailtech.info
 emailtemporanea.net
 emailtemporario.com.br
 emailthe.net
+emailto.de
 emailwarden.com
 emailx.at.hm
 emailxfer.com
@@ -1073,6 +1072,7 @@ fuw65d.gq
 fuw65d.ml
 fuw65d.tk
 fuwamofu.com
+fw-nietzsche.tk
 fw2.me
 fw6m0bd.com
 fxnxs.com
@@ -1423,6 +1423,7 @@ iwantumake.us
 iwi.net
 j-keats.cf
 j-keats.ga
+j-keats.ml
 j-p.us
 j.rvb.ro
 j3rqt89ez.com
@@ -1438,6 +1439,7 @@ jancokancene.ga
 jancokancene.gq
 jancokancene.ml
 janproz.com
+javmail.tech
 jcdmail.men
 jdmadventures.com
 jdz.ro
@@ -1496,6 +1498,7 @@ kaguya.tk
 kah.pw
 kakadua.net
 kanciang.faith
+kappala.info
 karatraman.ml
 karitas.com.br
 kartvelo.me
@@ -1654,7 +1657,6 @@ lovebitco.in
 lovemeet.faith
 loy.kr
 lpo.ddnsfree.com
-lr7.us
 lr78.com
 lru.me
 luckboy.pw
@@ -1664,7 +1666,6 @@ lucyu.com
 lukecarriere.com
 luo.kr
 lupabapak.org
-luv2.us
 m2r60ff.com
 m4ilweb.info
 macr2.com
@@ -1847,6 +1848,7 @@ mcdonald.gq
 mciek.com
 md5hashing.net
 mdhc.tk
+mebelnu.info
 mechanicalresumes.com
 mediciine.site
 mega.zik.dj
@@ -1878,8 +1880,6 @@ midlertidig.com
 midlertidig.net
 midlertidig.org
 mierdamail.com
-migmail.net
-migmail.pl
 migserver2.ml
 mihanmail.ir
 mijnhva.nl
@@ -1896,7 +1896,7 @@ mirrorrr.asia
 mirrror.asia
 misterpinball.de
 mituvn.com
-miur.ml
+miur.tk
 mixi.gq
 mji.ro
 mko.kr
@@ -1943,7 +1943,6 @@ mp-j.ga
 mp-j.gq
 mp-j.ml
 mp-j.tk
-mpaaf.tk
 mr24.co
 mrblacklist.gq
 mrresourcepacks.tk
@@ -2014,6 +2013,7 @@ nacho.pw
 nada.email
 nada.ltd
 nakedtruth.biz
+nameaaa.myddns.rocks
 namefake.com
 namilu.com
 nanonym.ch
@@ -2392,6 +2392,7 @@ recyclemail.dk
 redchan.it
 reddithub.com
 redfeathercrow.com
+redmail.tech
 redpeanut.com
 redpen.trade
 reftoken.net
@@ -2608,6 +2609,7 @@ smtp99.com
 smuse.me
 smwg.info
 snakemail.com
+snam.gq
 sneakemail.com
 sneakerbunko.cf
 sneakerbunko.ga
@@ -2763,6 +2765,8 @@ stuffmail.de
 styliste.pro
 subaru-wrx.ga
 subaru-wrx.tk
+subaru-xv.ml
+subaru-xv.tk
 subpastore.co
 suburbanthug.com
 successforu.pw
@@ -3133,6 +3137,7 @@ vistore.co
 vixletdev.com
 vkcode.ru
 vmail.me
+vmail.tech
 vmani.com
 vmpanda.com
 volvo-v40.ml
@@ -3337,6 +3342,7 @@ yoru-dea.com
 you.e4ward.com
 youbestone.pw
 yougotgoated.com
+youmailr.com
 yourdomain.com
 youremail.cf
 yourewronghereswhy.com
