@@ -2,6 +2,7 @@
 0039.cf
 0039.ga
 0039.ml
+02466.cf
 02466.ga
 02466.gq
 02466.ml
@@ -110,7 +111,6 @@
 5ymail.com
 6.emailfake.ml
 60minutemail.com
-666-satan.cf
 67832.cf
 67832.ga
 67832.ml
@@ -302,6 +302,7 @@ astaghfirulloh.ml
 astonut.tk
 asu.mx
 athens5.com
+audi-r8.cf
 audi-r8.ga
 audi-r8.gq
 augmentationtechnology.com
@@ -413,6 +414,7 @@ bluedumpling.info
 bluewerks.com
 bmw-z4.cf
 bmw-z4.ml
+bmw-z4.tk
 bobmail.info
 bocil.tk
 bofthew.com
@@ -487,7 +489,6 @@ cars2.club
 caseedu.tk
 caspianfan.ir
 cavi.mx
-cbair.com
 cbes.net
 cbgh.ddns.me
 ccmail.men
@@ -746,7 +747,6 @@ dlemail.ru
 dm.w3internet.co.uk
 dmail.unrivaledtechnologies.com
 dmarc.ro
-dmc-12.gq
 dmc-12.ml
 dndent.com
 dnsdeer.com
@@ -811,7 +811,6 @@ dwango.gq
 dwango.ml
 dwango.tk
 dweezlemail.crabdance.com
-dynu.net
 dz17.net
 e-mail.com
 e-mail.net
@@ -1151,7 +1150,6 @@ gitumau.ml
 gitumau.tk
 givmail.com
 giyam.com
-gjtcm.storeyee.com
 glassaas.site
 glubex.com
 glucosegrin.com
@@ -2084,6 +2082,7 @@ nomail.cf
 nomail.ch
 nomail.ga
 nomail.nodns.xyz
+nomail.pw
 nomail.xl.cx
 nomail2me.com
 nomailthankyou.com
@@ -2127,7 +2126,6 @@ nutpa.net
 nwldx.com
 ny7.me
 nypato.com
-nzvfo.storeyee.com
 o.cfo2go.ro
 o.opendns.ro
 o.spamtrap.ro
@@ -2474,6 +2472,7 @@ rustydoor.com
 rvb.ro
 rxtx.us
 ryanb.com
+s-s.flu.cc
 s.bloq.ro
 s.proprietativalcea.ro
 s0ny.net
@@ -2624,7 +2623,6 @@ smwg.info
 snakemail.com
 snam.ga
 snam.gq
-snam.tk
 sneakemail.com
 sneakerbunko.cf
 sneakerbunko.ga
@@ -2952,7 +2950,6 @@ tic.ec
 tijdelijkmailadres.nl
 timgiarevn.com
 tinoza.org
-tirreno.ga
 tirreno.ml
 tiv.cc
 tizi.com
