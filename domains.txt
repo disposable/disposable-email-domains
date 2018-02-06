@@ -339,6 +339,8 @@ afmail.com
 afrobacon.com
 afterhourswe.us
 ag.us.to
+ag95.cf
+ag95.gq
 agedmail.com
 agendawe.us
 agger.ro
@@ -354,6 +356,7 @@ ahmadidik.cf
 ahmadidik.ga
 ahmadidik.gq
 ahmadidik.ml
+airmail.tech
 airmailhub.com
 airsi.de
 airwayy.us
@@ -522,6 +525,8 @@ asdfmail.net
 asdhgsad.com
 asfdasd.com
 asgaccse-pt.cf
+asgaccse-pt.ga
+asgaccse-pt.gq
 asgaccse-pt.tk
 asgardia-space.tk
 ashik2in.com
@@ -710,6 +715,7 @@ bluewerks.com
 blutig.me
 bmw-i8.gq
 bmw-z4.cf
+bmw-z4.ga
 bmw-z4.ml
 bmw-z4.tk
 boatmail.us
@@ -1220,6 +1226,7 @@ dm.w3internet.co.ukexample.com
 dmail.kyty.net
 dmail.unrivaledtechnologies.com
 dmarc.ro
+dmc-12.ga
 dmc-12.ml
 dndent.com
 dnsdeer.com
@@ -1360,6 +1367,10 @@ ebano.campano.cl
 ebeschlussbuch.de
 eboise.com
 ebs.com.ar
+ec97.cf
+ec97.ga
+ec97.gq
+ec97.ml
 ecallheandi.com
 echt-mail.de
 echtzeit.website
@@ -1517,6 +1528,7 @@ etranquil.com
 etranquil.net
 etranquil.org
 euaqa.com
+euromail.tk
 evanfox.info
 everytg.ml
 evilbruce.com
@@ -1772,6 +1784,8 @@ fuw65d.ml
 fuw65d.tk
 fuwamofu.com
 fux0ringduh.com
+fw-nietzsche.cf
+fw-nietzsche.ml
 fw-nietzsche.tk
 fw.moza.pl
 fw2.me
@@ -1870,6 +1884,9 @@ ginzi.eu
 ginzi.net
 ginzy.co.uk
 ginzy.eu
+giooig.cf
+giooig.ml
+giooig.tk
 girlmail.win
 girlsindetention.com
 girlsundertheinfluence.com
@@ -2143,6 +2160,7 @@ hous.craigslist.org
 housat.com
 housemail.ga
 hpc.tw
+hrb67.tk
 hs.vc
 hs130.com
 hsbc.coms.hk
@@ -2525,6 +2543,7 @@ kodaka.gq
 kodaka.ml
 kodaka.tk
 kodemail.ga
+kofju.storeyee.com
 koiqe.com
 kommunity.biz
 kon42.com
@@ -2659,6 +2678,7 @@ linux.7m.ro
 linuxmail.so
 linuxpl.eu
 liquidmail.de
+lirikkuy.cf
 litedrop.com
 liveradio.tk
 liveskiff.us
@@ -2734,6 +2754,7 @@ m.ddcrew.com
 m21.cc
 m2r60ff.com
 m4ilweb.info
+m8r.davidfuhr.de
 maaill.com
 maboard.com
 macr2.com
@@ -3061,6 +3082,8 @@ mirrorrr.asia
 mirrror.asia
 misterpinball.de
 mituvn.com
+miur.cf
+miur.ml
 miur.tk
 mixi.gq
 mji.ro
@@ -3124,6 +3147,9 @@ mp-j.ml
 mp-j.tk
 mp3geulis.net
 mpaaf.cf
+mpaaf.gq
+mpaaf.ml
+mpaaf.tk
 mr24.co
 mrblacklist.gq
 mrchinh.com
@@ -3312,6 +3338,8 @@ nnot.net
 no-spam.ws
 no-spammers.com
 no-ux.com
+no-vax.ga
+no-vax.gq
 noblepioneer.com
 nobugmail.com
 nobulk.com
@@ -3325,6 +3353,7 @@ noicd.com
 nokiamail.cf
 nokiamail.com
 nokiamail.ga
+nokiamail.gq
 nolemail.ga
 nom.za
 nomail.cf
@@ -3481,6 +3510,10 @@ outlookkk.online
 outlookpro.net
 outmail.win
 ov3u841.com
+ovimail.cf
+ovimail.ga
+ovimail.gq
+ovimail.ml
 ovimail.tk
 ovpn.to
 ovvee.com
@@ -3559,6 +3592,8 @@ pfui.ru
 pharmasiana.com
 phd-com.ml
 phd-com.tk
+phecrex.cf
+phecrex.ga
 phecrex.tk
 phonearea.us
 photo-impact.eu
@@ -3879,6 +3914,7 @@ rr-2.cu.cc
 rr-3.cu.cc
 rr-group.cf
 rr-group.ga
+rr-group.gq
 rr-group.ml
 rr-group.tk
 rrwbltw.xyz
@@ -3917,8 +3953,13 @@ saab9-3.ml
 saab9-3.tk
 saab9-5.cf
 saab9-5.ga
+saab9-5.gq
 saab9-5.ml
+saab900.tk
 saabgroup.cf
+saabgroup.gq
+saabgroup.ml
+saabgroup.tk
 sabrestlouis.com
 sach.ir
 sackboii.com
@@ -4043,7 +4084,9 @@ shitmail.de
 shitmail.me
 shitmail.org
 shitposting.agency
+shittymail.cf
 shittymail.ga
+shittymail.gq
 shittymail.ml
 shitware.nl
 shmeriously.com
@@ -4092,6 +4135,7 @@ skrx.tk
 sky-inbox.com
 sky-mail.ga
 sky-ts.de
+skydrive.tk
 skymail.gq
 slapsfromlastnight.com
 slaskpost.se
@@ -4131,6 +4175,7 @@ smwg.info
 snakemail.com
 snam.ga
 snam.gq
+snam.tk
 sneakemail.com
 sneakerbunko.cf
 sneakerbunko.ga
@@ -4182,6 +4227,7 @@ spam.pyphus.org
 spam.su
 spam.trajano.net
 spam.usa.cc
+spam3.storeyee.com
 spam4.me
 spamail.de
 spamarrest.com
@@ -4282,10 +4328,14 @@ sry.li
 ss.undo.it
 ss00.cf
 ss00.ga
+ss00.ml
+ss01.gq
+ss02.ml
 ssgjylc1013.com
 sso-demo-okta.com
 ssoia.com
 ssunz.cricket
+stanford-edu.tk
 stanfordujjain.com
 starlight-breaker.net
 startfu.com
@@ -4347,9 +4397,12 @@ stuffmail.de
 stumpfwerk.com
 styliste.pro
 subaru-brz.ga
+subaru-brz.tk
 subaru-wrx.ga
+subaru-wrx.ml
 subaru-wrx.tk
 subaru-xv.cf
+subaru-xv.gq
 subaru-xv.ml
 subaru-xv.tk
 subpastore.co
@@ -4586,6 +4639,7 @@ timkassouf.com
 tinoza.org
 tinyurl24.com
 tipsb.com
+tirreno.cf
 tirreno.ml
 tittbit.in
 tiv.cc
@@ -4772,6 +4826,9 @@ uiu.us
 ujijima1129.gq
 uk.to
 ukexample.com
+ukjton.ga
+ukjton.gq
+ukjton.tk
 uko.kr
 umail.net
 umy.kr
@@ -4801,6 +4858,7 @@ usa-gov.cf
 usa-gov.ga
 usa-gov.gq
 usa.cc
+usa.isgre.at
 usachan.cf
 usachan.gq
 usachan.ml
@@ -4887,6 +4945,7 @@ vipsohu.net
 vipxm.net
 viralhits.org
 viralplays.com
+virgiliomail.ga
 virgiliomail.ml
 virgiliomail.tk
 viroleni.cu.cc
@@ -4911,6 +4970,10 @@ vnedu.me
 voidbay.com
 volvo-v40.ml
 volvo-v40.tk
+volvogroup.ga
+volvogroup.gq
+volvogroup.ml
+volvogroup.tk
 vomoto.com
 vorga.org
 votiputox.org
@@ -4936,6 +4999,7 @@ vuzimir.cf
 vvx046q.com
 vw-audi.ml
 vw-cc.ml
+vw-cc.tk
 vw-seat.ml
 vw-skoda.ml
 vzlom4ik.tk
@@ -5031,6 +5095,7 @@ whatsaas.com
 whiffles.org
 whitebot.ru
 whitemail.ga
+wholesaleelec.tk
 whopy.com
 whtjddn.33mail.com
 whyspam.me
@@ -5136,6 +5201,7 @@ xn--b-dga.vn
 xn--d-bga.net
 xnmail.mooo.com
 xoixa.com
+xoru.ga
 xost.us
 xoxox.cc
 xoxy.net
