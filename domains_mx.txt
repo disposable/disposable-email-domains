@@ -92,7 +92,6 @@
 44556677.igg.biz
 4gfdsgfdgfd.tk
 4nmv.ru
-4tb.host
 4w.io
 4warding.net
 4warding.org
@@ -169,7 +168,6 @@ academywe.us
 acgapp.hk
 achievewe.us
 adamastore.co
-add3000.pp.ua
 adipex7z.com
 adiq.eu
 adsd.org
@@ -298,7 +296,6 @@ asik2in.com
 asiki2in.com
 asm.snapwet.com
 asorent.com
-ass.pp.ua
 asspoo.com
 astaghfirulloh.cf
 astaghfirulloh.ga
@@ -418,7 +415,6 @@ bluebottle.com
 bluedumpling.info
 bluewerks.com
 bmw-z4.cf
-bmw-z4.ga
 bmw-z4.ml
 bmw-z4.tk
 bobmail.info
@@ -648,7 +644,6 @@ d.megafon.org.ua
 d1yun.com
 d3p.dk
 d8u.us
-dab.ro
 dadd.kikwet.com
 daemsteam.com
 damai.webcam
@@ -847,7 +842,6 @@ ebs.com.ar
 ec97.cf
 ec97.ga
 ec97.gq
-ec97.ml
 echt-mail.de
 echtzeit.website
 eco.ilmale.it
@@ -868,7 +862,6 @@ einrot.com
 eintagsmail.de
 elearningjournal.org
 ely.kr
-email-fake.com
 email-jetable.fr
 email-sms.com
 email-sms.net
@@ -877,7 +870,6 @@ email.cbes.net
 email.net
 emailage.cf
 emailfake.cf
-emailfake.com
 emailfake.ga
 emailfake.gq
 emailfake.ml
@@ -901,7 +893,6 @@ emailtech.info
 emailtemporanea.net
 emailtemporario.com.br
 emailthe.net
-emailto.de
 emailwarden.com
 emailx.at.hm
 emailxfer.com
@@ -909,7 +900,6 @@ emeil.in
 emeil.ir
 emil.com
 emirmail.ga
-eml.pp.ua
 emlhub.com
 emlpro.com
 emltmp.com
@@ -957,7 +947,6 @@ ezstest.com
 f4k.es
 f5.si
 faithkills.org
-fake-email.pp.ua
 fake-mail.cf
 fakeinbox.info
 fakemail.fr
@@ -1132,7 +1121,6 @@ geew.ru
 geezmail.ga
 gelitik.in
 genderfuck.net
-generator.email
 geomail.win
 germanmails.biz
 gero.us
@@ -1272,7 +1260,6 @@ hartbot.de
 harvard-ac-uk.tk
 hasegawa.cf
 hasegawa.gq
-hash.pp.ua
 hate.cf
 hatespam.org
 haydoo.com
@@ -1428,7 +1415,6 @@ ioemail.win
 iozak.com
 ip4.pp.ua
 ip6.li
-ip6.pp.ua
 ipdeer.com
 ipemail.win
 ippandansei.tk
@@ -1476,7 +1462,6 @@ jet-renovation.fr
 jetable.fr.nf
 jetable.net
 jetable.org
-jetable.pp.ua
 jfiee.tk
 jiancok.cf
 jiancok.ga
@@ -1564,7 +1549,6 @@ kodaka.gq
 kodaka.ml
 kodaka.tk
 kodemail.ga
-kofju.storeyee.com
 koiqe.com
 kommunity.biz
 kook.ml
@@ -1665,7 +1649,6 @@ locanto1.club
 locantofuck.top
 locantowsite.club
 logular.com
-loh.pp.ua
 lol.ovpn.to
 lolfreak.net
 lolllipop.stream
@@ -1698,7 +1681,6 @@ maggotymeat.ga
 mahiidev.site
 maidlow.info
 mail-easy.fr
-mail-fake.com
 mail-filter.com
 mail-temp.com
 mail-temporaire.com
@@ -1904,6 +1886,7 @@ midlertidig.com
 midlertidig.net
 midlertidig.org
 mierdamail.com
+migmail.pl
 migserver2.ml
 mihanmail.ir
 mijnhva.nl
@@ -1961,11 +1944,11 @@ morsin.com
 motique.de
 mountainregionallibrary.net
 movanfj.ml
-mox.pp.ua
 moza.pl
 mozej.com
 mp-j.tk
 mpaaf.cf
+mpaaf.ga
 mpaaf.gq
 mpaaf.ml
 mpaaf.tk
@@ -2041,7 +2024,6 @@ nada.email
 nada.ltd
 nakedtruth.biz
 nameaaa.myddns.rocks
-namefake.com
 namilu.com
 nanonym.ch
 napalm51.cf
@@ -2265,7 +2247,6 @@ phpbb.uu.gl
 phuongpt9.tk
 pi.vu
 pidmail.com
-pig.pp.ua
 pii.at
 pika.pc486.net
 pingir.com
@@ -2486,7 +2467,6 @@ rotaniliam.com
 row.kr
 rowe-solutions.com
 royal.net
-royaldoodles.org
 rppkn.com
 rq1.in
 rr-group.cf
@@ -2511,7 +2491,6 @@ s8sigmao.com
 saab9-3.tk
 saab9-5.cf
 saab9-5.ga
-saab9-5.gq
 saab9-5.ml
 saab900.tk
 saabgroup.cf
@@ -2696,7 +2675,6 @@ spam.2012-2016.ru
 spam.netpirates.net
 spam.pyphus.org
 spam.trajano.net
-spam3.storeyee.com
 spam4.me
 spamail.de
 spamarrest.com
@@ -2765,9 +2743,9 @@ sraka.xyz
 sroff.com
 ss00.cf
 ss00.ga
-ss00.ml
 ss01.gq
 ss02.ml
+ss02.tk
 sso-demo-okta.com
 ssoia.com
 ssunz.cricket
@@ -2787,7 +2765,6 @@ stinkefinger.net
 stop-my-spam.cf
 stop-my-spam.ga
 stop-my-spam.ml
-stop-my-spam.pp.ua
 storal.co
 storant.co
 storeamnos.co
@@ -2937,7 +2914,6 @@ tempemails.io
 tempinbox.co.uk
 tempinbox.com
 tempm.cf
-tempm.com
 tempm.ga
 tempm.gq
 tempm.ml
@@ -3017,7 +2993,6 @@ toddsbighug.com
 toi.kr
 tokenmail.de
 tonymanso.com
-tool.pp.ua
 toomail.biz
 toon.ml
 toothandmail.com
@@ -3111,6 +3086,7 @@ ujijima1129.gq
 uk.to
 ukjton.ga
 ukjton.gq
+ukjton.ml
 ukjton.tk
 uko.kr
 umy.kr
@@ -3194,7 +3170,7 @@ vipepe.com
 vipmail.pw
 viralhits.org
 viralplays.com
-virgiliomail.ga
+virgilio.ga
 virgiliomail.ml
 virgiliomail.tk
 visal007.tk
@@ -3261,7 +3237,6 @@ wealthymoney.pw
 web-contact.info
 web-emailbox.eu
 web-ideal.fr
-web-mail.pp.ua
 webcontact-france.eu
 webkiff.info
 webm4il.info
@@ -3360,7 +3335,6 @@ xloveme.top
 xmaily.com
 xn--9kq967o.com
 xnmail.mooo.com
-xoru.ga
 xoxox.cc
 xoxy.net
 xpee.tk
@@ -3415,7 +3389,6 @@ yopmail.com
 yopmail.fr
 yopmail.info
 yopmail.net
-yopmail.pp.ua
 yoru-dea.com
 you.e4ward.com
 youbestone.pw

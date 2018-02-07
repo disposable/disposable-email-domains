@@ -715,7 +715,6 @@ bluewerks.com
 blutig.me
 bmw-i8.gq
 bmw-z4.cf
-bmw-z4.ga
 bmw-z4.ml
 bmw-z4.tk
 boatmail.us
@@ -1370,7 +1369,6 @@ ebs.com.ar
 ec97.cf
 ec97.ga
 ec97.gq
-ec97.ml
 ecallheandi.com
 echt-mail.de
 echtzeit.website
@@ -2543,7 +2541,6 @@ kodaka.gq
 kodaka.ml
 kodaka.tk
 kodemail.ga
-kofju.storeyee.com
 koiqe.com
 kommunity.biz
 kon42.com
@@ -3147,6 +3144,7 @@ mp-j.ml
 mp-j.tk
 mp3geulis.net
 mpaaf.cf
+mpaaf.ga
 mpaaf.gq
 mpaaf.ml
 mpaaf.tk
@@ -3953,7 +3951,6 @@ saab9-3.ml
 saab9-3.tk
 saab9-5.cf
 saab9-5.ga
-saab9-5.gq
 saab9-5.ml
 saab900.tk
 saabgroup.cf
@@ -4227,7 +4224,6 @@ spam.pyphus.org
 spam.su
 spam.trajano.net
 spam.usa.cc
-spam3.storeyee.com
 spam4.me
 spamail.de
 spamarrest.com
@@ -4328,9 +4324,9 @@ sry.li
 ss.undo.it
 ss00.cf
 ss00.ga
-ss00.ml
 ss01.gq
 ss02.ml
+ss02.tk
 ssgjylc1013.com
 sso-demo-okta.com
 ssoia.com
@@ -4828,6 +4824,7 @@ uk.to
 ukexample.com
 ukjton.ga
 ukjton.gq
+ukjton.ml
 ukjton.tk
 uko.kr
 umail.net
@@ -4945,7 +4942,7 @@ vipsohu.net
 vipxm.net
 viralhits.org
 viralplays.com
-virgiliomail.ga
+virgilio.ga
 virgiliomail.ml
 virgiliomail.tk
 viroleni.cu.cc
