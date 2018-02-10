@@ -342,6 +342,8 @@ afterhourswe.us
 ag.us.to
 ag95.cf
 ag95.gq
+ag95.ml
+ag95.tk
 agedmail.com
 agendawe.us
 agger.ro
@@ -841,6 +843,7 @@ cane.pw
 canyouhearmenow.cf
 car101.pro
 card.zp.ua
+carins.io
 carrnelpartners.com
 cars2.club
 cartelera.org
@@ -1675,7 +1678,6 @@ flashmail.pro
 fleckens.hu
 flemail.com
 flemail.ru
-flirtey.pw
 flitafir.de
 floodbrother.com
 flowerss.website
@@ -1790,7 +1792,6 @@ fuw65d.tk
 fuwamofu.com
 fux0ringduh.com
 fw-nietzsche.cf
-fw-nietzsche.gq
 fw-nietzsche.ml
 fw-nietzsche.tk
 fw.moza.pl
@@ -1877,7 +1878,6 @@ gg-byron.ml
 gg-byron.tk
 ghgluiis.tk
 ghosttexter.de
-ghtreihfgh.xyz
 giacmosuaviet.info
 giaiphapmuasam.com
 giantmail.de
@@ -2132,6 +2132,7 @@ hitbts.com
 hitprice.co
 hix.kr
 hiz.kr
+hjirnbt56g.xyz
 hjkcfa3o.com
 hku.us.to
 hmail.top
@@ -3163,7 +3164,6 @@ mpaaf.tk
 mr24.co
 mrblacklist.gq
 mrchinh.com
-mrossi.ml
 mrresourcepacks.tk
 ms9.mailslite.com
 msa.minsmail.com
@@ -3247,6 +3247,7 @@ mysafemail.cf
 mysafemail.ga
 mysafemail.gq
 mysafemail.ml
+mysafemail.tk
 mysamp.de
 myspaceinc.com
 myspaceinc.net
@@ -3351,7 +3352,6 @@ no-spammers.com
 no-ux.com
 no-vax.ga
 no-vax.gq
-no-vax.ml
 noblepioneer.com
 nobugmail.com
 nobulk.com
@@ -4024,6 +4024,7 @@ sdnr.it
 searzh.com
 seasideorient.com
 secmail.ga
+secmail.gq
 secmail.ml
 secmail.pw
 secret-area.tk
@@ -4142,6 +4143,7 @@ sink.fblay.com
 sinnlos-mail.de
 sino.tw
 siteposter.net
+six-six-six.ml
 sizzlemctwizzle.com
 sjuaq.com
 skeefmail.com
@@ -4343,6 +4345,8 @@ ss00.cf
 ss00.ga
 ss00.ml
 ss01.gq
+ss02.cf
+ss02.ga
 ss02.ml
 ss02.tk
 ssgjylc1013.com
@@ -4963,6 +4967,7 @@ viralhits.org
 viralplays.com
 virgilio.ga
 virgilio.gq
+virgilio.it
 virgiliomail.gq
 virgiliomail.ml
 virgiliomail.tk
