@@ -87,7 +87,6 @@
 1chuan.com
 1clck2.com
 1dmedical.com
-1drive.cf
 1fsdfdsfsdf.tk
 1lv.in
 1mail.ml
@@ -721,6 +720,7 @@ bluewerks.com
 blutig.me
 bmw-i8.gq
 bmw-z4.cf
+bmw-z4.gq
 bmw-z4.ml
 bmw-z4.tk
 boatmail.us
@@ -3969,7 +3969,6 @@ saab9-3.tk
 saab9-5.cf
 saab9-5.ga
 saab9-5.ml
-saab9-5.tk
 saab900.tk
 saabgroup.cf
 saabgroup.gq
@@ -4352,7 +4351,6 @@ ssgjylc1013.com
 sso-demo-okta.com
 ssoia.com
 ssunz.cricket
-st-m.cf
 stanford-edu.tk
 stanfordujjain.com
 starlight-breaker.net
@@ -4414,6 +4412,7 @@ stuff.munrohk.com
 stuffmail.de
 stumpfwerk.com
 styliste.pro
+subaru-brz.cf
 subaru-brz.ga
 subaru-brz.gq
 subaru-brz.tk
@@ -4968,7 +4967,6 @@ viralplays.com
 virgilio.ga
 virgilio.gq
 virgilio.it
-virgiliomail.cf
 virgiliomail.gq
 virgiliomail.ml
 virgiliomail.tk
@@ -5251,6 +5249,7 @@ xyzfree.net
 xyzmail.men
 xzsok.com
 y.bcb.ro
+y0up0rn.ga
 y59.jp
 ya.yomail.info
 yabai-oppai.tk
