@@ -61,7 +61,6 @@
 19922.ga
 19922.gq
 19922.ml
-1chuan.com
 1dmedical.com
 1drive.cf
 1drive.ga
@@ -116,6 +115,8 @@
 5x25.com
 5ymail.com
 6-6-6.flu.cc
+6-6-6.igg.biz
+6-6-6.nut.cc
 6-6-6.usa.cc
 6.emailfake.ml
 60minutemail.com
@@ -275,7 +276,6 @@ anotherdomaincyka.tk
 anthony-junkmail.com
 antichef.com
 antichef.net
-antireg.com
 antireg.ru
 antispam.de
 anyalias.com
@@ -481,7 +481,6 @@ btcmail.pw
 btizet.pl
 buchhandlung24.com
 buffemail.com
-bugmenever.com
 bugmenot.ml
 bulrushpress.com
 bum.net
@@ -526,6 +525,7 @@ carins.io
 cars2.club
 caseedu.tk
 caspianfan.ir
+catch.everton.com
 cavi.mx
 cbair.com
 cbes.net
@@ -672,6 +672,11 @@ cts-lk-i.gq
 cts-lk-i.ml
 cts-lk-i.tk
 cubiclink.com
+cul0.cf
+cul0.ga
+cul0.gq
+cul0.ml
+cul0.tk
 cultmovie.com
 cumallover.me
 curlhph.tk
@@ -688,6 +693,11 @@ d.megafon.org.ua
 d1yun.com
 d3p.dk
 d8u.us
+da-da-da.cf
+da-da-da.ga
+da-da-da.gq
+da-da-da.ml
+da-da-da.tk
 dab.ro
 dadd.kikwet.com
 daemsteam.com
@@ -829,7 +839,6 @@ dontsendmespam.de
 dooboop.com
 doquier.tk
 dot-ml.tk
-dotmsg.com
 doughmaine.xyz
 doxcity.net
 doy.kr
@@ -844,6 +853,7 @@ drid1gs.com
 drivecompanies.com
 drivetagdev.com
 drop.ekholm.org
+dropcake.de
 droplister.com
 dropmail.me
 drynic.com
@@ -863,6 +873,7 @@ dwango.gq
 dwango.ml
 dwango.tk
 dweezlemail.crabdance.com
+dynu.net
 dz17.net
 e-mail.com
 e-mail.net
@@ -908,6 +919,11 @@ efxs.ca
 eho.kr
 einfach.to
 einrot.com
+eins-zwei.cf
+eins-zwei.ga
+eins-zwei.gq
+eins-zwei.ml
+eins-zwei.tk
 eintagsmail.de
 elearningjournal.org
 ely.kr
@@ -944,6 +960,7 @@ emailtech.info
 emailtemporanea.net
 emailtemporario.com.br
 emailthe.net
+emailto.de
 emailwarden.com
 emailx.at.hm
 emailxfer.com
@@ -1061,6 +1078,7 @@ flashbox.5july.org
 fleckens.hu
 flemail.com
 flemail.ru
+flirtey.pw
 floodbrother.com
 flowerss.website
 flowu.com
@@ -1087,6 +1105,7 @@ foy.kr
 fr.nf
 fr33mail.info
 fragolina2.tk
+framemail.cf
 francanet.com.br
 frapmail.com
 frappina.tk
@@ -1415,6 +1434,7 @@ icetmail.ga
 icfu.mooo.com
 ichichich.faith
 ichigo.me
+icraftx.net
 icx.ro
 ideepmind.pw
 idigo.org
@@ -1991,6 +2011,7 @@ migmail.pl
 migserver2.gq
 migserver2.ml
 mihanmail.ir
+mihep.com
 mijnhva.nl
 milavitsaromania.ro
 mindmail.ga
@@ -2288,6 +2309,7 @@ oneoffmail.com
 onewaymail.com
 onlatedotcom.info
 online.ms
+onlineidea.info
 onmail.win
 onprice.co
 onqin.com
@@ -2636,6 +2658,9 @@ ryanb.com
 s-mail.ga
 s-mail.gq
 s-s.flu.cc
+s-s.igg.biz
+s-s.nut.cc
+s-s.usa.cc
 s.bloq.ro
 s.proprietativalcea.ro
 s0ny.net
@@ -2676,6 +2701,10 @@ sandelf.de
 sanfinder.com
 sanim.net
 sanstr.com
+santhia.cf
+santhia.ga
+santhia.gq
+santhia.ml
 sapbox.bid
 sapya.com
 sast.ro
@@ -2686,6 +2715,7 @@ scay.net
 scbox.one.pl
 schachrol.com
 schafmail.de
+schrott-email.de
 sd3.in
 sdf.org
 sdfghyj.tk
@@ -3626,6 +3656,7 @@ yopmail.com
 yopmail.fr
 yopmail.info
 yopmail.net
+yopmail.org
 yopmail.pp.ua
 yoru-dea.com
 you.e4ward.com
