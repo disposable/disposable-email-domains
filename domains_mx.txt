@@ -1,6 +1,5 @@
 0-mail.com
 0039.cf
-0039.ga
 0039.ml
 02466.cf
 02466.ga
@@ -50,17 +49,13 @@
 10x.es
 117.yyolf.net
 12ab.info
-12hosting.net
 12minutemail.com
-12storage.com
 139.com
 14n.co.uk
 15qm-mail.red
 15qm.com
-19922.cf
 19922.ga
 19922.gq
-19922.ml
 1dmedical.com
 1drive.cf
 1drive.ga
@@ -125,7 +120,6 @@
 666-satan.gq
 666-satan.ml
 666-satan.tk
-67832.cf
 67832.ga
 67832.ml
 67832.tk
@@ -160,8 +154,6 @@
 8191.at
 82c8.com
 888z5.cf
-888z5.ga
-888z5.gq
 888z5.ml
 888z5.tk
 88clean.pro
@@ -188,7 +180,6 @@ abakiss.com
 abcmail.men
 absolutesuccess.win
 abusemail.de
-abyssemail.com
 abyssmail.com
 academywe.us
 acgapp.hk
@@ -286,7 +277,6 @@ anotherdomaincyka.tk
 anthony-junkmail.com
 antichef.com
 antichef.net
-antireg.ru
 antispam.de
 anyalias.com
 anypen.accountant
@@ -309,7 +299,6 @@ ariaz.jetzt
 armyspy.com
 arno.fi
 aron.us
-arroisijewellery.com
 art-en-ligne.pro
 arur01.tk
 arvato-community.de
@@ -378,7 +367,6 @@ b5safaria.com
 b9x45v1m.com.com
 baban.ml
 babau.cf
-babau.ga
 babau.gq
 babau.ml
 backalleybowling.info
@@ -490,6 +478,7 @@ boxtemp.com.br
 bqm2dyl.com
 brainonfire.net
 breakthru.com
+brennendesreich.de
 bring-luck.pw
 bringluck.pw
 britishintelligence.co.uk
@@ -510,6 +499,7 @@ burgercentral.us
 burnmail.ca
 burnthespam.info
 burstmail.info
+businesscredit.xyz
 businesssuccessislifesuccess.com
 buspad.org
 buy003.com
@@ -610,6 +600,7 @@ ckaazaza.tk
 ckiso.com
 cko.kr
 clandest.in
+clashatclintonemail.com
 clay.xyz
 clean.pro
 clearwatermail.info
@@ -747,6 +738,7 @@ ddosed.us
 de-a.org
 de4ce.gq
 dea.soon.it
+deadchildren.org
 deadfake.cf
 deagot.com
 decoymail.mx
@@ -983,7 +975,7 @@ emailspam.cf
 emailtech.info
 emailtemporanea.net
 emailtemporario.com.br
-emailto.de
+emailthe.net
 emailwarden.com
 emailx.at.hm
 emailxfer.com
@@ -1104,7 +1096,6 @@ flarmail.ga
 flash-mail.xyz
 flashbox.5july.org
 fleckens.hu
-flemail.ru
 flirtey.pw
 floodbrother.com
 flowerss.website
@@ -1358,6 +1349,7 @@ gzb.ro
 h1tler.cf
 h1tler.ga
 h1tler.gq
+h1tler.ml
 h1tler.tk
 habitue.net
 hacccc.com
@@ -1373,7 +1365,6 @@ hamusoku.ml
 hamusoku.tk
 hangxomcuatoilatotoro.tk
 hanmama.zz.am
-hantem.bid
 happygoluckyclub.com
 happysinner.co.uk
 happyyou.pw
@@ -2197,7 +2188,6 @@ mystvpn.com
 mytemp.email
 mytempemail.com
 mytrashmail.com
-myzx.com
 n.spamtrap.co
 n1nja.org
 n8.gs
@@ -2584,6 +2574,7 @@ queuem.com
 quickinbox.com
 quickmail.nl
 quid4pro.com
+quintania.top
 ququb.com
 qvap.ru
 qvy.me
@@ -2675,6 +2666,7 @@ risingsuntouch.com
 riski.cf
 rko.kr
 rkomo.com
+rma.ec
 rmqkr.net
 rnailinator.com
 ro.lt
@@ -2786,7 +2778,6 @@ secure-mail.biz
 secure-mail.cc
 secure-mail.cn
 secured-link.net
-securemail.gq
 securesys.cf
 securesys.ga
 securesys.gq
@@ -2843,7 +2834,6 @@ shitware.nl
 shonky.info
 shorten.tempm.ml
 shortmail.net
-shotmail.ru
 showme.social
 showslow.de
 shrib.com
@@ -3419,6 +3409,7 @@ ushijima1129.tk
 utilities-online.info
 uu.gl
 uvy.kr
+uw5t6ds54.com
 uwillsuc.pw
 uwork4.us
 uyhip.com
@@ -3509,7 +3500,6 @@ vpn.st
 vpn33.top
 vprice.co
 vps30.com
-vps911.net
 vpsorg.top
 vpstraffic.com
 vrmtr.com
@@ -3533,7 +3523,6 @@ w.0w.ro
 w3internet.co.uk
 walala.org
 walkmail.net
-walkmail.ru
 want2lov.us
 wantplay.site
 wasd.10mail.org
@@ -3738,6 +3727,7 @@ yourlms.biz
 youzend.net
 yroid.com
 yspend.com
+yui.it
 yuuywil.date
 yyhmail.com
 z-mail.cf
@@ -3759,7 +3749,6 @@ ze.tc
 zebins.com
 zebins.eu
 zebra.email
-zehnminutenmail.de
 zepp.dk
 zetmail.com
 zfymail.com
