@@ -170,7 +170,6 @@ a-b.co.za
 a-bc.net
 a.a.fbmail.usa.cc
 a1aemail.win
-a41odgz7jh.com
 a41odgz7jh.com.com
 a45.in
 aalna.org
@@ -209,7 +208,6 @@ ag95.ga
 ag95.gq
 ag95.ml
 ag95.tk
-agedmail.com
 agistore.co
 agtx.net
 aheadwe.us
@@ -356,7 +354,6 @@ autotwollow.com
 aver.com
 averdov.com
 avia-tonic.fr
-avioaero.gq
 aw.kikwet.com
 awatum.de
 aws910.com
@@ -392,7 +389,6 @@ ballsofsteel.net
 bandai.nom.co
 banit.club
 banit.me
-barclays-plc.tk
 bareck.net
 bareed.ws
 barryogorman.com
@@ -442,7 +438,6 @@ bho.hu
 bho.kr
 bigstring.com
 bin.8191.at
-binka.me
 binkmail.com
 binnary.com
 bio-muesli.net
@@ -463,6 +458,7 @@ bloq.ro
 bluebottle.com
 bluedumpling.info
 bluewerks.com
+bmw-x5.ml
 bmw-x6.ga
 bmw-x6.gq
 bmw-x6.ml
@@ -500,7 +496,6 @@ bspamfree.org
 btcmail.pw
 btizet.pl
 buchhandlung24.com
-buffemail.com
 bugmenot.ml
 bulrushpress.com
 bum.net
@@ -1277,6 +1272,7 @@ gfcom.com
 gg-byron.ga
 gg-byron.gq
 gg-byron.tk
+ghosttexter.de
 ghtreihfgh.xyz
 giacmosuaviet.info
 giantmail.de
@@ -1331,7 +1327,6 @@ gotmail.org
 gotti.otherinbox.com
 govnomail.xyz
 grabitfast.co
-grandmamail.com
 gratislose.de
 gree.gq
 greenhousemail.com
@@ -1356,6 +1351,7 @@ gsrv.co.uk
 gudanglowongan.com
 guerillamail.biz
 guerillamail.com
+guerillamail.de
 guerillamail.info
 guerrillamail.biz
 guerrillamail.com
@@ -1389,7 +1385,6 @@ h1tler.gq
 h1tler.ml
 h1tler.tk
 habitue.net
-hacccc.com
 hackersquad.tk
 hackthatbit.ch
 haddo.eu
@@ -1472,7 +1467,6 @@ hostmonitor.net
 hotakama.tk
 hotmai.com
 hotmails.com
-hotmial.com
 hotprice.co
 hous.craigslist.org
 housemail.ga
@@ -1965,7 +1959,6 @@ mail2world.com
 mail333.com
 mail4-us.org
 mail4trash.com
-mail56.me
 mail666.ru
 mail707.com
 mail72.com
@@ -2329,7 +2322,6 @@ new-purse.com
 newbpotato.tk
 newsmag.us
 newsusfun.com
-nextstopvalhalla.com
 nezdiro.org
 nezzart.com
 nfast.net
@@ -2370,6 +2362,7 @@ nomailthankyou.com
 nomeucu.ga
 nomorespamemails.com
 nonspam.eu
+nonspammer.de
 nonze.ro
 norih.com
 norseforce.com
@@ -2773,12 +2766,6 @@ rma.ec
 rmqkr.net
 rnailinator.com
 ro.lt
-robo3.club
-robo3.co
-robo3.me
-robo3.site
-robot2.club
-robot2.me
 rockkes.us
 rohingga.xyz
 rollindo.agency
@@ -3005,6 +2992,7 @@ sneakerbunko.ga
 sneakerbunko.gq
 sneakerbunko.ml
 sneakerbunko.tk
+sneakmail.de
 snkmail.com
 so-com.tk
 so-net.cf
@@ -3563,7 +3551,6 @@ vickaentb.tk
 vidchart.com
 viditag.com
 vihost.tk
-vikingsonly.com
 vinernet.com
 vinsmoke.tech
 vip-mail.ml
@@ -3636,7 +3623,6 @@ wasd.dropmail.me
 wasdfgh.cf
 wasdfgh.tk
 wasteland.rfc822.org
-watchfull.net
 wawi.es
 wazabi.club
 wbml.net
@@ -3672,6 +3658,7 @@ wegwerfmail.net
 wegwerfmail.org
 wegwerpmailadres.nl
 wem.com
+weseni427.tk
 wesfajriah489.ml
 wesw881.ml
 wfgdfhj.tk
@@ -3773,7 +3760,6 @@ xwaretech.net
 xww.ro
 xx-9.tk
 xxlocanto.us
-xxme.me
 xxolocanto.us
 xy9ce.tk
 xyzfree.net
