@@ -43,7 +43,6 @@
 10minutemails.in
 10minutenemail.de
 10minutesmail.fr
-10minutesmail.net
 10minutmail.pl
 10vpn.info
 10x.es
@@ -287,7 +286,6 @@ andthen.us
 animesos.com
 anit.ro
 ankoninc.pw
-annafathir.cf
 annarahimah.ml
 ano-mail.net
 anon-mail.de
@@ -470,7 +468,6 @@ beteajah.gq
 beteajah.ml
 beteajah.tk
 betr.co
-beupmore.win
 bfo.kr
 bgi-sfr-i.pw
 bgisfri.pw
@@ -523,7 +520,6 @@ bmw-z4.ga
 bmw-z4.gq
 bmw-z4.tk
 bobmail.info
-bocil.tk
 bofthew.com
 bogotadc.info
 boimail.com
@@ -736,7 +732,6 @@ covfefe-mail.tk
 cowokbete.ga
 cowokbete.ml
 coxbete.cf
-coxbete99.cf
 coza.ro
 cpsystems.ru
 crankmails.com
@@ -1030,8 +1025,6 @@ elearningjournal.org
 ely.kr
 email-fake.com
 email-jetable.fr
-email-sms.com
-email-sms.net
 email-temp.com
 email.cbes.net
 email.net
@@ -1357,6 +1350,7 @@ geteit.com
 getfun.men
 getmails.eu
 getnada.com
+getnada.ga
 gfcom.com
 gg-byron.ga
 gg-byron.gq
