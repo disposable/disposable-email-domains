@@ -505,7 +505,6 @@ amelabs.com
 americanawe.us
 americasbestwe.us
 americaswe.us
-amex-online.ga
 amicuswe.us
 amigowe.us
 amilegit.com
@@ -1431,6 +1430,7 @@ dko.kr
 dlemail.ru
 dm.w3internet.co.uk
 dm.w3internet.co.ukexample.com
+dma.in-ulm.de
 dmail.kyty.net
 dmail.unrivaledtechnologies.com
 dmarc.ro
@@ -2745,6 +2745,7 @@ j8-freemail.cf
 jacckpot.site
 jacquelx.com
 jafps.com
+jaguar-landrover.cf
 jaguar-xj.ml
 jaguar-xj.tk
 jajxz.com
@@ -4914,6 +4915,7 @@ sohai.ml
 sohu.net
 soisz.com
 solar-impact.pro
+solowtech.com
 solvemail.info
 solventtrap.wiki
 sonshi.cf
@@ -5744,7 +5746,6 @@ viralhits.org
 viralplays.com
 virgilio.ga
 virgilio.gq
-virgilio.it
 virgilio.ml
 virgiliomail.cf
 virgiliomail.ga
