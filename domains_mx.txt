@@ -445,7 +445,6 @@ b2email.win
 b5safaria.com
 b9x45v1m.com.com
 baban.ml
-babau.cf
 babau.gq
 babau.ml
 backalleybowling.info
@@ -801,6 +800,7 @@ contractor.net
 cookiecooker.de
 cool-your.pw
 cool.fr.nf
+coolandwacky.us
 coolimpool.org
 coolyour.pw
 coreclip.com
@@ -1168,7 +1168,6 @@ emailtech.info
 emailtemporanea.net
 emailtemporario.com.br
 emailthe.net
-emailto.de
 emailure.net
 emailwarden.com
 emailx.at.hm
@@ -1414,10 +1413,7 @@ fyii.de
 g-meil.com
 g00gl3.gq
 g00gl3.ml
-g00glechr0me.cf
 g00glechr0me.ga
-g00glechr0me.gq
-g00glechr0me.ml
 g00glechr0me.tk
 g00gledrive.ga
 g1xmail.top
@@ -1670,6 +1666,7 @@ hellowperson.pw
 helm.ml
 helmade.xyz
 helpwesearch.com
+herp.in
 herpderp.nl
 hewke.xyz
 hezemail.ga
@@ -2652,6 +2649,7 @@ msxd.com
 mt2009.com
 mt2015.com
 mtmdev.com
+muathegame.com
 muchomail.com
 muehlacker.tk
 muell.email
@@ -2885,7 +2883,6 @@ oneoffmail.com
 onewaymail.com
 onlatedotcom.info
 online.ms
-onlineidea.info
 onmail.win
 onprice.co
 oolus.com
@@ -3201,7 +3198,6 @@ renaulttrucks.gq
 renaulttrucks.ml
 renaulttrucks.tk
 renraku.in
-repolusi.com
 reptilegenetics.com
 res.craigslist.org
 reservelp.de
@@ -3355,6 +3351,7 @@ scay.net
 scbox.one.pl
 schachrol.com
 schafmail.de
+schmid.cf
 schrott-email.de
 scmail.cf
 sd3.in
@@ -3920,7 +3917,6 @@ trash2009.com
 trash247.com
 trashbox.eu
 trashcanmail.com
-trashdevil.de
 trashemails.de
 trashmail.at
 trashmail.com
@@ -4336,7 +4332,6 @@ xloveme.top
 xmaily.com
 xn--9kq967o.com
 xnmail.mooo.com
-xoxox.cc
 xoxy.net
 xpee.tk
 xperiae5.com
