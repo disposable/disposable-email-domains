@@ -52,7 +52,6 @@
 10minutemails.in
 10minutenemail.de
 10minutesmail.fr
-10minutesmail.net
 10minutmail.pl
 10vpn.info
 10x.es
@@ -350,6 +349,7 @@ anyalias.com
 anypen.accountant
 ao4ffqty.com
 aoeuhtns.com
+aolinemail.ga
 apfelkorps.de
 apkmd.com
 apoyrwyr.gq
@@ -929,7 +929,6 @@ desaptoh07yey.gq
 desmo.cf
 desmo.ga
 desmo.gq
-despammed.com
 dettol.cf
 dettol.ga
 dettol.gq
@@ -1028,7 +1027,6 @@ dontsendmespam.de
 dooboop.com
 doquier.tk
 dot-ml.tk
-dotmsg.com
 doughmaine.xyz
 doxcity.net
 doy.kr
@@ -1410,7 +1408,6 @@ fw2.me
 fw6m0bd.com
 fxnxs.com
 fyii.de
-g-meil.com
 g00gl3.gq
 g00gl3.ml
 g00glechr0me.ga
@@ -1525,6 +1522,7 @@ gmailll.cf
 gmailll.ga
 gmailll.gq
 gmaillll.ga
+gmaillll.gq
 gmaillll.ml
 gmailllll.ga
 gmatch.org
@@ -1544,7 +1542,6 @@ gooday.pw
 goodluckforu.cn.com
 goodsmart.pw
 googdad.tk
-google-mail.me
 gorillaswithdirtyarmpits.com
 goromail.ga
 gotimes.xyz
@@ -2435,6 +2432,7 @@ mailna.me
 mailnesia.com
 mailnull.com
 mailorg.org
+mailpick.biz
 mailproxsy.com
 mailrc.biz
 mailrock.biz
@@ -2649,7 +2647,6 @@ msxd.com
 mt2009.com
 mt2015.com
 mtmdev.com
-muathegame.com
 muchomail.com
 muehlacker.tk
 muell.email
@@ -2670,6 +2667,7 @@ muttwalker.net
 mvrht.com
 mvrht.net
 mwarner.org
+my-email.gq
 my.longaid.net
 my10minutemail.com
 mybitti.de
@@ -2883,6 +2881,7 @@ oneoffmail.com
 onewaymail.com
 onlatedotcom.info
 online.ms
+onlineidea.info
 onmail.win
 onprice.co
 oolus.com
@@ -3822,7 +3821,6 @@ thankyou2010.com
 thatim.info
 theaviors.com
 thediamants.org
-thelightningmail.net
 thelimestones.com
 themail.krd.ag
 thembones.com.au
@@ -3917,6 +3915,7 @@ trash2009.com
 trash247.com
 trashbox.eu
 trashcanmail.com
+trashdevil.de
 trashemails.de
 trashmail.at
 trashmail.com
@@ -4134,6 +4133,7 @@ volvo-ab.ga
 volvo-ab.gq
 volvo-ab.ml
 volvo-ab.tk
+volvo-s60.gq
 volvo-v40.ml
 volvo-v40.tk
 volvogroup.ga
