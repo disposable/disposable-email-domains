@@ -1,15 +1,9 @@
 0-mail.com
 0039.cf
-0039.ml
-02466.cf
-02466.ga
 02466.gq
-02466.ml
 027168.com
 03-genkzmail.ga
-07819.cf
 07819.ga
-07819.gq
 07819.ml
 07819.tk
 0815.ru
@@ -64,7 +58,6 @@
 14n.co.uk
 15qm-mail.red
 15qm.com
-19922.ga
 19922.gq
 1dmedical.com
 1drive.cf
@@ -134,8 +127,6 @@
 666-satan.cf
 666-satan.ml
 666-satan.tk
-67832.ga
-67832.ml
 67832.tk
 69-ew.tk
 69postix.info
@@ -743,6 +734,7 @@ cigar-auctions.com
 cilemail.ga
 civvic.ro
 civx.org
+cjpeg.com
 ckaazaza.tk
 ckiso.com
 cko.kr
@@ -787,7 +779,6 @@ combustore.co
 come-on-day.pw
 comeonday.pw
 comm.craigslist.org
-completegolfswing.com
 comwest.de
 concealed.company
 conf.work
@@ -806,7 +797,6 @@ coreclip.com
 cortex.kicks-ass.net
 courriel.fr.nf
 courrieltemporaire.com
-covfefe-mail.gq
 covfefe-mail.tk
 cowokbete.ga
 cowokbete.ml
@@ -1124,7 +1114,6 @@ ekiibetekorea.tk
 ekiikorea99.cf
 ekiikorea99.ga
 ekiilinkinpark.ga
-elearningjournal.org
 ely.kr
 email-fake.cf
 email-fake.com
@@ -1159,11 +1148,13 @@ emailsecurer.com
 emailsensei.com
 emailsingularity.net
 emailspam.cf
+emailspam.ml
 emailsy.info
 emailtech.info
 emailtemporanea.net
 emailtemporario.com.br
 emailthe.net
+emailto.de
 emailure.net
 emailwarden.com
 emailx.at.hm
@@ -1406,6 +1397,7 @@ fw2.me
 fw6m0bd.com
 fxnxs.com
 fyii.de
+g-meil.com
 g00glechr0me.ga
 g00glechr0me.tk
 g00gledrive.ga
@@ -1731,6 +1723,7 @@ i2pmail.org
 i6.cloudns.cc
 i6.cloudns.cx
 iaoss.com
+iaptkapkl53.tk
 ibsats.com
 iccmail.men
 icetmail.ga
@@ -1744,7 +1737,6 @@ idigo.org
 ieatspam.info
 ieh-mail.de
 if58.cf
-if58.ga
 if58.gq
 if58.ml
 if58.tk
@@ -2181,6 +2173,7 @@ lgxscreen.com
 lhkjfg45bnvg.gq
 lhsdv.com
 libox.fr
+lifetotech.com
 lijeuki.co
 lillemap.net
 lilylee.com
@@ -2873,7 +2866,6 @@ oneoffmail.com
 onewaymail.com
 onlatedotcom.info
 online.ms
-onlineidea.info
 onmail.win
 onprice.co
 oolus.com
@@ -2925,7 +2917,6 @@ p33.org
 pagamenti.tk
 pakadebu.ga
 pals-pay54.cf
-panama-real-estate.cf
 paramail.cf
 parlimentpetitioner.tk
 partskyline.com
@@ -3423,7 +3414,6 @@ shittymail.gq
 shittymail.ml
 shittymail.tk
 shitware.nl
-shonky.info
 shorten.tempm.ml
 shortmail.net
 showme.social
@@ -3761,6 +3751,8 @@ teleosaurs.xyz
 teleworm.com
 teleworm.us
 tellos.xyz
+telukmeong1.ga
+telukmeong2.cf
 temp-emails.com
 temp-mail.de
 temp-mail.net
@@ -3823,7 +3815,6 @@ thediamants.org
 thelimestones.com
 themail.krd.ag
 thembones.com.au
-theone2017.us
 theopposition.club
 theothermail.com
 thepitujk79mgh.tk
@@ -4286,7 +4277,6 @@ wlist.ro
 wmail.cf
 wmail.club
 wmail.tk
-wn8c38i.com
 wolfsmail.tk
 wolfsmails.tk
 wolukiyeh88jik.ga
