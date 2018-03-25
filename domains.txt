@@ -4454,6 +4454,8 @@ personal-email.ml
 peterdethier.com
 petertijj.com
 petrolgames.com
+petronas.cf
+petronas.gq
 petrzilka.net
 pfui.ru
 pgioa4ta46.ga
@@ -5641,6 +5643,11 @@ testoh.ml
 testoh.tk
 testore.co
 testudine.com
+texac0.cf
+texac0.ga
+texac0.gq
+texac0.ml
+texac0.tk
 tf7nzhw.com
 tfwno.gf
 thanksnospam.info
