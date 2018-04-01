@@ -550,24 +550,9 @@ bloq.ro
 bluebottle.com
 bluedumpling.info
 bluewerks.com
-bmw-mini.cf
-bmw-mini.ga
-bmw-mini.gq
-bmw-mini.ml
 bmw-mini.tk
-bmw-rollsroyce.cf
-bmw-rollsroyce.ga
-bmw-rollsroyce.gq
-bmw-rollsroyce.ml
 bmw-rollsroyce.tk
-bmw-x5.cf
-bmw-x5.ga
-bmw-x5.gq
-bmw-x5.ml
 bmw-x5.tk
-bmw-x6.ga
-bmw-x6.gq
-bmw-x6.ml
 bmw-x6.tk
 bmw-z4.ga
 bmw-z4.gq
@@ -1165,7 +1150,6 @@ emailtech.info
 emailtemporanea.net
 emailtemporario.com.br
 emailthe.net
-emailto.de
 emailure.net
 emailwarden.com
 emailx.at.hm
@@ -1408,7 +1392,6 @@ fyii.de
 g-meil.com
 g00glechr0me.ga
 g00glechr0me.tk
-g00gledrive.ga
 g1xmail.top
 g212dnk5.com
 g2xmail.top
@@ -1817,6 +1800,7 @@ ipemail.win
 ippandansei.tk
 ipswell.com
 iqemail.win
+iroid.com
 ironiebehindert.de
 irr.kr
 isdaq.com
@@ -1877,10 +1861,6 @@ jdmadventures.com
 jdtfdf55ghd.ml
 jdz.ro
 je-recycle.info
-jeep-official.cf
-jeep-official.ga
-jeep-official.gq
-jeep-official.ml
 jeep-official.tk
 jellyrolls.com
 jembut142.cf
@@ -2170,6 +2150,9 @@ leonelahmad.cf
 letmeinonthis.com
 letsmail9.com
 letthemeatspam.com
+level-3.cf
+level3.igg.biz
+level3.usa.cc
 lghjgbh89xcfg.cf
 lgxscreen.com
 lhkjfg45bnvg.gq
@@ -3071,7 +3054,6 @@ publi.innovatio.es
 pubmail886.com
 puglieisi.com
 puji.pro
-pulwarm.net
 pumps-fashion.com
 punggur.tk
 purelogistics.org
@@ -3244,6 +3226,7 @@ rollsroyce-plc.tk
 ronnierage.net
 rootfest.net
 rotaniliam.com
+rover100.ml
 rover75.cf
 rover75.ga
 rover75.gq
@@ -3489,9 +3472,6 @@ smtp99.com
 smuse.me
 smwg.info
 snakemail.com
-snam.cf
-snam.ga
-snam.gq
 snam.tk
 snapunit.com
 sneakemail.com
@@ -4066,7 +4046,6 @@ valemail.net
 valhalladev.com
 vanbil.tk
 vanhoangtn1.ga
-vanhoangtn1.us
 vankin.de
 vay.kr
 vba.kr
@@ -4178,6 +4157,7 @@ vyhade3z.gq
 vzlom4ik.tk
 vztc.com
 w.0w.ro
+w22fe21.com
 w3internet.co.uk
 walkmail.net
 walkmail.ru
@@ -4214,6 +4194,7 @@ wee.my
 weg-beschlussbuch.de
 weg-werf-email.de
 wegas.ru
+wegwerf-email.net
 wegwerf-emails.de
 wegwerfadresse.de
 wegwerfemail.com
