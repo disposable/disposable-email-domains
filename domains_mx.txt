@@ -74,6 +74,7 @@
 2018-12-23.ga
 20boxme.org
 20email.eu
+20mail.in
 20mail.it
 20minute.email
 20minutemail.com
@@ -733,7 +734,6 @@ clean.pro
 clendere.asia
 clickanerd.net
 clinicatbf.com
-clipmail.eu
 clixser.com
 cloudns.cc
 clrmail.com
@@ -1056,7 +1056,6 @@ dwango.gq
 dwango.ml
 dwango.tk
 dweezlemail.crabdance.com
-dynu.net
 dz17.net
 dz57taerst4574.ga
 e-mail.com
@@ -1205,7 +1204,6 @@ eur0.ga
 eur0.gq
 eur0.ml
 euromail.tk
-evliyaogluotel.com
 evyush.com
 ewa.kr
 ewt35ttwant35.tk
@@ -2150,8 +2148,10 @@ leonelahmad.cf
 letmeinonthis.com
 letsmail9.com
 letthemeatspam.com
-level-3.cf
+level-3.tk
+level3.flu.cc
 level3.igg.biz
+level3.nut.cc
 level3.usa.cc
 lghjgbh89xcfg.cf
 lgxscreen.com
@@ -2513,7 +2513,6 @@ migmail.pl
 migserver2.gq
 migserver2.ml
 mihanmail.ir
-mihep.com
 mijnhva.nl
 milandwi.cf
 milavitsaromania.ro
@@ -2768,7 +2767,6 @@ nokiamail.ml
 nolemail.ga
 nom.za
 nomail.cf
-nomail.ch
 nomail.ga
 nomail.nodns.xyz
 nomail.pw
@@ -2861,7 +2859,6 @@ oneoffmail.com
 onewaymail.com
 onlatedotcom.info
 online.ms
-onlineidea.info
 onmail.win
 onprice.co
 oolus.com
@@ -3226,7 +3223,6 @@ rollsroyce-plc.tk
 ronnierage.net
 rootfest.net
 rotaniliam.com
-rover100.ml
 rover75.cf
 rover75.ga
 rover75.gq
