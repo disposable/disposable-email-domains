@@ -24,6 +24,16 @@
 0wnd.org
 0x01.gq
 0x01.tk
+0x02.cf
+0x02.ga
+0x02.gq
+0x02.ml
+0x02.tk
+0x03.cf
+0x03.ga
+0x03.gq
+0x03.ml
+0x03.tk
 101price.co
 10launcheds.com
 10mail.com
@@ -51,6 +61,11 @@
 10minutmail.pl
 10vpn.info
 10x.es
+11-32.cf
+11-32.ga
+11-32.gq
+11-32.ml
+11-32.tk
 11163.com
 117.yyolf.net
 123-m.com
@@ -124,10 +139,6 @@
 5oz.ru
 5x25.com
 5ymail.com
-6-6-6.flu.cc
-6-6-6.igg.biz
-6-6-6.nut.cc
-6-6-6.usa.cc
 6.emailfake.ml
 60minutemail.com
 666-satan.cf
@@ -363,6 +374,7 @@ apkmd.com
 apoyrwyr.gq
 appc.se
 appinventor.nl
+appixie.com
 appl3.tk
 applynow0.com
 apps.dj
@@ -522,6 +534,7 @@ beupmore.win
 bfo.kr
 bgi-sfr-i.pw
 bgisfri.pw
+bgtmail.com
 bgx.ro
 bho.hu
 bho.kr
@@ -736,6 +749,8 @@ clickanerd.net
 clinicatbf.com
 clipmail.eu
 clixser.com
+cloudmail.gq
+cloudmail.tk
 cloudns.cc
 clrmail.com
 clue-1.com
@@ -1128,7 +1143,6 @@ emailage.cf
 emailfake.com
 emailfake.ml
 emailfake.nut.cc
-emailfake.usa.cc
 emailfreedom.ml
 emailgo.de
 emailias.com
@@ -1150,6 +1164,7 @@ emailsy.info
 emailtech.info
 emailtemporanea.net
 emailtemporario.com.br
+emailthe.net
 emailure.net
 emailwarden.com
 emailx.at.hm
@@ -1265,6 +1280,7 @@ fellowme.pw
 fetchnet.co.uk
 fettometern.com
 fewminor.men
+fghmail.net
 fi-pdl.cf
 fi-pdl.ga
 fi-pdl.gq
@@ -1400,10 +1416,6 @@ g3nkzmailone.ga
 g3xmail.top
 gafy.net
 gaggle.net
-galaxy-s9.cf
-galaxy-s9.ga
-galaxy-s9.gq
-galaxy-s9.ml
 galaxy-s9.tk
 galaxy.tv
 gally.jp
@@ -1625,6 +1637,7 @@ helm.ml
 helmade.xyz
 helpcustomerdepartment.ga
 helpwesearch.com
+herp.in
 herpderp.nl
 hewke.xyz
 hezemail.ga
@@ -1702,8 +1715,6 @@ i-taiwan.tv
 i.istii.ro
 i.xcode.ro
 i2pmail.org
-i6.cloudns.cc
-i6.cloudns.cx
 iaoss.com
 iaptkapkl53.tk
 ibsats.com
@@ -1722,6 +1733,7 @@ if58.cf
 if58.gq
 if58.ml
 if58.tk
+ige.es
 ighjbhdf890fg.cf
 igintang.ga
 iginting.cf
@@ -1734,6 +1746,7 @@ ikbenspamvrij.nl
 iki.kr
 ikke.win
 ikkjacket.com
+iku.us
 ilmale.it
 ilovespam.com
 imails.info
@@ -2151,10 +2164,6 @@ level-3.ga
 level-3.gq
 level-3.ml
 level-3.tk
-level3.flu.cc
-level3.igg.biz
-level3.nut.cc
-level3.usa.cc
 lghjgbh89xcfg.cf
 lgxscreen.com
 lhkjfg45bnvg.gq
@@ -2262,9 +2271,6 @@ m-mail.gq
 m-mail.ml
 m2r60ff.com
 m4ilweb.info
-m5s.flu.cc
-m5s.igg.biz
-m5s.nut.cc
 m8r.davidfuhr.de
 maart.ml
 mabuklagi.ga
@@ -2429,6 +2435,7 @@ mailtrix.net
 mailtv.net
 mailtv.tv
 mailwithyou.com
+mailz.info
 mailz.info.tm
 mailzen.win
 mailzi.ru
@@ -2437,6 +2444,7 @@ makasarpost.cf
 makemenaughty.club
 makemetheking.com
 makepleasure.club
+malakies.tk
 malayalamdtp.com
 malibucoding.com
 mall.tko.co.kr
@@ -2444,6 +2452,7 @@ mallinator.com
 malove.site
 mamber.net
 mandraghen.cf
+manifestgenerator.com
 mankyrecords.com
 mansiondev.com
 manybrain.com
@@ -2670,6 +2679,7 @@ mymailjos.tk
 mymailto.cf
 mypacks.net
 mypartyclip.de
+mypensionchain.cf
 myphantomemail.com
 myproximity.us
 mysafemail.cf
@@ -2975,7 +2985,6 @@ pisls.com
 pjjkp.com
 plhk.ru
 ploae.com
-plusmail.cf
 plw.me
 poalmail.ga
 podam.pl
@@ -3261,20 +3270,13 @@ ryanb.com
 s-mail.ga
 s-mail.gq
 s-s.flu.cc
-s-s.igg.biz
-s-s.nut.cc
-s-s.usa.cc
 s.bloq.ro
 s.proprietativalcea.ro
 s0ny.cf
-s0ny.flu.cc
 s0ny.ga
 s0ny.gq
-s0ny.igg.biz
 s0ny.ml
 s0ny.net
-s0ny.nut.cc
-s0ny.usa.cc
 s33db0x.com
 s8sigmao.com
 saab9-3.tk
@@ -3312,10 +3314,6 @@ salmeow.tk
 salonyfryzjerskie.info
 samatante.ml
 samsclass.info
-samsunggalaxys9.cf
-samsunggalaxys9.ga
-samsunggalaxys9.gq
-samsunggalaxys9.ml
 samsunggalaxys9.tk
 sandelf.de
 sandre.cf
@@ -3351,6 +3349,7 @@ schachrol.com
 schafmail.de
 schmid.cf
 schmid.ga
+schrott-email.de
 scmail.cf
 sd3.in
 sdf.org
@@ -3793,7 +3792,6 @@ tempmailer.com
 tempmailer.de
 tempomail.fr
 temporarioemail.com.br
-temporaryemail.us
 temporarymailaddress.com
 tempr.email
 tempthe.net
@@ -3841,12 +3839,12 @@ thnikka.com
 thraml.com
 throam.com
 thrott.com
+throwam.com
 throwawayemail.com
 throwawayemailaddress.com
 throwawaymail.com
 thunkinator.org
 thxmate.com
-ti.igg.biz
 tic.ec
 tijdelijkmailadres.nl
 tinoza.org
@@ -3963,8 +3961,6 @@ tverya.com
 tweakly.net
 twinmail.de
 twocowmail.net
-tx.igg.biz
-txt.flu.cc
 txtadvertise.com
 ty.squirtsnap.com
 tyhe.ro
