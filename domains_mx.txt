@@ -58,7 +58,6 @@
 10minutemails.in
 10minutenemail.de
 10minutesmail.fr
-10minutesmail.net
 10minutmail.pl
 10vpn.info
 10x.es
@@ -67,7 +66,6 @@
 11-32.gq
 11-32.ml
 11-32.tk
-11163.com
 117.yyolf.net
 123-m.com
 12ab.info
@@ -142,10 +140,6 @@
 5oz.ru
 5x25.com
 5ymail.com
-6-6-6.flu.cc
-6-6-6.igg.biz
-6-6-6.nut.cc
-6-6-6.usa.cc
 6.emailfake.ml
 60minutemail.com
 666-satan.cf
@@ -593,6 +587,7 @@ bofthew.com
 bogotadc.info
 boimail.com
 bojogalax.ga
+bongo.gq
 bongobongo.cf
 bongobongo.tk
 booktoplady.com
@@ -762,7 +757,6 @@ clean.pro
 clendere.asia
 clickanerd.net
 clinicatbf.com
-clipmail.eu
 clixser.com
 cloudmail.gq
 cloudmail.tk
@@ -1158,7 +1152,6 @@ emailage.cf
 emailfake.com
 emailfake.ml
 emailfake.nut.cc
-emailfake.usa.cc
 emailfreedom.ml
 emailgo.de
 emailias.com
@@ -1421,7 +1414,6 @@ fw2.me
 fw6m0bd.com
 fxnxs.com
 fyii.de
-g-meil.com
 g00glechr0me.ga
 g00glechr0me.tk
 g1xmail.top
@@ -1573,7 +1565,6 @@ gta4etw4twtan53.gq
 gudanglowongan.com
 guerillamail.biz
 guerillamail.com
-guerillamail.de
 guerillamail.info
 guerrillamail.biz
 guerrillamail.com
@@ -1732,8 +1723,6 @@ i-taiwan.tv
 i.istii.ro
 i.xcode.ro
 i2pmail.org
-i6.cloudns.cc
-i6.cloudns.cx
 iaoss.com
 iaptkapkl53.tk
 ibsats.com
@@ -1764,6 +1753,7 @@ ikbenspamvrij.nl
 iki.kr
 ikke.win
 ikkjacket.com
+iku.us
 ilmale.it
 ilovespam.com
 imails.info
@@ -1826,6 +1816,7 @@ ipemail.win
 ippandansei.tk
 ipswell.com
 iqemail.win
+iroid.com
 ironiebehindert.de
 irr.kr
 isdaq.com
@@ -1852,7 +1843,6 @@ j-keats.ml
 j-keats.tk
 j-p.us
 j3rqt89ez.com
-j7.cloudns.cx
 jacckpot.site
 jacquelx.com
 jad32.cf
@@ -2013,8 +2003,14 @@ keluruk.fun
 kemska.pw
 kennedy808.com
 kerupukmlempem.ml
+kerupukmlempem.tk
+kerupukmlempem1.ga
 kerupukmlempem2.cf
+kerupukmlempem3.ml
+kerupukmlempem4.ml
 kerupukmlempem5.cf
+kerupukmlempem6.ml
+kerupukmlempem7.ga
 kerupukmlempem8.ga
 kerupukmlempem9.cf
 kevintrankt.com
@@ -2126,7 +2122,6 @@ l5.ca
 labo.ch
 lacedmail.com
 lackmail.net
-lackmail.ru
 ladymacbeth.tk
 lags.us
 lagushare.me
@@ -2184,10 +2179,6 @@ level-3.ga
 level-3.gq
 level-3.ml
 level-3.tk
-level3.flu.cc
-level3.igg.biz
-level3.nut.cc
-level3.usa.cc
 lg-g7.cf
 lg-g7.ga
 lg-g7.gq
@@ -2300,9 +2291,6 @@ m-mail.gq
 m-mail.ml
 m2r60ff.com
 m4ilweb.info
-m5s.flu.cc
-m5s.igg.biz
-m5s.nut.cc
 m8r.davidfuhr.de
 maart.ml
 mabuklagi.ga
@@ -2393,7 +2381,6 @@ mailf5.com
 mailfa.cf
 mailfa.tk
 mailfall.com
-mailfish.de
 mailforspam.com
 mailfree.ml
 mailfs.com
@@ -2744,7 +2731,11 @@ napalm51.gq
 napalm51.ml
 napalm51.tk
 naturalious.com
+nazimail.cf
+nazimail.ga
 nazimail.gq
+nazimail.ml
+nazimail.tk
 nbhsssib.fun
 nbox.notif.me
 ndemail.ga
@@ -3113,7 +3104,6 @@ pw-mail.ga
 pw-mail.gq
 pw-mail.ml
 pw-mail.tk
-pw.j7.cloudns.cx
 pwp.lv
 pwrby.com
 q314.net
@@ -3307,20 +3297,13 @@ ryanb.com
 s-mail.ga
 s-mail.gq
 s-s.flu.cc
-s-s.igg.biz
-s-s.nut.cc
-s-s.usa.cc
 s.bloq.ro
 s.proprietativalcea.ro
 s0ny.cf
-s0ny.flu.cc
 s0ny.ga
 s0ny.gq
-s0ny.igg.biz
 s0ny.ml
 s0ny.net
-s0ny.nut.cc
-s0ny.usa.cc
 s33db0x.com
 s8sigmao.com
 saab9-3.tk
@@ -3393,6 +3376,7 @@ schachrol.com
 schafmail.de
 schmid.cf
 schmid.ga
+schrott-email.de
 scmail.cf
 sd3.in
 sdf.org
@@ -3609,9 +3593,15 @@ spammotel.com
 spamobox.com
 spamoff.de
 spamserver.cf
+spamserver.ga
 spamserver.gq
 spamserver.ml
 spamserver.tk
+spamserver2.cf
+spamserver2.ga
+spamserver2.gq
+spamserver2.ml
+spamserver2.tk
 spamslicer.com
 spamthis.co.uk
 spamtrap.co
@@ -3861,7 +3851,6 @@ texac0.ga
 texac0.gq
 texac0.ml
 texac0.tk
-tf7nzhw.com
 tfwno.gf
 thanksnospam.info
 thankyou2010.com
@@ -3894,7 +3883,6 @@ throwawayemailaddress.com
 throwawaymail.com
 thunkinator.org
 thxmate.com
-ti.igg.biz
 tic.ec
 tijdelijkmailadres.nl
 tinoza.org
@@ -4012,9 +4000,6 @@ tverya.com
 tweakly.net
 twinmail.de
 twocowmail.net
-tx.igg.biz
-txpwg.usa.cc
-txt.flu.cc
 txtadvertise.com
 ty.squirtsnap.com
 tyhe.ro
@@ -4065,6 +4050,7 @@ unicredit.tk
 unids.com
 unimark.org
 unlimit.com
+unn.edu.auction
 unpastore.co
 uny.kr
 uphomail.ga
@@ -4206,6 +4192,7 @@ vprice.co
 vps30.com
 vpstraffic.com
 vrmtr.com
+vrsim.ir
 vsimcard.com
 vssms.com
 vubby.com
@@ -4258,7 +4245,6 @@ wee.my
 weg-beschlussbuch.de
 weg-werf-email.de
 wegas.ru
-wegwerf-email.net
 wegwerf-emails.de
 wegwerfadresse.de
 wegwerfemail.com
@@ -4505,7 +4491,6 @@ zebins.eu
 zebua.cf
 zebuaboy.cf
 zebuasadis.ml
-zehnminutenmail.de
 zepp.dk
 zer-0.cf
 zer-0.ga
