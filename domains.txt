@@ -5151,7 +5151,6 @@ saxfun.party
 saynotospams.com
 scania.gq
 scania.tk
-scanitxtr.com
 scatmail.com
 scay.net
 scbox.one.pl
@@ -5328,6 +5327,7 @@ sky-mail.ga
 sky-ts.de
 skydrive.tk
 skymail.gq
+skypaluten.de
 slapsfromlastnight.com
 slaskpost.se
 slave-auctions.net
