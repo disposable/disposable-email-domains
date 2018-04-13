@@ -152,6 +152,7 @@
 666-satan.cf
 666-satan.ml
 666-satan.tk
+675hosting.com
 67832.tk
 69-ew.tk
 69postix.info
@@ -183,6 +184,7 @@
 888z5.ml
 888z5.tk
 8chan.co
+8mail.ml
 900k.es
 99experts.com
 99price.co
@@ -718,6 +720,7 @@ ceweknakal.ga
 ceweknakal.ml
 cfo2go.ro
 cghdgh4e56fg.ga
+chacuo.net
 chaichuang.com
 chammy.info
 channel9.cf
@@ -1059,7 +1062,6 @@ dontsendmespam.de
 dooboop.com
 doquier.tk
 dot-ml.tk
-dotmsg.com
 doughmaine.xyz
 doxcity.net
 doy.kr
@@ -1193,7 +1195,6 @@ emailtech.info
 emailtemporanea.net
 emailtemporario.com.br
 emailthe.net
-emailto.de
 emailure.net
 emailwarden.com
 emailx.at.hm
@@ -1265,6 +1266,7 @@ ezprice.co
 ezstest.com
 f4k.es
 f5.si
+facebookmail.gq
 faithkills.org
 fake-email.pp.ua
 fake-mail.cf
@@ -1374,6 +1376,7 @@ forexjobing.ml
 forgetmail.com
 forprice.co
 forspam.net
+forward.cat
 foxja.com
 foxtrotter.info
 foy.kr
@@ -1669,7 +1672,6 @@ helm.ml
 helmade.xyz
 helpcustomerdepartment.ga
 helpwesearch.com
-herp.in
 herpderp.nl
 hewke.xyz
 hezemail.ga
@@ -2415,7 +2417,6 @@ mailf5.com
 mailfa.cf
 mailfa.tk
 mailfall.com
-mailfish.de
 mailforspam.com
 mailfree.ml
 mailfs.com
@@ -2933,7 +2934,6 @@ oneoffmail.com
 onewaymail.com
 onlatedotcom.info
 online.ms
-onlineidea.info
 onmail.win
 onprice.co
 oolus.com
@@ -3018,7 +3018,6 @@ petertijj.com
 petrolgames.com
 petronas.cf
 petronas.gq
-petrzilka.net
 peugeot206.cf
 peugeot206.ga
 peugeot206.gq
@@ -3157,7 +3156,6 @@ qiaua.com
 qibl.at
 qisdo.com
 qisoa.com
-qnb.io
 qocya.com
 qoika.com
 qopmail.com
@@ -3178,7 +3176,6 @@ quintania.top
 ququb.com
 qvap.ru
 qvy.me
-qwertymail.cf
 qwertymail.ga
 qwertymail.ml
 qwertymail.tk
@@ -3399,7 +3396,6 @@ sanstr.com
 santhia.cf
 santhia.ga
 santhia.gq
-santhia.ml
 santhia.tk
 sanvetetre.com
 sapbox.bid
@@ -3590,6 +3586,7 @@ spa.com
 spam-en.de
 spam-nicht.de
 spam.2012-2016.ru
+spam.jasonpearce.com
 spam.loldongs.org
 spam.netpirates.net
 spam.pyphus.org
@@ -3637,6 +3634,7 @@ spammehere.com
 spammehere.net
 spammotel.com
 spamobox.com
+spamoff.de
 spamserver.cf
 spamserver.ga
 spamserver.gq
@@ -4099,7 +4097,6 @@ unicredit.tk
 unids.com
 unimark.org
 unlimit.com
-unn.edu.auction
 unpastore.co
 uny.kr
 uphomail.ga
@@ -4294,6 +4291,7 @@ wee.my
 weg-beschlussbuch.de
 weg-werf-email.de
 wegas.ru
+wegwerf-email.net
 wegwerf-emails.de
 wegwerfadresse.de
 wegwerfemail.com
@@ -4500,7 +4498,6 @@ yougotgoated.com
 youmailr.com
 yourdomain.com
 youremail.cf
-yourewronghereswhy.com
 yourlms.biz
 youzend.net
 yraj46a46an43.tk
