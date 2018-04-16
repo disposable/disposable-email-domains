@@ -59,6 +59,7 @@
 10minutemails.in
 10minutenemail.de
 10minutesmail.fr
+10minutesmail.net
 10minutmail.pl
 10vpn.info
 10x.es
@@ -231,6 +232,7 @@ academywe.us
 acgapp.hk
 achievewe.us
 acmilanbangilan.cf
+ada-janda.ga
 adamastore.co
 add3000.pp.ua
 adipex7z.com
@@ -409,7 +411,6 @@ asdasd.nl
 asdfasdfmail.net
 asdfmail.net
 asdhgsad.com
-asfdasd.com
 asgaccse-pt.cf
 asgaccse-pt.ga
 asgaccse-pt.gq
@@ -452,7 +453,6 @@ aver.com
 averdov.com
 avia-tonic.fr
 avioaero.tk
-aw.kikwet.com
 awatum.de
 awrp3laot.cf
 aws910.com
@@ -591,9 +591,6 @@ bmw-x6.tk
 bmw-z4.ga
 bmw-z4.gq
 bmw-z4.tk
-bmwgroup.cf
-bmwgroup.gq
-bmwgroup.ml
 bnuis.com
 bobmail.info
 bofthew.com
@@ -614,10 +611,8 @@ bouncr.com
 boxformail.in
 boximail.com
 boxtemp.com.br
-bqm2dyl.com
 brainonfire.net
 breakthru.com
-brennendesreich.de
 bring-luck.pw
 bringluck.pw
 british-leyland.cf
@@ -898,7 +893,6 @@ daciasandero.ga
 daciasandero.gq
 daciasandero.ml
 daciasandero.tk
-dadd.kikwet.com
 daemsteam.com
 daibond.info
 daimlerag.cf
@@ -934,7 +928,6 @@ dcemail.com
 dcemail.men
 ddcrew.com
 ddmail.win
-ddosed.us
 de-a.org
 de4ce.gq
 dea.soon.it
@@ -1062,6 +1055,7 @@ dontsendmespam.de
 dooboop.com
 doquier.tk
 dot-ml.tk
+dotmsg.com
 doughmaine.xyz
 doxcity.net
 doy.kr
@@ -1194,6 +1188,7 @@ emailtech.info
 emailtemporanea.net
 emailtemporario.com.br
 emailthe.net
+emailto.de
 emailure.net
 emailwarden.com
 emailx.at.hm
@@ -1376,6 +1371,7 @@ forexjobing.ml
 forgetmail.com
 forprice.co
 forspam.net
+forward.cat
 foxja.com
 foxtrotter.info
 foy.kr
@@ -1435,6 +1431,7 @@ fw2.me
 fw6m0bd.com
 fxnxs.com
 fyii.de
+g-meil.com
 g00g.cf
 g00g.ga
 g00g.gq
@@ -1509,7 +1506,6 @@ gg-byron.tk
 gg-zma1lz.ga
 ggfutsal.cf
 ghea.ml
-ghosttexter.de
 ghtreihfgh.xyz
 giacmosuaviet.info
 giantmail.de
@@ -1645,6 +1641,7 @@ happyyou.pw
 haqed.com
 harakirimail.com
 hargaku.org
+haribu.com
 haribu.net
 hartbot.de
 harvard-ac-uk.tk
@@ -1764,6 +1761,7 @@ icx.ro
 ideepmind.pw
 idigo.org
 ieatspam.info
+ieh-mail.de
 if58.cf
 if58.gq
 if58.ml
@@ -1929,6 +1927,7 @@ jiancokowe.cf
 jiancokowe.ga
 jiancokowe.gq
 jiancokowe.ml
+jieber.net
 jil.kr
 jklasdf.com
 jmail.ovh
@@ -2010,7 +2009,6 @@ kadokawa.tk
 kaguya.tk
 kah.pw
 kakadua.net
-kanciang.faith
 karatraman.ml
 karitas.com.br
 kartvelo.me
@@ -2150,7 +2148,6 @@ l5.ca
 labo.ch
 lacedmail.com
 lackmail.net
-lackmail.ru
 ladymacbeth.tk
 lags.us
 lagushare.me
@@ -2297,7 +2294,6 @@ lolllipop.stream
 lom.kr
 london2.space
 longio.org
-lonthe.ml
 lookugly.com
 lopeure.com
 lortemail.dk
@@ -2393,7 +2389,6 @@ mailbiz.biz
 mailblocks.com
 mailblog.biz
 mailbox52.ga
-mailbox80.biz
 mailbox92.biz
 mailcat.biz
 mailcatch.com
@@ -2579,8 +2574,6 @@ midlertidig.com
 midlertidig.net
 midlertidig.org
 migmail.pl
-migserver2.gq
-migserver2.ml
 mihanmail.ir
 mijnhva.nl
 milandwi.cf
@@ -2791,10 +2784,6 @@ nepwk.com
 nerimosaja.cf
 nervmich.net
 nervtmich.net
-nestle-usa.cf
-nestle-usa.ga
-nestle-usa.gq
-nestle-usa.ml
 nestle-usa.tk
 net.ua
 netmails.com
@@ -2937,6 +2926,7 @@ oneoffmail.com
 onewaymail.com
 onlatedotcom.info
 online.ms
+onlineidea.info
 onmail.win
 onprice.co
 oolus.com
@@ -3159,7 +3149,6 @@ qiaua.com
 qibl.at
 qisdo.com
 qisoa.com
-qnb.io
 qocya.com
 qoika.com
 qopmail.com
@@ -3420,7 +3409,6 @@ schachrol.com
 schafmail.de
 schmid.cf
 schmid.ga
-schrott-email.de
 scmail.cf
 sd3.in
 sdf.org
@@ -3593,6 +3581,7 @@ spam.jasonpearce.com
 spam.loldongs.org
 spam.netpirates.net
 spam.pyphus.org
+spam.shep.pw
 spam.trajano.net
 spam4.me
 spamarrest.com
@@ -3607,6 +3596,7 @@ spambox.org
 spambox.us
 spamcannon.com
 spamcannon.net
+spamcero.com
 spamcon.org
 spamcorptastic.com
 spamcowboy.com
@@ -4099,7 +4089,6 @@ unicredit.tk
 unids.com
 unimark.org
 unlimit.com
-unn.edu.auction
 unpastore.co
 uny.kr
 uphomail.ga
@@ -4423,7 +4412,6 @@ xn--bei.gq
 xn--bei.ml
 xn--bei.tk
 xn--j6h.ml
-xnmail.mooo.com
 xoxy.net
 xpee.tk
 xperiae5.com
@@ -4510,6 +4498,7 @@ yspend.com
 yt6erya4646yf.gq
 ytpayy.com
 yugfbjghbvh8v67.ml
+yui.it
 yuuywil.date
 yyhmail.com
 z-mail.cf
@@ -4538,6 +4527,7 @@ zebins.eu
 zebua.cf
 zebuaboy.cf
 zebuasadis.ml
+zehnminutenmail.de
 zepp.dk
 zer-0.cf
 zer-0.ga
@@ -4556,6 +4546,7 @@ zipcad.com
 zippymail.info
 zipzaprap.beerolympics.se
 zixoa.com
+ziyap.com
 zoemail.com
 zoemail.net
 zomg.info
