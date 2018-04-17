@@ -59,7 +59,6 @@
 10minutemails.in
 10minutenemail.de
 10minutesmail.fr
-10minutesmail.net
 10minutmail.pl
 10vpn.info
 10x.es
@@ -196,6 +195,7 @@
 a-b.co.za
 a-bc.net
 a.a.fbmail.usa.cc
+a.safe-mail.gq
 a1aemail.win
 a41odgz7jh.com.com
 a45.in
@@ -561,7 +561,6 @@ bho.hu
 bho.kr
 bigstring.com
 bin.8191.at
-binka.me
 binkmail.com
 binnary.com
 bio-muesli.net
@@ -613,6 +612,7 @@ boximail.com
 boxtemp.com.br
 brainonfire.net
 breakthru.com
+brennendesreich.de
 bring-luck.pw
 bringluck.pw
 british-leyland.cf
@@ -771,7 +771,6 @@ clean.pro
 clendere.asia
 clickanerd.net
 clinicatbf.com
-clipmail.eu
 clixser.com
 cloudmail.gq
 cloudmail.tk
@@ -784,7 +783,6 @@ cmc88.tk
 cnamed.com
 cnew.ir
 cnmsg.net
-co.cc
 cobete.cf
 cobin2hood.com
 cock.li
@@ -1187,8 +1185,6 @@ emailsy.info
 emailtech.info
 emailtemporanea.net
 emailtemporario.com.br
-emailthe.net
-emailto.de
 emailure.net
 emailwarden.com
 emailx.at.hm
@@ -1586,6 +1582,7 @@ gta4etw4twtan53.gq
 gudanglowongan.com
 guerillamail.biz
 guerillamail.com
+guerillamail.de
 guerillamail.info
 guerrillamail.biz
 guerrillamail.com
@@ -2148,6 +2145,7 @@ l5.ca
 labo.ch
 lacedmail.com
 lackmail.net
+lackmail.ru
 ladymacbeth.tk
 lags.us
 lagushare.me
@@ -2175,7 +2173,6 @@ lavabit.com
 lawlz.net
 lawson.cf
 lazyinbox.com
-lazyinbox.us
 lbe.kr
 ldtp.com
 ledoktre.com
@@ -2701,6 +2698,7 @@ mvrht.net
 mwarner.org
 mxbin.net
 my.longaid.net
+my.safe-mail.gq
 my10minutemail.com
 mybitti.de
 mycard.net.ua
@@ -2815,6 +2813,7 @@ njelarubangilan.cf
 njelarucity.cf
 nko.kr
 nl.szucsati.net
+nmail.cf
 nnh.com
 nnot.net
 no-spam.ws
@@ -2926,7 +2925,6 @@ oneoffmail.com
 onewaymail.com
 onlatedotcom.info
 online.ms
-onlineidea.info
 onmail.win
 onprice.co
 oolus.com
@@ -3134,6 +3132,8 @@ pw-mail.gq
 pw-mail.ml
 pw-mail.tk
 pw.j7.cloudns.cx
+pw.mymy.cf
+pw.mysafe.ml
 pwp.lv
 pwrby.com
 q314.net
@@ -3290,7 +3290,6 @@ rohingga.xyz
 rollindo.agency
 rollsroyce-plc.cf
 rollsroyce-plc.ga
-rollsroyce-plc.gq
 rollsroyce-plc.ml
 rollsroyce-plc.tk
 ronnierage.net
@@ -3409,6 +3408,7 @@ schachrol.com
 schafmail.de
 schmid.cf
 schmid.ga
+schrott-email.de
 scmail.cf
 sd3.in
 sdf.org
@@ -3516,7 +3516,6 @@ six-six-six.tk
 sizzlemctwizzle.com
 skeefmail.com
 skrx.tk
-skydrive.tk
 skymail.gq
 skypaluten.de
 slave-auctions.net
@@ -3596,7 +3595,6 @@ spambox.org
 spambox.us
 spamcannon.com
 spamcannon.net
-spamcero.com
 spamcon.org
 spamcorptastic.com
 spamcowboy.com
@@ -3866,6 +3864,7 @@ tempmailer.com
 tempmailer.de
 tempomail.fr
 temporarioemail.com.br
+temporaryemail.us
 temporarymailaddress.com
 tempr.email
 tempthe.net
@@ -4284,7 +4283,6 @@ wee.my
 weg-beschlussbuch.de
 weg-werf-email.de
 wegas.ru
-wegwerf-email.net
 wegwerf-emails.de
 wegwerfadresse.de
 wegwerfemail.com
@@ -4527,7 +4525,6 @@ zebins.eu
 zebua.cf
 zebuaboy.cf
 zebuasadis.ml
-zehnminutenmail.de
 zepp.dk
 zer-0.cf
 zer-0.ga

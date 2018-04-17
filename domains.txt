@@ -311,6 +311,7 @@ a-bc.net
 a.a.fbmail.usa.cc
 a.betr.co
 a.sach.ir
+a.safe-mail.gq
 a.wxnw.net
 a0.igg.biz
 a0f7ukc.com
@@ -4123,6 +4124,7 @@ my-email.gq
 my-server-online.gq
 my.efxs.ca
 my.longaid.net
+my.safe-mail.gq
 my.vondata.com.ar
 my10minutemail.com
 myalias.pw
@@ -4777,6 +4779,8 @@ pw-mail.tk
 pw.islam.igg.biz
 pw.j7.cloudns.cx
 pw.loyalherceghalom.ml
+pw.mymy.cf
+pw.mysafe.ml
 pwp.lv
 pwrby.com
 q314.net
