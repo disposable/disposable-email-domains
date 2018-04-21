@@ -182,8 +182,6 @@
 800sacramento.tk
 80665.com
 8191.at
-888z5.cf
-888z5.ml
 888z5.tk
 8chan.co
 8mail.ml
@@ -253,6 +251,7 @@ adwaterandstir.com
 aegde.com
 aegia.net
 aeon.tk
+aesopsfables.net
 affilikingz.de
 afmail.com
 afrobacon.com
@@ -471,6 +470,7 @@ azmeil.tk
 azote.cf
 azote.ga
 azote.gq
+b.safe-mail.gq
 b2email.win
 b5safaria.com
 b6o7vt32yz.cf
@@ -565,7 +565,6 @@ bho.hu
 bho.kr
 bigstring.com
 bin.8191.at
-binka.me
 binkmail.com
 binnary.com
 bio-muesli.net
@@ -657,6 +656,7 @@ c-mail.cf
 c-mail.gq
 c.andreihusanu.ro
 c.nut.emailfake.nut.cc
+c.safe-mail.gq
 c.wlist.ro
 c0rtana.cf
 c0rtana.ga
@@ -775,6 +775,7 @@ clendere.asia
 clickanerd.net
 clinicatbf.com
 clintonemailhearing.com
+clipmail.eu
 clixser.com
 cloudmail.gq
 cloudmail.tk
@@ -1100,7 +1101,6 @@ dwango.gq
 dwango.ml
 dwango.tk
 dweezlemail.crabdance.com
-dynu.net
 dz17.net
 dz57taerst4574.ga
 e-mail.com
@@ -1590,7 +1590,6 @@ gta4etw4twtan53.gq
 gudanglowongan.com
 guerillamail.biz
 guerillamail.com
-guerillamail.de
 guerillamail.info
 guerrillamail.biz
 guerrillamail.com
@@ -1622,6 +1621,7 @@ h2o-web.ml
 h2o-web.tk
 h9js8y6.com
 habitue.net
+habrew.de
 hackerndgiveaway.ml
 hackersquad.tk
 hackthatbit.ch
@@ -1695,7 +1695,6 @@ hjirnbt56g.xyz
 hjkhgh6ghkjfg.ga
 hku.us.to
 hmail.us
-hmamail.com
 hmh.ro
 hntr93vhdv.uy.to
 hoanggiaanh.com
@@ -1845,7 +1844,6 @@ ipemail.win
 ippandansei.tk
 ipswell.com
 iqemail.win
-iroid.com
 ironiebehindert.de
 irr.kr
 isdaq.com
@@ -2157,7 +2155,6 @@ l7b2l47k.com
 labo.ch
 lacedmail.com
 lackmail.net
-lackmail.ru
 ladymacbeth.tk
 lags.us
 lagushare.me
@@ -2192,10 +2189,6 @@ lee.mx
 leeching.net
 leemail.me
 legalrc.loan
-lehman.cf
-lehman.ga
-lehman.gq
-lehman.ml
 lehman.tk
 lei.kr
 lemper.cf
@@ -2422,7 +2415,6 @@ mailf5.com
 mailfa.cf
 mailfa.tk
 mailfall.com
-mailfish.de
 mailforspam.com
 mailfree.ml
 mailfs.com
@@ -2536,6 +2528,7 @@ mbangilan.ga
 mbe.kr
 mboled.ml
 mbox.0x01.tk
+mbx.mysafe.ml
 mcache.net
 mcdonald.cf
 mcdonald.gq
@@ -2572,6 +2565,8 @@ mg-rover.ml
 mg-rover.tk
 mhwolf.net
 miaferrari.com
+mial.cf
+mial.tk
 miam.kd2.org
 miauj.com
 micsocks.net
@@ -2710,6 +2705,7 @@ mvrht.net
 mwarner.org
 mxbin.net
 my.longaid.net
+my.safe-mail.gq
 my10minutemail.com
 mybitti.de
 mycard.net.ua
@@ -2937,6 +2933,7 @@ oneoffmail.com
 onewaymail.com
 onlatedotcom.info
 online.ms
+onlineidea.info
 onmail.win
 onprice.co
 oolus.com
@@ -3145,6 +3142,7 @@ pw-mail.ml
 pw-mail.tk
 pw.j7.cloudns.cx
 pw.mymy.cf
+pw.mysafe.ml
 pwp.lv
 pwrby.com
 q314.net
@@ -3212,6 +3210,7 @@ raimuwedos.ml
 rainwaterstudios.org
 rajeshcon.cf
 raketenmann.de
+ralree.com
 ramjane.mooo.com
 rampas.ml
 rampasboya.ml
@@ -3333,7 +3332,6 @@ rustydoor.com
 rvb.ro
 rxtx.us
 ryanb.com
-ryumail.net
 s-mail.ga
 s-mail.gq
 s-s.flu.cc
@@ -3342,6 +3340,7 @@ s-s.nut.cc
 s-s.usa.cc
 s.0x01.gq
 s.bloq.ro
+s.ea.vu
 s.proprietativalcea.ro
 s0ny.cf
 s0ny.flu.cc
@@ -3614,6 +3613,7 @@ spambox.org
 spambox.us
 spamcannon.com
 spamcannon.net
+spamcero.com
 spamcon.org
 spamcorptastic.com
 spamcowboy.com
@@ -3643,6 +3643,7 @@ spammehere.com
 spammehere.net
 spammotel.com
 spamobox.com
+spamoff.de
 spamserver.cf
 spamserver.ga
 spamserver.gq
@@ -3933,6 +3934,7 @@ throwam.com
 throwawayemail.com
 throwawayemailaddress.com
 throwawaymail.com
+ths.mymy.cf
 thunkinator.org
 thxmate.com
 ti.igg.biz
@@ -4108,6 +4110,7 @@ unicredit.tk
 unids.com
 unimark.org
 unlimit.com
+unn.edu.auction
 unpastore.co
 uny.kr
 uphomail.ga
@@ -4446,7 +4449,6 @@ xwaretech.info
 xwaretech.net
 xww.ro
 xx-9.tk
-xxlocanto.us
 xxolocanto.us
 xxqx3802.com
 xy9ce.tk

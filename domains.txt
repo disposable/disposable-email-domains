@@ -428,6 +428,7 @@ aegiswe.us
 aelo.es
 aeon.tk
 aeonpsi.com
+aesopsfables.net
 affiliate-nebenjob.info
 affiliatedwe.us
 affilikingz.de
@@ -790,6 +791,7 @@ azote.ga
 azote.gq
 b.reed.to
 b.royal-syrup.tk
+b.safe-mail.gq
 b0.nut.cc
 b1of96u.com
 b2cmail.de
@@ -1087,6 +1089,7 @@ c.andreihusanu.ro
 c.hcac.net
 c.kadag.ir
 c.nut.emailfake.nut.cc
+c.safe-mail.gq
 c.theplug.org
 c.wlist.ro
 c0rtana.cf
@@ -2585,6 +2588,7 @@ h2o-web.tk
 h8s.org
 h9js8y6.com
 habitue.net
+habrew.de
 hacccc.com
 hacked.jp
 hackerndgiveaway.ml
@@ -3910,6 +3914,7 @@ mbe.kr
 mboled.ml
 mbox.0x01.tk
 mbx.cc
+mbx.mysafe.ml
 mcache.net
 mcdonald.cf
 mcdonald.gq
@@ -3954,6 +3959,8 @@ mg-rover.ml
 mg-rover.tk
 mhwolf.net
 miaferrari.com
+mial.cf
+mial.tk
 miam.kd2.org
 miauj.com
 micsocks.net
@@ -4892,6 +4899,7 @@ rainwaterstudios.org
 rajarajut.co
 rajeshcon.cf
 raketenmann.de
+ralree.com
 ramjane.mooo.com
 rampas.ml
 rampasboya.ml
@@ -5061,7 +5069,6 @@ rx.dred.ru
 rx.qc.to
 rxtx.us
 ryanb.com
-ryumail.net
 s-mail.ga
 s-mail.gq
 s-s.flu.cc
@@ -5072,6 +5079,7 @@ s.0x01.gq
 s.bloq.ro
 s.bungabunga.cf
 s.dextm.ro
+s.ea.vu
 s.proprietativalcea.ro
 s.vdig.com
 s00.orangotango.ga
@@ -5928,6 +5936,7 @@ throwawayemail.com
 throwawayemailaddress.com
 throwawaymail.com
 throya.com
+ths.mymy.cf
 thuguimomo.ga
 thunkinator.org
 thxmate.com
