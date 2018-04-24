@@ -55,7 +55,6 @@
 10minutemails.in
 10minutenemail.de
 10minutesmail.fr
-10minutesmail.net
 10minutmail.pl
 10vpn.info
 10x.es
@@ -69,6 +68,7 @@
 123-m.com
 12ab.info
 12minutemail.com
+1337.email
 139.com
 14n.co.uk
 15qm-mail.red
@@ -475,7 +475,6 @@ badhus.org
 badoo.live
 badpotato.tk
 bae-systems.tk
-bakar.bid
 balanc3r.com
 ballsofsteel.net
 bandai.nom.co
@@ -550,6 +549,7 @@ bho.hu
 bho.kr
 bigstring.com
 bin.8191.at
+binka.me
 binkmail.com
 binnary.com
 bio-muesli.net
@@ -580,6 +580,7 @@ bmw-x6.tk
 bmw-z4.ga
 bmw-z4.gq
 bmw-z4.tk
+bnghdg545gdd.gq
 bnuis.com
 bobmail.info
 bofthew.com
@@ -754,6 +755,7 @@ cko.kr
 ckoie.com
 clandest.in
 clay.xyz
+clean.pro
 clendere.asia
 clickanerd.net
 clinicatbf.com
@@ -833,15 +835,7 @@ crusthost.com
 crymail2.com
 cryp.email
 csh.ro
-csi-miami.cf
-csi-miami.ga
-csi-miami.gq
-csi-miami.ml
 csi-miami.tk
-csi-newyork.cf
-csi-newyork.ga
-csi-newyork.gq
-csi-newyork.ml
 csi-newyork.tk
 csoftmail.cn
 cts-lk-i.tk
@@ -1043,9 +1037,11 @@ dontsendmespam.de
 dooboop.com
 doquier.tk
 dot-ml.tk
+dotmsg.com
 doughmaine.xyz
 doxcity.net
 doy.kr
+dp76.com
 dqnwara.com
 dr0pb0x.ga
 dr69.site
@@ -1082,7 +1078,6 @@ dwango.gq
 dwango.ml
 dwango.tk
 dweezlemail.crabdance.com
-dynu.net
 dz17.net
 dz57taerst4574.ga
 e-mail.com
@@ -1601,7 +1596,6 @@ h9js8y6.com
 habitue.net
 habrew.de
 hackerndgiveaway.ml
-hackersquad.tk
 hackthatbit.ch
 haddo.eu
 hafnia.biz
@@ -1728,6 +1722,7 @@ ibsats.com
 iccmail.men
 icetmail.ga
 icfu.mooo.com
+ichbinvollcool.de
 ichichich.faith
 ichigo.me
 icraftx.net
@@ -1752,7 +1747,6 @@ ikbenspamvrij.nl
 iki.kr
 ikke.win
 ikkjacket.com
-iku.us
 ilmale.it
 ilovespam.com
 imails.info
@@ -1813,7 +1807,6 @@ ipemail.win
 ippandansei.tk
 ipswell.com
 iqemail.win
-iroid.com
 ironiebehindert.de
 irr.kr
 isdaq.com
@@ -1977,6 +1970,7 @@ just4spam.com
 justbegood.pw
 justemail.ml
 justnowmail.com
+justonemail.net
 juyouxi.com
 jwork.ru
 jyliananderik.com
@@ -2127,6 +2121,7 @@ l7b2l47k.com
 labo.ch
 lacedmail.com
 lackmail.net
+lackmail.ru
 ladymacbeth.tk
 lags.us
 lagushare.me
@@ -2382,7 +2377,6 @@ mailf5.com
 mailfa.cf
 mailfa.tk
 mailfall.com
-mailfish.de
 mailforspam.com
 mailfree.ml
 mailfs.com
@@ -2794,7 +2788,6 @@ njelarubangilan.cf
 njelarucity.cf
 nko.kr
 nl.szucsati.net
-nmail.cf
 nnh.com
 nnot.net
 no-spam.ws
@@ -2833,6 +2826,7 @@ norules.zone
 nospam.barbees.net
 nospam.thurstons.us
 nospam.ze.tc
+nospam2me.com
 nospam4.us
 nospammail.net
 nospamthanks.info
@@ -2905,7 +2899,6 @@ oneoffmail.com
 onewaymail.com
 onlatedotcom.info
 online.ms
-onlineidea.info
 onmail.win
 onprice.co
 oolus.com
@@ -3590,7 +3583,6 @@ spambox.org
 spambox.us
 spamcannon.com
 spamcannon.net
-spamcero.com
 spamcon.org
 spamcorptastic.com
 spamcowboy.com
@@ -3985,6 +3977,7 @@ trash2009.com
 trash247.com
 trashbox.eu
 trashcanmail.com
+trashdevil.de
 trashemails.de
 trashinbox.net
 trashmail.at
@@ -4087,7 +4080,6 @@ unpastore.co
 uny.kr
 uphomail.ga
 upy.kr
-uralplay.ru
 ureee.us
 urfey.com
 urfunktion.se
@@ -4355,7 +4347,6 @@ wirawanakhmadi.cf
 with-u.us
 wiz2.site
 wlist.ro
-wmail.cf
 wmail.club
 wmail.tk
 wolfsmail.tk
