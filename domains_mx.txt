@@ -55,6 +55,7 @@
 10minutemails.in
 10minutenemail.de
 10minutesmail.fr
+10minutesmail.net
 10minutmail.pl
 10vpn.info
 10x.es
@@ -323,7 +324,6 @@ amex-online.ga
 amex-online.gq
 amex-online.ml
 amex-online.tk
-amilegit.com
 amiri.net
 ampsylike.com
 an.id.au
@@ -549,7 +549,6 @@ bho.hu
 bho.kr
 bigstring.com
 bin.8191.at
-binka.me
 binkmail.com
 binnary.com
 bio-muesli.net
@@ -760,7 +759,6 @@ clendere.asia
 clickanerd.net
 clinicatbf.com
 clintonemailhearing.com
-clipmail.eu
 clixser.com
 cloudmail.gq
 cloudmail.tk
@@ -776,6 +774,7 @@ cnmsg.net
 co.cc
 cobete.cf
 cobin2hood.com
+cochatz.ga
 cock.li
 cocodani.cf
 cocovpn.com
@@ -1135,6 +1134,7 @@ ekiikorea99.cf
 ekiikorea99.ga
 ekiilinkinpark.ga
 ely.kr
+elysium.ml
 email-fake.cf
 email-fake.com
 email-fake.ga
@@ -1170,7 +1170,7 @@ emailsy.info
 emailtech.info
 emailtemporanea.net
 emailtemporario.com.br
-emailto.de
+emailthe.net
 emailure.net
 emailwarden.com
 emailx.at.hm
@@ -1289,7 +1289,6 @@ fewminor.men
 fghmail.net
 fi-pdl.cf
 fi-pdl.ga
-fi-pdl.gq
 fi-pdl.ml
 fi-pdl.tk
 fiat-chrysler.tk
@@ -1339,6 +1338,10 @@ flurre.com
 flurred.com
 flyinggeek.net
 flyxnet.pw
+fm69.cf
+fm69.ga
+fm69.gq
+fm69.ml
 fmail.pw
 foobarbot.net
 foquita.com
@@ -1411,6 +1414,8 @@ fw2.me
 fw6m0bd.com
 fxnxs.com
 fyii.de
+g-meil.com
+g-timyoot.ga
 g00g.cf
 g00g.ga
 g00g.gq
@@ -1483,7 +1488,6 @@ gg-byron.tk
 gg-zma1lz.ga
 ggfutsal.cf
 ghea.ml
-ghosttexter.de
 ghtreihfgh.xyz
 giacmosuaviet.info
 giantmail.de
@@ -1640,6 +1644,7 @@ helm.ml
 helmade.xyz
 helpcustomerdepartment.ga
 helpwesearch.com
+herp.in
 herpderp.nl
 hewke.xyz
 hezemail.ga
@@ -1807,6 +1812,7 @@ ipemail.win
 ippandansei.tk
 ipswell.com
 iqemail.win
+iroid.com
 ironiebehindert.de
 irr.kr
 isdaq.com
@@ -2377,6 +2383,7 @@ mailf5.com
 mailfa.cf
 mailfa.tk
 mailfall.com
+mailfish.de
 mailforspam.com
 mailfree.ml
 mailfs.com
@@ -3053,7 +3060,6 @@ pp98.ml
 pp98.tk
 ppetw.com
 ppymail.win
-pravorobotov.ru
 prayersa3.com
 predatorrat.cf
 predatorrat.ga
@@ -3394,6 +3400,7 @@ schachrol.com
 schafmail.de
 schmid.cf
 schmid.ga
+schrott-email.de
 scmail.cf
 sd3.in
 sdf.org
@@ -3563,6 +3570,7 @@ spam-en.de
 spam-nicht.de
 spam.0x01.tk
 spam.2012-2016.ru
+spam.dhsf.net
 spam.jasonpearce.com
 spam.loldongs.org
 spam.netpirates.net
@@ -3583,6 +3591,7 @@ spambox.org
 spambox.us
 spamcannon.com
 spamcannon.net
+spamcero.com
 spamcon.org
 spamcorptastic.com
 spamcowboy.com
@@ -3612,6 +3621,7 @@ spammehere.com
 spammehere.net
 spammotel.com
 spamobox.com
+spamoff.de
 spamserver.cf
 spamserver.ga
 spamserver.gq
@@ -4513,7 +4523,6 @@ zebins.eu
 zebua.cf
 zebuaboy.cf
 zebuasadis.ml
-zehnminutenmail.de
 zepp.dk
 zer-0.cf
 zer-0.ga
