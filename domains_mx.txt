@@ -54,7 +54,6 @@
 10minutemails.in
 10minutenemail.de
 10minutesmail.fr
-10minutesmail.net
 10minutmail.pl
 10vpn.info
 10x.es
@@ -371,6 +370,7 @@ aolinemail.ga
 apfelkorps.de
 apkmd.com
 apoyrwyr.gq
+app.mymy.cf
 appc.se
 appinventor.nl
 appixie.com
@@ -505,6 +505,7 @@ bcdmail.date
 bearsarefuzzy.com
 beck-it.net
 beddly.com
+beechatz.ga
 beefmilk.com
 beerolympics.se
 beeviee.cf
@@ -548,6 +549,7 @@ bho.hu
 bho.kr
 bigstring.com
 bin.8191.at
+binka.me
 binkmail.com
 binnary.com
 bio-muesli.net
@@ -615,7 +617,6 @@ btcmail.pw
 btizet.pl
 buchhandlung24.com
 budgjhdh73ctr.gq
-bugmenot.ml
 bulrushpress.com
 bum.net
 bumpymail.com
@@ -753,16 +754,15 @@ cko.kr
 ckoie.com
 clandest.in
 clay.xyz
-clean.pro
 clendere.asia
 clickanerd.net
 clinicatbf.com
 clintonemailhearing.com
+clipmail.eu
 clixser.com
 cloudmail.gq
 cloudmail.tk
 cloudns.cc
-cloudns.cf
 clrmail.com
 clue-1.com
 cmail.club
@@ -874,6 +874,7 @@ daciasandero.gq
 daciasandero.ml
 daciasandero.tk
 daemsteam.com
+dahongying.net
 daibond.info
 daimlerag.cf
 daimlerag.ga
@@ -1036,7 +1037,6 @@ dontsendmespam.de
 dooboop.com
 doquier.tk
 dot-ml.tk
-dotmsg.com
 doughmaine.xyz
 doxcity.net
 doy.kr
@@ -1171,7 +1171,7 @@ emailsy.info
 emailtech.info
 emailtemporanea.net
 emailtemporario.com.br
-emailto.de
+emailthe.net
 emailure.net
 emailwarden.com
 emailx.at.hm
@@ -1227,6 +1227,7 @@ eur0.gq
 eur0.ml
 euromail.tk
 evyush.com
+ew.mysafe.ml
 ewa.kr
 ewt35ttwant35.tk
 eww.ro
@@ -1384,6 +1385,11 @@ freezzzm.site
 fressmind.us
 freundin.ru
 friendlymail.co.uk
+friscaa.cf
+friscaa.ga
+friscaa.gq
+friscaa.ml
+friscaa.tk
 fsociety.org
 ftp.sh
 ftpinc.ca
@@ -1671,6 +1677,7 @@ hiz.kr
 hjgh545rghf5thfg.gq
 hjirnbt56g.xyz
 hjkhgh6ghkjfg.ga
+hkd6ewtremdf88.cf
 hku.us.to
 hmail.us
 hmh.ro
@@ -1844,7 +1851,6 @@ iwankopi.cf
 iwantumake.us
 iwi.net
 ixx.io
-j-keats.ml
 j-keats.tk
 j-p.us
 j3rqt89ez.com
@@ -1991,6 +1997,7 @@ kah.pw
 kakadua.net
 karatraman.ml
 karitas.com.br
+kartvelo.me
 kasmail.com
 kaspop.com
 katcang.tk
@@ -2130,7 +2137,6 @@ l7b2l47k.com
 labo.ch
 lacedmail.com
 lackmail.net
-lackmail.ru
 ladymacbeth.tk
 lags.us
 lagushare.me
@@ -2321,6 +2327,7 @@ mail.crowdpress.it
 mail.fast10s.design
 mail.fettometern.com
 mail.hanungofficial.club
+mail.libivan.com
 mail.me
 mail.mnisjk.com
 mail.myde.ml
@@ -3401,7 +3408,6 @@ schachrol.com
 schafmail.de
 schmid.cf
 schmid.ga
-schrott-email.de
 scmail.cf
 sd3.in
 sdf.org
@@ -3592,7 +3598,6 @@ spambox.org
 spambox.us
 spamcannon.com
 spamcannon.net
-spamcero.com
 spamcon.org
 spamcorptastic.com
 spamcowboy.com
@@ -4261,6 +4266,7 @@ wazabi.club
 wbml.net
 wdsfbghfg77hj.gq
 we.lovebitco.in
+we.mysafe.ml
 wealthymoney.pw
 web-contact.info
 web-emailbox.eu
@@ -4280,7 +4286,6 @@ wee.my
 weg-beschlussbuch.de
 weg-werf-email.de
 wegas.ru
-wegwerf-email.net
 wegwerf-emails.de
 wegwerfadresse.de
 wegwerfemail.com
