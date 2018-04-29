@@ -32,6 +32,7 @@
 0x03.ml
 0x03.tk
 101price.co
+10host.top
 10launcheds.com
 10mail.com
 10mail.org
@@ -54,7 +55,6 @@
 10minutemails.in
 10minutenemail.de
 10minutesmail.fr
-10minutesmail.net
 10minutmail.pl
 10vpn.info
 10x.es
@@ -81,6 +81,7 @@
 1fsdfdsfsdf.tk
 1lv.in
 1pad.de
+1rentcar.top
 1s.fr
 1usemail.com
 2.emailfake.ml
@@ -136,6 +137,8 @@
 5gramos.com
 5july.org
 5mail.cf
+5music.info
+5music.top
 5oz.ru
 5x25.com
 5ymail.com
@@ -166,6 +169,7 @@
 7pccf.gq
 7pccf.ml
 7pccf.tk
+7rent.top
 7tags.com
 7uy35p.cf
 7uy35p.ga
@@ -320,7 +324,6 @@ amail.men
 amail4.me
 amav.ro
 amazon-aws.org
-amelabs.com
 amex-online.ga
 amex-online.gq
 amex-online.ml
@@ -402,10 +405,6 @@ asdasd.nl
 asdfasdfmail.net
 asdfmail.net
 asdhgsad.com
-asgaccse-pt.cf
-asgaccse-pt.ga
-asgaccse-pt.gq
-asgaccse-pt.ml
 asgaccse-pt.tk
 asgardia-space.tk
 ashik2in.com
@@ -551,6 +550,7 @@ bho.hu
 bho.kr
 bigstring.com
 bin.8191.at
+binka.me
 binkmail.com
 binnary.com
 bio-muesli.net
@@ -602,6 +602,7 @@ boximail.com
 boxtemp.com.br
 brainonfire.net
 breakthru.com
+brennendesreich.de
 bring-luck.pw
 bringluck.pw
 british-leyland.cf
@@ -752,13 +753,13 @@ cko.kr
 ckoie.com
 clandest.in
 clay.xyz
-clean.pro
 clendere.asia
 clickanerd.net
 clinicatbf.com
 clintonemailhearing.com
 clipmail.eu
 clixser.com
+cloud99.top
 cloudmail.gq
 cloudmail.tk
 cloudns.cc
@@ -1074,6 +1075,7 @@ dwango.gq
 dwango.ml
 dwango.tk
 dweezlemail.crabdance.com
+dynu.net
 dz17.net
 dz57taerst4574.ga
 e-mail.com
@@ -1278,7 +1280,6 @@ fca-nv.ml
 fca-nv.tk
 fcgfdsts.ga
 fddns.ml
-feamail.com
 fellow-me.pw
 fellowme.pw
 fetchnet.co.uk
@@ -1353,7 +1354,6 @@ forexjobing.ml
 forgetmail.com
 forprice.co
 forspam.net
-forward.cat
 foxja.com
 foxtrotter.info
 foy.kr
@@ -1485,13 +1485,10 @@ getnada.ml
 getnada.tk
 getonemail.net
 gfcom.com
-gg-byron.ga
-gg-byron.gq
 gg-byron.tk
 gg-zma1lz.ga
 ggfutsal.cf
 ghea.ml
-ghosttexter.de
 ghtreihfgh.xyz
 giacmosuaviet.info
 giantmail.de
@@ -1572,7 +1569,6 @@ gta4etw4twtan53.gq
 gudanglowongan.com
 guerillamail.biz
 guerillamail.com
-guerillamail.de
 guerillamail.info
 guerrillamail.biz
 guerrillamail.com
@@ -1692,7 +1688,6 @@ hostmonitor.net
 hotakama.tk
 hotmai.com
 hotmails.com
-hotmial.com
 hotpop.com
 hotprice.co
 hous.craigslist.org
@@ -1759,7 +1754,6 @@ ikbenspamvrij.nl
 iki.kr
 ikke.win
 ikkjacket.com
-iku.us
 ilmale.it
 ilovespam.com
 imails.info
@@ -1820,6 +1814,7 @@ ipemail.win
 ippandansei.tk
 ipswell.com
 iqemail.win
+iroid.com
 ironiebehindert.de
 irr.kr
 isdaq.com
@@ -2134,6 +2129,7 @@ l7b2l47k.com
 labo.ch
 lacedmail.com
 lackmail.net
+lackmail.ru
 ladymacbeth.tk
 lags.us
 lagushare.me
@@ -2324,6 +2320,7 @@ mail.fast10s.design
 mail.fettometern.com
 mail.hanungofficial.club
 mail.me
+mail.mezimages.net
 mail.mnisjk.com
 mail.myde.ml
 mail.neynt.ca
@@ -2388,7 +2385,6 @@ mailf5.com
 mailfa.cf
 mailfa.tk
 mailfall.com
-mailfish.de
 mailforspam.com
 mailfree.ml
 mailfs.com
@@ -2692,14 +2688,7 @@ myfaceb00k.ga
 myfaceb00k.gq
 myfaceb00k.ml
 myfaceb00k.tk
-myfake.cf
-myfake.ga
-myfake.gq
-myfake.ml
 myfake.tk
-myfakemail.cf
-myfakemail.ga
-myfakemail.gq
 myfakemail.tk
 myindohome.services
 mylapak.info
@@ -2800,10 +2789,6 @@ nl.szucsati.net
 nnh.com
 nnot.net
 no-spam.ws
-no-vax.cf
-no-vax.ga
-no-vax.gq
-no-vax.ml
 no-vax.tk
 nodie.cc
 nokiahere.cf
@@ -2811,8 +2796,6 @@ nokiahere.ga
 nokiahere.gq
 nokiahere.ml
 nokiahere.tk
-nokiamail.ga
-nokiamail.gq
 nokiamail.ml
 nolemail.ga
 nom.za
@@ -2907,6 +2890,7 @@ oneoffmail.com
 onewaymail.com
 onlatedotcom.info
 online.ms
+onlineidea.info
 onmail.win
 onprice.co
 oolus.com
@@ -2933,8 +2917,6 @@ outlook.com.hotpusssy69.host
 outlookkk.online
 outlookpro.net
 outmail.win
-ovimail.cf
-ovimail.ga
 ovimail.tk
 ovlov.cf
 ovlov.ga
@@ -3469,7 +3451,6 @@ shitmail.org
 shitposting.agency
 shittymail.cf
 shittymail.ga
-shittymail.gq
 shittymail.ml
 shittymail.tk
 shitware.nl
@@ -3730,9 +3711,7 @@ subaru-brz.ga
 subaru-brz.gq
 subaru-brz.ml
 subaru-brz.tk
-subaru-wrx.ga
 subaru-wrx.tk
-subaru-xv.ml
 subaru-xv.tk
 subpastore.co
 suburbanthug.com
@@ -4182,13 +4161,6 @@ vip.cool
 vipepe.com
 vipmail.pw
 viralplays.com
-virgilio.ga
-virgilio.gq
-virgilio.ml
-virgiliomail.cf
-virgiliomail.ga
-virgiliomail.gq
-virgiliomail.ml
 virgiliomail.tk
 visal007.tk
 visal168.tk
@@ -4222,8 +4194,10 @@ vonbe.tk
 vorga.org
 votiputox.org
 vpn.st
+vpn33.top
 vprice.co
 vps30.com
+vpsorg.top
 vpstraffic.com
 vrmtr.com
 vrsim.ir
@@ -4282,7 +4256,6 @@ wee.my
 weg-beschlussbuch.de
 weg-werf-email.de
 wegas.ru
-wegwerf-email.net
 wegwerf-emails.de
 wegwerfadresse.de
 wegwerfemail.com
@@ -4517,6 +4490,7 @@ zanichelli.ml
 zanichelli.tk
 zasod.com
 zavio.nl
+zchatz.ga
 ze.cx
 ze.tc
 zebins.com
