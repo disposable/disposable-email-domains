@@ -55,6 +55,7 @@
 10minutemails.in
 10minutenemail.de
 10minutesmail.fr
+10minutesmail.net
 10minutmail.pl
 10vpn.info
 10x.es
@@ -452,9 +453,6 @@ ay33rs.flu.cc
 azazazatashkent.tk
 azcomputerworks.com
 azmeil.tk
-azote.cf
-azote.ga
-azote.gq
 b.safe-mail.gq
 b2bx.net
 b2email.win
@@ -507,6 +505,7 @@ bcdmail.date
 bearsarefuzzy.com
 beck-it.net
 beddly.com
+beechatz.ga
 beefmilk.com
 beerolympics.se
 beeviee.cf
@@ -550,7 +549,6 @@ bho.hu
 bho.kr
 bigstring.com
 bin.8191.at
-binka.me
 binkmail.com
 binnary.com
 bio-muesli.net
@@ -753,6 +751,7 @@ cko.kr
 ckoie.com
 clandest.in
 clay.xyz
+clean.pro
 clendere.asia
 clickanerd.net
 clinicatbf.com
@@ -852,7 +851,6 @@ cumallover.me
 curlhph.tk
 curryworld.de
 cursodemicropigmentacao.us
-cust.in
 custom12.tk
 customersupportdepartment.ga
 customs2g3.com
@@ -1034,7 +1032,6 @@ dontsendmespam.de
 dooboop.com
 doquier.tk
 dot-ml.tk
-dotmsg.com
 doughmaine.xyz
 doxcity.net
 doy.kr
@@ -1075,7 +1072,6 @@ dwango.gq
 dwango.ml
 dwango.tk
 dweezlemail.crabdance.com
-dynu.net
 dz17.net
 dz57taerst4574.ga
 e-mail.com
@@ -1155,6 +1151,7 @@ emailigo.de
 emailinfive.com
 emailisvalid.com
 emailmenow.info
+emailna.co
 emailo.pro
 emailofnd.cf
 emailondeck.com
@@ -1169,7 +1166,6 @@ emailtech.info
 emailtemporanea.net
 emailtemporario.com.br
 emailthe.net
-emailto.de
 emailure.net
 emailwarden.com
 emailx.at.hm
@@ -1354,6 +1350,7 @@ forexjobing.ml
 forgetmail.com
 forprice.co
 forspam.net
+forward.cat
 foxja.com
 foxtrotter.info
 foy.kr
@@ -1417,7 +1414,6 @@ fw2.me
 fw6m0bd.com
 fxnxs.com
 fyii.de
-g-meil.com
 g-timyoot.ga
 g00g.cf
 g00g.ga
@@ -1671,6 +1667,7 @@ hiz.kr
 hjgh545rghf5thfg.gq
 hjirnbt56g.xyz
 hjkhgh6ghkjfg.ga
+hk188188.com
 hkd6ewtremdf88.cf
 hku.us.to
 hmail.us
@@ -1688,6 +1685,7 @@ hostmonitor.net
 hotakama.tk
 hotmai.com
 hotmails.com
+hotmial.com
 hotpop.com
 hotprice.co
 hous.craigslist.org
@@ -1718,6 +1716,7 @@ hvzoi.com
 i-3gk.cf
 i-taiwan.tv
 i.istii.ro
+i.safe-mail.gq
 i.xcode.ro
 i2pmail.org
 i4j0j3iz0.com
@@ -1737,7 +1736,6 @@ icx.ro
 ideepmind.pw
 idigo.org
 ieatspam.info
-ieh-mail.de
 if58.cf
 if58.gq
 if58.tk
@@ -1814,7 +1812,6 @@ ipemail.win
 ippandansei.tk
 ipswell.com
 iqemail.win
-iroid.com
 ironiebehindert.de
 irr.kr
 isdaq.com
@@ -1845,6 +1842,7 @@ iwi.net
 ixx.io
 j-keats.tk
 j-p.us
+j.safe-mail.gq
 j3rqt89ez.com
 j7.cloudns.cx
 jacckpot.site
@@ -1981,6 +1979,7 @@ justonemail.net
 juyouxi.com
 jwork.ru
 jyliananderik.com
+k.safe-mail.gq
 k4ds.org
 kademen.com
 kadokawa.tk
@@ -2123,6 +2122,7 @@ kusam.ga
 kusrc.com
 kwift.net
 l-c-a.us
+l.safe-mail.gq
 l0l.l1l.ink
 l5.ca
 l7b2l47k.com
@@ -2290,6 +2290,7 @@ m-mail.cf
 m-mail.ga
 m-mail.gq
 m-mail.ml
+m.safe-mail.gq
 m.svlp.net
 m2r60ff.com
 m4ilweb.info
@@ -2509,6 +2510,7 @@ mcdonald.gq
 mciek.com
 md5hashing.net
 mdhc.tk
+mdu.edu.rs
 mechanicalresumes.com
 mediciine.site
 mega.zik.dj
@@ -2716,6 +2718,7 @@ mytempemail.com
 mytools-ipkzone.gq
 mytrashmail.com
 myzx.com
+n.safe-mail.gq
 n.spamtrap.co
 n1nja.org
 n8.gs
@@ -2856,6 +2859,7 @@ nyoregan09brex.ml
 nypato.com
 o.cfo2go.ro
 o.opendns.ro
+o.safe-mail.gq
 o.spamtrap.ro
 o2stk.org
 o7i.net
@@ -2937,6 +2941,7 @@ p-gdl.ml
 p-gdl.tk
 p-w.mysafe.ml
 p.9q.ro
+p.safe-mail.gq
 p71ce1m.com
 pagamenti.tk
 pakadebu.ga
@@ -3111,7 +3116,6 @@ qiaua.com
 qibl.at
 qisdo.com
 qisoa.com
-qnb.io
 qocya.com
 qoika.com
 qopmail.com
@@ -3383,7 +3387,6 @@ schachrol.com
 schafmail.de
 schmid.cf
 schmid.ga
-schrott-email.de
 scmail.cf
 sd3.in
 sdf.org
@@ -3967,7 +3970,6 @@ trash2009.com
 trash247.com
 trashbox.eu
 trashcanmail.com
-trashdevil.de
 trashemails.de
 trashinbox.net
 trashmail.at
@@ -4000,6 +4002,7 @@ ts-by-tashkent.cf
 ts-by-tashkent.tk
 tspzeoypw35.ml
 tt.0x01.tk
+ttytgyh56hngh.cf
 tualias.com
 tubanmentol.ml
 tubruk.trade
@@ -4256,6 +4259,7 @@ wee.my
 weg-beschlussbuch.de
 weg-werf-email.de
 wegas.ru
+wegwerf-email.net
 wegwerf-emails.de
 wegwerfadresse.de
 wegwerfemail.com
@@ -4362,6 +4366,11 @@ x.0x01.tk
 x24.com
 xbaby69.top
 xc05fypuj.com
+xc90.cf
+xc90.ga
+xc90.gq
+xc90.ml
+xc90.tk
 xcode.ro
 xcpy.com
 xemaps.com
@@ -4490,7 +4499,6 @@ zanichelli.ml
 zanichelli.tk
 zasod.com
 zavio.nl
-zchatz.ga
 ze.cx
 ze.tc
 zebins.com
@@ -4529,6 +4537,7 @@ zxcvbnm.cf
 zxcvbnm.com
 zxcvbnm.tk
 zxcxc.com
+zxgsd4gydfg.ga
 zymail.men
 zymuying.com
 zzz.com
