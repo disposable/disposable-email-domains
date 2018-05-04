@@ -108,6 +108,11 @@
 14n.co.uk
 15qm-mail.red
 15qm.com
+18-9-2.cf
+18-9-2.ga
+18-9-2.gq
+18-9-2.ml
+18-9-2.tk
 19922.cf
 19922.ga
 19922.gq
@@ -138,6 +143,10 @@
 2012-2016.ru
 2014mail.ru
 2018-12-23.ga
+2019x.cf
+2019x.ga
+2019x.gq
+2019x.ml
 20boxme.org
 20email.eu
 20email.it
@@ -636,6 +645,7 @@ anthony-junkmail.com
 anthropologycommunity.com
 antichef.com
 antichef.net
+antichef.org
 antireg.com
 antireg.ru
 antispam.de
@@ -5181,6 +5191,7 @@ saab900.ga
 saab900.gq
 saab900.ml
 saab900.tk
+saabaru.cf
 saabcars.cf
 saabcars.ga
 saabcars.gq
@@ -5643,6 +5654,7 @@ squirtsnap.com
 squizzy.de
 squizzy.eu
 squizzy.net
+sqxx.net
 sr.ro.lt
 sraka.xyz
 sroff.com
@@ -6641,6 +6653,7 @@ wicked-game.ga
 wicked-game.gq
 wicked-game.ml
 wicked-game.tk
+wicked.cricket
 wickmail.net
 widaryanto.info
 widget.gg

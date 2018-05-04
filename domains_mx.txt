@@ -52,6 +52,7 @@
 10minutemails.in
 10minutenemail.de
 10minutesmail.fr
+10minutesmail.net
 10minutmail.pl
 10vpn.info
 10x.es
@@ -70,6 +71,11 @@
 14n.co.uk
 15qm-mail.red
 15qm.com
+18-9-2.cf
+18-9-2.ga
+18-9-2.gq
+18-9-2.ml
+18-9-2.tk
 1clck2.com
 1dmedical.com
 1drive.cf
@@ -85,6 +91,10 @@
 2012-2016.ru
 2014mail.ru
 2018-12-23.ga
+2019x.cf
+2019x.ga
+2019x.gq
+2019x.ml
 20boxme.org
 20email.eu
 20mail.in
@@ -142,8 +152,6 @@
 5ymail.com
 6.emailfake.ml
 60minutemail.com
-666-satan.cf
-666-satan.ml
 666-satan.tk
 675hosting.com
 67832.tk
@@ -361,6 +369,7 @@ anotherdomaincyka.tk
 anthony-junkmail.com
 antichef.com
 antichef.net
+antichef.org
 antireg.ru
 antispam.de
 anuan.tk
@@ -549,7 +558,6 @@ bho.hu
 bho.kr
 bigstring.com
 bin.8191.at
-binka.me
 binkmail.com
 binnary.com
 bio-muesli.net
@@ -753,7 +761,6 @@ cko.kr
 ckoie.com
 clandest.in
 clay.xyz
-clean.pro
 clendere.asia
 clickanerd.net
 clinicatbf.com
@@ -775,6 +782,7 @@ cmc88.tk
 cnamed.com
 cnew.ir
 cnmsg.net
+co.cc
 cobete.cf
 cobin2hood.com
 cochatz.ga
@@ -856,6 +864,7 @@ cumallover.me
 curlhph.tk
 curryworld.de
 cursodemicropigmentacao.us
+cust.in
 custom12.tk
 customersupportdepartment.ga
 customs2g3.com
@@ -1359,6 +1368,7 @@ forexjobing.ml
 forgetmail.com
 forprice.co
 forspam.net
+forward.cat
 foxja.com
 foxtrotter.info
 foy.kr
@@ -1475,16 +1485,10 @@ get.pp.ua
 get1mail.com
 get2mail.fr
 getairmail.com
-getairmail.gq
-getairmail.ml
 geteit.com
 getfun.men
 getmails.eu
-getnada.cf
 getnada.com
-getnada.ga
-getnada.gq
-getnada.ml
 getnada.tk
 getonemail.net
 gfcom.com
@@ -1574,6 +1578,7 @@ gudanglowongan.com
 guerillamail.com
 guerillamail.de
 guerillamail.info
+guerillamail.net
 guerrillamail.biz
 guerrillamail.com
 guerrillamail.de
@@ -1622,7 +1627,6 @@ hanmama.zz.am
 happygoluckyclub.com
 happysinner.co.uk
 happyyou.pw
-haqed.com
 harakirimail.com
 hargaku.org
 haribu.com
@@ -1650,6 +1654,7 @@ helm.ml
 helmade.xyz
 helpcustomerdepartment.ga
 helpwesearch.com
+herp.in
 herpderp.nl
 hewke.xyz
 hezemail.ga
@@ -1741,6 +1746,7 @@ icx.ro
 ideepmind.pw
 idigo.org
 ieatspam.info
+ieh-mail.de
 if58.cf
 if58.gq
 if58.tk
@@ -1757,7 +1763,6 @@ ikbenspamvrij.nl
 iki.kr
 ikke.win
 ikkjacket.com
-iku.us
 ilmale.it
 ilovespam.com
 imails.info
@@ -1774,7 +1779,6 @@ imul.info
 inaby.com
 inapplicable.org
 inbax.ga
-inbax.ml
 inbax.tk
 inbound.plus
 inbox.si
@@ -1824,7 +1828,6 @@ ipemail.win
 ippandansei.tk
 ipswell.com
 iqemail.win
-iroid.com
 ironiebehindert.de
 irr.kr
 isdaq.com
@@ -2137,7 +2140,6 @@ l7b2l47k.com
 labo.ch
 lacedmail.com
 lackmail.net
-lackmail.ru
 ladymacbeth.tk
 lags.us
 lagushare.me
@@ -2322,6 +2324,7 @@ mail.crowdpress.it
 mail.fast10s.design
 mail.fettometern.com
 mail.hanungofficial.club
+mail.libivan.com
 mail.me
 mail.mezimages.net
 mail.mnisjk.com
@@ -2388,6 +2391,7 @@ mailf5.com
 mailfa.cf
 mailfa.tk
 mailfall.com
+mailfish.de
 mailforspam.com
 mailfree.ml
 mailfs.com
@@ -2403,9 +2407,11 @@ mailin8r.com
 mailinatar.com
 mailinater.com
 mailinator.cf
+mailinator.co.uk
 mailinator.com
 mailinator.ga
 mailinator.gq
+mailinator.info
 mailinator.net
 mailinator.org
 mailinator.pl
@@ -2444,7 +2450,6 @@ mailsac.ga
 mailsac.gq
 mailsac.ml
 mailsac.tk
-mailscrap.com
 mailserver2.cf
 mailserver2.ga
 mailserver2.ml
@@ -2476,6 +2481,7 @@ mailz.info.tm
 mailzen.win
 mailzi.ru
 mailzilla.com
+majorleaguemail.com
 makasarpost.cf
 makemenaughty.club
 makemetheking.com
@@ -2775,7 +2781,6 @@ nginbox.tk
 nguyenusedcars.com
 nicegarden.us
 nicewoodenbaskets.com
-nickbizimisimiz.ml
 nie-podam.pl
 niepodam.pl
 nigge.rs
@@ -2894,6 +2899,7 @@ oneoffmail.com
 onewaymail.com
 onlatedotcom.info
 online.ms
+onlineidea.info
 onmail.win
 onprice.co
 oolus.com
@@ -3310,6 +3316,7 @@ saab9-4x.tk
 saab9-5.tk
 saab9-7x.tk
 saab900.tk
+saabaru.cf
 saabcars.cf
 saabcars.ml
 saabcars.tk
@@ -3619,6 +3626,7 @@ sportylife.us
 spr.io
 spybox.de
 squirtsnap.com
+sqxx.net
 sraka.xyz
 sroff.com
 ss-hitler.cf
@@ -3628,7 +3636,6 @@ ss-hitler.ml
 ss-hitler.tk
 ss02.tk
 sso-demo-okta.com
-ssoia.com
 sssppua.cf
 sssppua.ga
 sssppua.gq
@@ -3944,7 +3951,6 @@ trashinbox.net
 trashmail.at
 trashmail.com
 trashmail.de
-trashmail.ga
 trashmail.gq
 trashmail.io
 trashmail.me
@@ -4220,6 +4226,7 @@ wee.my
 weg-beschlussbuch.de
 weg-werf-email.de
 wegas.ru
+wegwerf-email.net
 wegwerf-emails.de
 wegwerfadresse.de
 wegwerfemail.com
@@ -4268,6 +4275,7 @@ whitemail.ga
 wholesaleelec.tk
 whtjddn.33mail.com
 wicked-game.tk
+wicked.cricket
 wickmail.net
 widget.gg
 wierie.tk
