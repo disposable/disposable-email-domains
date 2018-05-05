@@ -328,7 +328,6 @@ amail.men
 amail4.me
 amav.ro
 amazon-aws.org
-amelabs.com
 amex-online.ga
 amex-online.gq
 amex-online.ml
@@ -610,6 +609,7 @@ boximail.com
 boxtemp.com.br
 brainonfire.net
 breakthru.com
+brennendesreich.de
 bring-luck.pw
 bringluck.pw
 british-leyland.cf
@@ -761,6 +761,7 @@ cko.kr
 ckoie.com
 clandest.in
 clay.xyz
+clean.pro
 clendere.asia
 clickanerd.net
 clinicatbf.com
@@ -1507,10 +1508,6 @@ ginzi.be
 ginzi.eu
 ginzi.net
 ginzy.eu
-giooig.cf
-giooig.ga
-giooig.gq
-giooig.ml
 giooig.tk
 girlmail.win
 gishpuppy.com
@@ -1828,6 +1825,7 @@ ipemail.win
 ippandansei.tk
 ipswell.com
 iqemail.win
+iroid.com
 ironiebehindert.de
 irr.kr
 isdaq.com
@@ -2140,6 +2138,7 @@ l7b2l47k.com
 labo.ch
 lacedmail.com
 lackmail.net
+lackmail.ru
 ladymacbeth.tk
 lags.us
 lagushare.me
@@ -2324,7 +2323,6 @@ mail.crowdpress.it
 mail.fast10s.design
 mail.fettometern.com
 mail.hanungofficial.club
-mail.libivan.com
 mail.me
 mail.mezimages.net
 mail.mnisjk.com
@@ -2391,7 +2389,6 @@ mailf5.com
 mailfa.cf
 mailfa.tk
 mailfall.com
-mailfish.de
 mailforspam.com
 mailfree.ml
 mailfs.com
@@ -2899,7 +2896,6 @@ oneoffmail.com
 onewaymail.com
 onlatedotcom.info
 online.ms
-onlineidea.info
 onmail.win
 onprice.co
 oolus.com
@@ -3115,6 +3111,7 @@ qbmail.bid
 qc.to
 qiaua.com
 qibl.at
+qiq.us
 qisdo.com
 qisoa.com
 qocya.com
@@ -3230,6 +3227,11 @@ resolution4print.info
 rethmail.ga
 retkesbusz.nut.cc
 revolvingdoorhoax.org
+rexagod.cf
+rexagod.ga
+rexagod.gq
+rexagod.ml
+rexagod.tk
 rfc822.org
 rgb9000.net
 rgphotos.net
@@ -3316,7 +3318,6 @@ saab9-4x.tk
 saab9-5.tk
 saab9-7x.tk
 saab900.tk
-saabaru.cf
 saabcars.cf
 saabcars.ml
 saabcars.tk
@@ -3479,10 +3480,6 @@ sink.fblay.com
 sinnlos-mail.de
 sino.tw
 siteposter.net
-six-six-six.cf
-six-six-six.ga
-six-six-six.gq
-six-six-six.ml
 six-six-six.tk
 sizzlemctwizzle.com
 skeefmail.com
@@ -3568,7 +3565,6 @@ spambox.org
 spambox.us
 spamcannon.com
 spamcannon.net
-spamcero.com
 spamcon.org
 spamcorptastic.com
 spamcowboy.com
@@ -3810,7 +3806,6 @@ tempekmuta.gq
 tempemail.biz
 tempemail.com
 tempemail.net
-tempemail.pro
 tempemails.io
 tempinbox.co.uk
 tempinbox.com
@@ -4226,7 +4221,6 @@ wee.my
 weg-beschlussbuch.de
 weg-werf-email.de
 wegas.ru
-wegwerf-email.net
 wegwerf-emails.de
 wegwerfadresse.de
 wegwerfemail.com
@@ -4400,6 +4394,7 @@ yabai-oppai.tk
 yadavnaresh.com.np
 yahmail.top
 yahomail.top
+yale.edu.auction
 yamail.win
 yannmail.win
 yapped.net
