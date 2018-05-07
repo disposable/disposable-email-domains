@@ -52,6 +52,7 @@
 10minutemails.in
 10minutenemail.de
 10minutesmail.fr
+10minutesmail.net
 10minutmail.pl
 10vpn.info
 10x.es
@@ -333,6 +334,7 @@ amail.men
 amail4.me
 amav.ro
 amazon-aws.org
+amelabs.com
 amex-online.ga
 amex-online.gq
 amex-online.ml
@@ -618,6 +620,7 @@ boximail.com
 boxtemp.com.br
 brainonfire.net
 breakthru.com
+brennendesreich.de
 bring-luck.pw
 bringluck.pw
 british-leyland.cf
@@ -1055,6 +1058,7 @@ dontsendmespam.de
 dooboop.com
 doquier.tk
 dot-ml.tk
+dotmsg.com
 doughmaine.xyz
 doxcity.net
 doy.kr
@@ -1097,7 +1101,6 @@ dwango.gq
 dwango.ml
 dwango.tk
 dweezlemail.crabdance.com
-dynu.net
 dz17.net
 dz57taerst4574.ga
 e-mail.com
@@ -1191,7 +1194,6 @@ emailspam.ml
 emailtech.info
 emailtemporanea.net
 emailtemporario.com.br
-emailthe.net
 emailto.de
 emailure.net
 emailwarden.com
@@ -1237,7 +1239,6 @@ ethereal.email
 ethereum1.top
 ethersports.org
 ethersportz.info
-etlgr.com
 etzdnetx.com
 euaqa.com
 eur-sec1.cf
@@ -1586,6 +1587,7 @@ gsrv.co.uk
 gta4etw4twtan53.gq
 gudanglowongan.com
 guerillamail.com
+guerillamail.de
 guerillamail.info
 guerillamail.net
 guerrillamail.biz
@@ -1635,6 +1637,7 @@ hanmama.zz.am
 happygoluckyclub.com
 happysinner.co.uk
 happyyou.pw
+haqed.com
 harakirimail.com
 hargaku.org
 haribu.com
@@ -1839,6 +1842,7 @@ ipemail.win
 ippandansei.tk
 ipswell.com
 iqemail.win
+iroid.com
 ironiebehindert.de
 irr.kr
 isdaq.com
@@ -2156,6 +2160,7 @@ l7b2l47k.com
 labo.ch
 lacedmail.com
 lackmail.net
+lackmail.ru
 ladymacbeth.tk
 lags.us
 lagushare.me
@@ -2349,6 +2354,7 @@ mail.crowdpress.it
 mail.fast10s.design
 mail.fettometern.com
 mail.hanungofficial.club
+mail.libivan.com
 mail.me
 mail.mezimages.net
 mail.mnisjk.com
@@ -2721,6 +2727,7 @@ myfaceb00k.ga
 myfaceb00k.gq
 myfaceb00k.ml
 myfaceb00k.tk
+myfake.cf
 myfake.tk
 myfakemail.tk
 myindohome.services
@@ -3239,6 +3246,7 @@ redpeanut.com
 redpen.trade
 reftoken.net
 regspaces.tk
+rejectmail.com
 rejo.technology
 reksareksy78oy.ml
 reliable-mail.com
@@ -3388,7 +3396,6 @@ salmeow.tk
 salonyfryzjerskie.info
 samatante.ml
 samsclass.info
-samsunggalaxys9.tk
 sandelf.de
 sandre.cf
 sandre.ga
@@ -3456,6 +3463,7 @@ selowhellboy.ga
 selowhellboy.gq
 selowhellboy.ml
 semangat99.cf
+semarhouse.tk
 send-email.org
 sendfree.org
 sendingspecialflyers.com
@@ -3612,6 +3620,7 @@ spambox.org
 spambox.us
 spamcannon.com
 spamcannon.net
+spamcero.com
 spamcon.org
 spamcorptastic.com
 spamcowboy.com
@@ -3680,6 +3689,7 @@ ss-hitler.tk
 ss.0x01.tk
 ss02.tk
 sso-demo-okta.com
+ssoia.com
 sssppua.cf
 sssppua.ga
 sssppua.gq
@@ -3992,6 +4002,7 @@ trash2009.com
 trash247.com
 trashbox.eu
 trashcanmail.com
+trashdevil.de
 trashemails.de
 trashinbox.net
 trashmail.at
@@ -4087,6 +4098,7 @@ unicredit.tk
 unids.com
 unimark.org
 unlimit.com
+unn.edu.auction
 unpastore.co
 uny.kr
 uphomail.ga
@@ -4279,6 +4291,7 @@ wee.my
 weg-beschlussbuch.de
 weg-werf-email.de
 wegas.ru
+wegwerf-email.net
 wegwerf-emails.de
 wegwerfadresse.de
 wegwerfemail.com
@@ -4517,6 +4530,7 @@ yt6erya4646yf.gq
 ytpayy.com
 yugfbjghbvh8v67.ml
 yughfdjg67ff.ga
+yui.it
 yuuywil.date
 yxzx.net
 yyhmail.com
