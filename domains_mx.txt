@@ -52,7 +52,6 @@
 10minutemails.in
 10minutenemail.de
 10minutesmail.fr
-10minutesmail.net
 10minutmail.pl
 10vpn.info
 10x.es
@@ -98,7 +97,6 @@
 2019x.ml
 20boxme.org
 20email.eu
-20mail.in
 20mail.it
 20minute.email
 20minutemail.com
@@ -620,7 +618,6 @@ boximail.com
 boxtemp.com.br
 brainonfire.net
 breakthru.com
-brennendesreich.de
 bring-luck.pw
 bringluck.pw
 british-leyland.cf
@@ -721,6 +718,7 @@ ceweknakal.ga
 ceweknakal.ml
 cfo2go.ro
 cghdgh4e56fg.ga
+chacuo.net
 chaichuang.com
 chammy.info
 channel9.cf
@@ -777,6 +775,7 @@ clendere.asia
 clickanerd.net
 clinicatbf.com
 clintonemailhearing.com
+clipmail.eu
 clixser.com
 cloud99.pro
 cloud99.top
@@ -1013,7 +1012,6 @@ disposableaddress.com
 disposableemailaddresses.com
 disposableinbox.com
 disposablemail.space
-dispose.it
 dispostable.com
 divad.ga
 divismail.ru
@@ -1194,6 +1192,7 @@ emailspam.ml
 emailtech.info
 emailtemporanea.net
 emailtemporario.com.br
+emailthe.net
 emailto.de
 emailure.net
 emailwarden.com
@@ -1239,6 +1238,7 @@ ethereal.email
 ethereum1.top
 ethersports.org
 ethersportz.info
+etlgr.com
 etzdnetx.com
 euaqa.com
 eur-sec1.cf
@@ -1587,7 +1587,6 @@ gsrv.co.uk
 gta4etw4twtan53.gq
 gudanglowongan.com
 guerillamail.com
-guerillamail.de
 guerillamail.info
 guerillamail.net
 guerrillamail.biz
@@ -1712,6 +1711,7 @@ hotmails.com
 hotpop.com
 hotprice.co
 hous.craigslist.org
+housat.com
 housemail.ga
 hqcatbgr356z.ga
 hrb67.tk
@@ -1732,7 +1732,6 @@ hurramm.us
 hurrijian.us
 hush.ai
 hush.com
-hushmail.cf
 hvastudiesucces.nl
 hvtechnical.com
 hvzoi.com
@@ -1752,7 +1751,6 @@ ibsats.com
 iccmail.men
 icetmail.ga
 icfu.mooo.com
-ichbinvollcool.de
 ichichich.faith
 ichigo.me
 icraftx.net
@@ -1760,6 +1758,7 @@ icx.ro
 ideepmind.pw
 idigo.org
 ieatspam.info
+ieh-mail.de
 if58.cf
 if58.gq
 if58.tk
@@ -2028,6 +2027,7 @@ kazelink.ml
 kazper.net
 kcrw.de
 kdfgedrdf57mmj.ga
+kebl0bogzma.ga
 keeplucky.pw
 keepmymail.com
 kehangatan.ga
@@ -2160,7 +2160,6 @@ l7b2l47k.com
 labo.ch
 lacedmail.com
 lackmail.net
-lackmail.ru
 ladymacbeth.tk
 lags.us
 lagushare.me
@@ -2354,7 +2353,6 @@ mail.crowdpress.it
 mail.fast10s.design
 mail.fettometern.com
 mail.hanungofficial.club
-mail.libivan.com
 mail.me
 mail.mezimages.net
 mail.mnisjk.com
@@ -2421,6 +2419,7 @@ mailf5.com
 mailfa.cf
 mailfa.tk
 mailfall.com
+mailfish.de
 mailforspam.com
 mailfree.ml
 mailfs.com
@@ -2774,10 +2773,6 @@ napalm51.ga
 napalm51.gq
 napalm51.tk
 naturalious.com
-nazimail.cf
-nazimail.ga
-nazimail.gq
-nazimail.ml
 nazimail.tk
 nbhsssib.fun
 nbox.notif.me
@@ -3246,7 +3241,6 @@ redpeanut.com
 redpen.trade
 reftoken.net
 regspaces.tk
-rejectmail.com
 rejo.technology
 reksareksy78oy.ml
 reliable-mail.com
@@ -3372,6 +3366,7 @@ saab9-4x.tk
 saab9-5.tk
 saab9-7x.tk
 saab900.tk
+saabaru.ml
 saabcars.cf
 saabcars.ml
 saabcars.tk
@@ -3463,7 +3458,6 @@ selowhellboy.ga
 selowhellboy.gq
 selowhellboy.ml
 semangat99.cf
-semarhouse.tk
 send-email.org
 sendfree.org
 sendingspecialflyers.com
@@ -3681,13 +3675,10 @@ squirtsnap.com
 sqxx.net
 sraka.xyz
 sroff.com
-ss-hitler.cf
-ss-hitler.ga
-ss-hitler.gq
-ss-hitler.ml
 ss-hitler.tk
 ss.0x01.tk
 ss02.tk
+ssangyong.cf
 sso-demo-okta.com
 ssoia.com
 sssppua.cf
@@ -3895,10 +3886,6 @@ tert353ayre6tw.ml
 test.com
 test.crowdpress.it
 test.de
-testoh.cf
-testoh.ga
-testoh.gq
-testoh.ml
 testoh.tk
 texac0.cf
 texac0.ga
@@ -4098,7 +4085,6 @@ unicredit.tk
 unids.com
 unimark.org
 unlimit.com
-unn.edu.auction
 unpastore.co
 uny.kr
 uphomail.ga
