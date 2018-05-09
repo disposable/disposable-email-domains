@@ -52,6 +52,7 @@
 10minutemails.in
 10minutenemail.de
 10minutesmail.fr
+10minutesmail.net
 10minutmail.pl
 10vpn.info
 10x.es
@@ -535,7 +536,6 @@ beeviee1.tk
 begoz.com
 bei.kr
 bel.kr
-belamail.org
 beo.kr
 berlusconi.cf
 berlusconi.ga
@@ -565,7 +565,6 @@ bho.hu
 bho.kr
 bigstring.com
 bin.8191.at
-binka.me
 binkmail.com
 binnary.com
 bio-muesli.net
@@ -770,12 +769,10 @@ cko.kr
 ckoie.com
 clandest.in
 clay.xyz
-clean.pro
 clendere.asia
 clickanerd.net
 clinicatbf.com
 clintonemailhearing.com
-clipmail.eu
 clixser.com
 cloud99.pro
 cloud99.top
@@ -1012,6 +1009,7 @@ disposableaddress.com
 disposableemailaddresses.com
 disposableinbox.com
 disposablemail.space
+dispose.it
 dispostable.com
 divad.ga
 divismail.ru
@@ -1056,7 +1054,6 @@ dontsendmespam.de
 dooboop.com
 doquier.tk
 dot-ml.tk
-dotmsg.com
 doughmaine.xyz
 doxcity.net
 doy.kr
@@ -1587,6 +1584,7 @@ gsrv.co.uk
 gta4etw4twtan53.gq
 gudanglowongan.com
 guerillamail.com
+guerillamail.de
 guerillamail.info
 guerillamail.net
 guerrillamail.biz
@@ -1708,6 +1706,7 @@ hostmonitor.net
 hotakama.tk
 hotmai.com
 hotmails.com
+hotmial.com
 hotpop.com
 hotprice.co
 hous.craigslist.org
@@ -1751,6 +1750,7 @@ ibsats.com
 iccmail.men
 icetmail.ga
 icfu.mooo.com
+ichatz.ga
 ichichich.faith
 ichigo.me
 icraftx.net
@@ -2027,7 +2027,6 @@ kazelink.ml
 kazper.net
 kcrw.de
 kdfgedrdf57mmj.ga
-kebl0bogzma.ga
 keeplucky.pw
 keepmymail.com
 kehangatan.ga
@@ -2160,6 +2159,7 @@ l7b2l47k.com
 labo.ch
 lacedmail.com
 lackmail.net
+lackmail.ru
 ladymacbeth.tk
 lags.us
 lagushare.me
@@ -2353,6 +2353,7 @@ mail.crowdpress.it
 mail.fast10s.design
 mail.fettometern.com
 mail.hanungofficial.club
+mail.libivan.com
 mail.me
 mail.mezimages.net
 mail.mnisjk.com
@@ -2672,10 +2673,6 @@ mp-j.tk
 mpaaf.tk
 mr24.co
 mrblacklist.gq
-mrossi.cf
-mrossi.ga
-mrossi.gq
-mrossi.ml
 mrresourcepacks.tk
 ms365.ml
 msgden.com
@@ -2930,7 +2927,6 @@ oneoffmail.com
 onewaymail.com
 onlatedotcom.info
 online.ms
-onlineidea.info
 onmail.win
 onprice.co
 oolus.com
@@ -3366,7 +3362,6 @@ saab9-4x.tk
 saab9-5.tk
 saab9-7x.tk
 saab900.tk
-saabaru.ml
 saabcars.cf
 saabcars.ml
 saabcars.tk
@@ -3424,7 +3419,6 @@ schachrol.com
 schafmail.de
 schmid.cf
 schmid.ga
-schrott-email.de
 scmail.cf
 sd3.in
 sdf.org
@@ -3678,7 +3672,6 @@ sroff.com
 ss-hitler.tk
 ss.0x01.tk
 ss02.tk
-ssangyong.cf
 sso-demo-okta.com
 ssoia.com
 sssppua.cf

@@ -2865,6 +2865,7 @@ iccmail.men
 icemovie.link
 icetmail.ga
 icfu.mooo.com
+ichatz.ga
 ichbinvollcool.de
 ichichich.faith
 ichigo.me
@@ -3272,7 +3273,6 @@ kazper.net
 kchkch.com
 kcrw.de
 kdfgedrdf57mmj.ga
-kebl0bogzma.ga
 keeplucky.pw
 keepmymail.com
 kehangatan.ga
@@ -5251,7 +5251,6 @@ saab900.ga
 saab900.gq
 saab900.ml
 saab900.tk
-saabaru.ml
 saabcars.cf
 saabcars.ga
 saabcars.gq
@@ -5738,7 +5737,6 @@ ss02.ga
 ss02.gq
 ss02.ml
 ss02.tk
-ssangyong.cf
 ssgjylc1013.com
 sso-demo-okta.com
 ssoia.com
