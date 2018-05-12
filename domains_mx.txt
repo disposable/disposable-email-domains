@@ -131,6 +131,7 @@
 44556677.igg.biz
 4gfdsgfdgfd.tk
 4mail.cf
+4mail.ga
 4nmv.ru
 4w.io
 4warding.net
@@ -655,8 +656,6 @@ buyprice.co
 bwa33.net
 byebyemail.com
 byom.de
-c-mail.cf
-c-mail.gq
 c.andreihusanu.ro
 c.nut.emailfake.nut.cc
 c.safe-mail.gq
@@ -1105,6 +1104,7 @@ dwango.gq
 dwango.ml
 dwango.tk
 dweezlemail.crabdance.com
+dynu.net
 dz17.net
 dz57taerst4574.ga
 e-mail.com
@@ -1123,7 +1123,6 @@ easy-trash-mail.com
 easymail.ga
 easynetwork.info
 easytrashmail.com
-eatme69.top
 eatmea2z.club
 eatmea2z.top
 eatrnet.com
@@ -1564,6 +1563,7 @@ gotimes.xyz
 gotmail.com
 gotmail.org
 gotti.otherinbox.com
+governo.ml
 govnomail.xyz
 gree.gq
 greencoepoe.cf
@@ -2323,10 +2323,6 @@ luo.kr
 lupabapak.org
 lusianna.ml
 lzoaq.com
-m-mail.cf
-m-mail.ga
-m-mail.gq
-m-mail.ml
 m-x.mysafe.ml
 m.safe-mail.gq
 m.svlp.net
@@ -2370,7 +2366,6 @@ mail.stars19.xyz
 mail.unionpay.pl
 mail.zp.ua
 mail114.net
-mail1999.ga
 mail1999.tk
 mail1a.de
 mail2.space
@@ -2529,7 +2524,6 @@ mall.tko.co.kr
 mallinator.com
 malove.site
 mamber.net
-mandraghen.cf
 manifestgenerator.com
 mankyrecords.com
 mansiondev.com
@@ -3197,10 +3191,6 @@ qwertymail.tk
 qwertyuiop.tk
 qwfox.com
 qwqrwsf.date
-r-mail.cf
-r-mail.ga
-r-mail.gq
-r-mail.ml
 r4nd0m.de
 ra3.us
 rabin.ca
@@ -3245,7 +3235,6 @@ rax.la
 rbb.org
 rblx.site
 rcpt.at
-readyforyou.ga
 reality-concept.club
 reallymymail.com
 realtyalerts.ca
@@ -3367,8 +3356,6 @@ rvb.ro
 rxtx.us
 ryanb.com
 ryumail.net
-s-mail.ga
-s-mail.gq
 s-s.flu.cc
 s-s.igg.biz
 s-s.nut.cc
@@ -3816,7 +3803,6 @@ svip520.cn
 svk.jp
 svxr.org
 sweetpotato.ml
-sweetxxx.de
 syujob.accountants
 szerz.com
 sztyweta46.ga
@@ -4416,7 +4402,6 @@ wwwnew.eu
 wxnw.net
 wyvernia.net
 wzukltd.com
-x-mail.cf
 x.0x01.tk
 x24.com
 xbaby69.top
@@ -4470,14 +4455,12 @@ xwaretech.info
 xwaretech.net
 xww.ro
 xx-9.tk
-xxolocanto.us
+xxme.me
 xxqx3802.com
 xy9ce.tk
 xyzmail.men
-y0up0rn.cf
 y0up0rn.ga
 y0up0rn.gq
-y0up0rn.ml
 y0up0rn.tk
 ya.yomail.info
 yabai-oppai.tk
@@ -4549,9 +4532,6 @@ yui.it
 yuuywil.date
 yxzx.net
 yyhmail.com
-z-mail.cf
-z-mail.ga
-z-mail.gq
 z-mild.ga
 z0d.eu
 z1p.biz

@@ -2558,6 +2558,7 @@ gotmail.com
 gotmail.net
 gotmail.org
 gotti.otherinbox.com
+governo.ml
 govnomail.xyz
 gowikibooks.com
 gowikicampus.com
@@ -5076,7 +5077,6 @@ rcpt.at
 rcs7.xyz
 rdklcrv.xyz
 re-gister.com
-readyforyou.ga
 reality-concept.club
 reallymymail.com
 realtyalerts.ca
