@@ -51,7 +51,6 @@
 10minutemail.net
 10minutemail.nl
 10minutemail.org
-10minutemail.pro
 10minutemailbox.com
 10minutemails.in
 10minutenemail.de
@@ -480,6 +479,7 @@ babau.gq
 babau.ml
 backalleybowling.info
 backflip.cf
+backmail.ml
 baconsoi.tk
 badamm.us
 badgerland.eu
@@ -1092,7 +1092,6 @@ dwango.gq
 dwango.ml
 dwango.tk
 dweezlemail.crabdance.com
-dynu.net
 dz17.net
 dz57taerst4574.ga
 e-mail.com
@@ -1298,7 +1297,6 @@ fca-nv.tk
 fcgfdsts.ga
 fddns.ml
 feamail.com
-febbraio.gq
 fellow-me.pw
 fellowme.pw
 fetchnet.co.uk
@@ -1373,6 +1371,7 @@ forexjobing.ml
 forgetmail.com
 forprice.co
 forspam.net
+forward.cat
 foxja.com
 foxtrotter.info
 foy.kr
@@ -3353,8 +3352,6 @@ saabaru.ga
 saabaru.gq
 saabaru.ml
 saabaru.tk
-saabcars.cf
-saabcars.ml
 saabcars.tk
 saabgroup.tk
 sabrestlouis.com
@@ -3755,7 +3752,6 @@ superplatyna.com
 superrito.com
 superstachel.de
 suremail.info
-suremail.ml
 surfmail.tk
 sususegarcoy.tk
 sutann.us
@@ -4073,6 +4069,7 @@ unicredit.tk
 unids.com
 unimark.org
 unlimit.com
+unn.edu.auction
 unpastore.co
 uny.kr
 uphomail.ga
