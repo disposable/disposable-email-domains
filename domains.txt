@@ -7852,7 +7852,6 @@ mail-temp.com
 mail-temporaire.com
 mail-temporaire.fr
 mail-tester.com
-mail-z.ml
 mail.aws910.com
 mail.backflip.cf
 mail.bccto.com
@@ -12276,6 +12275,7 @@ trxubcfbyu73vbg.ga
 trxubcfbyu73vbg.ml
 trxubcfbyu73vbg.tk
 tryalert.com
+tryninja.io
 tryprice.co
 tryuf5m9hzusis8i.cf
 tryuf5m9hzusis8i.ga
