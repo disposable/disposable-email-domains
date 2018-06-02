@@ -838,6 +838,7 @@ arvato-community.de
 as.onlysext.com
 asahi.cf
 asahi.ga
+asd.storeyee.com
 asdasd.nl
 asdfasdfmail.net
 asdfmail.net
@@ -938,8 +939,6 @@ ballsofsteel.net
 bandai.nom.co
 banit.club
 banit.me
-banjarworo.ga
-banjarworo.ml
 banjarworocity.cf
 baomoi.site
 barclays-plc.tk
@@ -1359,7 +1358,6 @@ codyting.com
 coepoe.cf
 coepoe.ga
 coepoe.tk
-coepoebete.ga
 coepoekorea.ml
 coieo.com
 coiosidkry57hg.gq
@@ -1922,7 +1920,6 @@ ejh3ztqvlw.ga
 ejh3ztqvlw.tk
 ekii.cf
 ekiiajah.ga
-ekiibete.ml
 ekiibeteaja.cf
 ekiibetekorea.tk
 ekiikorea99.cf
@@ -2935,10 +2932,6 @@ inji4voqbbmr.gq
 inji4voqbbmr.ml
 inmynetwork.cf
 inmynetwork.tk
-inrim.cf
-inrim.ga
-inrim.gq
-inrim.ml
 inrim.tk
 insorg-mail.info
 instafun.men
@@ -3796,7 +3789,6 @@ mail.crowdpress.it
 mail.fast10s.design
 mail.fettometern.com
 mail.hanungofficial.club
-mail.libivan.com
 mail.me
 mail.mezimages.net
 mail.mnisjk.com
@@ -4208,6 +4200,11 @@ mxbin.net
 mxheesfgh38tlk.ga
 mxheesfgh38tlk.gq
 mxheesfgh38tlk.ml
+my-webmail.cf
+my-webmail.ga
+my-webmail.gq
+my-webmail.ml
+my-webmail.tk
 my.longaid.net
 my.safe-mail.gq
 my10minutemail.com
@@ -4457,6 +4454,11 @@ nrhskhmb6nwmpu5hii.ml
 nrhskhmb6nwmpu5hii.tk
 nsbwsgctktocba.ml
 nsbwsgctktocba.tk
+nsk1vbz.cf
+nsk1vbz.ga
+nsk1vbz.gq
+nsk1vbz.ml
+nsk1vbz.tk
 ntlhelp.net
 ntudofutluxmeoa.ga
 ntudofutluxmeoa.ml
@@ -4781,7 +4783,6 @@ polkaidot.ml
 polres-aeknabara.cf
 pooae.com
 pookmail.com
-pop3.xyz
 popconn.party
 popesodomy.com
 popmail.io
@@ -4896,7 +4897,6 @@ putfs6fbkicck.tk
 puttanamaiala.tk
 putthisinyourspamdatabase.com
 puyenkgel50ccb.ml
-pw-mail.cf
 pw-mail.ga
 pw-mail.ml
 pw-mail.tk
@@ -5354,8 +5354,6 @@ scay.net
 scbox.one.pl
 schachrol.com
 schafmail.de
-schmid.cf
-schmid.ga
 schrott-email.de
 scmail.cf
 sctbmkxmh0xwt3.gq
@@ -6931,7 +6929,6 @@ zebins.eu
 zebra.email
 zebua.cf
 zebuaboy.cf
-zebuasadis.ml
 zehnminutenmail.de
 zepp.dk
 zer-0.cf
