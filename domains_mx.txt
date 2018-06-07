@@ -54,10 +54,6 @@
 0w.ro
 0wnd.net
 0wnd.org
-0x000.cf
-0x000.ga
-0x000.gq
-0x000.ml
 0x01.gq
 0x01.tk
 0x02.cf
@@ -71,7 +67,6 @@
 0zspgifzbo.gq
 0zspgifzbo.ml
 0zspgifzbo.tk
-1.mysafe.ml
 101price.co
 10host.top
 10launcheds.com
@@ -162,7 +157,6 @@
 1spcziorgtfpqdo.tk
 1usemail.com
 2.emailfake.ml
-2.mymy.cf
 2012-2016.ru
 2014mail.ru
 2018-12-23.ga
@@ -229,7 +223,6 @@
 2zpph1mgg70hhub.cf
 2zpph1mgg70hhub.ga
 2zpph1mgg70hhub.tk
-3.mymy.cf
 30minutenmail.eu
 30wave.com
 31k.it
@@ -289,7 +282,6 @@
 3xophlbc5k3s2d6tb.ga
 3xophlbc5k3s2d6tb.ml
 3xophlbc5k3s2d6tb.tk
-4.mymy.cf
 4057.com
 4059.com
 418.dk
@@ -405,10 +397,6 @@
 5vlimcrvbyurmmllcw0.tk
 5x25.com
 5ymail.com
-6-6-6.flu.cc
-6-6-6.igg.biz
-6-6-6.nut.cc
-6-6-6.usa.cc
 6.emailfake.ml
 60minutemail.com
 65uwtobxcok66.cf
@@ -504,6 +492,7 @@
 84rhilv8mm3xut2.ga
 84rhilv8mm3xut2.gq
 888z5.tk
+88clean.pro
 8chan.co
 8e6d9wk7a19vedntm35.gq
 8e6d9wk7a19vedntm35.ml
@@ -586,7 +575,6 @@
 a-b.co.za
 a-bc.net
 a.a.fbmail.usa.cc
-a.safe-mail.gq
 a02sjv3e4e8jk4liat.cf
 a02sjv3e4e8jk4liat.gq
 a02sjv3e4e8jk4liat.ml
@@ -807,13 +795,11 @@ aoeiualk36g.ml
 aoeuhtns.com
 aolinemail.cf
 aolinemail.ga
-ap.mysafe.ml
 apcm29te8vgxwrcqq.ga
 apcm29te8vgxwrcqq.ml
 apfelkorps.de
 apkmd.com
 apoyrwyr.gq
-app.mymy.cf
 appc.se
 appinventor.nl
 appixie.com
@@ -872,10 +858,6 @@ ateng.ml
 atengtom.cf
 atenk99.ml
 audi-r8.tk
-audi-tt.cf
-audi-tt.ga
-audi-tt.gq
-audi-tt.ml
 audi-tt.tk
 audrey11reveley.ga
 auey1wtgcnucwr.ga
@@ -911,7 +893,6 @@ ayuh.myvnc.com
 azazazatashkent.tk
 azcomputerworks.com
 azmeil.tk
-b.safe-mail.gq
 b2bx.net
 b2email.win
 b2g6anmfxkt2t.cf
@@ -1104,6 +1085,7 @@ br6qtmllquoxwa.ml
 br6qtmllquoxwa.tk
 brainonfire.net
 breakthru.com
+brefmail.com
 brennendesreich.de
 bring-luck.pw
 bringluck.pw
@@ -1179,7 +1161,6 @@ bzmt6ujofxe3.ga
 bzmt6ujofxe3.tk
 c.andreihusanu.ro
 c.nut.emailfake.nut.cc
-c.safe-mail.gq
 c0rtana.tk
 c0sau0gpflgqv0uw2sg.ga
 c0sau0gpflgqv0uw2sg.gq
@@ -1267,7 +1248,6 @@ cgrtstm0x4px.cf
 cgrtstm0x4px.gq
 cgrtstm0x4px.ml
 cgrtstm0x4px.tk
-chacuo.net
 chaichuang.com
 chammy.info
 channel9.cf
@@ -1522,10 +1502,6 @@ daimlerag.ga
 daimlerag.gq
 daimlerag.ml
 daimlerag.tk
-dait.cf
-dait.ga
-dait.gq
-dait.ml
 dait.tk
 damanik.ga
 damanik.tk
@@ -1670,7 +1646,6 @@ dlpt7ksggv.ga
 dlpt7ksggv.gq
 dlpt7ksggv.ml
 dlpt7ksggv.tk
-dm.j7.cloudns.cx
 dm.w3internet.co.uk
 dm9bqwkt9i2adyev.ga
 dm9bqwkt9i2adyev.ml
@@ -1946,7 +1921,6 @@ emailage.cf
 emailfake.com
 emailfake.ml
 emailfake.nut.cc
-emailfake.usa.cc
 emailfreedom.ml
 emailgenerator.de
 emailgo.de
@@ -2025,7 +1999,6 @@ eruj33y5g1a8isg95.cf
 eruj33y5g1a8isg95.ga
 eruj33y5g1a8isg95.gq
 eryoritwd1.ga
-es.mysafe.ml
 esc.la
 ese.kr
 esemay.com
@@ -2052,10 +2025,6 @@ etlgr.com
 etoic.com
 etzdnetx.com
 euaqa.com
-eur-sec1.cf
-eur-sec1.ga
-eur-sec1.gq
-eur-sec1.ml
 eur-sec1.tk
 euromail.tk
 eveb5t5.cf
@@ -2067,7 +2036,6 @@ evt5et4.ga
 evt5et4.ml
 evt5et4.tk
 evyush.com
-ew.mysafe.ml
 ewa.kr
 ewt35ttwant35.tk
 ewuobxpz47ck7xaw.gq
@@ -2257,7 +2225,6 @@ francanet.com.br
 frapmail.com
 frappina.tk
 free-email.cf
-free.mysafe.ml
 freecat.net
 freelance-france.eu
 freeletter.me
@@ -2810,8 +2777,6 @@ i-3gk.cf
 i-booking.us
 i-taiwan.tv
 i.istii.ro
-i.mymy.cf
-i.safe-mail.gq
 i.xcode.ro
 i1uc44vhqhqpgqx.ga
 i1uc44vhqhqpgqx.gq
@@ -2825,8 +2790,6 @@ i4racpzge8.gq
 i537244.cf
 i537244.ga
 i537244.ml
-i6.cloudns.cc
-i6.cloudns.cx
 i774uhrksolqvthjbr.cf
 i774uhrksolqvthjbr.ga
 i774uhrksolqvthjbr.gq
@@ -3041,7 +3004,6 @@ izoli9afsktfu4mmf1.ga
 izoli9afsktfu4mmf1.ml
 j-keats.tk
 j-p.us
-j.safe-mail.gq
 j3rqt89ez.com
 j4rang0y4nk.ga
 j5vhmmbdfl.cf
@@ -3049,7 +3011,6 @@ j5vhmmbdfl.ga
 j5vhmmbdfl.gq
 j5vhmmbdfl.ml
 j5vhmmbdfl.tk
-j7.cloudns.cx
 jacckpot.site
 jacquelx.com
 jad32.cf
@@ -3123,7 +3084,6 @@ jiancokowe.gq
 jiancokowe.ml
 jieber.net
 jil.kr
-jj.0x01.tk
 jklasdf.com
 jkyvznnqlrc.ml
 jmail.fr.nf
@@ -3227,7 +3187,6 @@ jwtukew1xb1q.gq
 jwtukew1xb1q.ml
 jwtukew1xb1q.tk
 jyliananderik.com
-k.safe-mail.gq
 k2eztto1yij4c.gq
 k2idacuhgo3vzskgss.ga
 k2idacuhgo3vzskgss.gq
@@ -3341,7 +3300,6 @@ kjdo9rcqnfhiryi.cf
 kjdo9rcqnfhiryi.ga
 kjdo9rcqnfhiryi.ml
 kjhjgyht6ghghngh.ml
-klammlose.org
 klassmaster.com
 klick-tipp.us
 klipp.su
@@ -3469,7 +3427,6 @@ kzq6zi1o09d.ml
 kzw1miaisea8.ga
 kzw1miaisea8.tk
 l-c-a.us
-l.safe-mail.gq
 l0l.l1l.ink
 l0llbtp8yr.cf
 l0llbtp8yr.ga
@@ -3557,10 +3514,6 @@ letthemeatspam.com
 level-3.ga
 level-3.ml
 level-3.tk
-level3.flu.cc
-level3.igg.biz
-level3.nut.cc
-level3.usa.cc
 lew2sv9bgq4a.cf
 lew2sv9bgq4a.gq
 lew2sv9bgq4a.tk
@@ -3588,7 +3541,6 @@ lh2ulobnit5ixjmzmc.tk
 lhkjfg45bnvg.gq
 lhsdv.com
 libox.fr
-lifetotech.com
 lijeuki.co
 lillemap.net
 lilylee.com
@@ -3711,16 +3663,11 @@ lzoaq.com
 m-p-s.cf
 m-p-s.ga
 m-p-s.gq
-m-x.mysafe.ml
-m.safe-mail.gq
 m.svlp.net
 m00b2sryh2dt8.ga
 m00b2sryh2dt8.tk
 m2r60ff.com
 m4ilweb.info
-m5s.flu.cc
-m5s.igg.biz
-m5s.nut.cc
 m8r.davidfuhr.de
 m8r8ltmoluqtxjvzbev.cf
 m8r8ltmoluqtxjvzbev.ga
@@ -3759,6 +3706,7 @@ mail.by
 mail.crowdpress.it
 mail.fettometern.com
 mail.hanungofficial.club
+mail.libivan.com
 mail.me
 mail.mezimages.net
 mail.mnisjk.com
@@ -3959,13 +3907,11 @@ mbangilan.ga
 mbe.kr
 mbfc6ynhc0a.cf
 mboled.ml
-mbox.0x01.tk
 mbt01.cf
 mbt01.ga
 mbt01.gq
 mbt01.ml
 mbutm4xjem.ga
-mbx.mysafe.ml
 mcache.net
 mcdonald.cf
 mcdonald.gq
@@ -4125,7 +4071,6 @@ mskey.co
 mspeciosa.com
 mstyfdrydz57h6.cf
 msvvscs6lkkrlftt.ga
-msw.mymy.cf
 mswork.ru
 msxd.com
 mt2009.com
@@ -4221,7 +4166,6 @@ mytrashmailer.com
 mytrashmailr.com
 myzx.com
 mziqo.com
-n.safe-mail.gq
 n.spamtrap.co
 n00btajima.ga
 n0qyrwqgmm.ga
@@ -4484,7 +4428,6 @@ nywcmiftn8hwhj.ml
 nywcmiftn8hwhj.tk
 o.cfo2go.ro
 o.opendns.ro
-o.safe-mail.gq
 o.spamtrap.ro
 o13mbldrwqwhcjik.cf
 o13mbldrwqwhcjik.gq
@@ -4545,7 +4488,6 @@ oljdsjncat80kld.gq
 olypmall.ru
 omail.pro
 omnievents.org
-on-off.cloudns.cx
 one.pl
 onebiginbox.com
 onelegalplan.com
@@ -4622,9 +4564,7 @@ ozqn1it6h5hzzxfht0.tk
 ozumz.com
 ozyl.de
 p-gdl.tk
-p-w.mysafe.ml
 p.9q.ro
-p.safe-mail.gq
 p1nhompdgwn.cf
 p1nhompdgwn.ga
 p1nhompdgwn.gq
@@ -4637,7 +4577,6 @@ p8oan2gwrpbpvbh.tk
 pa9e.com
 pagamenti.tk
 pakadebu.ga
-pals-pay54.cf
 pancakemail.com
 pankx.cf
 pankx.ga
@@ -4652,17 +4591,12 @@ papierkorb.me
 paramail.cf
 parlimentpetitioner.tk
 partskyline.com
-passw0rd.cf
-passw0rd.ga
-passw0rd.gq
-passw0rd.ml
 passw0rd.tk
 pastebitch.com
 pasukanganas.tk
 paulkippes.com
 pavilionx2.com
 pay-pals.ml
-pay-pals5467.ml
 payperex2.com
 pb-shelley.tk
 pc1520.com
@@ -4878,8 +4812,6 @@ puyenkgel50ccb.ml
 pw-mail.ga
 pw-mail.ml
 pw-mail.tk
-pw.j7.cloudns.cx
-pw.mymy.cf
 pwjsdgofya4rwc.cf
 pwjsdgofya4rwc.ga
 pwp.lv
@@ -5195,7 +5127,6 @@ royal.net
 rpaowpro3l5ha.tk
 rppkn.com
 rr-group.tk
-rr.0x01.gq
 rrqkd9t5fhvo5bgh.ga
 rrqkd9t5fhvo5bgh.gq
 rtotlmail.net
@@ -5240,22 +5171,14 @@ ryzdgwkhkmsdikmkc.tk
 rzuduuuaxbqt.cf
 rzuduuuaxbqt.ml
 s-s.flu.cc
-s-s.igg.biz
-s-s.nut.cc
-s-s.usa.cc
-s.0x01.gq
 s.bloq.ro
 s.ea.vu
 s.proprietativalcea.ro
 s0ny.cf
-s0ny.flu.cc
 s0ny.ga
 s0ny.gq
-s0ny.igg.biz
 s0ny.ml
 s0ny.net
-s0ny.nut.cc
-s0ny.usa.cc
 s1xssanlgkgc.gq
 s1xssanlgkgc.ml
 s1xssanlgkgc.tk
@@ -5528,7 +5451,6 @@ sp.woot.at
 spa.com
 spam-en.de
 spam-nicht.de
-spam.0x01.tk
 spam.2012-2016.ru
 spam.care
 spam.dhsf.net
@@ -5614,7 +5536,6 @@ sraka.xyz
 sroff.com
 sry.li
 ss-hitler.tk
-ss.0x01.tk
 ss02.tk
 ssangyong.cf
 ssangyong.ga
@@ -5760,8 +5681,6 @@ t1bkooepcd.gq
 t3mtxgg11nt.ga
 t3mtxgg11nt.ml
 t3mtxgg11nt.tk
-t4.0x01.gq
-t4.0x01.tk
 t5vbxkpdsckyrdrp.cf
 t5vbxkpdsckyrdrp.ga
 t5vbxkpdsckyrdrp.gq
@@ -5928,7 +5847,6 @@ throwam.com
 throwawayemail.com
 throwawayemailaddress.com
 throwawaymail.com
-ths.mymy.cf
 thug.pw
 thund.cf
 thund.ga
@@ -5937,7 +5855,6 @@ thund.ml
 thund.tk
 thunkinator.org
 thxmate.com
-ti.igg.biz
 tic.ec
 tijdelijkmailadres.nl
 tinoza.org
@@ -6076,7 +5993,6 @@ ts93crz8fo5lnf.ga
 ts93crz8fo5lnf.gq
 ts93crz8fo5lnf.tk
 tspzeoypw35.ml
-tt.0x01.tk
 ttoubdzlowecm7i2ua8.tk
 ttt72pfc0g.cf
 ttt72pfc0g.gq
@@ -6103,13 +6019,10 @@ twinmail.de
 twlcd4i6jad6.gq
 twlcd4i6jad6.ml
 twocowmail.net
-tx.igg.biz
-txpwg.usa.cc
 txrsvu8dhhh2znppii.ga
 txrsvu8dhhh2znppii.gq
 txrsvu8dhhh2znppii.ml
 txrsvu8dhhh2znppii.tk
-txt.flu.cc
 txt10xqa7atssvbrf.cf
 txt10xqa7atssvbrf.ga
 txt10xqa7atssvbrf.gq
@@ -6294,10 +6207,6 @@ veldmail.ga
 vemomail.win
 venompen.com
 veo.kr
-ver0.cf
-ver0.ga
-ver0.gq
-ver0.ml
 ver0.tk
 verdejo.com
 vermutlich.net
@@ -6442,8 +6351,6 @@ vw-eos.ga
 vw-eos.gq
 vw-eos.ml
 vw-eos.tk
-vw.0x01.gq
-vw.0x01.tk
 vxqt4uv19oiwo7p.ga
 vxqt4uv19oiwo7p.gq
 vxqt4uv19oiwo7p.tk
@@ -6478,7 +6385,6 @@ wd0payo12t8o1dqp.ml
 wd0payo12t8o1dqp.tk
 wdsfbghfg77hj.gq
 we.lovebitco.in
-we.mysafe.ml
 wealthymoney.pw
 web-contact.info
 web-email.eu
@@ -6640,7 +6546,6 @@ wxnw.net
 wyvernia.net
 wzukltd.com
 wzxmtb3stvuavbx9hfu.cf
-x.0x01.tk
 x1bkskmuf4.cf
 x1bkskmuf4.ga
 x1bkskmuf4.gq
@@ -6814,7 +6719,6 @@ yep.it
 yeupmail.cf
 yewma46eta.ml
 yewmail.com
-yh.mysafe.ml
 yhcaturkl79jk.tk
 yhcaturxc69ol.ml
 yhjgh65hghgfj.tk
@@ -6830,9 +6734,7 @@ yogamaven.com
 yohomail.ga
 yohomail.ml
 yomail.info
-yoo.ro
 yood.org
-yop.0x01.gq
 yop.ze.cx
 yopmail.biz.st
 yopmail.com
@@ -6843,7 +6745,6 @@ yopmail.net
 yopmail.pp.ua
 yoru-dea.com
 you.e4ward.com
-you.mymy.cf
 youbestone.pw
 yougotgoated.com
 youmailr.com
