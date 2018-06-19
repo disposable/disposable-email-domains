@@ -206,7 +206,6 @@
 12minutemail.net
 12storage.com
 1337.email
-139.com
 13sasytkgb0qobwxat.cf
 13sasytkgb0qobwxat.ga
 13sasytkgb0qobwxat.gq
@@ -5190,6 +5189,10 @@ gigs.craigslist.org
 gilababi1.ml
 gilray.net
 gimesson.pe.hu
+ginn.cf
+ginn.gq
+ginn.ml
+ginn.tk
 ginzi.be
 ginzi.co.uk
 ginzi.es
@@ -7386,6 +7389,7 @@ lain.ch
 lajoska.pe.hu
 lakarunyha65jjh.ga
 lakelivingstonrealestate.com
+lakqs.com
 lal.kr
 lambadarew90bb.gq
 lamongan.cf
@@ -7397,6 +7401,7 @@ lancia.gq
 landmail.co
 laoeq.com
 laoho.com
+larisia.com
 larjem.com
 lasojcyjrcwi8gv.cf
 lasojcyjrcwi8gv.ga
@@ -11966,7 +11971,10 @@ temp2.club
 tempail.com
 tempalias.com
 tempe-mail.com
+tempekmuta.cf
+tempekmuta.ga
 tempekmuta.gq
+tempekmuta.ml
 tempemail.biz
 tempemail.co.za
 tempemail.com
