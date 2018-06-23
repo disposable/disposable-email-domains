@@ -159,7 +159,6 @@
 2.mymy.cf
 2000rebates.stream
 2012-2016.ru
-2014mail.ru
 2018-12-23.ga
 2019x.cf
 2019x.ga
@@ -282,6 +281,7 @@
 3xophlbc5k3s2d6tb.ga
 3xophlbc5k3s2d6tb.ml
 3xophlbc5k3s2d6tb.tk
+4.emailfake.ml
 4.mymy.cf
 4057.com
 4059.com
@@ -788,7 +788,6 @@ antichef.net
 antichef.org
 antireg.ru
 antispam.de
-anuan.tk
 anyalias.com
 anypen.accountant
 anywhere.pw
@@ -918,7 +917,6 @@ b6o7vt32yz.tk
 b83gritty1eoavex.gq
 b9x45v1m.com.com
 baban.ml
-babau.gq
 babau.ml
 backalleybowling.info
 backflip.cf
@@ -2927,7 +2925,6 @@ isf4e2tshuveu8vahhz.ga
 isf4e2tshuveu8vahhz.gq
 isf4e2tshuveu8vahhz.ml
 isf4e2tshuveu8vahhz.tk
-ispyco.ru
 istii.ro
 istlecker.de
 it-italy.tk
@@ -4604,7 +4601,6 @@ pebkit.ga
 pecinan.com
 pecinan.net
 pecinan.org
-pejovideomaker.tk
 pelor.ga
 pelor.tk
 penguincreationdate.pw
@@ -5098,7 +5094,6 @@ robot-mail.com
 robot2.club
 robot2.me
 rockkes.us
-roewe.cf
 rohingga.xyz
 rollsroyce-plc.tk
 ronnierage.net
@@ -5366,6 +5361,7 @@ sjrajufhwlb.ml
 skeefmail.com
 skg3qvpntq.tk
 skrx.tk
+skydrive.tk
 skymail.gq
 skypaluten.de
 skzokgmueb3gfvu.cf
@@ -6087,7 +6083,6 @@ umy.kr
 unicredit.tk
 unids.com
 unimark.org
-unlimit.com
 unpastore.co
 uny.kr
 uo8fylspuwh9c.ga
@@ -6320,10 +6315,6 @@ vvng8xzmv2.gq
 vvng8xzmv2.tk
 vw-ag.tk
 vw-cc.tk
-vw-eos.cf
-vw-eos.ga
-vw-eos.gq
-vw-eos.ml
 vw-eos.tk
 vw.0x01.gq
 vw.0x01.tk
@@ -6408,7 +6399,6 @@ wfrijgt4ke.gq
 wfrijgt4ke.ml
 wfrijgt4ke.tk
 wg0.com
-wh4f.org
 whatiaas.com
 whatifanalytics.com
 whatpaas.com
@@ -6520,6 +6510,7 @@ wyvernia.net
 wzukltd.com
 wzxmtb3stvuavbx9hfu.cf
 x.0x01.tk
+x.xxi2.com
 x1bkskmuf4.cf
 x1bkskmuf4.ga
 x1bkskmuf4.gq
