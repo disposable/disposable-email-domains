@@ -1,18 +1,3 @@
-https://emailfake.com:01bktwi2lzvg05.ml
-https://emailfake.com:5quq5vbtzswx.ml
-https://emailfake.com:dszg2aot8s3c.gq
-https://emailfake.com:e5r6ynr5.cf
-https://emailfake.com:ftgb2pko2h1eyql8xbu.gq
-https://emailfake.com:lemper.cf
-https://emailfake.com:lwmhcka58cbwi.cf
-https://emailfake.com:mic3eggekteqil8.tk
-https://emailfake.com:pgioa4ta46.ga
-https://emailfake.com:secure-fb.com
-https://emailfake.com:stelkendh00.ga
-https://emailfake.com:tarma.cf
-https://emailfake.com:vrou.ml
-https://emailfake.com:wd0payo12t8o1dqp.cf
-https://emailfake.com:zinmail.gq
 https://gist.githubusercontent.com/adamloving/4401361/raw/66688cf8ad890433b917f3230f44489aa90b03b7:0-mail.com
 https://gist.githubusercontent.com/adamloving/4401361/raw/66688cf8ad890433b917f3230f44489aa90b03b7:0815.ru
 https://gist.githubusercontent.com/adamloving/4401361/raw/66688cf8ad890433b917f3230f44489aa90b03b7:0clickemail.com
@@ -4482,6 +4467,7 @@ https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.js
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:duam.net
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:duck2.club
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:dudmail.com
+https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:dulei.ml
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:dumoac.net
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:dump-email.info
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:dumpandjunk.com
@@ -6167,6 +6153,7 @@ https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.js
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:hdfgh45gfjdgf.tk
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:hdfshsh.stream
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:hdprice.co
+https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:hedy.gq
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:heeco.me
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:hellodream.mobi
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:hellow-man.pw
@@ -8469,6 +8456,7 @@ https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.js
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:mediciine.site
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:mega.zik.dj
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:meinspamschutz.de
+https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:meltedbrownies.com
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:meltmail.com
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:mepf1zygtuxz7t4.cf
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:mepf1zygtuxz7t4.ga
@@ -11409,6 +11397,7 @@ https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.js
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:stacklance.com
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:stanford-edu.tk
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:starlight-breaker.net
+https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:starpower.space
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:startkeys.com
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:statdvr.com
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json:stathost.net
@@ -17979,6 +17968,7 @@ https://tempr.email:spambog.com
 https://tempr.email:spambog.de
 https://tempr.email:spambog.ru
 https://tempr.email:ss.0x01.tk
+https://tempr.email:star.0x01.tk
 https://tempr.email:starpower.space
 https://tempr.email:sweetxxx.de
 https://tempr.email:t4.0x01.gq
