@@ -500,7 +500,6 @@
 2zpph1mgg70hhub.gq
 2zpph1mgg70hhub.ml
 2zpph1mgg70hhub.tk
-3.emailfake.ml
 3.mymy.cf
 300book.info
 30minutemail.com
@@ -7947,11 +7946,21 @@ mail-c.tk
 mail-easy.fr
 mail-fake.com
 mail-filter.com
+mail-j.cf
+mail-j.ga
+mail-j.gq
+mail-j.ml
+mail-j.tk
 mail-owl.com
 mail-temp.com
 mail-temporaire.com
 mail-temporaire.fr
 mail-tester.com
+mail-w.cf
+mail-w.ga
+mail-w.gq
+mail-w.ml
+mail-w.tk
 mail-z.gq
 mail-z.ml
 mail-z.tk
@@ -8271,6 +8280,7 @@ martin.securehost.com.es
 martyvole.ml
 masasih.loan
 maskedmails.com
+maskmail.net
 masonline.info
 mastahype.net
 maswae.world

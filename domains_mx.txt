@@ -230,7 +230,6 @@
 2zpph1mgg70hhub.cf
 2zpph1mgg70hhub.ga
 2zpph1mgg70hhub.tk
-3.emailfake.ml
 3.mymy.cf
 30minutenmail.eu
 30wave.com
@@ -2198,7 +2197,6 @@ free.mysafe.ml
 freecat.net
 freelance-france.eu
 freeletter.me
-freemail.tweakly.net
 freemails.ml
 freemeil.tk
 freemommyvids.com
@@ -2619,7 +2617,6 @@ hellowman.pw
 hellowperson.pw
 helm.ml
 helmade.xyz
-helpcustomerdepartment.ga
 herp.in
 herpderp.nl
 hezemail.ga
@@ -3451,7 +3448,6 @@ lasojcyjrcwi8gv.cf
 lasojcyjrcwi8gv.ga
 lasojcyjrcwi8gv.ml
 lasojcyjrcwi8gv.tk
-lastmail.co
 latemail.tech
 lavabit.com
 lawlz.net
@@ -3684,10 +3680,20 @@ mail-c.tk
 mail-easy.fr
 mail-fake.com
 mail-filter.com
+mail-j.cf
+mail-j.ga
+mail-j.gq
+mail-j.ml
+mail-j.tk
 mail-temp.com
 mail-temporaire.com
 mail-temporaire.fr
 mail-tester.com
+mail-w.cf
+mail-w.ga
+mail-w.gq
+mail-w.ml
+mail-w.tk
 mail-z.gq
 mail-z.ml
 mail-z.tk
@@ -3845,6 +3851,7 @@ mailw.ml
 mailw.tk
 mailwithyou.com
 mailz.info
+mailz.info.tm
 mailzen.win
 mailzi.ru
 mailzilla.com
@@ -3872,6 +3879,7 @@ marimastu98huye.gq
 markmurfin.com
 masasih.loan
 maskedmails.com
+maskmail.net
 mastahype.net
 matamuasu.cf
 matamuasu.ga
@@ -4107,10 +4115,6 @@ mycleaninbox.net
 mycorneroftheinter.net
 mydemo.equipment
 myemailboxy.com
-myfaceb00k.cf
-myfaceb00k.ga
-myfaceb00k.gq
-myfaceb00k.ml
 myfaceb00k.tk
 myfake.cf
 myfake.tk
@@ -4593,6 +4597,7 @@ pebkit.ga
 pecinan.com
 pecinan.net
 pecinan.org
+pejovideomaker.tk
 pelor.ga
 pelor.tk
 penguincreationdate.pw
@@ -5256,7 +5261,6 @@ secure-mail.cn
 secured-link.net
 sedasagreen01try.tk
 seekapps.com
-selfdestructingmail.com
 sellim.site
 selowcoffee.cf
 selowcoffee.ga
@@ -5301,7 +5305,6 @@ shapoo.ch
 sharedmailbox.org
 sharklasers.com
 sheytg56.ga
-shieldedmail.com
 shieldemail.com
 shiftmail.com
 shinnemo.com
@@ -5310,7 +5313,6 @@ shitmail.de
 shitmail.me
 shitmail.org
 shitposting.agency
-shittymail.cf
 shittymail.ml
 shittymail.tk
 shitware.nl
@@ -5949,7 +5951,6 @@ trashmail.net
 trashmail.org
 trashmails.com
 trashymail.com
-trashymail.net
 trayna.com
 trbvm.com
 trbvn.com
