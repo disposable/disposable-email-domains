@@ -57,12 +57,7 @@
 0w.ro
 0wnd.net
 0wnd.org
-0x01.gq
 0x01.tk
-0x02.cf
-0x02.ga
-0x02.gq
-0x02.ml
 0x02.tk
 0x03.tk
 0zspgifzbo.cf
@@ -93,17 +88,12 @@
 10minutemail.nl
 10minutemail.org
 10minutemailbox.com
-10minutemails.in
 10minutenemail.de
 10minutesmail.fr
 10minutesmail.net
 10minutmail.pl
 10vpn.info
 10x.es
-11-32.cf
-11-32.ga
-11-32.gq
-11-32.ml
 11-32.tk
 11163.com
 117.yyolf.net
@@ -173,6 +163,7 @@
 2019x.ml
 20boxme.org
 20email.eu
+20mail.in
 20mail.it
 20minute.email
 20minutemail.com
@@ -867,6 +858,7 @@ att-warner.ga
 att-warner.gq
 att-warner.ml
 att-warner.tk
+attnetwork.com
 audi-r8.tk
 audi-tt.tk
 audrey11reveley.ga
@@ -892,6 +884,7 @@ axeprim.eu
 axmluf8osv0h.cf
 axmluf8osv0h.ml
 axmluf8osv0h.tk
+axon7zte.com
 axsup.net
 axuwv6wnveqhwilbzer.cf
 axuwv6wnveqhwilbzer.gq
@@ -1090,6 +1083,7 @@ bp3xxqejba.tk
 bqc4tpsla73fn.ga
 bqc4tpsla73fn.gq
 bqc4tpsla73fn.tk
+bqm2dyl.com
 br6qtmllquoxwa.cf
 br6qtmllquoxwa.ga
 br6qtmllquoxwa.gq
@@ -1222,7 +1216,6 @@ cchatz.ga
 ccmail.men
 cd2in.com
 cdcmail.date
-cdnqa.com
 cdpa.cc
 cebolsarep.ga
 cebong.cf
@@ -1257,7 +1250,6 @@ cgrtstm0x4px.cf
 cgrtstm0x4px.gq
 cgrtstm0x4px.ml
 cgrtstm0x4px.tk
-chacuo.net
 chaichuang.com
 chammy.info
 chaonamdinh.com
@@ -1680,7 +1672,6 @@ domozmail.com
 donemail.ru
 dongqing365.com
 dontsendmespam.de
-dooboop.com
 doquier.tk
 dot-ml.tk
 dotlvay3bkdlvlax2da.cf
@@ -1695,7 +1686,6 @@ dpttso8dag0.ga
 dpttso8dag0.gq
 dpttso8dag0.ml
 dpttso8dag0.tk
-dqnwara.com
 dqpw7gdmaux1u4t.cf
 dr69.site
 drama.tw
@@ -1704,6 +1694,7 @@ drdrb.net
 dred.ru
 drevo.si
 drf.email
+drid1gs.com
 drivecompanies.com
 drivetagdev.com
 drop.ekholm.org
@@ -1908,6 +1899,11 @@ emailfake.com
 emailfake.ml
 emailfake.nut.cc
 emailfake.usa.cc
+emailfalsa.cf
+emailfalsa.ga
+emailfalsa.gq
+emailfalsa.ml
+emailfalsa.tk
 emailfreedom.ml
 emailgenerator.de
 emailgo.de
@@ -2195,7 +2191,6 @@ free.mysafe.ml
 freecat.net
 freelance-france.eu
 freeletter.me
-freemail.tweakly.net
 freemails.ml
 freemeil.tk
 freemommyvids.com
@@ -2561,7 +2556,6 @@ hactzayvgqfhpd.ml
 hactzayvgqfhpd.tk
 haddo.eu
 hafnia.biz
-haida-edu.cn
 halil.ml
 haltospam.com
 hamusoku.cf
@@ -3051,7 +3045,6 @@ jiancokowe.gq
 jiancokowe.ml
 jil.kr
 jiskhdgbgsytre43vh.ga
-jj.0x01.tk
 jjmsb.eu.org
 jklasdf.com
 jkyvznnqlrc.ml
@@ -3485,7 +3478,6 @@ leonelahmad.cf
 letmeinonthis.com
 letsmail9.com
 letthemeatspam.com
-level-3.ga
 level-3.ml
 level-3.tk
 level3.flu.cc
@@ -3900,7 +3892,6 @@ mbangilan.ga
 mbe.kr
 mbfc6ynhc0a.cf
 mboled.ml
-mbox.0x01.tk
 mbutm4xjem.ga
 mbx.mysafe.ml
 mcache.net
@@ -4012,6 +4003,7 @@ mohmal.com
 mohmal.im
 mohmal.in
 mohmal.tech
+mohsenfb.com
 moncourrier.fr.nf
 monemail.fr.nf
 monmail.fr.nf
@@ -4165,7 +4157,6 @@ nada.ltd
 nakedtruth.biz
 nameaaa.myddns.rocks
 namefake.com
-namilu.com
 nanofielznan3s5bsvp.cf
 nanofielznan3s5bsvp.ga
 nanofielznan3s5bsvp.gq
@@ -4537,7 +4528,6 @@ oyu.kr
 ozqn1it6h5hzzxfht0.cf
 ozqn1it6h5hzzxfht0.ml
 ozqn1it6h5hzzxfht0.tk
-ozumz.com
 ozyl.de
 p-gdl.tk
 p-w.mysafe.ml
@@ -4706,6 +4696,7 @@ pqtoxevetjoh6tk.ml
 pr1ngsil4nmu.ga
 prayersa3.com
 predatorrat.tk
+prethlah907huir.cf
 priceblog.co
 priceio.co
 pricenew.co
@@ -4774,10 +4765,14 @@ putfs6fbkicck.cf
 putfs6fbkicck.ga
 putfs6fbkicck.gq
 putfs6fbkicck.tk
+puttana.cf
+puttana.ga
+puttana.gq
+puttana.ml
+puttana.tk
 puttanamaiala.tk
 putthisinyourspamdatabase.com
 puyenkgel50ccb.ml
-pw-mail.ga
 pw-mail.ml
 pw-mail.tk
 pw.j7.cloudns.cx
@@ -4848,7 +4843,6 @@ qhrgzdqthrqocrge922.gq
 qhrgzdqthrqocrge922.ml
 qiaua.com
 qibl.at
-qiq.us
 qirzgl53rik0t0hheo.cf
 qirzgl53rik0t0hheo.ga
 qirzgl53rik0t0hheo.gq
@@ -5100,7 +5094,6 @@ royal.net
 rpaowpro3l5ha.tk
 rppkn.com
 rr-group.tk
-rr.0x01.gq
 rrqkd9t5fhvo5bgh.ga
 rrqkd9t5fhvo5bgh.gq
 rtotlmail.net
@@ -5148,7 +5141,6 @@ s-s.flu.cc
 s-s.igg.biz
 s-s.nut.cc
 s-s.usa.cc
-s.0x01.gq
 s.bloq.ro
 s.ea.vu
 s0ny.flu.cc
@@ -5355,7 +5347,6 @@ skrx.tk
 sksfullskin.ga
 skydrive.tk
 skymail.gq
-skypaluten.de
 skzokgmueb3gfvu.cf
 skzokgmueb3gfvu.ml
 skzokgmueb3gfvu.tk
@@ -5427,7 +5418,6 @@ sp.woot.at
 spa.com
 spam-en.de
 spam-nicht.de
-spam.0x01.tk
 spam.2012-2016.ru
 spam.care
 spam.dhsf.net
@@ -5512,7 +5502,6 @@ sqxx.net
 sroff.com
 sry.li
 ss-hitler.tk
-ss.0x01.tk
 ss02.tk
 ssangyong.cf
 ssangyong.ga
@@ -5531,8 +5520,6 @@ st-m.tk
 stacklance.com
 stanford-edu.tk
 stanfordujjain.com
-star.0x01.gq
-star.0x01.tk
 starlight-breaker.net
 starpower.space
 startfu.com
@@ -5655,8 +5642,6 @@ t1bkooepcd.gq
 t3mtxgg11nt.ga
 t3mtxgg11nt.ml
 t3mtxgg11nt.tk
-t4.0x01.gq
-t4.0x01.tk
 t5vbxkpdsckyrdrp.cf
 t5vbxkpdsckyrdrp.ga
 t5vbxkpdsckyrdrp.gq
@@ -5679,6 +5664,7 @@ takeshobo.ga
 takeshobo.gq
 takeshobo.ml
 takeshobo.tk
+talkinator.com
 talkmises.com
 tambakrejo.cf
 tambakrejo.ga
@@ -5800,6 +5786,7 @@ thefirstticket.com
 thega.ga
 thelimestones.com
 thembones.com.au
+themostemail.com
 theopposition.club
 theothermail.com
 thepitujk79mgh.tk
@@ -5919,6 +5906,11 @@ tqophzxzixlxf3uq0i.ga
 tqophzxzixlxf3uq0i.gq
 tqophzxzixlxf3uq0i.ml
 tqophzxzixlxf3uq0i.tk
+tr2k.cf
+tr2k.ga
+tr2k.gq
+tr2k.ml
+tr2k.tk
 tracciabi.li
 tradermail.info
 tralalajos.tk
@@ -5968,7 +5960,6 @@ ts93crz8fo5lnf.ga
 ts93crz8fo5lnf.gq
 ts93crz8fo5lnf.tk
 tspzeoypw35.ml
-tt.0x01.tk
 ttoubdzlowecm7i2ua8.tk
 ttt72pfc0g.cf
 ttt72pfc0g.gq
@@ -6302,8 +6293,6 @@ vvng8xzmv2.tk
 vw-ag.tk
 vw-cc.tk
 vw-eos.tk
-vw.0x01.gq
-vw.0x01.tk
 vxqt4uv19oiwo7p.ga
 vxqt4uv19oiwo7p.gq
 vxqt4uv19oiwo7p.tk
@@ -6371,7 +6360,6 @@ wegwerfmail.org
 wegwerpmailadres.nl
 weldir.cf
 wem.com
-weselvina200.tk
 weseni427.tk
 wesfajria37.tk
 wesnadya714.tk
@@ -6494,7 +6482,6 @@ wxnw.net
 wyvernia.net
 wzukltd.com
 wzxmtb3stvuavbx9hfu.cf
-x.0x01.tk
 x1bkskmuf4.cf
 x1bkskmuf4.ga
 x1bkskmuf4.gq
@@ -6594,7 +6581,6 @@ xuuxmo1lvrth.gq
 xuuxmo1lvrth.ml
 xuuxmo1lvrth.tk
 xv9u9m.com
-xvx.us
 xwaretech.com
 xwaretech.info
 xwaretech.net
@@ -6685,7 +6671,6 @@ yohomail.ga
 yohomail.ml
 yomail.info
 yood.org
-yop.0x01.gq
 yop.ze.cx
 yopmail.biz.st
 yopmail.com

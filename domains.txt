@@ -2071,6 +2071,7 @@ att-warner.ga
 att-warner.gq
 att-warner.ml
 att-warner.tk
+attnetwork.com
 atvclub.msk.ru
 atwankbe3wcnngp.ga
 atwankbe3wcnngp.ml
@@ -4194,6 +4195,11 @@ emailfake.gq
 emailfake.ml
 emailfake.nut.cc
 emailfake.usa.cc
+emailfalsa.cf
+emailfalsa.ga
+emailfalsa.gq
+emailfalsa.ml
+emailfalsa.tk
 emailfreedom.ml
 emailgenerator.de
 emailgo.de
@@ -6679,7 +6685,6 @@ jiez00veud9z.ml
 jiez00veud9z.tk
 jil.kr
 jiskhdgbgsytre43vh.ga
-jj.0x01.tk
 jjkgrtteee098.cf
 jjkgrtteee098.ga
 jjkgrtteee098.gq
@@ -8312,7 +8317,6 @@ mbfc6ynhc0a.gq
 mbfc6ynhc0a.ml
 mbfc6ynhc0a.tk
 mboled.ml
-mbox.0x01.tk
 mbt01.cf
 mbt01.ga
 mbt01.gq
@@ -8525,6 +8529,7 @@ mohmal.com
 mohmal.im
 mohmal.in
 mohmal.tech
+mohsenfb.com
 momentics.ru
 monachat.tk
 monadi.ml
@@ -9974,6 +9979,7 @@ premium-mail.fr
 premiumperson.website
 preseven.com
 prestore.co
+prethlah907huir.cf
 pricebit.co
 priceblog.co
 priceio.co
@@ -10078,6 +10084,11 @@ putfs6fbkicck.ga
 putfs6fbkicck.gq
 putfs6fbkicck.ml
 putfs6fbkicck.tk
+puttana.cf
+puttana.ga
+puttana.gq
+puttana.ml
+puttana.tk
 puttanamaiala.tk
 putthisinyourspamdatabase.com
 puyenkgel50ccb.ml
@@ -10791,7 +10802,6 @@ rr-group.ga
 rr-group.gq
 rr-group.ml
 rr-group.tk
-rr.0x01.gq
 rrqkd9t5fhvo5bgh.cf
 rrqkd9t5fhvo5bgh.ga
 rrqkd9t5fhvo5bgh.gq
@@ -10908,7 +10918,6 @@ s-s.flu.cc
 s-s.igg.biz
 s-s.nut.cc
 s-s.usa.cc
-s.0x01.gq
 s.bloq.ro
 s.bungabunga.cf
 s.dextm.ro
@@ -11481,7 +11490,6 @@ spaereplease.com
 spam-be-gone.com
 spam-en.de
 spam-nicht.de
-spam.0x01.tk
 spam.2012-2016.ru
 spam.care
 spam.dhsf.net
@@ -11626,7 +11634,6 @@ ss-hitler.ga
 ss-hitler.gq
 ss-hitler.ml
 ss-hitler.tk
-ss.0x01.tk
 ss.undo.it
 ss00.cf
 ss00.ga
@@ -11676,8 +11683,6 @@ st-m.tk
 stacklance.com
 stanford-edu.tk
 stanfordujjain.com
-star.0x01.gq
-star.0x01.tk
 starlight-breaker.net
 starpower.space
 startfu.com
@@ -11886,8 +11891,6 @@ t3mtxgg11nt.gq
 t3mtxgg11nt.ml
 t3mtxgg11nt.tk
 t3t97d1d.com
-t4.0x01.gq
-t4.0x01.tk
 t5h65t54etttr.cf
 t5h65t54etttr.ga
 t5h65t54etttr.gq
@@ -12402,6 +12405,11 @@ tqophzxzixlxf3uq0i.gq
 tqophzxzixlxf3uq0i.ml
 tqophzxzixlxf3uq0i.tk
 tqosi.com
+tr2k.cf
+tr2k.ga
+tr2k.gq
+tr2k.ml
+tr2k.tk
 tracciabi.li
 tradermail.info
 tralalajos.ga
@@ -12496,7 +12504,6 @@ ts93crz8fo5lnf.ml
 ts93crz8fo5lnf.tk
 tspzeoypw35.ml
 tsukushiakihito.gq
-tt.0x01.tk
 tt2dx90.com
 ttdfytdd.ml
 ttoubdzlowecm7i2ua8.cf
@@ -13280,8 +13287,6 @@ vw-eos.ml
 vw-eos.tk
 vw-seat.ml
 vw-skoda.ml
-vw.0x01.gq
-vw.0x01.tk
 vwtedx7d7f.cf
 vwtedx7d7f.ga
 vwtedx7d7f.gq
@@ -13701,7 +13706,6 @@ wzxmtb3stvuavbx9hfu.gq
 wzxmtb3stvuavbx9hfu.ml
 wzxmtb3stvuavbx9hfu.tk
 x-mail.cf
-x.0x01.tk
 x.ip6.li
 x1bkskmuf4.cf
 x1bkskmuf4.ga
@@ -14162,7 +14166,6 @@ yohomail.ml
 yomail.info
 yoo.ro
 yood.org
-yop.0x01.gq
 yop.email
 yop.ze.cx
 yopmail.biz.st
