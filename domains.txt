@@ -7982,6 +7982,7 @@ mail.unionpay.pl
 mail.wtf
 mail.zp.ua
 mail0.ga
+mail0.gq
 mail0.ml
 mail1.drama.tw
 mail1.hacked.jp
@@ -13337,7 +13338,6 @@ wd0payo12t8o1dqp.ml
 wd0payo12t8o1dqp.tk
 wdsfbghfg77hj.gq
 we.lovebitco.in
-we.mysafe.ml
 we.qq.my
 wealthymoney.pw
 web-contact.info
