@@ -1258,7 +1258,6 @@ cgrtstm0x4px.cf
 cgrtstm0x4px.gq
 cgrtstm0x4px.ml
 cgrtstm0x4px.tk
-chacuo.net
 chaichuang.com
 chammy.info
 chaonamdinh.com
@@ -1933,6 +1932,7 @@ emailigo.de
 emailinfive.com
 emailmenow.info
 emailna.co
+emailna.life
 emailo.pro
 emailofnd.cf
 emailondeck.com
@@ -2212,7 +2212,6 @@ free-email.cf
 freecat.net
 freelance-france.eu
 freeletter.me
-freemail.tweakly.net
 freemails.ga
 freemails.ml
 freemeil.tk
@@ -2312,10 +2311,6 @@ fzyutqwy3aqmxnd.ml
 fzyutqwy3aqmxnd.tk
 g-meil.com
 g-timyoot.ga
-g00g.cf
-g00g.ga
-g00g.gq
-g00g.ml
 g00glechr0me.tk
 g0zr2ynshlth0lu4.cf
 g0zr2ynshlth0lu4.gq
@@ -3188,7 +3183,6 @@ k9ifse3ueyx5zcvmqmw.cf
 k9ifse3ueyx5zcvmqmw.ga
 k9ifse3ueyx5zcvmqmw.ml
 k9ifse3ueyx5zcvmqmw.tk
-kademen.com
 kadokawa.tk
 kaguya.tk
 kah.pw
@@ -3709,7 +3703,6 @@ mail.by
 mail.crowdpress.it
 mail.fettometern.com
 mail.hanungofficial.club
-mail.libivan.com
 mail.me
 mail.mezimages.net
 mail.mnisjk.com
@@ -4229,7 +4222,6 @@ neverbox.net
 nevermail.de
 new-purse.com
 newbpotato.tk
-newscoin.club
 newsusfun.com
 nezdiro.org
 nezzart.com
@@ -4766,7 +4758,6 @@ puchmlt0mt.tk
 puds5k7lca9zq.gq
 puds5k7lca9zq.ml
 puds5k7lca9zq.tk
-puglieisi.com
 puh4iigs4w.cf
 puh4iigs4w.ga
 puh4iigs4w.gq
@@ -5254,7 +5245,6 @@ secure-fb.com
 secure-mail.biz
 secure-mail.cc
 secure-mail.cn
-secured-link.net
 sedasagreen01try.tk
 seekapps.com
 segabandemcross74new.ml
