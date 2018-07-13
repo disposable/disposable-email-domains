@@ -58,6 +58,7 @@
 0w.ro
 0wnd.net
 0wnd.org
+0x000.gq
 0x01.tk
 0x02.tk
 0x03.tk
@@ -124,6 +125,7 @@
 1chuan.com
 1clck2.com
 1dmedical.com
+1drive.ga
 1euqhmw9xmzn.cf
 1euqhmw9xmzn.ga
 1euqhmw9xmzn.gq
@@ -432,7 +434,6 @@
 6qwkvhcedxo85fni.tk
 6scwis5lamcv.gq
 6vgflujwsc.ml
-7.emailfake.ml
 703xanmf2tk5lny.cf
 703xanmf2tk5lny.ga
 703xanmf2tk5lny.tk
@@ -504,7 +505,6 @@
 8imefdzddci.tk
 8klddrkdxoibtasn3g.cf
 8klddrkdxoibtasn3g.tk
-8mail.ml
 8oboi80bcv1.cf
 8pukcddnthjql.cf
 8pukcddnthjql.ga
@@ -1133,8 +1133,6 @@ bucbdlbniz.gq
 bucbdlbniz.ml
 bucbdlbniz.tk
 buchhandlung24.com
-budaya-tionghoa.com
-budayationghoa.com
 budgjhdh73ctr.gq
 bugmenever.com
 bukwos7fp2glo4i30.ml
@@ -2192,7 +2190,6 @@ forgetmail.com
 forotenis.com
 forprice.co
 forspam.net
-forward.cat
 fouristic.us
 foxja.com
 foxtrotter.info
@@ -2214,6 +2211,7 @@ free-email.cf
 freecat.net
 freelance-france.eu
 freeletter.me
+freemail.tweakly.net
 freemails.ga
 freemails.ml
 freemeil.tk
@@ -2318,16 +2316,13 @@ g0zr2ynshlth0lu4.cf
 g0zr2ynshlth0lu4.gq
 g0zr2ynshlth0lu4.ml
 g0zr2ynshlth0lu4.tk
-g1xmail.top
 g212dnk5.com
 g2tpv9tpk8de2dl.cf
 g2tpv9tpk8de2dl.ga
 g2tpv9tpk8de2dl.gq
 g2tpv9tpk8de2dl.tk
-g2xmail.top
 g3nkz-m4ils.ga
 g3nkzmailone.ga
-g3xmail.top
 g7lkrfzl7t0rb9oq.cf
 g7lkrfzl7t0rb9oq.ga
 g7lkrfzl7t0rb9oq.gq
@@ -2440,8 +2435,6 @@ gmatch.org
 gmeil.me
 gmial.com
 gmx.fr.nf
-gmx1mail.top
-gmxmail.top
 gmxmail.win
 gnsk6gdzatu8cu8hmvu.gq
 gnsk6gdzatu8cu8hmvu.ml
@@ -2775,8 +2768,6 @@ i4racpzge8.gq
 i537244.cf
 i537244.ga
 i537244.ml
-i6.cloudns.cc
-i6.cloudns.cx
 i774uhrksolqvthjbr.cf
 i774uhrksolqvthjbr.ga
 i774uhrksolqvthjbr.gq
@@ -3063,7 +3054,6 @@ jiancokowe.ml
 jil.kr
 jiskhdgbgsytre43vh.ga
 jjmsb.eu.org
-jklasdf.com
 jkljkl.cf
 jkljkl.ga
 jkyvznnqlrc.ml
@@ -3455,7 +3445,6 @@ lamongan.gq
 landmail.co
 laoeq.com
 laoho.com
-larisia.com
 larjem.com
 lasojcyjrcwi8gv.cf
 lasojcyjrcwi8gv.ga
@@ -3705,7 +3694,6 @@ mail.by
 mail.crowdpress.it
 mail.fettometern.com
 mail.hanungofficial.club
-mail.libivan.com
 mail.me
 mail.mezimages.net
 mail.mnisjk.com
@@ -3749,6 +3737,7 @@ mailblocks.com
 mailblog.biz
 mailbox2go.de
 mailbox52.ga
+mailbox87.de
 mailbox92.biz
 mailc.cf
 mailc.gq
@@ -4587,7 +4576,6 @@ pdcqvirgifc3brkm.ml
 pdold.com
 peapz.com
 pebkit.ga
-pecinan.com
 pecinan.net
 pecinan.org
 pejovideomaker.tk
@@ -4901,7 +4889,6 @@ quintania.top
 ququb.com
 qvap.ru
 qvy.me
-qwertymail.ml
 qwertymail.tk
 qwertyuiop.tk
 qwfox.com
@@ -5381,7 +5368,6 @@ smsbaka.ml
 smsforum.ro
 smtp99.com
 smuse.me
-smwg.info
 snad1faxohwm.gq
 snad1faxohwm.tk
 snakemail.com
@@ -6625,7 +6611,6 @@ yadavnaresh.com.np
 yahmail.top
 yahnmtntxwhxtymrs.tk
 yahomail.top
-yahooproduct.net
 yamail.win
 yannmail.win
 yapped.net
