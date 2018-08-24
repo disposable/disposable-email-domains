@@ -53,6 +53,7 @@
 0sg.net
 0tinak9zyvf.ga
 0u.ro
+0utln.com
 0v.ro
 0wnd.net
 0wnd.org
@@ -616,10 +617,6 @@ agramas.ml
 agtx.net
 aheadwe.us
 ahk.jp
-ahmadidik.cf
-ahmadidik.ga
-ahmadidik.gq
-ahmadidik.ml
 aiduisoi3456ta.tk
 air2token.com
 airmail.tech
@@ -779,10 +776,6 @@ asooemail.net
 asorent.com
 ass.pp.ua
 asspoo.com
-astaghfirulloh.cf
-astaghfirulloh.ga
-astaghfirulloh.gq
-astaghfirulloh.ml
 astonut.tk
 asu.mx
 asu.su
@@ -846,7 +839,6 @@ b6o7vt32yz.tk
 b6vscarmen.com
 b83gritty1eoavex.gq
 b9x45v1m.com.com
-baban.ml
 backalleybowling.info
 backflip.cf
 backmail.ml
@@ -1191,7 +1183,6 @@ chivasso.tk
 chocklet.us
 choco.la
 choicemail1.com
-chokiwnl.men
 chong-mail.com
 chong-mail.net
 chris.burgercentral.us
@@ -1411,7 +1402,6 @@ damanik.ga
 damanik.tk
 dammexe.net
 damnthespam.com
-danceml.win
 dandikmail.com
 dankrangan77jui.ga
 darkwulu79jkl.ga
@@ -1483,10 +1473,6 @@ dianhabis.ml
 diapaulpainting.com
 dicksinhisan.us
 dicksinmyan.us
-didikselowcoffee.cf
-didikselowcoffee.ga
-didikselowcoffee.gq
-didikselowcoffee.ml
 digitalmariachis.com
 digitalsanctuary.com
 dildosfromspace.com
@@ -1960,7 +1946,6 @@ failinga.nl
 faithkills.org
 fake-email.pp.ua
 fake-mail.cf
-fake-mail.ga
 fake-mail.ml
 fakeinbox.info
 fakemail.fr
@@ -2128,7 +2113,6 @@ fudgerub.com
 fuirio.com
 fulvie.com
 fun2.biz
-fun2night.club
 funnymail.de
 funxmail.ga
 furusato.tokyo
@@ -2413,6 +2397,7 @@ hactzayvgqfhpd.ml
 hactzayvgqfhpd.tk
 haddo.eu
 hafnia.biz
+haida-edu.cn
 halil.ml
 hamusoku.tk
 hangxomcuatoilatotoro.tk
@@ -3469,7 +3454,6 @@ mail.by
 mail.crowdpress.it
 mail.fettometern.com
 mail.hanungofficial.club
-mail.libivan.com
 mail.me
 mail.mezimages.net
 mail.mnisjk.com
@@ -3652,6 +3636,7 @@ maskmail.net
 mastahype.net
 maswae.world
 matchpol.net
+matra.site
 mattersjf8.com
 max88.club
 maximalbonus.de
@@ -3911,6 +3896,7 @@ mytools-ipkzone.gq
 mytrashmail.com
 mytrashmailer.com
 mytrashmailr.com
+mywrld.site
 myzx.com
 mziqo.com
 n.spamtrap.co
@@ -4302,6 +4288,7 @@ papai.gq
 papai.ml
 papai.tk
 papierkorb.me
+paplease.com
 paramail.cf
 parlimentpetitioner.tk
 partskyline.com
@@ -4735,7 +4722,6 @@ rgtvtnxvci8dnwy8dfe.tk
 rh3qqqmfamt3ccdgfa.tk
 rhombushorizons.com
 rhyta.com
-riaucyberart.ga
 rich-money.pw
 richfinances.pw
 richfunds.pw
@@ -4869,10 +4855,6 @@ safersignup.com
 safersignup.de
 safetymail.info
 safetypost.de
-sahrulselow.cf
-sahrulselow.ga
-sahrulselow.gq
-sahrulselow.ml
 sale.craigslist.org
 salmeow.tk
 salonyfryzjerskie.info
@@ -4928,10 +4910,6 @@ seekjobs4u.com
 segabandemcross74new.ml
 selfdestructingmail.com
 sellim.site
-selowcoffee.cf
-selowcoffee.ga
-selowcoffee.gq
-selowcoffee.ml
 semangat99.cf
 semarcomputama.tk
 semarhouse.tk
@@ -5736,6 +5714,7 @@ valhalladev.com
 vanbil.tk
 vanhoangtn1.ga
 vanhoangtn1.ooo
+vanhoangtn1.us
 vankin.de
 vay.kr
 vba.kr
@@ -6020,6 +5999,7 @@ wp2romantic.com
 wpbinaq3w7zj5b0.ga
 wpbinaq3w7zj5b0.tk
 wpeopwfp099.tk
+wpg.im
 wpmail.org
 wqxhasgkbx88.cf
 wqxhasgkbx88.ga
@@ -6070,6 +6050,7 @@ wxnw.net
 wyvernia.net
 wzukltd.com
 wzxmtb3stvuavbx9hfu.cf
+x-mail.cf
 x13x13x13.com
 x1bkskmuf4.ml
 x1bkskmuf4.tk
