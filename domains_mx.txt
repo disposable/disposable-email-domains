@@ -408,6 +408,7 @@
 6qwkvhcedxo85fni.tk
 6scwis5lamcv.gq
 6vgflujwsc.ml
+7.emailfake.ml
 703xanmf2tk5lny.cf
 703xanmf2tk5lny.ga
 703xanmf2tk5lny.tk
@@ -638,7 +639,6 @@ airmail.tech
 airmailhub.com
 airsi.de
 airsoftshooters.com
-airwayy.us
 aji.kr
 akamaized.cf
 akamaized.ga
@@ -1500,6 +1500,7 @@ discard.ml
 discardmail.com
 discardmail.de
 discordmail.com
+discoverwatch.com
 dispomail.eu
 dispomail.xyz
 disposable.cf
@@ -1771,6 +1772,7 @@ ekiibetekorea.tk
 ekiikorea99.cf
 ekiikorea99.ga
 ekiilinkinpark.ga
+elinore1818.site
 ely.kr
 elysium.ml
 email-fake.cf
@@ -3484,7 +3486,6 @@ mail0.ga
 mail0.gq
 mail0.ml
 mail1.cf
-mail10.gq
 mail114.net
 mail1999.tk
 mail1a.de
@@ -3503,6 +3504,9 @@ mail4-us.org
 mail4trash.com
 mail56.me
 mail666.ru
+mail7.cf
+mail7.ga
+mail7.gq
 mail707.com
 mail72.com
 mailabconline.com
@@ -3910,6 +3914,7 @@ myspamless.com
 mystvpn.com
 mytemp.email
 mytempemail.com
+mytempmail.com
 mytools-ipkzone.gq
 mytrashmail.com
 mytrashmailer.com
@@ -4303,7 +4308,6 @@ papai.gq
 papai.ml
 papai.tk
 papierkorb.me
-paplease.com
 paramail.cf
 parlimentpetitioner.tk
 partskyline.com
@@ -4346,7 +4350,6 @@ pepbot.com
 perasut.us
 perfect-u.pw
 perfectu.pw
-perjalanandinas.tk
 pers.craigslist.org
 persebaya1981.cf
 persebaya1999.cf
@@ -4465,6 +4468,7 @@ prin.be
 priorityxn5.com
 privacy.net
 privatdemail.net
+privatemailinator.nl
 privy-mail.com
 privy-mail.de
 privymail.de
@@ -4846,7 +4850,6 @@ s.ea.vu
 s0ny.net
 s1xssanlgkgc.gq
 s1xssanlgkgc.tk
-s33db0x.com
 s3rttar9hrvh9e.ga
 s3rttar9hrvh9e.gq
 s3rttar9hrvh9e.ml
@@ -5269,6 +5272,7 @@ talkmises.com
 tambakrejo.cf
 tambakrejo.ga
 tambakrejo.tk
+tandy.co
 tantedewi.ml
 tanukis.org
 tapchicuoihoi.com
@@ -5334,6 +5338,7 @@ tempmail.co
 tempmail.de
 tempmail.it
 tempmail.pro
+tempmail.top
 tempmail.ws
 tempmail2.com
 tempmaildemo.com
@@ -5933,7 +5938,6 @@ wesnurullah701.tk
 wessastra497.tk
 wesyuliyansih469.tk
 wfgdfhj.tk
-wfought0o.com
 wfrijgt4ke.ga
 wfrijgt4ke.gq
 wfrijgt4ke.ml
@@ -5997,6 +6001,7 @@ wolukiyeh88jik.ga
 womenhealthcare.ooo
 wopc.cf
 work4uber.us
+worlddonation.org
 worldpetcare.cf
 wp2romantic.com
 wpbinaq3w7zj5b0.ga
@@ -6306,10 +6311,6 @@ zemail.ga
 zemail.ml
 zep-hyr.com
 zepp.dk
-zer-0.cf
-zer-0.ga
-zer-0.gq
-zer-0.ml
 zeromail.ga
 zetmail.com
 zexeet9i5l49ocke.cf
