@@ -13,6 +13,7 @@
 0815.ru
 0815.su
 0box.eu
+0celot.com
 0cindcywrokv.cf
 0cindcywrokv.ga
 0cindcywrokv.gq
@@ -849,6 +850,10 @@ avast.ml
 aver.com
 averdov.com
 aviani.com
+avioaero.cf
+avioaero.ga
+avioaero.gq
+avioaero.ml
 avioaero.tk
 avls.pt
 avp1brunupzs8ipef.cf
@@ -2182,6 +2187,7 @@ foresthope.com
 forgetmail.com
 forotenis.com
 forspam.net
+forward.cat
 fouristic.us
 foxja.com
 foxtrotter.info
@@ -4599,7 +4605,6 @@ photomark.net
 phpbb.uu.gl
 phuongblue1507.xyz
 phuongpt9.tk
-pi.vu
 piaggioaero.tk
 picfame.com
 pid.mx
@@ -5113,6 +5118,7 @@ safersignup.com
 safersignup.de
 safetempmail.com
 safetymail.info
+safetypost.de
 sale.craigslist.org
 salmeow.tk
 salonyfryzjerskie.info
@@ -5238,6 +5244,7 @@ shrib.com
 shuffle.email
 shut.name
 shut.ws
+siberask.com
 sienna12bourne.ga
 sikomo.ga
 sikomo.ml
@@ -6569,6 +6576,7 @@ yopmail.fr.nf
 yopmail.info
 yopmail.net
 yopmail.pp.ua
+yoru-dea.com
 you.e4ward.com
 youbestone.pw
 yougotgoated.com
