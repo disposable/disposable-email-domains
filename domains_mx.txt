@@ -705,7 +705,6 @@ ama-trans.de
 amadamus.com
 amail.club
 amail.com
-amail.gq
 amail4.me
 amav.ro
 amazon-aws.org
@@ -1067,7 +1066,6 @@ boow.ml
 boow.tk
 bopunkten.se
 borgish.com
-boss.cf
 bossmail.de
 bot.nu
 botz.online
@@ -1226,7 +1224,6 @@ cgrtstm0x4px.cf
 cgrtstm0x4px.gq
 cgrtstm0x4px.ml
 cgrtstm0x4px.tk
-chacuo.net
 chaichuang.com
 chammy.info
 champmails.com
@@ -1893,7 +1890,6 @@ email3.ga
 email3.gq
 email3.ml
 email3.tk
-emailage.cf
 emailappp.com
 emailchepas.cf
 emailchepas.ga
@@ -1927,7 +1923,6 @@ emailtech.info
 emailtemporanea.net
 emailtemporario.com.br
 emailthe.net
-emailto.de
 emailure.net
 emailwarden.com
 emailx.at.hm
@@ -2187,7 +2182,6 @@ foresthope.com
 forgetmail.com
 forotenis.com
 forspam.net
-forward.cat
 fouristic.us
 foxja.com
 foxtrotter.info
@@ -2373,6 +2367,7 @@ gffcqpqrvlps.ga
 gg-byron.tk
 gg-zma1lz.ga
 ggfutsal.cf
+ggmail.guru
 ghea.ml
 ghosttexter.de
 ghtreihfgh.xyz
@@ -2625,7 +2620,6 @@ herpderp.nl
 hezll.com
 hfmf.cf
 hfmf.ga
-hfmf.gq
 hfmf.ml
 hfmf.tk
 hgsygsgdtre57kl.tk
@@ -2711,7 +2705,6 @@ hstutunsue7dd.ml
 ht.cx
 htaae8jvikgd3imrphl.tk
 hteysy5yys66.cf
-htstar.tk
 htwergbrvysqs.cf
 htwergbrvysqs.ml
 hu4ht.com
@@ -2900,7 +2893,6 @@ inunglove.cf
 ioio.eu
 ionb1ect2iark1ae1.ml
 ionb1ect2iark1ae1.tk
-iozak.com
 ip4.pp.ua
 ip6.li
 ip6.pp.ua
@@ -3207,7 +3199,6 @@ kickmark.com
 killmail.com
 king-yaseen.cf
 king2003.ml
-kinx.cf
 kinx.gq
 kinx.ml
 kiois.com
@@ -3423,7 +3414,6 @@ ledoktre.com
 lee.mx
 leeching.net
 leemail.me
-legalrc.loan
 lehman.tk
 lei.kr
 lemper.cf
@@ -3989,7 +3979,6 @@ monmail.fr.nf
 montefino.cf
 montepaschi.cf
 montepaschi.ga
-montepaschi.gq
 monterra.tk
 monumentmail.com
 moot.es
@@ -4573,7 +4562,6 @@ pelor.tk
 penoto.tk
 penspam.com
 peoplehavethepower.tk
-pepbot.com
 perfect-u.pw
 perfectu.pw
 perjalanandinas.cf
@@ -5188,7 +5176,6 @@ selfdestructingmail.com
 semangat99.cf
 semarcomputama.tk
 semarhouse.tk
-send-email.org
 sendfree.org
 sendingspecialflyers.com
 sendspamhere.com
@@ -5244,7 +5231,6 @@ shrib.com
 shuffle.email
 shut.name
 shut.ws
-siberask.com
 sienna12bourne.ga
 sikomo.ga
 sikomo.ml
@@ -5591,7 +5577,6 @@ tellos.xyz
 telukmeong1.ga
 telukmeong2.cf
 telukmeong3.ml
-temp-mail.com
 temp-mail.de
 temp-mail.info
 temp-mail.net
