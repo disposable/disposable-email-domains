@@ -1066,6 +1066,7 @@ boow.ml
 boow.tk
 bopunkten.se
 borgish.com
+boss.cf
 bossmail.de
 bot.nu
 botz.online
@@ -1224,6 +1225,7 @@ cgrtstm0x4px.cf
 cgrtstm0x4px.gq
 cgrtstm0x4px.ml
 cgrtstm0x4px.tk
+chacuo.net
 chaichuang.com
 chammy.info
 champmails.com
@@ -1528,6 +1530,10 @@ despammed.com
 dettol.gq
 dettol.tk
 deucemail.com
+dev-null.cf
+dev-null.ga
+dev-null.gq
+dev-null.ml
 devnullmail.com
 dfg6.kozow.com
 dfgh.net
@@ -1923,6 +1929,7 @@ emailtech.info
 emailtemporanea.net
 emailtemporario.com.br
 emailthe.net
+emailto.de
 emailure.net
 emailwarden.com
 emailx.at.hm
@@ -2182,6 +2189,7 @@ foresthope.com
 forgetmail.com
 forotenis.com
 forspam.net
+forward.cat
 fouristic.us
 foxja.com
 foxtrotter.info
@@ -2705,6 +2713,7 @@ hstutunsue7dd.ml
 ht.cx
 htaae8jvikgd3imrphl.tk
 hteysy5yys66.cf
+htstar.tk
 htwergbrvysqs.cf
 htwergbrvysqs.ml
 hu4ht.com
@@ -4593,6 +4602,7 @@ photomark.net
 phpbb.uu.gl
 phuongblue1507.xyz
 phuongpt9.tk
+pi.vu
 piaggioaero.tk
 picfame.com
 pid.mx
@@ -4608,6 +4618,7 @@ pikirkumu.gq
 pikirkumu.ml
 pilpres2018.tk
 pingir.com
+pinknbo.ga
 pippop.cf
 pippopmig33.cf
 pippopmigme.cf
@@ -4961,7 +4972,6 @@ retkesbusz.nut.cc
 revolvingdoorhoax.org
 rfc822.org
 rfirewallj.com
-rfreedomj.com
 rgb9000.net
 rgphotos.net
 rgtvtnxvci8dnwy8dfe.cf
@@ -5176,6 +5186,7 @@ selfdestructingmail.com
 semangat99.cf
 semarcomputama.tk
 semarhouse.tk
+send-email.org
 sendfree.org
 sendingspecialflyers.com
 sendspamhere.com
@@ -5363,7 +5374,6 @@ spamfree.eu
 spamfree24.com
 spamfree24.de
 spamfree24.eu
-spamfree24.info
 spamfree24.net
 spamfree24.org
 spamgourmet.com
@@ -5577,6 +5587,7 @@ tellos.xyz
 telukmeong1.ga
 telukmeong2.cf
 telukmeong3.ml
+temp-mail.com
 temp-mail.de
 temp-mail.info
 temp-mail.net
@@ -5643,7 +5654,6 @@ tgszgot72lu.gq
 tgxvhp5fp9.ga
 tgxvhp5fp9.gq
 tgxvhp5fp9.tk
-thanksnospam.info
 thankyou2010.com
 thebestremont.ru
 thediamants.org
