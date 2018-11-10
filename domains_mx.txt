@@ -1270,7 +1270,6 @@ cgrtstm0x4px.cf
 cgrtstm0x4px.gq
 cgrtstm0x4px.ml
 cgrtstm0x4px.tk
-chacuo.net
 chaichuang.com
 chammy.info
 champmails.com
@@ -1342,6 +1341,7 @@ cloudns.cc
 clrmail.com
 clubstt.com
 clue-1.com
+cmail.club
 cmail.net
 cmc88.tk
 cnamed.com
@@ -1375,7 +1375,6 @@ conf.work
 confidential.life
 confirm.live
 consumerriot.com
-contbay.com
 contentwanted.com
 contractor.net
 conventionstrategy.win
@@ -1630,6 +1629,7 @@ dispose.it
 dispostable.com
 divad.ga
 divismail.ru
+diwaq.com
 djdwzaty3tok.ga
 djdwzaty3tok.gq
 djdwzaty3tok.ml
@@ -1693,6 +1693,7 @@ dontsendmespam.de
 dooboop.com
 doquier.tk
 dot-ml.tk
+dota2bets.net
 dotlvay3bkdlvlax2da.cf
 dotlvay3bkdlvlax2da.ga
 dotmsg.com
@@ -1724,7 +1725,6 @@ drop.ekholm.org
 dropcake.de
 droplister.com
 dropmail.me
-dropmail.tk
 drovi.cf
 drovi.ga
 drovi.gq
@@ -1824,7 +1824,6 @@ e2qoitlrzw6yqg.ml
 e2qoitlrzw6yqg.tk
 e3b.org
 e3z.de
-e4ivstampk.com
 e4t5exw6aauecg.ga
 e4t5exw6aauecg.ml
 e4t5exw6aauecg.tk
@@ -1965,6 +1964,7 @@ emailinfive.com
 emailmenow.info
 emailna.co
 emailna.life
+emailo.pro
 emailofnd.cf
 emailondeck.com
 emailpro.cf
@@ -2139,7 +2139,6 @@ fake-mail.cf
 fake-mail.ml
 fakeemail.tk
 fakeinbox.info
-fakemail.fr
 fakemailgenerator.net
 fakemailz.com
 faketemp.email
@@ -3389,6 +3388,7 @@ knolselder.ml
 knolselder.tk
 koch.ml
 kodaka.tk
+koiqe.com
 koismwnndnbfcswte.gq
 koismwnndnbfcswte.ml
 koismwnndnbfcswte.tk
@@ -3461,7 +3461,6 @@ kulmeo.com
 kulturbetrieb.info
 kum38p0dfgxz.tk
 kumail8.info
-kurzepost.de
 kusrc.com
 kv8v0bhfrepkozn4.cf
 kv8v0bhfrepkozn4.ml
@@ -4554,7 +4553,6 @@ ob5d31gf3whzcoo.tk
 ob7eskwerzh.ga
 ob7eskwerzh.gq
 obfusko.com
-objectmail.com
 obo.kr
 obobbo.com
 obtqadqunonkk1kgh.tk
@@ -4822,6 +4820,7 @@ plez.org
 plgbgus.ga
 plgbgus.ml
 plhk.ru
+ploae.com
 plusmail.cf
 plw.me
 podam.pl
@@ -4908,7 +4907,6 @@ prow.ga
 prow.gq
 prow.ml
 proxsei.com
-proxymail.eu
 prtnx.com
 prwmqbfoxdnlh8p4z.cf
 prwmqbfoxdnlh8p4z.ga
@@ -5057,6 +5055,7 @@ qtpxsvwifkc.ml
 qtum-ico.com
 quadrafit.com
 querydirect.com
+questore.co
 queuem.com
 quickinbox.com
 quickmail.nl
@@ -5663,7 +5662,6 @@ stop-my-spam.cf
 stop-my-spam.com
 stop-my-spam.pp.ua
 storeodont.co
-storeyee.com
 storiqax.com
 storiqax.top
 storj99.com
@@ -6090,8 +6088,6 @@ trashmail.at
 trashmail.com
 trashmail.de
 trashmail.io
-trashmail.me
-trashmail.net
 trashmail.org
 trashmailer.com
 trashmails.com
@@ -6507,10 +6503,7 @@ wegwerfadresse.de
 wegwerfemail.com
 wegwerfemail.info
 wegwerfemail.net
-wegwerfmail.de
 wegwerfmail.info
-wegwerfmail.net
-wegwerfmail.org
 wegwerpmailadres.nl
 weldir.cf
 wellhungup.dynu.net
