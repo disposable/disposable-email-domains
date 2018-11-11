@@ -87,6 +87,7 @@
 10minutesmail.fr
 10minutesmail.net
 10minutetempemail.com
+10minutmail.pl
 10vpn.info
 10x.es
 11-32.tk
@@ -1100,6 +1101,7 @@ boow.ml
 boow.tk
 bopunkten.se
 borgish.com
+boss.cf
 bossmail.de
 bot.nu
 botz.online
@@ -1270,6 +1272,7 @@ cgrtstm0x4px.cf
 cgrtstm0x4px.gq
 cgrtstm0x4px.ml
 cgrtstm0x4px.tk
+chacuo.net
 chaichuang.com
 chammy.info
 champmails.com
@@ -1375,6 +1378,7 @@ conf.work
 confidential.life
 confirm.live
 consumerriot.com
+contbay.com
 contentwanted.com
 contractor.net
 conventionstrategy.win
@@ -1693,7 +1697,6 @@ dontsendmespam.de
 dooboop.com
 doquier.tk
 dot-ml.tk
-dota2bets.net
 dotlvay3bkdlvlax2da.cf
 dotlvay3bkdlvlax2da.ga
 dotmsg.com
@@ -1978,7 +1981,6 @@ emailtech.info
 emailtemporanea.net
 emailtemporario.com.br
 emailthe.net
-emailto.de
 emailure.net
 emailwarden.com
 emailx.at.hm
@@ -3461,6 +3463,7 @@ kulmeo.com
 kulturbetrieb.info
 kum38p0dfgxz.tk
 kumail8.info
+kurzepost.de
 kusrc.com
 kv8v0bhfrepkozn4.cf
 kv8v0bhfrepkozn4.ml
@@ -4553,6 +4556,7 @@ ob5d31gf3whzcoo.tk
 ob7eskwerzh.ga
 ob7eskwerzh.gq
 obfusko.com
+objectmail.com
 obo.kr
 obobbo.com
 obtqadqunonkk1kgh.tk
@@ -4907,6 +4911,7 @@ prow.ga
 prow.gq
 prow.ml
 proxsei.com
+proxymail.eu
 prtnx.com
 prwmqbfoxdnlh8p4z.cf
 prwmqbfoxdnlh8p4z.ga
@@ -5892,6 +5897,7 @@ thembones.com.au
 theodore1818.site
 theopposition.club
 theothermail.com
+thepieteronline.com
 thepit.ml
 thepitujk79mgh.tk
 theplug.org
@@ -6088,6 +6094,8 @@ trashmail.at
 trashmail.com
 trashmail.de
 trashmail.io
+trashmail.me
+trashmail.net
 trashmail.org
 trashmailer.com
 trashmails.com
@@ -6119,7 +6127,6 @@ ts93crz8fo5lnf.ga
 ts93crz8fo5lnf.gq
 ts93crz8fo5lnf.tk
 tspzeoypw35.ml
-tsutey.flu.cc
 ttoubdzlowecm7i2ua8.tk
 ttt72pfc0g.cf
 ttt72pfc0g.gq
@@ -6503,7 +6510,10 @@ wegwerfadresse.de
 wegwerfemail.com
 wegwerfemail.info
 wegwerfemail.net
+wegwerfmail.de
 wegwerfmail.info
+wegwerfmail.net
+wegwerfmail.org
 wegwerpmailadres.nl
 weldir.cf
 wellhungup.dynu.net
@@ -6917,6 +6927,7 @@ zgu5la23tngr2molii.ga
 zgu5la23tngr2molii.ml
 zhaoyuanedu.cn
 zhcne.com
+zhorachu.com
 zik.dj
 zil4czsdz3mvauc2.cf
 zil4czsdz3mvauc2.gq
