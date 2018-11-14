@@ -949,6 +949,7 @@ banhga.ml
 banit.club
 banit.me
 banjarworocity.cf
+baomoi.site
 barbarrianking.com
 barclays-plc.tk
 bareck.net
@@ -1281,7 +1282,6 @@ cchatz.ga
 cd2in.com
 cdnqa.com
 cdpa.cc
-cebolsarep.ga
 ceco3kvloj5s3.cf
 ceco3kvloj5s3.ml
 ceed.se
@@ -2018,6 +2018,7 @@ emailtech.info
 emailtemporanea.net
 emailtemporario.com.br
 emailthe.net
+emailto.de
 emailure.net
 emailwarden.com
 emailx.at.hm
@@ -4693,7 +4694,6 @@ opowlitowe53.tk
 oranek.com
 orangotango.tk
 ordinaryamerican.net
-ordinaryyz1.com
 oroki.de
 orpxp547tsuy6g.cf
 orpxp547tsuy6g.ga
@@ -5160,7 +5160,6 @@ r9ycfn3nou.tk
 ra3.us
 rabin.ca
 raetp9.com
-raffles.gg
 ragzwtna4ozrbf.gq
 ragzwtna4ozrbf.ml
 ragzwtna4ozrbf.tk
@@ -5446,6 +5445,7 @@ secure-box.online
 secure-fb.com
 secure-mail.biz
 secure-mail.cc
+secured-link.net
 sedasagreen01try.tk
 seekapps.com
 seekfindask.com
@@ -5579,6 +5579,7 @@ snkml.com
 snl9lhtzuvotv.ga
 snl9lhtzuvotv.gq
 so-com.tk
+so-net.ga
 socrazy.club
 socrazy.online
 soeo4am81j.cf
@@ -6086,7 +6087,6 @@ topeducationvn.ml
 topeducationvn.tk
 topikt.com
 topmall.info
-topmall.org
 toppartners.cf
 toppartners.ga
 toppartners.gq
@@ -6978,7 +6978,6 @@ zamge.com
 zane.rocks
 zanichelli.tk
 zapbox.fr
-zarweek.cf
 zarweek.tk
 zasod.com
 zavio.nl
