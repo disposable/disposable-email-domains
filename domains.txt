@@ -9958,6 +9958,7 @@ newscorp.cf
 newscorp.gq
 newscorp.ml
 newsmag.us
+newspro.fun
 newsusfun.com
 newtempmail.com
 next.ovh
