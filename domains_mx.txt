@@ -698,8 +698,8 @@ alumix.cf
 ama-trade.de
 ama-trans.de
 amadamus.com
-amail.club
 amail.com
+amail.gq
 amail4.me
 amazon-aws.org
 amex-online.tk
@@ -1358,7 +1358,6 @@ cloudns.cc
 clrmail.com
 clubstt.com
 clue-1.com
-cmail.club
 cmail.net
 cmc88.tk
 cnamed.com
@@ -1497,6 +1496,7 @@ cxpcgwodagut.cf
 cxpcgwodagut.ga
 cxpcgwodagut.ml
 cxpcgwodagut.tk
+cyber-innovation.club
 cyber-phone.eu
 cylab.org
 d.megafon.org.ua
@@ -1530,6 +1530,7 @@ daibond.info
 daimlerag.tk
 daimlerchrysler.cf
 dait.tk
+daleloan.com
 damanik.ga
 damanik.tk
 dammexe.net
@@ -2001,7 +2002,6 @@ emailtech.info
 emailtemporanea.net
 emailtemporario.com.br
 emailthe.net
-emailto.de
 emailure.net
 emailwarden.com
 emailx.at.hm
@@ -2096,6 +2096,7 @@ ethereal.email
 ethereum1.top
 ethersports.org
 etlgr.com
+etoic.com
 etranquil.com
 etranquil.net
 etranquil.org
@@ -2144,6 +2145,7 @@ extraaaa.tk
 extremail.ru
 exxon-mobil.tk
 eyepaste.com
+ezehe.com
 ezstest.com
 ezz.bid
 f2ksirhlrgdkvwa.tk
@@ -2692,6 +2694,7 @@ happymail.guru
 happysinner.co.uk
 haqed.com
 harakirimail.com
+haribu.com
 haribu.net
 hartbot.de
 harvard-ac-uk.tk
@@ -2816,6 +2819,7 @@ homal.com
 honor-8.com
 hopemail.biz
 hopoverview.com
+hopto.org
 hornyalwary.top
 horsefucker.org
 hostcalls.com
@@ -3673,7 +3677,9 @@ loa22ttdnx.tk
 loan101.pro
 loapq.com
 loblaw.twilightparadox.com
+locanto1.club
 locantofuck.top
+locantowsite.club
 loganisha253.ga
 logatarita947.tk
 logeva564.ga
@@ -3688,6 +3694,7 @@ logtanuwijaya670.tk
 logular.com
 logvirgina229.tk
 loh.pp.ua
+loin.in
 loketa.com
 lokum.nu
 lol.ovpn.to
@@ -4107,7 +4114,6 @@ mihanmail.ir
 mijnhva.nl
 milandwi.cf
 milk.gage.ga
-minex-coin.com
 ministry-of-silly-walks.de
 mintemail.com
 mintemail.tk
@@ -4187,6 +4193,7 @@ mozillafirefox.gq
 mozillafirefox.ml
 mozillafirefox.tk
 mp-j.tk
+mpictureb.com
 mptncvtx0zd.cf
 mptncvtx0zd.ga
 mpvnvwvflt.cf
@@ -4394,7 +4401,6 @@ newscorp.cf
 newscorp.gq
 newscorp.ml
 newsmag.us
-newspro.fun
 newsusfun.com
 newtempmail.com
 nextgenmail.cf
@@ -4782,7 +4788,6 @@ pelor.tk
 penoto.tk
 penspam.com
 peoplehavethepower.tk
-pepbot.com
 perjalanandinas.cf
 perjalanandinas.ga
 perjalanandinas.gq
@@ -5163,6 +5168,7 @@ rdahb3lrpjquq.tk
 rdyn171d60tswq0hs8.cf
 rdyn171d60tswq0hs8.gq
 rdyn171d60tswq0hs8.tk
+reality-concept.club
 reallymymail.com
 recode.me
 recursor.net
@@ -5253,8 +5259,6 @@ ronnierage.net
 rootfest.net
 rotaniliam.com
 rover100.tk
-rover400.ga
-rover400.ml
 rover400.tk
 rover75.tk
 row.kr
@@ -5796,7 +5800,6 @@ tapsitoaktl353t.ga
 tar00ih60tpt2h7.ga
 tar00ih60tpt2h7.gq
 tarlancapital.com
-tarma.tk
 tarzanmail.cf
 taskforcetech.com
 taskscbo.com
@@ -5855,6 +5858,7 @@ temp-mail.ru
 temp-mails.com
 temp.headstrong.de
 temp.wheezer.net
+tempail.com
 tempe-mail.com
 tempekmuta.cf
 tempekmuta.ga
@@ -6135,6 +6139,7 @@ trashmail.io
 trashmail.me
 trashmail.net
 trashmail.org
+trashmailer.com
 trashmails.com
 trashspam.com
 trashymail.com
@@ -6188,6 +6193,7 @@ tukudawet.tk
 tuncpersonel.com
 turoid.com
 turual.com
+tutye.com
 tvchd.com
 twddos.net
 tweakly.net
@@ -6525,6 +6531,7 @@ watashiyuo.ml
 watashiyuo.tk
 watchever.biz
 wawi.es
+wazabi.club
 wbml.net
 wchatz.ga
 wd0payo12t8o1dqp.cf
@@ -6763,7 +6770,6 @@ xmule.ml
 xn--9kq967o.com
 xn--bei.tk
 xn--iloveand-5z9m0a.gq
-xn--j6h.ml
 xn--mgbgvi3fi.com
 xn--mll-hoa.email
 xn--mllemail-65a.com
