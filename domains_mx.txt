@@ -77,6 +77,8 @@
 10minutemailbox.com
 10minutenemail.de
 10minutesmail.net
+10minutetempemail.com
+10minutmail.pl
 10vpn.info
 10x.es
 11-32.tk
@@ -1051,7 +1053,6 @@ blarakfight67dhr.ga
 blinkmatrix.com
 blip.ch
 blogmyway.org
-blogos.net
 blqthexqfmmcsjc6hy.ga
 blqthexqfmmcsjc6hy.ml
 bluebottle.com
@@ -1102,6 +1103,7 @@ boow.ml
 boow.tk
 bopunkten.se
 borgish.com
+boss.cf
 bossmail.de
 bot.nu
 botz.online
@@ -1134,7 +1136,6 @@ breakthru.com
 brefmail.com
 brennendesreich.de
 brickoll.tk
-briefkasten2go.de
 british-leyland.tk
 britishintelligence.co.uk
 broilone.com
@@ -2325,6 +2326,7 @@ freemail.tweakly.net
 freemails.ga
 freemeil.ga
 freemeil.gq
+freemeil.ml
 freemymail.org
 freemyworld.cf
 freemyworld.ga
@@ -2827,6 +2829,7 @@ hnlmtoxaxgu.gq
 hntr93vhdv.uy.to
 hoanggiaanh.com
 hoer.pw
+holdup.me
 holl.ga
 homal.com
 honor-8.com
@@ -2923,6 +2926,8 @@ i4j0j3iz0.com
 i4racpzge8.cf
 i4racpzge8.ga
 i4racpzge8.gq
+i6.cloudns.cc
+i6.cloudns.cx
 i6appears.com
 i774uhrksolqvthjbr.cf
 i774uhrksolqvthjbr.ga
@@ -4396,7 +4401,6 @@ ndxgokuye98hh.ga
 nebltiten0p.cf
 nebltiten0p.ml
 negated.com
-negrofilio.com
 neic.com
 neko2.net
 nemhgjujdj76kj.tk
@@ -6180,7 +6184,6 @@ trashdevil.com
 trashdevil.de
 trashemails.de
 trashinbox.net
-trashmail.app
 trashmail.at
 trashmail.com
 trashmail.de
@@ -6295,7 +6298,6 @@ ubm.md
 ucche.us
 ucho.top
 ucylu.com
-udns.cf
 udns.tk
 uemail99.com
 ufacturing.com
