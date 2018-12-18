@@ -78,7 +78,6 @@
 10minutenemail.de
 10minutesmail.net
 10minutetempemail.com
-10minutmail.pl
 10vpn.info
 10x.es
 11-32.tk
@@ -935,7 +934,6 @@ banit.me
 banjarworocity.cf
 baomoi.site
 barbarrianking.com
-barcakana.tk
 barclays-plc.tk
 bareck.net
 bareed.ws
@@ -1993,7 +1991,6 @@ emailo.pro
 emailofnd.cf
 emailondeck.com
 emailoo.cf
-emailpro.cf
 emailresort.com
 emailsecurer.com
 emailsensei.com
@@ -2334,6 +2331,7 @@ freemyworld.gq
 freemyworld.ml
 freemyworld.tk
 freeroid.com
+freesistervids.com
 freethought.ml
 freetubearchive.com
 freunde.ru
@@ -3556,7 +3554,6 @@ lakngin.ml
 lakqs.com
 lal.kr
 lambadarew90bb.gq
-lambdasu.com
 lamdx.com
 lamongan.ml
 landmail.co
@@ -3863,6 +3860,7 @@ mailbox2go.de
 mailbox80.biz
 mailbox87.de
 mailbox92.biz
+mailbucket.org
 mailc.tk
 mailcat.biz
 mailcatch.com
@@ -3890,6 +3888,7 @@ mailexpire.com
 mailf5.com
 mailfa.cf
 mailfa.tk
+mailfall.com
 mailfish.de
 mailforspam.com
 mailfree.ml
@@ -4261,7 +4260,6 @@ mwp4wcqnqh7t.ml
 mwp4wcqnqh7t.tk
 mx18.mailr.eu
 mx19.mailr.eu
-mxbin.net
 mxheesfgh38tlk.ga
 mxheesfgh38tlk.gq
 mxheesfgh38tlk.ml
@@ -5558,6 +5556,7 @@ smirusn6t7.gq
 smirusn6t7.tk
 smoug.net
 smtp99.com
+smuse.me
 snad1faxohwm.gq
 snad1faxohwm.tk
 snakemail.com
@@ -6589,7 +6588,6 @@ wefjo.grn.cc
 weg-beschlussbuch.de
 weg-werf-email.de
 wegas.ru
-wegwerf-email.net
 wegwerf-emails.de
 wegwerfadresse.de
 wegwerfemail.com
