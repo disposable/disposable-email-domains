@@ -78,6 +78,7 @@
 10minutenemail.de
 10minutesmail.net
 10minutetempemail.com
+10minutmail.pl
 10vpn.info
 10x.es
 11-32.tk
@@ -2001,6 +2002,7 @@ emailtech.info
 emailtemporanea.net
 emailtemporario.com.br
 emailthe.net
+emailto.de
 emailtoo.ml
 emailure.net
 emailwarden.com
@@ -2208,7 +2210,6 @@ fd99nhm5l4lsk.gq
 fd99nhm5l4lsk.ml
 fd99nhm5l4lsk.tk
 fddns.ml
-fdfdsfds.com
 fdgdfgdfgf.ml
 feaethplrsmel.cf
 feaethplrsmel.tk
@@ -2331,7 +2332,6 @@ freemyworld.gq
 freemyworld.ml
 freemyworld.tk
 freeroid.com
-freesistervids.com
 freethought.ml
 freetubearchive.com
 freunde.ru
@@ -4517,6 +4517,7 @@ notsharingmy.info
 novagun.com
 now.mefound.com
 noway.pw
+noways.ddns.net
 nowhere.org
 nowmymail.com
 npv.kr
@@ -6156,7 +6157,6 @@ trashdevil.com
 trashdevil.de
 trashemails.de
 trashinbox.net
-trashmail.app
 trashmail.at
 trashmail.com
 trashmail.de
