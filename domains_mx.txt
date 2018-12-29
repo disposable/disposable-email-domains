@@ -78,7 +78,6 @@
 10minutenemail.de
 10minutesmail.net
 10minutetempemail.com
-10minutmail.pl
 10vpn.info
 10x.es
 11-32.tk
@@ -915,6 +914,7 @@ badgerland.eu
 badhus.org
 badpotato.tk
 bae-systems.tk
+balanc3r.com
 ballsofsteel.net
 bangsat.in
 banhga.cf
@@ -1988,6 +1988,7 @@ emailtech.info
 emailtemporanea.net
 emailtemporario.com.br
 emailthe.net
+emailto.de
 emailtoo.ml
 emailure.net
 emailwarden.com
@@ -2261,7 +2262,6 @@ fnnus3bzo6eox0.tk
 fnord.me
 fo9t34g3wlpb0.ml
 foobarbot.net
-foodtherapy.top
 forecastertests.com
 foreskin.ga
 foreskin.ml
@@ -2306,6 +2306,7 @@ freeinbox.email
 freelance-france.eu
 freeletter.me
 freemail.trankery.net
+freemail.tweakly.net
 freemails.ga
 freemeil.ga
 freemeil.gq
@@ -2673,6 +2674,7 @@ hactzayvgqfhpd.ml
 hactzayvgqfhpd.tk
 haddo.eu
 hafzo.net
+hagiasophiagroup.com
 haida-edu.cn
 hamusoku.tk
 hangxomcuatoilatotoro.tk
@@ -3779,6 +3781,7 @@ mail0.ml
 mail10.cf
 mail10.ga
 mail10.ml
+mail11.cf
 mail114.net
 mail1999.tk
 mail1a.de
@@ -3915,7 +3918,6 @@ mailshell.com
 mailsiphon.com
 mailspam.me
 mailspam.xyz
-mailspeed.ru
 mailsucker.net
 mailtemp.info
 mailtemp.net
@@ -4069,6 +4071,7 @@ mihanmail.ir
 mijnhva.nl
 milandwi.cf
 milk.gage.ga
+minex-coin.com
 minishop.site
 ministry-of-silly-walks.de
 mintemail.com
@@ -4145,7 +4148,6 @@ mox.pp.ua
 moza.pl
 mozej.com
 mozillafirefox.cf
-mozillafirefox.ga
 mozillafirefox.gq
 mozillafirefox.ml
 mozillafirefox.tk
@@ -4258,6 +4260,7 @@ myspaceinc.org
 myspamless.com
 mystufffb.fun
 mystvpn.com
+mytandberg.com
 mytemp.email
 mytempemail.com
 mytempmail.com
@@ -4319,9 +4322,7 @@ ndek4g0h62b.ga
 ndek4g0h62b.gq
 ndek4g0h62b.ml
 ndek4g0h62b.tk
-ndfbmail.ga
 ndif8wuumk26gv5.tk
-ndinstamail.ga
 nds8ufik2kfxku.tk
 ndxgokuye98hh.ga
 nebltiten0p.cf
@@ -4576,7 +4577,6 @@ ojdh71ltl0hsbid2.tk
 ojpvym3oarf3njddpz2.cf
 ojpvym3oarf3njddpz2.ga
 ojpvym3oarf3njddpz2.ml
-okeoceapasajaoke.com
 okrent.us
 okzk.com
 olinbzt.ga
@@ -4663,6 +4663,7 @@ pa9e.com
 pachilly.com
 paddlepanel.com
 pagamenti.tk
+paharpurtitas.tk
 paherpur.ga
 paherpur.gq
 paherpur.ml
@@ -5101,7 +5102,6 @@ rav-4.cf
 rav-4.tk
 rav4.tk
 rawrr.ga
-razinrocks.me
 rbb.org
 rcpt.at
 rdahb3lrpjquq.cf
@@ -5357,7 +5357,6 @@ secure-box.online
 secure-fb.com
 secure-mail.biz
 secure-mail.cc
-secured-link.net
 sedasagreen01try.tk
 seed.ml
 seekapps.com
@@ -5770,6 +5769,7 @@ techemail.com
 techfevo.info
 techgroup.me
 techmail.info
+technicolor.ml
 technikue.men
 tefl.ro
 tegnabrapal.me
@@ -6131,6 +6131,7 @@ turual.com
 tutye.com
 tvchd.com
 twddos.net
+tweakly.net
 twinmail.de
 twlcd4i6jad6.gq
 twlcd4i6jad6.ml
@@ -6845,7 +6846,6 @@ yopmail.net
 yopmail.pp.ua
 yoru-dea.com
 you.e4ward.com
-youcankeepit.info
 youchat.ooo
 yougotgoated.com
 youmailr.com
