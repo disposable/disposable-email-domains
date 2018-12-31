@@ -60,8 +60,6 @@
 10launcheds.com
 10mail.com
 10mail.org
-10minut.com.pl
-10minut.xyz
 10minutemail.be
 10minutemail.cf
 10minutemail.co.za
@@ -1273,6 +1271,7 @@ cgrtstm0x4px.gq
 cgrtstm0x4px.ml
 cgrtstm0x4px.tk
 ch.tc
+chacuo.net
 chaichuang.com
 chammy.info
 champmails.com
@@ -1987,6 +1986,7 @@ emailtech.info
 emailtemporanea.net
 emailtemporario.com.br
 emailthe.net
+emailto.de
 emailtoo.ml
 emailure.net
 emailwarden.com
@@ -2049,7 +2049,6 @@ epic.swat.rip
 epot.ga
 eqeqeqeqe.tk
 eqstqbh7hotkm.cf
-equiapp.men
 erasf.com
 erk7oorgaxejvu.cf
 erk7oorgaxejvu.ga
@@ -2895,7 +2894,6 @@ i-booking.us
 i-phones.shop
 i-sp.tk
 i-taiwan.tv
-i.xcode.ro
 i1uc44vhqhqpgqx.ga
 i1uc44vhqhqpgqx.gq
 i1uc44vhqhqpgqx.ml
@@ -2905,8 +2903,6 @@ i4j0j3iz0.com
 i4racpzge8.cf
 i4racpzge8.ga
 i4racpzge8.gq
-i6.cloudns.cc
-i6.cloudns.cx
 i6appears.com
 i774uhrksolqvthjbr.cf
 i774uhrksolqvthjbr.ga
@@ -4240,6 +4236,7 @@ myfreemail.space
 myfullstore.fun
 mygeoweb.info
 myglockneronline.com
+myhagiasophia.com
 myhiteswebsite.website
 mylapak.info
 myloans.space
@@ -5359,7 +5356,6 @@ secure-box.online
 secure-fb.com
 secure-mail.biz
 secure-mail.cc
-secured-link.net
 sedasagreen01try.tk
 seed.ml
 seekapps.com
@@ -5390,7 +5386,6 @@ sfamo.com
 sfmail.top
 shakemain.com
 shalar.net
-shapoo.ch
 sharedmailbox.org
 sharing-storage.com
 sharklasers.com
@@ -6185,6 +6180,7 @@ ucho.top
 ucylu.com
 udns.tk
 uemail99.com
+ufacturing.com
 ufbpq9hinepu9k2fnd.tk
 ufxcnboh4hvtu4.gq
 uggsrock.com
@@ -6588,6 +6584,7 @@ wolukiyeh88jik.ga
 womenhealthcare.ooo
 wopc.cf
 work4uber.us
+workflowy.work
 worlddonation.org
 wpbinaq3w7zj5b0.ga
 wpbinaq3w7zj5b0.tk
@@ -6792,6 +6789,7 @@ ya.yomail.info
 yabai-oppai.tk
 yadavnaresh.com.np
 yahnmtntxwhxtymrs.tk
+yahoo-mail.ga
 yahooproduct.com
 yahooproduct.net
 yalamail.com
