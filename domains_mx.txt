@@ -60,6 +60,8 @@
 10launcheds.com
 10mail.com
 10mail.org
+10minut.com.pl
+10minut.xyz
 10minutemail.be
 10minutemail.cf
 10minutemail.co.za
@@ -1006,8 +1008,6 @@ bidu.gq
 biglive.asia
 bigstring.com
 bin.8191.at
-bingakilo.ga
-bingakilo.ml
 binka.me
 binkmail.com
 binnary.com
@@ -1055,6 +1055,8 @@ bmw-rollsroyce.tk
 bmw-x5.tk
 bmw-x6.tk
 bmw-z4.tk
+bmwgroup.cf
+bmwgroup.gq
 bmwgroup.ml
 bnckms.cf
 bnckms.ga
@@ -1370,6 +1372,7 @@ coepoe.ga
 coepoe.tk
 coepoekorea.ml
 coffeelovers.life
+coffeepancakewafflebacon.com
 coieo.com
 coiosidkry57hg.gq
 coldmail.ml
@@ -2193,7 +2196,6 @@ fd99nhm5l4lsk.gq
 fd99nhm5l4lsk.ml
 fd99nhm5l4lsk.tk
 fddns.ml
-fdfdsfds.com
 fdgdfgdfgf.ml
 feaethplrsmel.cf
 feaethplrsmel.tk
@@ -2528,10 +2530,6 @@ gok.kr
 goldinbox.net
 golemico.com
 golfilla.info
-goliokao.cf
-goliokao.ga
-goliokao.gq
-goliokao.ml
 gomail.in
 gomessage.ml
 goodluckforu.cn.com
@@ -2562,10 +2560,6 @@ gr5kfhihqa3y.gq
 gr5kfhihqa3y.tk
 gramail.ga
 grandmasmail.com
-grangmi.cf
-grangmi.ga
-grangmi.gq
-grangmi.ml
 gratisneuke.be
 gratosmail.fr.nf
 graymail.ga
@@ -2673,6 +2667,7 @@ haddo.eu
 hafzo.net
 haida-edu.cn
 hamusoku.tk
+hamzayousfi.tk
 hangxomcuatoilatotoro.tk
 haniv.ignorelist.com
 hanmama.zz.am
@@ -2894,6 +2889,7 @@ i-booking.us
 i-phones.shop
 i-sp.tk
 i-taiwan.tv
+i.xcode.ro
 i1uc44vhqhqpgqx.ga
 i1uc44vhqhqpgqx.gq
 i1uc44vhqhqpgqx.ml
@@ -2903,6 +2899,8 @@ i4j0j3iz0.com
 i4racpzge8.cf
 i4racpzge8.ga
 i4racpzge8.gq
+i6.cloudns.cc
+i6.cloudns.cx
 i6appears.com
 i774uhrksolqvthjbr.cf
 i774uhrksolqvthjbr.ga
@@ -3666,10 +3664,6 @@ lom.kr
 longio.org
 lookugly.com
 lordsofts.com
-lordvold.cf
-lordvold.ga
-lordvold.gq
-lordvold.ml
 lortemail.dk
 losemymail.com
 lovebitco.in
@@ -4213,7 +4207,6 @@ mxheesfgh38tlk.ga
 mxheesfgh38tlk.gq
 mxheesfgh38tlk.ml
 my-link.cf
-my-webmail.ml
 my-webmail.tk
 my.longaid.net
 my10minutemail.com
@@ -4236,7 +4229,6 @@ myfreemail.space
 myfullstore.fun
 mygeoweb.info
 myglockneronline.com
-myhagiasophia.com
 myhiteswebsite.website
 mylapak.info
 myloans.space
@@ -5130,8 +5122,6 @@ rejectmail.com
 reksareksy78oy.ml
 reliable-mail.com
 remarkable.rocks
-remehan.ga
-remehan.ml
 remote.li
 renault-sa.tk
 renaulttrucks.tk
@@ -5318,6 +5308,7 @@ sausen.com
 savetimeerr.fun
 sawoe.com
 saynotospams.com
+sayonara.ml
 sazhimail.ooo
 scanf.ga
 scanf.gq
@@ -5356,6 +5347,7 @@ secure-box.online
 secure-fb.com
 secure-mail.biz
 secure-mail.cc
+secured-link.net
 sedasagreen01try.tk
 seed.ml
 seekapps.com
@@ -5402,10 +5394,6 @@ shitmail.org
 shitposting.agency
 shittymail.tk
 shitware.nl
-shiyakila.cf
-shiyakila.ga
-shiyakila.gq
-shiyakila.ml
 shockmail.win
 shoklin.cf
 shoklin.ga
@@ -5646,6 +5634,7 @@ storj99.top
 stqffouerchjwho0.cf
 stqffouerchjwho0.ga
 stqffouerchjwho0.gq
+streetwisemail.com
 stromox.com
 sts9d93ie3b.cf
 sts9d93ie3b.ga
@@ -5865,6 +5854,7 @@ tgxvhp5fp9.ga
 tgxvhp5fp9.gq
 tgxvhp5fp9.tk
 thankyou2010.com
+theallgaiermogensen.com
 thebestremont.ru
 thediamants.org
 thedirhq.info
@@ -5876,6 +5866,7 @@ thembones.com.au
 theodore1818.site
 theopposition.club
 theothermail.com
+theoverlandtandberg.com
 thepieter.com
 thepieteronline.com
 thepit.ml
@@ -6096,6 +6087,7 @@ trickmail.net
 trillianpro.com
 trimsj.com
 trobertqs.com
+trojanmail.ga
 trommleronline.com
 trumpmail.tk
 trung.name.vn
@@ -6584,7 +6576,6 @@ wolukiyeh88jik.ga
 womenhealthcare.ooo
 wopc.cf
 work4uber.us
-workflowy.work
 worlddonation.org
 wpbinaq3w7zj5b0.ga
 wpbinaq3w7zj5b0.tk
@@ -6789,7 +6780,6 @@ ya.yomail.info
 yabai-oppai.tk
 yadavnaresh.com.np
 yahnmtntxwhxtymrs.tk
-yahoo-mail.ga
 yahooproduct.com
 yahooproduct.net
 yalamail.com
