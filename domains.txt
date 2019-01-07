@@ -2465,7 +2465,6 @@ banjarworo.ga
 banjarworo.ml
 banjarworocity.cf
 baomoi.site
-bapumoj.gq
 barbarrianking.com
 barcakana.tk
 barclays-plc.cf
@@ -8890,6 +8889,7 @@ m.convulse.net
 m.ddcrew.com
 m.nosuchdoma.in
 m.svlp.net
+m0.guardmail.cf
 m00b2sryh2dt8.cf
 m00b2sryh2dt8.ga
 m00b2sryh2dt8.gq
@@ -8905,6 +8905,8 @@ m0y1mqvqegwfvnth.ga
 m0y1mqvqegwfvnth.gq
 m0y1mqvqegwfvnth.ml
 m0y1mqvqegwfvnth.tk
+m1.guardmail.cf
+m2.guardmail.cf
 m21.cc
 m2r60ff.com
 m4ilweb.info
@@ -9364,7 +9366,6 @@ maskedmails.com
 maskmail.net
 masonline.info
 mastahype.net
-mastercard-3d.cf
 maswae.world
 matamuasu.cf
 matamuasu.ga
