@@ -13,6 +13,7 @@
 080mail.com
 0815.ru
 0815.su
+0ak.org
 0box.eu
 0cindcywrokv.cf
 0cindcywrokv.ga
@@ -28,7 +29,6 @@
 0jralz2qipvmr3n.ml
 0jralz2qipvmr3n.tk
 0mel.com
-0mixmail.info
 0nb9zti01sgz8u2a.cf
 0nb9zti01sgz8u2a.ga
 0nb9zti01sgz8u2a.gq
@@ -160,7 +160,6 @@
 2019z.gq
 2019z.ml
 2019z.tk
-20boxme.org
 20email.eu
 20mail.in
 20mail.it
@@ -940,6 +939,8 @@ banit.club
 banit.me
 banjarworocity.cf
 baomoi.site
+bapu.gq
+bapu.ml
 bapumoj.cf
 bapumoj.ga
 bapumoj.gq
@@ -1104,6 +1105,10 @@ bobmail.info
 bobohieu.tk
 bodmod.ga
 bofthew.com
+bohani.cf
+bohani.ga
+bohani.gq
+bohani.ml
 bohani.tk
 boimail.com
 bojogalax.ga
@@ -1306,7 +1311,6 @@ cgrtstm0x4px.gq
 cgrtstm0x4px.ml
 cgrtstm0x4px.tk
 ch.tc
-chacuo.net
 chaichuang.com
 chammy.info
 champmails.com
@@ -1487,7 +1491,6 @@ crub.tk
 crusthost.com
 crydeck.com
 crymail2.com
-cryp.email
 crypstats.top
 cs5xugkcirf07jk.cf
 cs5xugkcirf07jk.ga
@@ -1992,7 +1995,6 @@ email0.tk
 email2.gq
 email2.ml
 email2.tk
-email2an.ga
 email3.cf
 email3.tk
 emailappp.com
@@ -2062,7 +2064,6 @@ emy.kr
 emz.net
 enaksekali.ga
 encryptedmail.xyz
-endrix.org
 enfsmq2wel.cf
 enfsmq2wel.tk
 enggalman.ga
@@ -2129,7 +2130,6 @@ etranquil.com
 etranquil.net
 etranquil.org
 etxm.gq
-eu6genetic.com
 euaqa.com
 eur-sec1.tk
 eur0.ml
@@ -2309,7 +2309,6 @@ foresthope.com
 forgetmail.com
 forotenis.com
 forspam.net
-forward.cat
 fouristic.us
 foxja.com
 foxtrotter.info
@@ -2471,6 +2470,9 @@ galerielarochelle.com
 gally.jp
 game.com
 gamgling.com
+gangu.cf
+gangu.gq
+gangu.ml
 garage46.com
 garbagemail.org
 gardenscape.ca
@@ -2674,6 +2676,7 @@ gxglixaxlzc9lqfp.cf
 gxglixaxlzc9lqfp.ga
 gxglixaxlzc9lqfp.ml
 gxglixaxlzc9lqfp.tk
+gyigfoisnp560.ml
 gynzi.com
 gynzi.nl
 gynzy.es
@@ -2984,6 +2987,7 @@ ibt7tv8tv7.tk
 ichatz.ga
 ichigo.me
 icloud.do
+icloudbusiness.net
 iconsultant.me
 icraftx.net
 id10tproof.com
@@ -3511,7 +3515,6 @@ kulitlumpia8.cf
 kulmeo.com
 kulturbetrieb.info
 kum38p0dfgxz.tk
-kumail8.info
 kurzepost.de
 kusrc.com
 kv8v0bhfrepkozn4.cf
@@ -3842,7 +3845,6 @@ mail2rss.org
 mail2tor.com
 mail2world.com
 mail333.com
-mail4-us.org
 mail4gmail.com
 mail666.ru
 mail707.com
@@ -4644,6 +4646,7 @@ ojdh71ltl0hsbid2.tk
 ojpvym3oarf3njddpz2.cf
 ojpvym3oarf3njddpz2.ga
 ojpvym3oarf3njddpz2.ml
+okeoceapasajaoke.com
 okrent.us
 okzk.com
 olinbzt.ga
@@ -5079,7 +5082,6 @@ qmwparouoeq0sc.ga
 qmwparouoeq0sc.gq
 qmwparouoeq0sc.tk
 qn5egoikcwoxfif2g.cf
-qnb.io
 qnkznwsrwu3.ga
 qnkznwsrwu3.gq
 qnkznwsrwu3.ml
@@ -5644,7 +5646,6 @@ spamfree24.com
 spamfree24.de
 spamfree24.eu
 spamfree24.net
-spamfree24.org
 spamgourmet.com
 spamgourmet.net
 spamgourmet.org
@@ -5822,7 +5823,6 @@ tambakrejo.cf
 tambakrejo.ga
 tambakrejo.tk
 tandberggroup.com
-tandbergonline.com
 tandy.co
 tansmail.ga
 tantedewi.ml
@@ -5839,7 +5839,6 @@ tastaravalli.tk
 tauttjar3r46.cf
 taxi-france.com
 taylorventuresllc.com
-tb-on-line.net
 tbxmakazxsoyltu.cf
 tbxmakazxsoyltu.gq
 tbxmakazxsoyltu.ml
@@ -5975,6 +5974,7 @@ theglockneronline.com
 thehagiasophia.com
 thelimestones.com
 thembones.com.au
+themogensen.com
 theodore1818.site
 theopposition.club
 theothermail.com
@@ -6506,7 +6506,6 @@ vpn.st
 vpn33.top
 vps30.com
 vps911.net
-vpslists.com
 vpsorg.pro
 vpsorg.top
 vpstraffic.com
@@ -6693,6 +6692,7 @@ work4uber.us
 workflowy.club
 workflowy.cn
 workflowy.top
+workflowy.work
 worlddonation.org
 wpbinaq3w7zj5b0.ga
 wpbinaq3w7zj5b0.tk
@@ -6968,7 +6968,6 @@ youmails.online
 yourdomain.com
 yourlms.biz
 youveo.ch
-youzend.net
 yppm0z5sjif.gq
 yppm0z5sjif.tk
 yq6iki8l5xa.gq
