@@ -80,6 +80,7 @@
 10minutenemail.de
 10minutesmail.net
 10minutetempemail.com
+10minutmail.pl
 10vpn.info
 10x.es
 11-32.tk
@@ -546,7 +547,6 @@
 a-b.co.za
 a-bc.net
 a-mule.cf
-a-mule.ga
 a-mule.gq
 a-mule.ml
 a-mule.tk
@@ -1069,7 +1069,6 @@ blarakfight67dhr.ga
 blinkmatrix.com
 blip.ch
 blogmyway.org
-blogos.net
 bloq.ro
 blqthexqfmmcsjc6hy.ga
 blqthexqfmmcsjc6hy.ml
@@ -1311,6 +1310,7 @@ cgrtstm0x4px.gq
 cgrtstm0x4px.ml
 cgrtstm0x4px.tk
 ch.tc
+chacuo.net
 chaichuang.com
 chammy.info
 champmails.com
@@ -1685,6 +1685,7 @@ disposable.cf
 disposable.dhc-app.com
 disposableaddress.com
 disposableemailaddresses.com
+disposableinbox.com
 disposablemail.space
 dispose.it
 dispostable.com
@@ -1864,7 +1865,6 @@ dzinoy58w12.tk
 e-mail.com
 e-mail.net
 e-mail.org
-e-mule.cf
 e-mule.ga
 e-mule.gq
 e-mule.ml
@@ -2063,7 +2063,6 @@ emule.gq
 emy.kr
 emz.net
 enaksekali.ga
-encryptedmail.xyz
 enfsmq2wel.cf
 enfsmq2wel.tk
 enggalman.ga
@@ -2159,9 +2158,6 @@ exiq0air0ndsqbx2.ml
 existiert.net
 expirebox.com
 expirebox.email
-expirebox.me
-expirebox.net
-expirebox.org
 expl0rer.cf
 expl0rer.ga
 expl0rer.gq
@@ -2309,6 +2305,7 @@ foresthope.com
 forgetmail.com
 forotenis.com
 forspam.net
+forward.cat
 fouristic.us
 foxja.com
 foxtrotter.info
@@ -3065,7 +3062,6 @@ indeedlebeans.com
 indirect.ws
 indomaed.pw
 indoserver.stream
-infalled.com
 infest.org
 infinityclippingpath.com
 infocom.zp.ua
@@ -3366,6 +3362,7 @@ kein.hk
 keipino.de
 kekita.com
 keluruk.fun
+kembangpasir.website
 kemonkoreeitaholoto.tk
 kemska.pw
 kennedy808.com
@@ -3753,7 +3750,6 @@ luo.kr
 lupabapak.org
 lusianna.ml
 lutherhild.ga
-luutrudulieu.net
 luutrudulieu.online
 lvc2txcxuota.tk
 lwmaxkyo3a.cf
@@ -4121,7 +4117,6 @@ mihanmail.ir
 mijnhva.nl
 milandwi.cf
 milk.gage.ga
-mindyrose.online
 minex-coin.com
 minhazfb.cf
 minhazfb.ga
@@ -5082,6 +5077,7 @@ qmwparouoeq0sc.ga
 qmwparouoeq0sc.gq
 qmwparouoeq0sc.tk
 qn5egoikcwoxfif2g.cf
+qnb.io
 qnkznwsrwu3.ga
 qnkznwsrwu3.gq
 qnkznwsrwu3.ml
@@ -5631,7 +5627,6 @@ spambox.win
 spambox.xyz
 spamcannon.com
 spamcannon.net
-spamcero.com
 spamcon.org
 spamcorptastic.com
 spamcowboy.com
@@ -5646,6 +5641,7 @@ spamfree24.com
 spamfree24.de
 spamfree24.eu
 spamfree24.net
+spamfree24.org
 spamgourmet.com
 spamgourmet.net
 spamgourmet.org
@@ -6097,7 +6093,6 @@ topeducationvn.tk
 topfivestars.fun
 topikt.com
 topmall.info
-topmall.org
 toppartners.cf
 toppartners.ga
 toppartners.gq
@@ -6757,7 +6752,6 @@ x-mail.cf
 x-mule.cf
 x-mule.ga
 x-mule.gq
-x-mule.ml
 x-mule.tk
 x13x13x13.com
 x1bkskmuf4.ml
