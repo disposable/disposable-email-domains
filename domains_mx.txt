@@ -1112,7 +1112,6 @@ bohani.ml
 bohani.tk
 boimail.com
 bojogalax.ga
-bongo.gq
 bongobongo.cf
 bongobongo.tk
 bookoneem.ga
@@ -1311,6 +1310,7 @@ cgrtstm0x4px.gq
 cgrtstm0x4px.ml
 cgrtstm0x4px.tk
 ch.tc
+chacuo.net
 chaichuang.com
 chammy.info
 champmails.com
@@ -2029,6 +2029,7 @@ emailtech.info
 emailtemporanea.net
 emailtemporario.com.br
 emailthe.net
+emailto.de
 emailtoo.ml
 emailure.net
 emailwarden.com
@@ -2302,7 +2303,6 @@ foresthope.com
 forgetmail.com
 forotenis.com
 forspam.net
-forward.cat
 fouristic.us
 foxja.com
 foxtrotter.info
@@ -2950,8 +2950,6 @@ i4j0j3iz0.com
 i4racpzge8.cf
 i4racpzge8.ga
 i4racpzge8.gq
-i6.cloudns.cc
-i6.cloudns.cx
 i6appears.com
 i774uhrksolqvthjbr.cf
 i774uhrksolqvthjbr.ga
@@ -3338,6 +3336,7 @@ kalemproje.com
 kandymail.com
 kangkunk44lur.cf
 kartvelo.me
+kaspop.com
 katie11muramats.ga
 katztube.com
 kauinginpergi.cf
@@ -3772,11 +3771,8 @@ lzoaq.com
 m.convulse.net
 m.nosuchdoma.in
 m.svlp.net
-m0.guardmail.cf
 m00b2sryh2dt8.ga
 m00b2sryh2dt8.tk
-m1.guardmail.cf
-m2.guardmail.cf
 m8r.davidfuhr.de
 m8r.mcasal.com
 m8r8ltmoluqtxjvzbev.cf
@@ -5726,6 +5722,7 @@ stop-my-spam.com
 stop-my-spam.pp.ua
 storeclsrn.xyz
 storeodont.co
+storeyee.com
 storiqax.com
 storiqax.top
 storj99.com
