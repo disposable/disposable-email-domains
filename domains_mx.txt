@@ -80,6 +80,7 @@
 10minutenemail.de
 10minutesmail.net
 10minutetempemail.com
+10minutmail.pl
 10vpn.info
 10x.es
 11-32.tk
@@ -222,7 +223,6 @@
 2zozbzcohz3sde.gq
 2zozbzcohz3sde.tk
 2zpph1mgg70hhub.tk
-30minutenmail.eu
 30wave.com
 3202.com
 33m.co
@@ -725,7 +725,6 @@ amule.ga
 amule.gq
 amule.ml
 amymary.us
-amyxrolest.com
 an.id.au
 analogwe.us
 anappthat.com
@@ -2303,6 +2302,7 @@ foresthope.com
 forgetmail.com
 forotenis.com
 forspam.net
+forward.cat
 fouristic.us
 foxja.com
 foxtrotter.info
@@ -2454,8 +2454,6 @@ gag16dotw7t.ga
 gag16dotw7t.gq
 gag16dotw7t.tk
 gaggle.net
-gajesajflk.cf
-gajesajflk.gq
 galaxy-s9.tk
 galaxy.tv
 galaxyarmy.tech
@@ -2950,6 +2948,8 @@ i4j0j3iz0.com
 i4racpzge8.cf
 i4racpzge8.ga
 i4racpzge8.gq
+i6.cloudns.cc
+i6.cloudns.cx
 i6appears.com
 i774uhrksolqvthjbr.cf
 i774uhrksolqvthjbr.ga
@@ -3771,8 +3771,11 @@ lzoaq.com
 m.convulse.net
 m.nosuchdoma.in
 m.svlp.net
+m0.guardmail.cf
 m00b2sryh2dt8.ga
 m00b2sryh2dt8.tk
+m1.guardmail.cf
+m2.guardmail.cf
 m8r.davidfuhr.de
 m8r.mcasal.com
 m8r8ltmoluqtxjvzbev.cf
@@ -4921,10 +4924,6 @@ prethlah907huir.cf
 priceonline.co
 primabananen.net
 prin.be
-pringlang.cf
-pringlang.ga
-pringlang.gq
-pringlang.ml
 printf.cf
 printf.ga
 printf.ml
@@ -5003,6 +5002,11 @@ putthisinyourspamdatabase.com
 puyenkgel50ccb.ml
 pw-mail.tk
 pw.epac.to
+pw.my3mail.cf
+pw.my3mail.ga
+pw.my3mail.gq
+pw.my3mail.ml
+pw.my3mail.tk
 pwjsdgofya4rwc.cf
 pwjsdgofya4rwc.ga
 pwp.lv
@@ -5867,10 +5871,6 @@ tehdini.cf
 tehdini.ga
 tehdini.gq
 tehdini.ml
-tehsusu.cf
-tehsusu.ga
-tehsusu.gq
-tehsusu.ml
 telecomix.pl
 teleosaurs.xyz
 teleworm.com
@@ -6150,7 +6150,6 @@ tralalajos.tk
 tranceversal.com
 trash-mail.at
 trash-mail.cf
-trash-mail.ml
 trash-mail.net
 trash-me.com
 trash2009.com
