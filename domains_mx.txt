@@ -1129,6 +1129,7 @@ boow.ml
 boow.tk
 bopunkten.se
 borgish.com
+boss.cf
 bossmail.de
 bot.nu
 botz.online
@@ -1678,7 +1679,6 @@ discardmail.de
 discord.ml
 discordmail.com
 disign-revelation.com
-disneyfox.cf
 dispomail.eu
 dispomail.xyz
 disposable.cf
@@ -1951,7 +1951,6 @@ ef2qohn1l4ctqvh.tk
 efo.kr
 efxs.ca
 eggnova.com
-ehhxbsbbdhxcsvzbdv.tk
 ehmwi6oixa6mar7c.tk
 eho.kr
 ehoie03og3acq3us6.ml
@@ -2232,7 +2231,6 @@ fd99nhm5l4lsk.gq
 fd99nhm5l4lsk.ml
 fd99nhm5l4lsk.tk
 fddns.ml
-fdgdfgdfgf.ml
 feaethplrsmel.cf
 feaethplrsmel.tk
 ferastya.tk
@@ -2942,8 +2940,6 @@ i4j0j3iz0.com
 i4racpzge8.cf
 i4racpzge8.ga
 i4racpzge8.gq
-i6.cloudns.cc
-i6.cloudns.cx
 i6appears.com
 i774uhrksolqvthjbr.cf
 i774uhrksolqvthjbr.ga
@@ -3765,11 +3761,8 @@ lzoaq.com
 m.convulse.net
 m.nosuchdoma.in
 m.svlp.net
-m0.guardmail.cf
 m00b2sryh2dt8.ga
 m00b2sryh2dt8.tk
-m1.guardmail.cf
-m2.guardmail.cf
 m8r.davidfuhr.de
 m8r.mcasal.com
 m8r8ltmoluqtxjvzbev.cf
@@ -4008,7 +4001,6 @@ masasih.loan
 maskedmails.com
 maskmail.net
 mastahype.net
-mastercard-3d.cf
 maswae.world
 matchpol.net
 matra.site
@@ -4266,11 +4258,6 @@ my-link.cf
 my-webmail.tk
 my.longaid.net
 my10minutemail.com
-my3mail.cf
-my3mail.ga
-my3mail.gq
-my3mail.ml
-my3mail.tk
 myalias.pw
 myallgaiermogensen.com
 mybitti.de
@@ -4527,7 +4514,6 @@ notsharingmy.info
 novagun.com
 now.mefound.com
 noway.pw
-noways.ddns.net
 nowhere.org
 nowmymail.com
 npv.kr
@@ -4706,6 +4692,7 @@ ovimail.tk
 ovlov.tk
 ovpn.to
 owa.kr
+owawkrmnpx876.tk
 owlpic.com
 owlymail.com
 owrdonjk6quftraqj.ml
@@ -5005,11 +4992,6 @@ putthisinyourspamdatabase.com
 puyenkgel50ccb.ml
 pw-mail.tk
 pw.epac.to
-pw.my3mail.cf
-pw.my3mail.ga
-pw.my3mail.gq
-pw.my3mail.ml
-pw.my3mail.tk
 pwjsdgofya4rwc.cf
 pwjsdgofya4rwc.ga
 pwp.lv
@@ -5862,7 +5844,6 @@ teamkg.tk
 tebwinsoi.ooo
 tech69.com
 techemail.com
-techfevo.info
 techgroup.me
 techmail.info
 technicolor.cf
@@ -6151,6 +6132,7 @@ tqophzxzixlxf3uq0i.tk
 tr2k.tk
 tracciabi.li
 tradermail.info
+tralalajos.ml
 tralalajos.tk
 tranceversal.com
 trash-mail.at
@@ -6643,6 +6625,7 @@ wiki.8191.at
 wiki24.ga
 wiki24.ml
 wikidocuslava.ru
+wikilibhub.ru
 wikipedia-inc.tk
 wikipedia-llc.tk
 wil.kr
