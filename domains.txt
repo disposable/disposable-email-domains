@@ -3883,6 +3883,7 @@ ddnsfree.com
 ddosed.us
 de-a.org
 de-fake.instafly.cf
+de.newhorizons.gq
 de.sytes.net
 de4ce.gq
 de5m7y56n5.cf
@@ -8970,6 +8971,9 @@ m.convulse.net
 m.ddcrew.com
 m.nosuchdoma.in
 m.svlp.net
+m.u-torrent.cf
+m.u-torrent.ga
+m.u-torrent.gq
 m0.guardmail.cf
 m00b2sryh2dt8.cf
 m00b2sryh2dt8.ga
@@ -9708,7 +9712,6 @@ mkbw3iv5vqreks2r.ga
 mkbw3iv5vqreks2r.ml
 mkbw3iv5vqreks2r.tk
 mkdshhdtry546bn.ga
-mkk83.top
 mkljyurffdg987.cf
 mkljyurffdg987.ga
 mkljyurffdg987.gq
