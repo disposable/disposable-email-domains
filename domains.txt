@@ -175,6 +175,8 @@
 1-up.gq
 1-up.ml
 1-up.tk
+1.tempremail.cf
+1.tempremail.tk
 1000kti.xyz
 1000rebates.stream
 100kti.xyz
@@ -1488,6 +1490,8 @@ a.a.fbmail.usa.cc
 a.betr.co
 a.hido.tech
 a.sach.ir
+a.tempremail.cf
+a.tempremail.tk
 a.wxnw.net
 a0.igg.biz
 a02sjv3e4e8jk4liat.cf
