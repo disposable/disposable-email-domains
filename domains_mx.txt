@@ -52,8 +52,6 @@
 1-up.gq
 1-up.ml
 1-up.tk
-1.tempremail.cf
-1.tempremail.tk
 1000kti.xyz
 1000rebates.stream
 100kti.xyz
@@ -560,8 +558,6 @@ a-mule.gq
 a-mule.ml
 a-mule.tk
 a.hido.tech
-a.tempremail.cf
-a.tempremail.tk
 a02sjv3e4e8jk4liat.cf
 a02sjv3e4e8jk4liat.gq
 a02sjv3e4e8jk4liat.ml
@@ -1254,6 +1250,7 @@ casio-edu.ml
 casio-edu.tk
 catch.everton.com
 catchonline.ooo
+cavi.mx
 cbair.com
 cbgh.ddns.me
 cc-s3x.tk
@@ -1580,7 +1577,6 @@ dcndiox5sxtegbevz.ml
 dcndiox5sxtegbevz.tk
 ddcrew.com
 de-a.org
-de.newhorizons.gq
 dea.soon.it
 deadchildren.org
 deadfake.cf
@@ -2100,7 +2096,6 @@ eveb5t5.cf
 eveb5t5.ga
 eveb5t5.ml
 eveb5t5.tk
-evilbruce.com
 evt5et4.cf
 evt5et4.ga
 evt5et4.ml
@@ -2885,8 +2880,6 @@ i4j0j3iz0.com
 i4racpzge8.cf
 i4racpzge8.ga
 i4racpzge8.gq
-i6.cloudns.cc
-i6.cloudns.cx
 i6appears.com
 i774uhrksolqvthjbr.cf
 i774uhrksolqvthjbr.ga
@@ -3655,7 +3648,6 @@ lr78.com
 lrelsqkgga4.ml
 lrelsqkgga4.tk
 lrtptf0s50vpf.ml
-lru.me
 lsrtsgjsygjs34.gq
 lsxprelk6ixr.cf
 lsxprelk6ixr.gq
@@ -3698,9 +3690,6 @@ m.codng.com
 m.convulse.net
 m.nosuchdoma.in
 m.svlp.net
-m.u-torrent.cf
-m.u-torrent.ga
-m.u-torrent.gq
 m0.guardmail.cf
 m00b2sryh2dt8.ga
 m00b2sryh2dt8.tk
@@ -4054,9 +4043,7 @@ mite.tk
 mitsubishi-asx.tk
 mitsubishi-pajero.tk
 mitsubishi2.cf
-mitsubishi2.ga
 mitsubishi2.gq
-mitsubishi2.ml
 mitsubishi2.tk
 miur.tk
 mji.ro
@@ -4116,8 +4103,6 @@ mowgli.jungleheart.com
 mox.pp.ua
 moza.pl
 mozej.com
-mozillafirefox.gq
-mozillafirefox.ml
 mozillafirefox.tk
 mp-j.tk
 mpictureb.com
@@ -5075,6 +5060,7 @@ rav-4.cf
 rav-4.tk
 rav4.tk
 rawrr.ga
+razinrocks.me
 rbb.org
 rcpt.at
 rdahb3lrpjquq.cf
@@ -5164,6 +5150,7 @@ rnzcomesth.com
 ro.lt
 roastscreen.com
 robot-mail.com
+robox.agency
 rollsroyce-plc.tk
 rolndedip.tk
 ronnierage.net
@@ -5319,9 +5306,6 @@ sdfsdf.co
 sdnr.it
 searzh.com
 seasideorient.com
-secmail.ga
-secmail.gq
-secmail.ml
 secret-area.tk
 secretemail.de
 sector2.org
@@ -5350,6 +5334,7 @@ senseless-entertainment.com
 seobungbinh.com
 serv.craigslist.org
 server.ms
+servermuoihaikhongbon.com
 services391.com
 setefi.tk
 sexboxx.tk
@@ -5410,7 +5395,6 @@ skeefmail.com
 skg3qvpntq.tk
 skrx.tk
 sksfullskin.ga
-skymail.gq
 skzokgmueb3gfvu.cf
 skzokgmueb3gfvu.tk
 slaskpost.rymdprojekt.se
@@ -5831,7 +5815,6 @@ thankyou2010.com
 theallgaiermogensen.com
 thebestremont.ru
 thediamants.org
-thedirhq.info
 thefirstticket.com
 thega.ga
 theglockner.com
@@ -5958,6 +5941,7 @@ topeducationvn.tk
 topfivestars.fun
 topikt.com
 topmall.info
+topmall.org
 toppartners.cf
 toppartners.ga
 toppartners.gq
@@ -6193,7 +6177,6 @@ uscaves.com
 usenetmail.tk
 username.e4ward.com
 userseo.ga
-usharingk.com
 ushijima1129.tk
 usitv.ga
 ut6rtiy1ajr.ga

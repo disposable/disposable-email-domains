@@ -175,8 +175,6 @@
 1-up.gq
 1-up.ml
 1-up.tk
-1.tempremail.cf
-1.tempremail.tk
 1000kti.xyz
 1000rebates.stream
 100kti.xyz
@@ -1490,8 +1488,6 @@ a.a.fbmail.usa.cc
 a.betr.co
 a.hido.tech
 a.sach.ir
-a.tempremail.cf
-a.tempremail.tk
 a.wxnw.net
 a0.igg.biz
 a02sjv3e4e8jk4liat.cf
@@ -3887,7 +3883,6 @@ ddnsfree.com
 ddosed.us
 de-a.org
 de-fake.instafly.cf
-de.newhorizons.gq
 de.sytes.net
 de4ce.gq
 de5m7y56n5.cf
@@ -6924,8 +6919,6 @@ i54o8oiqdr.ga
 i54o8oiqdr.gq
 i54o8oiqdr.ml
 i54o8oiqdr.tk
-i6.cloudns.cc
-i6.cloudns.cx
 i66g2i2w.com
 i6appears.com
 i75rwe24vcdc.cf
@@ -8975,9 +8968,6 @@ m.convulse.net
 m.ddcrew.com
 m.nosuchdoma.in
 m.svlp.net
-m.u-torrent.cf
-m.u-torrent.ga
-m.u-torrent.gq
 m0.guardmail.cf
 m00b2sryh2dt8.cf
 m00b2sryh2dt8.ga
@@ -12859,6 +12849,7 @@ seriousalts.de
 serv.craigslist.org
 server.ms
 servermaps.net
+servermuoihaikhongbon.com
 serverpro.cf
 service4.ml
 services391.com
