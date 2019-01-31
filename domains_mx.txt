@@ -52,8 +52,6 @@
 1-up.gq
 1-up.ml
 1-up.tk
-1.tempremail.cf
-1.tempremail.tk
 1000kti.xyz
 1000rebates.stream
 100kti.xyz
@@ -556,8 +554,6 @@ a-mule.gq
 a-mule.ml
 a-mule.tk
 a.hido.tech
-a.tempremail.cf
-a.tempremail.tk
 a02sjv3e4e8jk4liat.cf
 a02sjv3e4e8jk4liat.gq
 a02sjv3e4e8jk4liat.ml
@@ -716,7 +712,6 @@ ama-trade.de
 ama-trans.de
 amadamus.com
 amail.com
-amail.gq
 amail4.me
 amantapkun.com
 amazon-aws.org
@@ -773,7 +768,6 @@ antonveneta.cf
 antonveneta.ga
 antonveneta.gq
 antonveneta.ml
-antonveneta.tk
 anyalias.com
 anyett.com
 ao4ffqty.com
@@ -1576,7 +1570,6 @@ dcndiox5sxtegbevz.ml
 dcndiox5sxtegbevz.tk
 ddcrew.com
 de-a.org
-de.newhorizons.gq
 dea.soon.it
 deadchildren.org
 deadfake.cf
@@ -1998,6 +1991,7 @@ emailwarden.com
 emailx.at.hm
 emailxfer.com
 emall.ml
+emap5vv.top
 emdwgsnxatla1.ga
 emdwgsnxatla1.gq
 emdwgsnxatla1.ml
@@ -2879,8 +2873,6 @@ i4j0j3iz0.com
 i4racpzge8.cf
 i4racpzge8.ga
 i4racpzge8.gq
-i6.cloudns.cc
-i6.cloudns.cx
 i6appears.com
 i774uhrksolqvthjbr.cf
 i774uhrksolqvthjbr.ga
@@ -3692,9 +3684,6 @@ m.codng.com
 m.convulse.net
 m.nosuchdoma.in
 m.svlp.net
-m.u-torrent.cf
-m.u-torrent.ga
-m.u-torrent.gq
 m0.guardmail.cf
 m00b2sryh2dt8.ga
 m00b2sryh2dt8.tk
@@ -4713,6 +4702,7 @@ pesowuwzdyapml.gq
 pesowuwzdyapml.tk
 petertijj.com
 petrolgames.com
+petronas.cf
 petronas.gq
 pexda.co.uk
 pgioa4ta46.ga
@@ -5048,6 +5038,7 @@ raiplay.tk
 raiway.tk
 rajeshcon.cf
 raketenmann.de
+ralree.com
 rambakcor44bwd.ga
 ramjane.mooo.com
 rampas.ml
@@ -5426,7 +5417,6 @@ smileyet.tk
 smirusn6t7.gq
 smirusn6t7.tk
 smoug.net
-smtp.docs.edu.vn
 smtp99.com
 smuse.me
 snad1faxohwm.gq
