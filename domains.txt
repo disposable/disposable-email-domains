@@ -2490,6 +2490,7 @@ banit.me
 banjarworo.ga
 banjarworo.ml
 banjarworocity.cf
+bannedpls.online
 baomoi.site
 bapu.gq
 bapu.ml
@@ -7380,6 +7381,7 @@ it-italy.ml
 it-italy.tk
 it2-mail.tk
 it7.ovh
+itemp.email
 itis0k.com
 itmtx.com
 itoup.com
@@ -9222,6 +9224,7 @@ mailc.gq
 mailc.tk
 mailcat.biz
 mailcatch.com
+mailcatch.xyz
 mailcc.cf
 mailcc.ga
 mailcc.gq
