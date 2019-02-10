@@ -52,8 +52,6 @@
 1-up.gq
 1-up.ml
 1-up.tk
-1.tempremail.cf
-1.tempremail.tk
 1000kti.xyz
 1000rebates.stream
 100kti.xyz
@@ -150,7 +148,6 @@
 1usemail.com
 1website.net
 2-bee.tk
-2.cum.sborra.tk
 2.safemail.cf
 2.safemail.tk
 2.sexymail.ooo
@@ -558,8 +555,6 @@ a-mule.gq
 a-mule.ml
 a-mule.tk
 a.hido.tech
-a.tempremail.cf
-a.tempremail.tk
 a02sjv3e4e8jk4liat.cf
 a02sjv3e4e8jk4liat.gq
 a02sjv3e4e8jk4liat.ml
@@ -637,6 +632,10 @@ aditus.info
 adnc7mcvmqj0qrb.cf
 adnc7mcvmqj0qrb.ga
 adnc7mcvmqj0qrb.ml
+adolf-hitler.cf
+adolf-hitler.ga
+adolf-hitler.gq
+adolf-hitler.ml
 adroit.asia
 adsd.org
 advantimal.com
@@ -726,10 +725,6 @@ amiriindustries.com
 amokqidwvb630.ga
 ampsylike.com
 amt3security.com
-amule.cf
-amule.ga
-amule.gq
-amule.ml
 an.id.au
 analogwe.us
 anappthat.com
@@ -759,7 +754,7 @@ anonymousfeedback.net
 anonymousspeech.com
 anonymstermail.com
 anotherdomaincyka.tk
-ansaldobreda.ga
+ansaldobreda.tk
 answersfortrivia.ml
 anthony-junkmail.com
 antichef.com
@@ -1270,6 +1265,7 @@ cgrtstm0x4px.gq
 cgrtstm0x4px.ml
 cgrtstm0x4px.tk
 ch.tc
+chacuo.net
 chaichuang.com
 chammy.info
 champmails.com
@@ -2004,9 +2000,6 @@ empaltahu24best.gq
 empiremail.de
 empresagloriasamotderoman.com
 emtrn9cyvg0a.cf
-emule.cf
-emule.ga
-emule.gq
 emy.kr
 emz.net
 enaksekali.ga
@@ -2120,7 +2113,6 @@ f4k.es
 f5.si
 f97vfopz932slpak.gq
 faaakb000ktai.ga
-fabia.skodaauto.cf
 facenewsk.fun
 fagbxy1iioa3ue.cf
 fagbxy1iioa3ue.gq
@@ -2873,7 +2865,6 @@ i4racpzge8.ga
 i4racpzge8.gq
 i6.cloudns.cc
 i6.cloudns.cx
-i6appears.com
 i774uhrksolqvthjbr.cf
 i774uhrksolqvthjbr.ga
 i774uhrksolqvthjbr.gq
@@ -3711,7 +3702,6 @@ magspam.net
 mahdevip.com
 maidlow.info
 mail-2-you.com
-mail-apps.com
 mail-c.tk
 mail-fake.com
 mail-filter.com
@@ -4084,6 +4074,7 @@ mohmal.im
 mohmal.in
 mohsenfb.com
 molms.com
+monachat.tk
 moncourrier.fr.nf
 monemail.fr.nf
 monmail.fr.nf
@@ -4520,7 +4511,6 @@ obo.kr
 obobbo.com
 obtqadqunonkk1kgh.tk
 obxpestcontrol.com
-octavia.skodaauto.cf
 od9b0vegxj.gq
 od9b0vegxj.ml
 od9b0vegxj.tk
@@ -4997,7 +4987,6 @@ qtpxsvwifkc.ml
 qtum-ico.com
 quadrafit.com
 qualityservice.com
-qubecorp.tk
 querydirect.com
 questore.co
 queuem.com
@@ -5442,6 +5431,7 @@ snl9lhtzuvotv.gq
 so-com.tk
 so-net.ga
 socrazy.club
+socrazy.online
 soeo4am81j.cf
 soeo4am81j.ga
 soeo4am81j.ml
@@ -5578,7 +5568,6 @@ startsgreat.ga
 startwithone.ga
 statdvr.com
 stathost.net
-staticintime.de
 statloan.info
 statuspage.ga
 statx.ga
@@ -6556,7 +6545,6 @@ work4uber.us
 workflowy.club
 workflowy.cn
 workflowy.top
-workflowy.work
 worlddonation.org
 wpbinaq3w7zj5b0.ga
 wpbinaq3w7zj5b0.tk
@@ -6646,7 +6634,6 @@ xc05fypuj.com
 xc40.tk
 xc60.tk
 xc90.tk
-xcode.ro
 xcodes.net
 xcpy.com
 xcxqtsfd0ih2l.cf
