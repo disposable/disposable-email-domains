@@ -13,13 +13,11 @@
 0sg.net
 0wnd.net
 0wnd.org
-0x01.gq
 0x02.tk
 0x03.tk
 1000kti.xyz
 1000rebates.stream
 100kti.xyz
-10100.ml
 10host.top
 10launcheds.com
 10mail.com
@@ -172,7 +170,6 @@
 888z5.tk
 88clean.pro
 8chan.co
-8mail.ga
 8usmwuqxh1s1pw.tk
 900k.es
 91000.com
@@ -241,10 +238,10 @@ airsi.de
 airsoftshooters.com
 ajaxapp.net
 aji.kr
-ajiagustian.com
 akapost.com
 akerd.com
 akgq701.com
+akkecuwa.ga
 aksearches.com
 aktiefmail.nl
 akusayyangkamusangat.tk
@@ -513,7 +510,6 @@ bohani.tk
 boimail.com
 bongobongo.tk
 bookyah.com
-bootkp8fnp6t7dh.tk
 bopunkten.se
 borgish.com
 bossmail.de
@@ -604,7 +600,9 @@ cekajahhs.tk
 cellurl.com
 cem.net
 cetpass.com
+cex1z9qo.cf
 ch.tc
+chacuo.net
 chaichuang.com
 chammy.info
 champmails.com
@@ -742,6 +740,8 @@ cvijqth6if8txrdt.tk
 cyber-phone.eu
 cybersex.com
 cylab.org
+d-link.cf
+d-link.ml
 d.megafon.org.ua
 d1yun.com
 d3p.dk
@@ -945,6 +945,7 @@ ebs.com.ar
 echt-mail.de
 eco.ilmale.it
 ecocap.tk
+ecolo-online.fr
 edgex.ru
 eelmail.com
 ef2qohn1l4ctqvh.tk
@@ -984,7 +985,6 @@ emailna.co
 emailna.life
 emailo.pro
 emailondeck.com
-emailoo.cf
 emailresort.com
 emailsecurer.com
 emailsensei.com
@@ -993,6 +993,7 @@ emailtech.info
 emailtemporanea.net
 emailtemporario.com.br
 emailthe.net
+emailto.de
 emailure.net
 emailwarden.com
 emailx.at.hm
@@ -1075,11 +1076,13 @@ fangoh.com
 fantasymail.de
 farfurmail.tk
 fartwallet.com
+fast-mail.fr
 fastacura.com
 fastchevy.com
 fastchrysler.com
 fastemails.us
 fastermail.com
+fastmailforyou.net
 fastmazda.com
 fastmitsubishi.com
 fastnissan.com
@@ -1176,7 +1179,6 @@ fuckedupload.com
 fudgerub.com
 fuhoy.com
 fuirio.com
-fujitv.cf
 fulvie.com
 fun2.biz
 funnymail.de
@@ -1195,7 +1197,6 @@ fxprix.com
 fyii.de
 g-mailix.com
 g-meil.com
-g00gl3.ml
 g00glechr0me.tk
 g14l71lb.com
 g212dnk5.com
@@ -1258,10 +1259,6 @@ giessdorf.eu.org
 gifto12.com
 gigs.craigslist.org
 gilray.net
-ginzi.be
-ginzi.eu
-ginzi.net
-ginzy.eu
 giooig.tk
 giplwsaoozgmmp.tk
 gishpuppy.com
@@ -1290,7 +1287,6 @@ gomailbox.info
 goodluckforu.cn.com
 googdad.tk
 google-mail.ooo
-goooomail.com
 gordon1121.club
 gorillaswithdirtyarmpits.com
 gotimes.xyz
@@ -1343,16 +1339,11 @@ guqoo.com
 gustidharya.com
 gustr.com
 gwfh.tk
-gynzi.com
-gynzi.nl
-gynzy.es
 gynzy.eu
 gzb.ro
 h0116.top
 h1tler.tk
 h2o-web.tk
-h7xbkl9glkh.tk
-h8usp9cxtftf.tk
 h9js8y6.com
 habitue.net
 hackthatbit.ch
@@ -1361,7 +1352,6 @@ hagiasophiagroup.com
 hagiasophiaonline.com
 haida-edu.cn
 hamusoku.tk
-hamzayousfi.tk
 hangxomcuatoilatotoro.tk
 haniv.ignorelist.com
 hanmama.zz.am
@@ -1475,7 +1465,6 @@ humn.ws.gy
 hurify1.com
 hush.ai
 hush.com
-hushmail.cf
 hvastudiesucces.nl
 hvzoi.com
 hxvxxo1v8mfbt.tk
@@ -1566,7 +1555,7 @@ inrim.tk
 instaku-media.com
 instance-email.com
 instantemailaddress.com
-interserver.ga
+instantmail.fr
 intersteller.com
 ioio.eu
 iotu.de.vipqq.eu.org
@@ -1593,6 +1582,7 @@ it-italy.tk
 it2-mail.tk
 itemp.email
 itis0k.com
+itks6xvn.gq
 itmtx.com
 itoup.com
 ivecotrucks.tk
@@ -1699,7 +1689,6 @@ katztube.com
 kaxks55ofhkzt5245n.tk
 kazper.net
 kcrw.de
-kdjngsdgsd.tk
 kdublinstj.com
 keepmymail.com
 kein.hk
@@ -1903,6 +1892,7 @@ mahdevip.com
 maidlow.info
 mail-2-you.com
 mail-c.tk
+mail-easy.fr
 mail-fake.com
 mail-filter.com
 mail-hub.info
@@ -2029,7 +2019,6 @@ mailna.me
 mailnesia.com
 mailnull.com
 mailorg.org
-mailos.gq
 mailox.biz
 mailox.fun
 mailpick.biz
@@ -2203,7 +2192,6 @@ mozej.com
 mozillafirefox.tk
 mp-j.tk
 mpictureb.com
-mqg77378.ga
 mr24.co
 mrichacrown39dust.tk
 msgden.com
@@ -2216,7 +2204,6 @@ mt2009.com
 mt2015.com
 mtmdev.com
 muchomail.com
-muehlacker.tk
 muell.email
 muellemail.com
 muellmail.com
@@ -2634,6 +2621,7 @@ pqoia.com
 pqoss.com
 pravorobotov.ru
 predatorrat.tk
+premium-mail.fr
 priceonline.co
 primabananen.net
 prin.be
@@ -2865,7 +2853,6 @@ sale.craigslist.org
 saltysushi.com
 salvatore1818.site
 samsclass.info
-samsunggalaxys9.cf
 sandcars.net
 sandelf.de
 sanfinder.com
@@ -2885,6 +2872,7 @@ scay.net
 scbox.one.pl
 schachrol.com
 schafmail.de
+schrott-email.de
 screamfused.com
 screechcontrol.com
 sd3.in
@@ -3130,7 +3118,6 @@ storj99.com
 storj99.top
 streetwisemail.com
 stromox.com
-stuckhere.ml
 stuckmail.com
 studiopolka.tokyo
 stuff.munrohk.com
@@ -3311,6 +3298,7 @@ thug.pw
 thunderbolt.science
 thunkinator.org
 thxmate.com
+thzhhe5l.ml
 tiapz.com
 tic.ec
 ticklecontrol.com
@@ -3329,6 +3317,7 @@ tlvsmbdy.tk
 tm.in-ulm.de
 tm.slsrs.ru
 tm2mail.com
+tm42.gq
 tmail.run
 tmail.ws
 tmail1.tk
@@ -3430,6 +3419,7 @@ tualias.com
 tubruk.trade
 tucumcaritonite.com
 tukudawet.tk
+tuongtactot.tk
 turoid.com
 turual.com
 tutye.com
@@ -3446,7 +3436,6 @@ tyclonecuongsach.site
 tyldd.com
 u.dmarc.ro
 u1.myftp.name
-u14269.ml
 uacro.com
 ubismail.net
 ubm.md
@@ -3487,10 +3476,10 @@ usa-gov.tk
 usa.isgre.at
 usako.net
 uscaves.com
+used-product.fr
 usenetmail.tk
 username.e4ward.com
 ushijima1129.tk
-ut6rtiy1ajr.gq
 utangsss.online
 utilities-online.info
 utoo.email
@@ -3617,6 +3606,7 @@ wbml.net
 we.lovebitco.in
 web-email.eu
 web-emailbox.eu
+web-ideal.fr
 web-mail.pp.ua
 web2mailco.com
 webcontact-france.eu
@@ -3698,10 +3688,10 @@ wpmail.org
 writeme.us
 wrlnewstops.space
 wronghead.com
+ws.gy
 wu158.club
 wupics.com
 wuzupmail.net
-wvppz7myufwmmgh.ga
 www.dmtc.edu.pl
 www.e4ward.com
 www.live.co.kr.beo.kr
@@ -3721,6 +3711,7 @@ xc90.tk
 xcode.ro
 xcodes.net
 xcpy.com
+xeb9xwp7.tk
 xemaps.com
 xemne.com
 xents.com
@@ -3901,10 +3892,8 @@ zomail.org
 zomg.info
 zp.ua
 zpvozwsri4aryzatr.tk
-zran5yxefwrcpqtcq.ml
 zsero.com
 zslsz.com
-ztdgrucjg92piejmx.ml
 zualikhakk.tk
 zubacteriax.com
 zw6provider.com
