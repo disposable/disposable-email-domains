@@ -47,6 +47,7 @@
 117.yyolf.net
 120mail.com
 123-m.com
+1236456.com
 12hosting.net
 12minutemail.com
 13dk.net
@@ -92,10 +93,10 @@
 24mail.xyz
 25mails.com
 2dfmail.tk
-2ether.net
 2fdgdfgdfgdf.tk
 2mailnext.com
 2mailnext.top
+2nd-mail.xyz
 2odem.com
 2prong.com
 2viewerl.com
@@ -169,6 +170,7 @@
 7tags.com
 7uy35p.tk
 800sacramento.tk
+806.flu.cc
 80665.com
 8191.at
 8290.com
@@ -188,6 +190,7 @@
 a-b.co.za
 a-bc.net
 a.hido.tech
+a2.flu.cc
 a41odgz7jh.com
 a41odgz7jh.com.com
 a45.in
@@ -406,6 +409,7 @@ ax80mail.com
 axeprim.eu
 axon7zte.com
 axsup.net
+ay33rs.flu.cc
 azazazatashkent.tk
 azcomputerworks.com
 azmeil.tk
@@ -435,6 +439,7 @@ baomoi.site
 barbarrianking.com
 barclays-plc.tk
 bareck.net
+bareed.ws
 barrabravaz.com
 barryogorman.com
 barrypov.com
@@ -650,7 +655,6 @@ chewcow.com
 chewiemail.com
 chickenkiller.com
 chielo.com
-chilepro.cc
 chilkat.com
 chithi.xyz
 chivasso.tk
@@ -867,6 +871,8 @@ directmail24.net
 directmonitor.nl
 dirtymax.com
 disario.info
+disbox.net
+disbox.org
 discard.email
 discardmail.com
 discardmail.de
@@ -1043,6 +1049,7 @@ emailtech.info
 emailtemporanea.net
 emailtemporario.com.br
 emailthe.net
+emailto.de
 emailure.net
 emailvenue.com
 emailwarden.com
@@ -1093,6 +1100,7 @@ etranquil.com
 etranquil.net
 etranquil.org
 eu.dlink.cf
+eu.dlink.gq
 euaqa.com
 eur-sec1.tk
 euromail.tk
@@ -1121,6 +1129,7 @@ facenewsk.fun
 failinga.nl
 faithkills.org
 fake-email.pp.ua
+fakeemail.de
 fakeemail.tk
 fakeinbox.info
 fakemailgenerator.net
@@ -1273,6 +1282,7 @@ galerielarochelle.com
 gally.jp
 gamail.top
 game.com
+games4free.flu.cc
 gamgling.com
 garage46.com
 garasikita.pw
@@ -1372,6 +1382,7 @@ gowikitravel.com
 gpcharlie.com
 gpi8eipc5cntckx2s8.tk
 grandmasmail.com
+gratisneuke.be
 gratosmail.fr.nf
 great-host.in
 greenforce.tk
@@ -1876,7 +1887,6 @@ ldtp.com
 le.monchu.fr
 leadingemail.com
 leapradius.com
-lecsaljuk.club
 ledoktre.com
 lee.mx
 leeching.net
@@ -2257,7 +2267,9 @@ mn.curppa.com
 mn.j0s.eu
 mn.riaki.com
 mnode.me
+moakt.co
 moakt.com
+moakt.ws
 mobaratopcinq.life
 mobileninja.co.uk
 mobilevpn.top
@@ -2675,6 +2687,7 @@ pers.craigslist.org
 personalcok.tk
 petertijj.com
 petrolgames.com
+pfui.ru
 phaantm.de
 phd-com.tk
 phecrex.tk
@@ -2947,11 +2960,13 @@ rupayamail.com
 ruru.be
 rustydoor.com
 rvb.ro
+rxmail.us
 rxtx.us
 ryanb.com
 ryumail.net
 ryumail.ooo
 rzn.host
+s-s.flu.cc
 s.ea.vu
 s.wkeller.net
 s0.at
@@ -2998,6 +3013,7 @@ savetimeerr.fun
 sawoe.com
 saynotospams.com
 sazhimail.ooo
+sbuttone.com
 scay.net
 scbox.one.pl
 schachrol.com
@@ -3140,6 +3156,7 @@ spam.care
 spam.dexter0.xyz
 spam.dhsf.net
 spam.dnsx.xyz
+spam.flu.cc
 spam.jasonpearce.com
 spam.loldongs.org
 spam.lucatnt.com
@@ -3235,6 +3252,7 @@ startfu.com
 startkeys.com
 statdvr.com
 stathost.net
+stationatprominence.com
 statloan.info
 stealthypost.org
 steamprank.com
@@ -3461,16 +3479,20 @@ tm.slsrs.ru
 tm2mail.com
 tm42.gq
 tmail.run
+tmail.ws
 tmail1.tk
 tmail2.tk
 tmail3.tk
 tmail4.tk
 tmail5.tk
 tmailinator.com
+tmails.net
 tmo.kr
 tmp.refi64.com
 tmpeml.info
 tmpjr.me
+tmpmail.net
+tmpmail.org
 toastmatrix.com
 toastsum.com
 toddsbighug.com
@@ -3619,6 +3641,7 @@ us.dlink.gq
 us.to
 usa-gov.tk
 usa.isgre.at
+usa623.gq
 usako.net
 uscaves.com
 used-product.fr
@@ -3904,6 +3927,7 @@ xxme.me
 xxolocanto.us
 xxqx3802.com
 xzavier1121.club
+xzcameras.com
 y.bcb.ro
 y.lochou.fr
 y0brainx6.com
@@ -3950,6 +3974,7 @@ youchat.ooo
 yougotgoated.com
 youmailr.com
 youmails.online
+youporn.flu.cc
 yourdomain.com
 yourlms.biz
 yourspamgoesto.space
@@ -3993,7 +4018,6 @@ zebins.com
 zebins.eu
 zebra.email
 zebua.cf
-zebuaboy.cf
 zehnminutenmail.de
 zemail.ga
 zep-hyr.com
@@ -4050,6 +4074,7 @@ zoemail.net
 zoemail.org
 zomail.org
 zomg.info
+zonemail.info
 zp.ua
 zpvozwsri4aryzatr.tk
 zsero.com
