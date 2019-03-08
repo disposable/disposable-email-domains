@@ -33,7 +33,6 @@
 10minutemail.com
 10minutemail.info
 10minutemail.net
-10minutemail.nl
 10minutemail.org
 10minutemail.pl
 10minutemailbox.com
@@ -178,7 +177,6 @@
 8chan.co
 8usmwuqxh1s1pw.tk
 900k.es
-91000.com
 99experts.com
 99pubblicita.com
 9ox.net
@@ -241,6 +239,7 @@ ai.vcss.eu.org
 aiot.creo.site
 aiot.ze.cx
 air2token.com
+aircapitol.net
 airknox.com
 airmailhub.com
 airsi.de
@@ -303,6 +302,7 @@ andthen.us
 andynugraha.net
 animesos.com
 anjing.cool
+ankoninc.pw
 ano-mail.net
 anon-mail.de
 anon.leemail.me
@@ -1111,6 +1111,7 @@ eww.ro
 excitedchat.com
 exi.kr
 existiert.net
+exoly.com
 expirebox.com
 express.net.ua
 extanewsmi.zzux.com
@@ -1147,7 +1148,6 @@ fastemails.us
 fastermail.com
 fastmailforyou.net
 fastmitsubishi.com
-fastsubaru.com
 fasty.site
 fatflap.com
 faze.biz
@@ -1282,6 +1282,7 @@ game.com
 gamgling.com
 garage46.com
 garasikita.pw
+garbagecollector.org
 garbagemail.org
 gardenscape.ca
 garizo.com
@@ -2086,6 +2087,7 @@ maileimer.de
 maileme101.com
 mailexpire.com
 mailf5.com
+mailfall.com
 mailfish.de
 mailforspam.com
 mailfs.com
@@ -3059,6 +3061,7 @@ seekjobs4u.com
 selfdestructingmail.com
 sellcow.net
 sellim.site
+semail.us
 semarhouse.tk
 semusimbersama.online
 send-email.org
@@ -3177,6 +3180,7 @@ spam.jasonpearce.com
 spam.loldongs.org
 spam.lucatnt.com
 spam.netpirates.net
+spam.ozh.org
 spam.pyphus.org
 spam.rogers.us.com
 spam.shep.pw
@@ -3214,6 +3218,7 @@ spamfree24.com
 spamfree24.de
 spamfree24.eu
 spamfree24.net
+spamfree24.org
 spamgourmet.com
 spamgourmet.net
 spamgourmet.org
@@ -3425,6 +3430,7 @@ test.actess.fr
 test.com
 test.crowdpress.it
 test.de
+testerino.tk
 testoh.tk
 texac0.tk
 tf7nzhw.com
@@ -3553,7 +3559,6 @@ trash-mail.net
 trash-me.com
 trash2009.com
 trash247.com
-trashcanmail.com
 trashdevil.com
 trashdevil.de
 trashemails.de
@@ -3659,6 +3664,7 @@ urfunktion.se
 urltc.com
 uroid.com
 us.af
+us.dlink.cf
 us.dlink.gq
 us.to
 usa-gov.tk
@@ -3885,7 +3891,6 @@ womenhealthcare.ooo
 work4uber.us
 workflowy.club
 workflowy.cn
-workflowy.top
 worlddonation.org
 wow.royalbrandco.tk
 wpg.im
@@ -4031,7 +4036,6 @@ zaktouni.fr
 zamge.com
 zane.rocks
 zanichelli.tk
-zapbox.fr
 zarweek.tk
 zasod.com
 zavio.nl
@@ -4044,7 +4048,6 @@ ze.tc
 zebins.com
 zebins.eu
 zebra.email
-zebua.cf
 zehnminutenmail.de
 zemail.ga
 zep-hyr.com
