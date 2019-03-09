@@ -514,7 +514,6 @@ blip.ch
 bloggersxmi.com
 blogmyway.org
 blogos.net
-bloq.ro
 bluebottle.com
 bluedumpling.info
 bluewerks.com
@@ -1142,12 +1141,9 @@ fantasymail.de
 farfurmail.tk
 fartwallet.com
 fast-mail.fr
-fastchevy.com
-fastchrysler.com
 fastemails.us
 fastermail.com
 fastmailforyou.net
-fastmitsubishi.com
 fasty.site
 fatflap.com
 faze.biz
@@ -1273,7 +1269,6 @@ gafy.net
 gaggle.net
 galaxy-s9.tk
 galaxy.tv
-galaxyarmy.tech
 galaxys8giveaway.us
 galerielarochelle.com
 gally.jp
@@ -1403,7 +1398,6 @@ gsrv.co.uk
 gudanglowongan.com
 guerillamail.biz
 guerillamail.com
-guerillamail.de
 guerillamailblock.com
 guerrillamail.biz
 guerrillamail.com
@@ -1450,7 +1444,6 @@ hatespam.org
 hatiyangpatah.online
 haydoo.com
 hcac.net
-hcoupledp.com
 headstrong.de
 healbutty.info
 healthbeautynatural.site
@@ -1633,7 +1626,6 @@ indirect.ws
 indomaed.pw
 indoserver.stream
 infest.org
-infinityclippingpath.com
 infocom.zp.ua
 inikita.online
 inmail.site
@@ -1959,7 +1951,6 @@ loh.pp.ua
 loin.in
 loketa.com
 lokum.nu
-lol.ovpn.to
 lolfreak.net
 lom.kr
 london2.space
@@ -2074,6 +2065,7 @@ mailbucket.org
 mailcat.biz
 mailcatch.com
 mailcatch.xyz
+mailcc.gq
 mailcc.tk
 mailcx.tk
 mailde.de
@@ -2191,8 +2183,6 @@ mapleemail.com
 margarette1818.site
 mariela1121.club
 markmurfin.com
-masafiagrofood.com
-masafigroupbd.com
 masaindah.online
 maskedmails.com
 maskmail.net
@@ -2371,6 +2361,9 @@ mycasualtshirt.com
 mycleaninbox.net
 mycorneroftheinter.net
 mydemo.equipment
+myemail1.cf
+myemail1.ga
+myemail1.ml
 myemailboxy.com
 myemaill.com
 myfake.cf
@@ -2589,7 +2582,6 @@ okeoceapasajaoke.com
 okrent.us
 okzk.com
 olypmall.ru
-omail.pro
 omdo.xyz
 omi4.net
 omnievents.org
@@ -2635,7 +2627,6 @@ outlookpro.net
 ov3u841.com
 ovimail.tk
 ovlov.tk
-ovpn.to
 owa.kr
 owlpic.com
 owlymail.com
@@ -3100,6 +3091,7 @@ shitposting.agency
 shittymail.tk
 shitware.nl
 shockmail.win
+shoes-market.cf
 shop4mail.net
 shopmoza.com
 shortmail.net
@@ -3414,6 +3406,9 @@ tempmail.ws
 tempmaildemo.com
 tempmailer.com
 tempmailer.de
+tempmailid.com
+tempmailid.net
+tempmailid.org
 tempmails.org
 tempomail.fr
 temporarioemail.com.br
@@ -3577,7 +3572,6 @@ trashmails.com
 trashspam.com
 trashymail.com
 trashymail.net
-trasz.com
 travala10.com
 trayna.com
 trbvm.com
@@ -3763,7 +3757,6 @@ vomoto.com
 vonbe.tk
 vorga.org
 vpfbattle.com
-vpn.st
 vpn33.top
 vps30.com
 vps911.net
@@ -4007,7 +4000,6 @@ yougotgoated.com
 youmailr.com
 youmails.online
 yourdomain.com
-youremail.cf
 yourlms.biz
 yourspamgoesto.space
 yourweb.email
@@ -4064,6 +4056,7 @@ zgu5la23tngr2molii.cf
 zgu5la23tngr2molii.ga
 zgu5la23tngr2molii.ml
 zh.ax
+zhaoyuanedu.cn
 zhcne.com
 zhorachu.com
 zik.dj
