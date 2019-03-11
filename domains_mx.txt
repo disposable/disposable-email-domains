@@ -238,7 +238,6 @@ ai.vcss.eu.org
 aiot.creo.site
 aiot.ze.cx
 air2token.com
-aircapitol.net
 airknox.com
 airmailhub.com
 airsi.de
@@ -513,6 +512,7 @@ blip.ch
 bloggersxmi.com
 blogmyway.org
 blogos.net
+bloq.ro
 bluebottle.com
 bluedumpling.info
 bluewerks.com
@@ -634,6 +634,7 @@ cem.net
 cetpass.com
 cex1z9qo.cf
 ch.tc
+chacuo.net
 chaichuang.com
 chammy.info
 champmails.com
@@ -831,7 +832,6 @@ density2v.com
 der-kombi.de
 derkombi.de
 derluxuswagen.de
-desoz.com
 despammed.com
 dettol.gq
 dettol.tk
@@ -903,6 +903,7 @@ dmtc.edu.pl
 dndent.com
 dnsdeer.com
 dnses.ro
+doanart.com
 dob.jp
 docmail.com
 docmail.cz
@@ -1034,7 +1035,6 @@ emailirani.ir
 emailket.online
 emailmenow.info
 emailna.co
-emailna.life
 emailo.pro
 emailondeck.com
 emailresort.com
@@ -1092,7 +1092,6 @@ ethereal.email
 ethereum1.top
 ethersports.org
 etlgr.com
-etoic.com
 etranquil.com
 etranquil.net
 etranquil.org
@@ -1115,7 +1114,6 @@ extra.oscarr.nl
 extremail.ru
 exxon-mobil.tk
 eyepaste.com
-ezehe.com
 ezstest.com
 ezz.bid
 f4k.es
@@ -1432,7 +1430,6 @@ haqed.com
 harakirimail.com
 hard-life.online
 hard-life.org
-haribu.com
 haribu.net
 hartbot.de
 harvard-ac-uk.tk
@@ -1765,7 +1762,6 @@ k-mail.top
 k3opticsf.com
 k4ds.org
 kadokawa.tk
-kaguya.tk
 kah.pw
 kakadua.net
 kalemproje.com
@@ -1948,6 +1944,7 @@ loh.pp.ua
 loin.in
 loketa.com
 lokum.nu
+lol.ovpn.to
 lolfreak.net
 lom.kr
 london2.space
@@ -2581,6 +2578,7 @@ okeoceapasajaoke.com
 okrent.us
 okzk.com
 olypmall.ru
+omail.pro
 omdo.xyz
 omi4.net
 omnievents.org
@@ -2626,6 +2624,7 @@ outlookpro.net
 ov3u841.com
 ovimail.tk
 ovlov.tk
+ovpn.to
 owa.kr
 owlpic.com
 owlymail.com
@@ -2748,7 +2747,6 @@ popsok.tk
 porsh.net
 post.melkfl.es
 post0.profimedia.net
-posta.store
 postcardsfromukraine.crowdpress.it
 postfach2go.de
 posthectomie.info
@@ -2992,7 +2990,6 @@ saabcars.tk
 saabgroup.tk
 saabscania.tk
 sabrestlouis.com
-sach.ir
 safe-mail.net
 safermail.info
 safersignup.com
@@ -3209,6 +3206,7 @@ spamfree24.com
 spamfree24.de
 spamfree24.eu
 spamfree24.net
+spamfree24.org
 spamgourmet.com
 spamgourmet.net
 spamgourmet.org
@@ -3280,7 +3278,6 @@ storiqax.top
 storj99.com
 storj99.top
 streetwisemail.com
-stresser.tk
 stromox.com
 stuckmail.com
 stuff.munrohk.com
@@ -3379,7 +3376,6 @@ temp.headstrong.de
 temp.wheezer.net
 temp1.club
 temp2.club
-tempail.com
 tempcloud.info
 tempe-mail.com
 tempemail.biz
@@ -3601,7 +3597,6 @@ tukudawet.tk
 tuongtactot.tk
 turoid.com
 turual.com
-tutye.com
 tuvimoingay.us
 tvchd.com
 tweakacapun.wwwhost.biz
@@ -3755,6 +3750,7 @@ vomoto.com
 vonbe.tk
 vorga.org
 vpfbattle.com
+vpn.st
 vpn33.top
 vps30.com
 vps911.net
