@@ -238,6 +238,7 @@ ai.vcss.eu.org
 aiot.creo.site
 aiot.ze.cx
 air2token.com
+aircapitol.net
 airknox.com
 airmailhub.com
 airsi.de
@@ -676,6 +677,7 @@ clarkgriswald.net
 clashatclintonemail.com
 clay.xyz
 clean.pro
+click-mail.net
 clickanerd.net
 clinicatbf.com
 clintonemailhearing.com
@@ -733,7 +735,6 @@ courriel.fr.nf
 courrieltemporaire.com
 covfefe-mail.tk
 cowcell.com
-cowstore.net
 coza.ro
 cpmail.life
 cr219.com
@@ -832,6 +833,7 @@ density2v.com
 der-kombi.de
 derkombi.de
 derluxuswagen.de
+desoz.com
 despammed.com
 dettol.gq
 dettol.tk
@@ -895,7 +897,6 @@ dlink.gq
 dlwdudtwlt557.ga
 dm.w3internet.co.uk
 dm9bqwkt9i2adyev.tk
-dmaji.ddns.net
 dmarc.ro
 dmc-12.tk
 dmcd.ctu.edu.gr
@@ -984,6 +985,7 @@ earnlink.ooo
 earth.doesntexist.org
 eastwan.net
 easy-trash-mail.com
+easyemail.info
 easytrashmail.com
 eatlogs.com
 eatmea2z.club
@@ -1092,6 +1094,7 @@ ethereal.email
 ethereum1.top
 ethersports.org
 etlgr.com
+etoic.com
 etranquil.com
 etranquil.net
 etranquil.org
@@ -1114,6 +1117,7 @@ extra.oscarr.nl
 extremail.ru
 exxon-mobil.tk
 eyepaste.com
+ezehe.com
 ezstest.com
 ezz.bid
 f4k.es
@@ -1328,6 +1332,7 @@ gishpuppy.com
 givmail.com
 givmy.com
 giyam.com
+globaleuro.net
 glockneronline.com
 glocknershop.com
 glubex.com
@@ -1430,6 +1435,7 @@ haqed.com
 harakirimail.com
 hard-life.online
 hard-life.org
+haribu.com
 haribu.net
 hartbot.de
 harvard-ac-uk.tk
@@ -1993,6 +1999,7 @@ mail-fake.com
 mail-filter.com
 mail-hub.info
 mail-j.tk
+mail-pro.info
 mail-share.com
 mail-temp.com
 mail-temporaire.com
@@ -2034,6 +2041,7 @@ mail2rss.org
 mail2tor.com
 mail2world.com
 mail333.com
+mail4.online
 mail4gmail.com
 mail666.ru
 mail707.com
@@ -2133,6 +2141,7 @@ mailsac.com
 mailsac.tk
 mailschain.com
 mailscheap.us
+mailscrap.com
 mailseal.de
 mailserver2.tk
 mailshell.com
@@ -2235,6 +2244,7 @@ midcoastsolutions.net
 midlertidig.com
 midlertidig.net
 midlertidig.org
+migmail.net
 migmail.pl
 mihanmail.ir
 mihep.com
@@ -2472,8 +2482,10 @@ newspro.fun
 newsusfun.com
 newtempmail.com
 newviral.fun
+next-mail.info
 next-mail.online
 next2cloud.info
+nextemail.net
 nextmail.info
 nezdiro.org
 nezzart.com
@@ -2724,7 +2736,6 @@ plexolan.de
 plez.org
 plhk.ru
 ploae.com
-plutocow.com
 plw.me
 pmlep.de
 podam.pl
@@ -2848,6 +2859,7 @@ questore.co
 queuem.com
 quichebedext.freetcp.com
 quick-mail.info
+quick-mail.online
 quickinbox.com
 quickmail.nl
 ququb.com
@@ -3376,6 +3388,7 @@ temp.headstrong.de
 temp.wheezer.net
 temp1.club
 temp2.club
+tempail.com
 tempcloud.info
 tempe-mail.com
 tempemail.biz
@@ -3597,6 +3610,7 @@ tukudawet.tk
 tuongtactot.tk
 turoid.com
 turual.com
+tutye.com
 tuvimoingay.us
 tvchd.com
 tweakacapun.wwwhost.biz
@@ -3729,6 +3743,7 @@ viral-science.fun
 viralplays.com
 virgiliomail.tk
 virginsrus.xyz
+virtual-email.com
 visal007.tk
 visal168.tk
 vistomail.com
@@ -3810,6 +3825,7 @@ webmail.kolmpuu.net
 webmail24.top
 webmails.top
 webmeetme.com
+webtempmail.online
 webtrip.ch
 webuser.in
 wee.my
