@@ -29,7 +29,6 @@
 10minute-email.com
 10minutemail.co.uk
 10minutemail.co.za
-10minutemail.com
 10minutemail.info
 10minutemail.net
 10minutemail.org
@@ -353,7 +352,6 @@ arvato-community.de
 arybebekganteng.tk
 asana.biz
 asdasd.co
-asdasd.nl
 asdasd.ru
 asdf.pl
 asdfasdf.co
@@ -599,7 +597,6 @@ c6h12o6.tk
 c7fk799.com
 cabekeriting99.com
 cacanhbaoloc.com
-caceres.org.pe
 cad.edu.gr
 cadillac-ats.tk
 cahayasenja.online
@@ -800,6 +797,7 @@ dammexe.net
 damnthespam.com
 dandikmail.com
 danica1121.club
+danns.cf
 daphnee1818.site
 darkstone.com
 dasdasdascyka.tk
@@ -904,7 +902,6 @@ dmtc.edu.pl
 dndent.com
 dnsdeer.com
 dnses.ro
-doanart.com
 dob.jp
 docmail.com
 docmail.cz
@@ -954,7 +951,6 @@ dropmail.me
 drynic.com
 dsleeping09.com
 dspwebservices.com
-dt.com
 dtools.info
 dumoac.net
 dump-email.info
@@ -1494,6 +1490,7 @@ hndard.com
 hntr93vhdv.uy.to
 ho3twwn.com
 hoanggiaanh.com
+hoanglong.tech
 hoer.pw
 homal.com
 hominidviews.com
@@ -1581,6 +1578,7 @@ igqtrustee.com
 ihateyoualot.info
 ihavedildo.tk
 ihaxyour.info
+iheartspam.org
 ihhjomblo.online
 ik7gzqu2gved2g5wr.tk
 ikbenspamvrij.nl
@@ -2047,6 +2045,7 @@ mail2world.com
 mail333.com
 mail4.online
 mail4gmail.com
+mail56.me
 mail666.ru
 mail707.com
 mail72.com
@@ -2293,6 +2292,7 @@ mogensenonline.com
 mohmal.com
 mohmal.im
 mohmal.in
+mohmal.tech
 mohsenfb.com
 molms.com
 monachat.tk
@@ -2540,6 +2540,7 @@ nospam.thurstons.us
 nospam.today
 nospam.ze.tc
 nospam2me.com
+nospam4.us
 nospammail.net
 nospammer.ovh
 notif.me
@@ -2625,7 +2626,6 @@ open.brainonfire.net
 opendns.ro
 openmailbox.tk
 opna.me
-opojare.org
 oranek.com
 orangotango.tk
 ordinaryamerican.net
@@ -2813,7 +2813,6 @@ providier.com
 proxsei.com
 proxymail.eu
 prtnx.com
-prtxw.com
 psacake.me
 pseudoname.io
 psh.me
@@ -2905,6 +2904,7 @@ rauxa.seny.cat
 rav-4.cf
 rav-4.tk
 rav4.tk
+rawmails.com
 razinrocks.me
 rbb.org
 rblx.site
@@ -2962,7 +2962,13 @@ rnailinator.com
 rnzcomesth.com
 ro.lt
 roastscreen.com
+robo3.club
+robo3.co
+robo3.me
+robo3.site
 robot-mail.com
+robot2.club
+robot2.me
 robox.agency
 rogerin.space
 rollindo.agency
@@ -3022,7 +3028,6 @@ safetypost.de
 sahdisus.online
 saigonmail.us
 sale.craigslist.org
-salonyfryzjerskie.info
 saltysushi.com
 salvatore1818.site
 samsclass.info
@@ -3681,7 +3686,6 @@ urfunktion.se
 urltc.com
 uroid.com
 us.af
-us.dlink.cf
 us.dlink.gq
 us.to
 usa-gov.tk
@@ -3753,7 +3757,6 @@ vincenza1818.site
 vinernet.com
 vip.cool
 vip.dmtc.press
-vip.hstu.eu.org
 vipepe.com
 viphone.eu.org
 vipmail.pw
@@ -4017,9 +4020,11 @@ yop.itram.es
 yop.profmusique.com
 yop.ze.cx
 yopmail.biz.st
+yopmail.cf
 yopmail.com
 yopmail.fr
 yopmail.fr.nf
+yopmail.gq
 yopmail.info
 yopmail.net
 yopmail.pp.ua
@@ -4142,4 +4147,5 @@ zwwnhmmcec57ziwux.ml
 zxcvbnm.com
 zxcvbnm.tk
 zxcxc.com
+zynga-email.com
 zzz.com
