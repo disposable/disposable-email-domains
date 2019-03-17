@@ -38,7 +38,6 @@
 10minutesmail.fr
 10minutesmail.net
 10minutetempemail.com
-10minutmail.pl
 10vpn.info
 10x.es
 11-32.tk
@@ -378,6 +377,7 @@ asspoo.com
 astonut.tk
 astropink.com
 asu.su
+atm-mi.tk
 atoyot.tk
 att-warner.tk
 attnetwork.com
@@ -634,7 +634,6 @@ cem.net
 cetpass.com
 cex1z9qo.cf
 ch.tc
-chacuo.net
 chaichuang.com
 chammy.info
 champmails.com
@@ -1102,6 +1101,7 @@ etoic.com
 etranquil.com
 etranquil.net
 etranquil.org
+etzdnetx.com
 eu.dlink.cf
 eu.dlink.gq
 euaqa.com
@@ -2218,6 +2218,7 @@ mecbuc.tk
 meetlocalhorny.top
 mega.zik.dj
 meihuajun76.com
+meinspamschutz.de
 meltmail.com
 memsg.site
 mendoan.uu.gl
@@ -2401,7 +2402,6 @@ mygoldenmail.com
 mygoldenmail.online
 myhagiasophia.com
 myhiteswebsite.website
-mylapak.info
 myletter.online
 myloans.space
 mymail-in.net
@@ -2924,6 +2924,7 @@ really.istrash.com
 reallymymail.com
 recipeforfailure.com
 recode.me
+recruitaware.com
 recursor.net
 recyclemail.dk
 redchan.it
@@ -3287,7 +3288,6 @@ ss02.tk
 sskmail.top
 sso-demo-okta.com
 ssoia.com
-ssongs34f.com
 sssppua.tk
 st-m.tk
 stacklance.com
@@ -3464,7 +3464,6 @@ test.actess.fr
 test.com
 test.crowdpress.it
 test.de
-testerino.tk
 testoh.tk
 texac0.tk
 tf7nzhw.com
@@ -3771,7 +3770,6 @@ vinernet.com
 vip.aiot.eu.org
 vip.cool
 vip.dmtc.press
-vip.hstu.eu.org
 vipepe.com
 viphone.eu.org
 vipmail.pw
@@ -3936,6 +3934,7 @@ workflowy.club
 workflowy.cn
 worlddonation.org
 wow.royalbrandco.tk
+wp2romantic.com
 wpg.im
 wpmail.org
 wpower.info
@@ -4036,7 +4035,6 @@ yop.itram.es
 yop.profmusique.com
 yop.ze.cx
 yopmail.biz.st
-yopmail.cf
 yopmail.com
 yopmail.fr
 yopmail.fr.nf
