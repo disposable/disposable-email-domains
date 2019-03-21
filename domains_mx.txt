@@ -18,11 +18,6 @@
 0wnd.net
 0wnd.org
 0x03.tk
-1.atm-mi.cf
-1.atm-mi.ga
-1.atm-mi.gq
-1.atm-mi.ml
-1.atm-mi.tk
 1000kti.xyz
 1000rebates.stream
 100kti.xyz
@@ -88,7 +83,6 @@
 2012-2016.ru
 2014mail.ru
 20boxme.org
-20mail.eu
 20mail.in
 20mail.it
 20minute.email
@@ -651,7 +645,6 @@ cellurl.com
 cetpass.com
 cex1z9qo.cf
 ch.tc
-chacuo.net
 chaichuang.com
 chammy.info
 champmails.com
@@ -727,6 +720,7 @@ cock.li
 cocovpn.com
 codyting.com
 coffeepancakewafflebacon.com
+comeporon.ga
 comm.craigslist.org
 comwest.de
 concealed.company
@@ -744,6 +738,7 @@ coolmail.ooo
 coolyour.pw
 copperemail.com
 coreclip.com
+corp.ereality.org
 cortex.kicks-ass.net
 cosmorph.com
 courriel.fr.nf
@@ -1071,7 +1066,6 @@ emailtech.info
 emailtemporanea.net
 emailtemporario.com.br
 emailthe.net
-emailto.de
 emailure.net
 emailvenue.com
 emailwarden.com
@@ -1140,7 +1134,6 @@ expirebox.com
 express.net.ua
 extanewsmi.zzux.com
 extra.oscarr.nl
-extremail.ru
 exxon-mobil.tk
 eyepaste.com
 ezehe.com
@@ -1651,7 +1644,6 @@ indirect.ws
 indomaed.pw
 indoserver.stream
 infest.org
-infinityclippingpath.com
 infocom.zp.ua
 inikita.online
 inmail.site
@@ -1923,6 +1915,7 @@ lehman.tk
 lei.kr
 lenovo120s.tk
 lenovog4.com
+lerch.ovh
 letmeinonthis.com
 letsmail9.com
 letthemeatspam.com
@@ -1934,6 +1927,7 @@ lh451.tk
 lhsdv.com
 liamekaens.com
 lianhe.in
+libertymail.info
 libox.fr
 lifeguru.online
 lightpower.pw
@@ -2014,6 +2008,7 @@ m8r.mcasal.com
 ma-boite-aux-lettres.infos.st
 ma2limited.com
 macr2.com
+madurahoki.com
 magicbeep.com
 magspam.net
 mahdevip.com
@@ -2288,7 +2283,6 @@ mimpaharpur.ml
 mimpaharpur.tk
 mindsetup.us
 minex-coin.com
-minishop.site
 ministry-of-silly-walks.de
 mintemail.com
 mintemail.tk
@@ -2988,6 +2982,7 @@ rhombushorizons.com
 rhyta.com
 richfinances.pw
 richmoney.pw
+rickifoodpatrocina.tk
 ricret.com
 ricrk.com
 riddermark.de
@@ -3551,6 +3546,28 @@ tijdelijke-email.nl
 tijdelijkmailadres.nl
 tinoza.org
 tirreno.tk
+titaspaharpur1.cf
+titaspaharpur1.gq
+titaspaharpur2.cf
+titaspaharpur2.ga
+titaspaharpur2.gq
+titaspaharpur2.ml
+titaspaharpur2.tk
+titaspaharpur3.cf
+titaspaharpur3.ga
+titaspaharpur3.gq
+titaspaharpur3.ml
+titaspaharpur3.tk
+titaspaharpur4.cf
+titaspaharpur4.ga
+titaspaharpur4.gq
+titaspaharpur4.ml
+titaspaharpur4.tk
+titaspaharpur5.cf
+titaspaharpur5.ga
+titaspaharpur5.gq
+titaspaharpur5.ml
+titaspaharpur5.tk
 tiv.cc
 tizi.com
 tkmy88m.com
@@ -3695,7 +3712,6 @@ udns.tk
 udoiswell.pw
 uemail99.com
 uggsrock.com
-ugimail.net
 uha.kr
 uhhu.ru
 uiu.us
@@ -3727,7 +3743,6 @@ urfunktion.se
 urltc.com
 uroid.com
 us.af
-us.dlink.cf
 us.dlink.gq
 us.to
 usa-gov.tk
@@ -3865,7 +3880,6 @@ walkmail.net
 walkmail.ru
 wanko.be
 warau-kadoni.com
-warnednl2.com
 wasd.10mail.org
 wasd.dropmail.me
 wasteland.rfc822.org
@@ -4003,6 +4017,7 @@ xemne.com
 xents.com
 xgaming.ca
 xgmailoo.com
+xgnowherei.com
 xing886.uu.gl
 xjin.xyz
 xjoi.com
@@ -4088,6 +4103,7 @@ yourdomain.com
 yourlms.biz
 yourspamgoesto.space
 yourweb.email
+youzend.net
 yroid.com
 yspend.com
 yt-creator.com
