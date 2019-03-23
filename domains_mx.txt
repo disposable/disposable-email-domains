@@ -248,6 +248,7 @@ ahk.jp
 ai.aax.cloudns.asia
 ai.vcss.eu.org
 aiot.creo.site
+aiot.dmtc.dev
 aiot.ze.cx
 air2token.com
 aircapitol.net
@@ -623,6 +624,7 @@ cad.edu.gr
 cadillac-ats.tk
 cahayasenja.online
 cakk.us
+calm.ll47.net
 cam4you.cc
 campano.cl
 candymail.de
@@ -874,7 +876,6 @@ diapaulpainting.com
 dicksinhisan.us
 dicksinmyan.us
 dicyemail.com
-diennuocnghiahue.com
 digiprice.co
 digital-message.com
 digitalmail.info
@@ -1020,7 +1021,6 @@ ecolo-online.fr
 edgex.ru
 edu.aiot.ze.cx
 edu.dmtc.dev
-edu.hstu.eu.org
 eelmail.com
 ef2qohn1l4ctqvh.tk
 efo.kr
@@ -2259,6 +2259,7 @@ mfsa.info
 mfsa.ru
 mg-rover.tk
 mhdsl.cf
+mhdsl.ddns.net
 mhdsl.dynamic-dns.net
 mhdsl.gq
 mhwolf.net
