@@ -313,7 +313,6 @@ amt3security.com
 an.id.au
 anappthat.com
 anchrisbaton.acmetoy.com
-andreay.codes
 andthen.us
 andynugraha.net
 animesos.com
@@ -473,6 +472,7 @@ bauwerke-online.com
 baxomale.ht.cx
 bbetweenj.com
 bbhost.us
+bcast.ws
 bcb.ro
 bccto.me
 bcompiled3.com
@@ -916,6 +916,7 @@ disign-revelation.com
 dispomail.eu
 dispomail.xyz
 disposable.dhc-app.com
+disposable.ml
 disposableaddress.com
 disposableemailaddresses.com
 disposableinbox.com
@@ -1412,6 +1413,7 @@ gomailbox.info
 goodluckforu.cn.com
 googdad.tk
 google-mail.ooo
+googlemail.press
 gordon1121.club
 gorillaswithdirtyarmpits.com
 gosne.com
@@ -2051,7 +2053,6 @@ macr2.com
 madurahoki.com
 magicbeep.com
 magspam.net
-mahdevip.com
 maidlow.info
 mail-2-you.com
 mail-address.live
@@ -3241,6 +3242,7 @@ smellfear.com
 smellypotato.tk
 smoug.net
 smtp99.com
+smuse.me
 snapunit.com
 sneakemail.com
 sneakerbunko.tk
@@ -3785,7 +3787,6 @@ urfunktion.se
 urltc.com
 uroid.com
 us.af
-us.dlink.cf
 us.dlink.gq
 us.to
 usa-gov.tk
@@ -4069,6 +4070,7 @@ xl.cx
 xmaily.com
 xn--9kq967o.com
 xn--bei.tk
+xn--j6h.ml
 xn--mgbgvi3fi.com
 xn--mll-hoa.email
 xn--mllemail-65a.com
