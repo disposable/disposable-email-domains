@@ -6285,7 +6285,6 @@ google-email.ml
 google-mail.me
 google-mail.ooo
 googledottrick.com
-googlemail.press
 goooogle.flu.cc
 goooogle.igg.biz
 goooogle.nut.cc
@@ -15261,6 +15260,7 @@ uruarurqup5ri9s28ki.gq
 uruarurqup5ri9s28ki.ml
 uruarurqup5ri9s28ki.tk
 us.af
+us.dlink.cf
 us.dlink.gq
 us.to
 usa-gov.cf
