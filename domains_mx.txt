@@ -664,6 +664,7 @@ cellurl.com
 cetpass.com
 cex1z9qo.cf
 ch.tc
+chacuo.net
 chaichuang.com
 chammy.info
 champmails.com
@@ -951,6 +952,7 @@ dnses.ro
 dob.jp
 docmail.com
 docmail.cz
+doctorlane.info
 docu.me
 dodgeit.com
 dodgemail.de
@@ -1407,6 +1409,7 @@ gmial.com
 gmx.fr.nf
 gmx1mail.top
 gmxmail.top
+go1.site
 go2vpn.net
 goat.si
 goc0knoi.tk
@@ -1479,7 +1482,6 @@ h2o-web.tk
 h9js8y6.com
 habitue.net
 hackthatbit.ch
-haddo.eu
 hafzo.net
 hagiasophiagroup.com
 hagiasophiaonline.com
@@ -1554,6 +1556,7 @@ hoanggiaanh.com
 hoanglong.tech
 hoer.pw
 homal.com
+home-tech.fun
 hominidviews.com
 hongpress.com
 honor-8.com
@@ -1571,7 +1574,6 @@ hotmai.com
 hotmail.red
 hotmail.work
 hotmail4.com
-hotmailpro.info
 hotmailproduct.com
 hotmails.com
 hotmanpariz.com
@@ -2063,7 +2065,6 @@ mail-cart.com
 mail-easy.fr
 mail-fake.com
 mail-filter.com
-mail-hub.info
 mail-j.tk
 mail-pro.info
 mail-share.com
@@ -2992,7 +2993,6 @@ rav-4.tk
 rav4.tk
 rawmails.com
 razinrocks.me
-rbb.org
 rblx.site
 rcpt.at
 really.istrash.com
@@ -3108,6 +3108,7 @@ saabcars.tk
 saabgroup.tk
 saabscania.tk
 sabrestlouis.com
+safe-mail.net
 safermail.info
 safersignup.com
 safersignup.de
@@ -3492,7 +3493,6 @@ temp.wheezer.net
 temp1.club
 temp2.club
 tempail.com
-tempcloud.info
 tempe-mail.com
 tempemail.biz
 tempemail.co
@@ -3791,6 +3791,7 @@ urfunktion.se
 urltc.com
 uroid.com
 us.af
+us.dlink.cf
 us.dlink.gq
 us.to
 usa-gov.tk
