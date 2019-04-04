@@ -251,9 +251,12 @@ ahem.email
 ahk.jp
 ai.aax.cloudns.asia
 ai.vcss.eu.org
+aiot.aiphone.eu.org
 aiot.creo.site
 aiot.creou.dev
 aiot.dmtc.dev
+aiot.ptcu.dev
+aiot.vuforia.us
 aiot.ze.cx
 air2token.com
 aircapitol.net
@@ -315,6 +318,7 @@ amyxrolest.com
 an.id.au
 anappthat.com
 anchrisbaton.acmetoy.com
+andreay.codes
 andthen.us
 andynugraha.net
 animesos.com
@@ -342,7 +346,6 @@ antireg.ru
 antispam.de
 antonietta1818.site
 anyalias.com
-anyett.com
 ao4ffqty.com
 aoeuhtns.com
 aoltimewarner.tk
@@ -526,7 +529,6 @@ bin.8191.at
 binka.me
 binkmail.com
 binnary.com
-bio-muesli.net
 biscutt.us
 bit-degree.com
 bit2tube.com
@@ -601,6 +603,7 @@ buchhandlung24.com
 budaya-tionghoa.com
 budayationghoa.com
 bugmenever.com
+bullstore.net
 bulrushpress.com
 bum.net
 bumppack.com
@@ -616,6 +619,7 @@ businesssuccessislifesuccess.com
 buspad.org
 butter9x.com
 buy003.com
+buycow.org
 buymoreplays.com
 buzzcompact.com
 buzzvirale.xyz
@@ -688,6 +692,7 @@ chocklet.us
 choco.la
 choicemail1.com
 chong-mail.net
+chratechbeest.club
 chris.burgercentral.us
 christopherfretz.com
 chumpstakingdumps.com
@@ -818,6 +823,7 @@ cvijqth6if8txrdt.tk
 cyber-phone.eu
 cybersex.com
 cylab.org
+czpanda.cn
 d-link.cf
 d-link.ga
 d-link.gq
@@ -859,6 +865,7 @@ dbo.kr
 dcemail.com
 ddcrew.com
 de-a.org
+de.introverted.ninja
 de.vipqq.eu.org
 dea-love.net
 dea.soon.it
@@ -1114,7 +1121,6 @@ eml.pp.ua
 emlhub.com
 emlpro.com
 emltmp.com
-emmasart.com
 emoreno.tk
 empiremail.de
 empresagloriasamotderoman.com
@@ -1310,6 +1316,7 @@ fuqus.com
 furusato.tokyo
 furzauflunge.de
 futuregood.pw
+futureof2019.info
 fuw65d.tk
 fuwa.be
 fuwa.li
@@ -1422,6 +1429,7 @@ gomailbox.info
 goodluckforu.cn.com
 googdad.tk
 google-mail.ooo
+googlemail.press
 gordon1121.club
 gorillaswithdirtyarmpits.com
 gosne.com
@@ -1482,6 +1490,7 @@ h2o-web.tk
 h9js8y6.com
 habitue.net
 hackthatbit.ch
+haddo.eu
 hafzo.net
 hagiasophiagroup.com
 hagiasophiaonline.com
@@ -1703,6 +1712,9 @@ instantmail.fr
 interstats.org
 intersteller.com
 ioio.eu
+iot.aiphone.eu.org
+iot.ptcu.dev
+iot.vuforia.us
 iotu.creo.site
 iotu.de.vipqq.eu.org
 iotu.nctu.me
@@ -1820,6 +1832,7 @@ junk.ihmehl.com
 junk.to
 junk1e.com
 junkmail.com
+junkmail.ga
 just4spam.com
 justnowmail.com
 justonemail.net
@@ -1930,6 +1943,7 @@ lala-mailbox.online
 lalamailbox.com
 lambdasu.com
 lamdx.com
+lami4you.info
 landmail.co
 landmark.io
 laoeq.com
@@ -2077,6 +2091,7 @@ mail-z.tk
 mail.ankokufs.us
 mail.aws910.com
 mail.bentrask.com
+mail.bestoption25.club
 mail.by
 mail.crowdpress.it
 mail.defaultdomain.ml
@@ -2388,6 +2403,7 @@ mouthube0t.com
 moviflix.tk
 mowgli.jungleheart.com
 mox.pp.ua
+moyy.net
 moza.pl
 mozej.com
 mozillafirefox.tk
@@ -2496,6 +2512,7 @@ mystvpn.com
 mytandberg.com
 mytandbergonline.com
 mytemp.email
+mytempdomain.tk
 mytempemail.com
 mytrashmail.com
 mytrashmailer.com
@@ -2575,6 +2592,7 @@ nextemail.net
 nextmail.info
 nezdiro.org
 nezzart.com
+nguyenduyphong.tk
 nguyenusedcars.com
 nhatdinhmuaduocxe.info
 nhdental.co
@@ -2685,7 +2703,6 @@ omnievents.org
 one.pl
 onecitymail.com
 onelegalplan.com
-onemoremail.net
 oneoffemail.com
 oneoffmail.com
 onewaymail.com
@@ -2720,6 +2737,7 @@ otnasus.xyz
 ourawesome.life
 ourklips.com
 ourpreviewdomain.com
+outfu.com
 outlookpro.net
 ov3u841.com
 ovimail.tk
@@ -2728,8 +2746,8 @@ ovpn.to
 owa.kr
 owlpic.com
 owlymail.com
-oxfarm1.com
 oyu.kr
+ozlaq.com
 ozozwd2p.com
 ozumz.com
 ozyl.de
@@ -2785,6 +2803,7 @@ pecinan.net
 pecinan.org
 pecmail.tk
 pectcandtive.gettrials.com
+peepto.me
 pelor.tk
 penoto.tk
 penspam.com
@@ -3160,7 +3179,6 @@ sedasagreen01try.tk
 seekapps.com
 seekfindask.com
 seekjobs4u.com
-selfdestructingmail.com
 sellcow.net
 sellim.site
 semail.us
@@ -3317,7 +3335,6 @@ spamdecoy.net
 spameater.org
 spamex.com
 spamfree.eu
-spamfree24.com
 spamfree24.de
 spamfree24.eu
 spamfree24.net
@@ -3445,6 +3462,7 @@ tafmail.com
 tafoi.gr
 tagyourself.com
 tahutex.online
+takedowns.org
 takeshobo.tk
 talkinator.com
 talkmises.com
@@ -3464,6 +3482,7 @@ taylorventuresllc.com
 tcnmistakes.com
 te.caseedu.tk
 teambogor.online
+teamrnd.win
 tebwinsoi.ooo
 tech69.com
 techemail.com
@@ -3473,6 +3492,7 @@ techmail.info
 tecninja.xyz
 tefl.ro
 tegnabrapal.me
+tehoopcut.info
 telecomix.pl
 teleosaurs.xyz
 teleworm.com
@@ -3648,6 +3668,7 @@ tmpmail.net
 tmpmail.org
 toastmatrix.com
 toastsum.com
+todayemail.ga
 toddsbighug.com
 toi.kr
 tokenmail.de
@@ -3658,7 +3679,7 @@ toothandmail.com
 top1post.ru
 topfivestars.fun
 topikt.com
-topmall.org
+topmail24.ru
 toppieter.com
 topplayers.fun
 topranklist.de
@@ -3704,7 +3725,6 @@ trashmailer.com
 trashmails.com
 trashspam.com
 trashymail.com
-trashymail.net
 travala10.com
 trayna.com
 trbvm.com
