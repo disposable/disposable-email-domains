@@ -49,6 +49,7 @@
 10minutesmail.fr
 10minutesmail.net
 10minutetempemail.com
+10minutmail.pl
 10vpn.info
 10x.es
 11-32.tk
@@ -703,6 +704,9 @@ c4utar.tk
 c6h12o6.tk
 c7fk799.com
 c99.me
+ca.verisign.cf
+ca.verisign.ga
+ca.verisign.gq
 cabekeriting99.com
 cacanhbaoloc.com
 cad.edu.gr
@@ -712,6 +716,7 @@ cakk.us
 cam4you.cc
 campano.cl
 candymail.de
+canitta.icu
 cannoncrew.com
 cantikmanja.online
 car101.pro
@@ -921,6 +926,7 @@ damanik.tk
 dammexe.net
 damnthespam.com
 dandikmail.com
+dandinoo.com
 danica1121.club
 danirafsanjani.com
 danns.cf
@@ -965,6 +971,7 @@ dettol.gq
 dettol.tk
 deucemail.com
 devnullmail.com
+devset.space
 dfg6.kozow.com
 dfgh.net
 dfjunkmail.co.uk
@@ -1672,12 +1679,14 @@ harvard-ac-uk.tk
 hat-geld.de
 hatespam.org
 hatiyangpatah.online
+hatmail.ir
 haydoo.com
 hbdya.info
 hcac.net
 headstrong.de
 healbutty.info
 healthbeautynatural.site
+healyourself.xyz
 heathenhammer.com
 hecat.es
 heeco.me
@@ -1814,9 +1823,11 @@ ichigo.me
 icloud.do
 icloudbusiness.net
 iconsultant.me
+icunet.icu
 icx.ro
 id10tproof.com
 idigo.org
+idtv.site
 idx4.com
 ieatspam.eu
 iefbcieuf.tk
@@ -1882,6 +1893,7 @@ indoliqueur.com
 indomaed.pw
 indoserver.stream
 infest.org
+infoaccount-team.news
 infocom.zp.ua
 infokehilangan.com
 infoprice.tech
@@ -1957,7 +1969,6 @@ jackymail.top
 jacquelx.com
 jadopado.com
 jafps.com
-jagongan.ml
 jaguar-landrover.tk
 jaguar-xj.tk
 jama.trenet.eu
@@ -3216,6 +3227,7 @@ ppc-e.com
 ppetw.com
 pqoia.com
 pqoss.com
+pravorobotov.ru
 predatorrat.tk
 premium-mail.fr
 preparee.top
@@ -4058,6 +4070,7 @@ throwawayemail.com
 throwawayemailaddress.com
 throwawaymail.com
 throwawaymail.pp.ua
+throya.com
 thrubay.com
 thug.pw
 thunderbolt.science
@@ -4274,6 +4287,7 @@ updates9z.com
 upgcsjy.com
 uptodate.tech
 upy.kr
+urbanstudios.online
 uredemail.com
 urfey.com
 urfunktion.se
@@ -4332,6 +4346,9 @@ veo.kr
 ver0.tk
 verdejo.com
 verifymail.win
+verisign.cf
+verisign.ga
+verisign.gq
 verizondw.com
 vermutlich.net
 veryday.ch
