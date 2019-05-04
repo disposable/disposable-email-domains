@@ -372,6 +372,7 @@ anonymize.com
 anonymized.org
 anonymous-email.net
 anonymousfeedback.net
+anonymousmail.org
 anonymousspeech.com
 anonymstermail.com
 anotherdomaincyka.tk
@@ -752,7 +753,6 @@ cellurl.com
 cem.net
 cetpass.com
 cex1z9qo.cf
-chacuo.net
 chaichuang.com
 chammy.info
 champmails.com
@@ -776,6 +776,7 @@ chithi.xyz
 chivasso.tk
 chocklet.us
 choco.la
+chogmail.com
 choicemail1.com
 chong-mail.net
 chordguitar.us
@@ -1072,6 +1073,7 @@ docu.me
 dodgeit.com
 dodgemail.de
 dodgit.com
+dodgit.org
 dodsi.com
 doiea.com
 dolphinnet.net
@@ -1126,6 +1128,7 @@ dumoac.net
 dump-email.info
 dumpandjunk.com
 dumpmail.de
+dumpyemail.com
 duoduo.cafe
 durandinterstellar.com
 dvdxpress.biz
@@ -1171,7 +1174,6 @@ ecolo-online.fr
 edgex.ru
 edu.aiot.ze.cx
 edu.dmtc.dev
-edu.hstu.eu.org
 eelmail.com
 ef2qohn1l4ctqvh.tk
 efo.kr
@@ -1218,6 +1220,7 @@ emailinbox.xyz
 emailinfive.com
 emailirani.ir
 emailket.online
+emaillime.com
 emailmenow.info
 emailna.co
 emailo.pro
@@ -1559,7 +1562,6 @@ get.pp.ua
 get1mail.com
 get2mail.fr
 getairmail.com
-getamailbox.org
 getapet.net
 getcoolmail.info
 geteit.com
@@ -1699,7 +1701,6 @@ hanoimail.us
 happygoluckyclub.com
 happymail.guru
 happysinner.co.uk
-haqed.com
 harakirimail.com
 haribu.com
 haribu.net
@@ -1862,6 +1863,7 @@ idigo.org
 idtv.site
 idx4.com
 ieatspam.eu
+ieatspam.info
 iefbcieuf.tk
 ieh-mail.de
 iencm.com
@@ -1966,6 +1968,7 @@ ipiranga.dynu.com
 ippandansei.tk
 ipswell.com
 irabops.com
+irish2me.com
 iroid.com
 ironiebehindert.de
 irpanenjin.com
@@ -2439,7 +2442,6 @@ mailbox52.ga
 mailbox72.biz
 mailbox87.de
 mailbox92.biz
-mailboxonline.org
 mailboxy.fun
 mailbucket.org
 mailcat.biz
@@ -2525,7 +2527,6 @@ mailsac.com
 mailsac.tk
 mailschain.com
 mailscheap.us
-mailscrap.com
 mailseal.de
 mailsearch.net
 mailserver2.tk
@@ -2801,6 +2802,7 @@ myemail1.ga
 myemail1.ml
 myemailboxy.com
 myemaill.com
+myfake.cf
 myfake.tk
 myfakemail.tk
 myfavorite.info
@@ -2950,12 +2952,14 @@ nl.szucsati.net
 nnh.com
 no-vax.tk
 nodie.cc
+nofocodobrasil.tk
 nogmailspam.info
 noifeelings.com
 nokiahere.tk
 nom.za
 nomail.pw
 nomail.xl.cx
+nomail2me.com
 nomailthankyou.com
 nomorespamemails.com
 nongzaa.cf
@@ -3659,10 +3663,13 @@ shironime.ga
 shironime.ml
 shironime.tk
 shitaway.tk
+shitmail.cf
 shitmail.de
 shitmail.gq
 shitmail.me
+shitmail.ml
 shitmail.org
+shitmail.tk
 shitposting.agency
 shittymail.tk
 shitware.nl
@@ -3796,6 +3803,7 @@ spamex.com
 spamfree.eu
 spamfree24.de
 spamfree24.eu
+spamfree24.info
 spamfree24.net
 spamfree24.org
 spamgourmet.com
@@ -3839,7 +3847,6 @@ ss02.tk
 sshid.com
 sskmail.top
 sso-demo-okta.com
-ssoia.com
 sssppua.tk
 st-m.tk
 stacklance.com
@@ -3913,6 +3920,7 @@ suhugatel.ml
 suhugatel.tk
 suhusangar.ml
 sukaalkuma.com
+sukasukasuka.me
 sumberkadalnya.com
 sumitra.tk
 supappl.me
@@ -3950,6 +3958,7 @@ szerz.com
 szi4edl0wnab3w6inc.tk
 szucsati.net
 t-shirtcasual.com
+t-student.gq
 t.psh.me
 t24e4p7.com
 tafmail.com
@@ -4189,6 +4198,7 @@ top5news.fun
 topfivestars.fun
 topikt.com
 topmail24.ru
+topmall.org
 toppieter.com
 topplayers.fun
 topranklist.de
@@ -4217,6 +4227,7 @@ tradermail.info
 tragaver.ga
 trainingpedia.online
 tranceversal.com
+trash-amil.com
 trash-mail.at
 trash-mail.net
 trash-me.com
@@ -4569,7 +4580,6 @@ wil.kr
 wimsg.com
 winemaven.info
 winfreegifts.xyz
-wirasempana.com
 wix.creou.dev
 wix.ptcu.dev
 wiz2.site
@@ -4581,6 +4591,7 @@ wmlorgana.com
 wmrmail.com
 wolfsmail.tk
 wolfsmails.tk
+wollan.info
 womenhealthcare.ooo
 work4uber.us
 workflowy.club

@@ -13908,10 +13908,13 @@ shitaway.ml
 shitaway.nut.cc
 shitaway.tk
 shitaway.usa.cc
+shitmail.cf
 shitmail.de
 shitmail.gq
 shitmail.me
+shitmail.ml
 shitmail.org
+shitmail.tk
 shitposting.agency
 shittymail.cf
 shittymail.ga
@@ -14668,6 +14671,7 @@ szi4edl0wnab3w6inc.tk
 sztyweta46.ga
 szucsati.net
 t-shirtcasual.com
+t-student.gq
 t.psh.me
 t099.tk
 t16nmspsizvh.cf
