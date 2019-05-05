@@ -511,7 +511,6 @@ bae-systems.tk
 balanc3r.com
 ballsofsteel.net
 bangsat.in
-bannedpls.online
 baomoi.site
 barbarrianking.com
 barcalovers.club
@@ -736,6 +735,7 @@ car101.pro
 caramail.pro
 carbtc.net
 card.zp.ua
+careless-whisper.com
 carins.io
 caseedu.tk
 casio-edu.tk
@@ -1113,7 +1113,6 @@ dress9x.com
 drevo.si
 drf.email
 drid1gs.com
-drivesotp7.com
 drivetagdev.com
 drop.ekholm.org
 dropcake.de
@@ -1174,6 +1173,7 @@ ecolo-online.fr
 edgex.ru
 edu.aiot.ze.cx
 edu.dmtc.dev
+edu.hstu.eu.org
 eelmail.com
 ef2qohn1l4ctqvh.tk
 efo.kr
@@ -1824,7 +1824,6 @@ hugesale.in
 huiledargane.com
 hukkmu.tk
 hulapla.de
-hulksales.com
 humaility.com
 humn.ws.gy
 hurify1.com
@@ -2482,7 +2481,6 @@ mailinatar.com
 mailinater.com
 mailinator.co.uk
 mailinator.com
-mailinator.info
 mailinator.net
 mailinator.org
 mailinator.pl
@@ -2772,6 +2770,7 @@ mutant.me
 muttvomit.com
 muttwalker.net
 muuyharold.com
+mv1951.gq
 mvrht.com
 mvrht.net
 mwarner.org
@@ -2802,7 +2801,6 @@ myemail1.ga
 myemail1.ml
 myemailboxy.com
 myemaill.com
-myfake.cf
 myfake.tk
 myfakemail.tk
 myfavorite.info
@@ -3051,6 +3049,7 @@ omail.pro
 omdo.xyz
 omi4.net
 omnievents.org
+one-time.email
 one.pl
 one2mail.info
 onecitymail.com
@@ -3572,6 +3571,7 @@ sanfinder.com
 sanporeta.ddns.name
 sanstr.com
 santikadyandra.tk
+sanvekhuyenmai.com
 sapya.com
 sargrip.asia
 satusatu.online
@@ -3676,7 +3676,6 @@ shitware.nl
 shockmail.win
 shoes-market.cf
 shop4mail.net
-shopmoza.com
 shortmail.net
 shotmail.ru
 showme.social
@@ -3920,7 +3919,6 @@ suhugatel.ml
 suhugatel.tk
 suhusangar.ml
 sukaalkuma.com
-sukasukasuka.me
 sumberkadalnya.com
 sumitra.tk
 supappl.me
@@ -3958,7 +3956,10 @@ szerz.com
 szi4edl0wnab3w6inc.tk
 szucsati.net
 t-shirtcasual.com
+t-student.cf
 t-student.gq
+t-student.ml
+t-student.tk
 t.psh.me
 t24e4p7.com
 tafmail.com
@@ -4348,7 +4349,6 @@ us.dlink.gq
 us.to
 usa-gov.tk
 usa.isgre.at
-usa623.gq
 usaf.dmtc.press
 usako.net
 uscaves.com
