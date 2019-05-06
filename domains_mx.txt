@@ -95,6 +95,7 @@
 2014mail.ru
 20boxme.org
 20email.eu
+20mail.eu
 20mail.in
 20mail.it
 20minutemail.com
@@ -511,6 +512,7 @@ bae-systems.tk
 balanc3r.com
 ballsofsteel.net
 bangsat.in
+bannedpls.online
 baomoi.site
 barbarrianking.com
 barcalovers.club
@@ -753,6 +755,7 @@ cellurl.com
 cem.net
 cetpass.com
 cex1z9qo.cf
+chacuo.net
 chaichuang.com
 chammy.info
 champmails.com
@@ -833,8 +836,6 @@ cmc88.tk
 cnamed.com
 cndps.com
 cnew.ir
-cnh.industrial.ga
-cnh.industrial.gq
 cnmsg.net
 cnshosti.in
 co.cc
@@ -845,7 +846,6 @@ code-mail.com
 codyting.com
 coffeepancakewafflebacon.com
 coieo.com
-cok.3utilities.com
 comeonfind.me
 comeporon.ga
 comm.craigslist.org
@@ -1143,7 +1143,6 @@ e-mail.net
 e-mail.org
 e-mule.tk
 e-postkasten.de
-e.benlotus.com
 e.wupics.com
 e3b.org
 e3z.de
@@ -1181,7 +1180,6 @@ efxs.ca
 eggnova.com
 eglft.in
 eho.kr
-eik8a.avr.ze.cx
 eimadness.com
 einrot.com
 eins-zwei.tk
@@ -1236,7 +1234,6 @@ emailtech.info
 emailtemporanea.net
 emailtemporario.com.br
 emailthe.net
-emailto.de
 emailure.net
 emailvenue.com
 emailwarden.com
@@ -1927,6 +1924,7 @@ infest.org
 infocom.zp.ua
 infokehilangan.com
 infoprice.tech
+information-account.net
 inibuatkhoirul.cf
 inibuatsgb.cf
 inibuatsgb.ga
@@ -2442,7 +2440,6 @@ mailbox72.biz
 mailbox87.de
 mailbox92.biz
 mailboxy.fun
-mailbucket.org
 mailcat.biz
 mailcatch.com
 mailcatch.xyz
@@ -2582,6 +2579,7 @@ maswae.world
 matchpol.net
 matra.site
 matra.top
+mattersjf8.com
 max-direct.com
 max-mail.info
 maximalbonus.de
@@ -2611,6 +2609,7 @@ mendoan.uu.gl
 mendoanmail.club
 mepost.pw
 merantikk.tk
+merda.ml
 merry.pink
 messagebeamer.de
 messageden.net
@@ -2770,7 +2769,10 @@ mutant.me
 muttvomit.com
 muttwalker.net
 muuyharold.com
-mv1951.gq
+mv1951.cf
+mv1951.ga
+mv1951.ml
+mv1951.tk
 mvrht.com
 mvrht.net
 mwarner.org
@@ -2801,6 +2803,7 @@ myemail1.ga
 myemail1.ml
 myemailboxy.com
 myemaill.com
+myfake.cf
 myfake.tk
 myfakemail.tk
 myfavorite.info
@@ -3055,7 +3058,6 @@ one2mail.info
 onecitymail.com
 onelegalplan.com
 onemail.host
-onenime.ga
 oneoffemail.com
 oneoffmail.com
 onewaymail.com
@@ -3665,7 +3667,6 @@ shironime.tk
 shitaway.tk
 shitmail.cf
 shitmail.de
-shitmail.gq
 shitmail.me
 shitmail.ml
 shitmail.org
@@ -3710,7 +3711,6 @@ slipry.net
 slmshf.cf
 slothmail.net
 slsrs.ru
-sltmail.com
 slushmail.com
 slutty.horse
 smallanawanginbeach.com
@@ -3804,7 +3804,6 @@ spamfree24.de
 spamfree24.eu
 spamfree24.info
 spamfree24.net
-spamfree24.org
 spamgourmet.com
 spamgourmet.net
 spamgourmet.org
@@ -3834,6 +3833,7 @@ sperma.gq
 spindl-e.com
 spmy.netpage.dk
 spoofmail.de
+sporexbet.com
 spr.io
 spreaddashboard.com
 sprin.tf
@@ -3919,6 +3919,7 @@ suhugatel.ml
 suhugatel.tk
 suhusangar.ml
 sukaalkuma.com
+sukasukasuka.me
 sumberkadalnya.com
 sumitra.tk
 supappl.me
@@ -3957,8 +3958,7 @@ szi4edl0wnab3w6inc.tk
 szucsati.net
 t-shirtcasual.com
 t-student.cf
-t-student.gq
-t-student.ml
+t-student.ga
 t-student.tk
 t.psh.me
 t24e4p7.com
@@ -4865,4 +4865,5 @@ zxcvbnm.com
 zxcvbnm.tk
 zxcxc.com
 zynga-email.com
+zyyu6mute9qn.cf
 zzz.com
