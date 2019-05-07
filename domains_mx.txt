@@ -49,6 +49,7 @@
 10minutesmail.fr
 10minutesmail.net
 10minutetempemail.com
+10minutmail.pl
 10vpn.info
 10x.es
 11-32.tk
@@ -878,7 +879,6 @@ cowcell.com
 coza.ro
 cpaoz.com
 cpmail.life
-cr3wmail.sytes.net
 cr3wxmail.servequake.com
 crankmails.com
 crap.kakadua.net
@@ -1143,6 +1143,7 @@ e-mail.net
 e-mail.org
 e-mule.tk
 e-postkasten.de
+e-postkasten.eu
 e.wupics.com
 e3b.org
 e3z.de
@@ -1218,6 +1219,7 @@ emailinbox.xyz
 emailinfive.com
 emailirani.ir
 emailket.online
+emailkoe.com
 emaillime.com
 emailmenow.info
 emailna.co
@@ -1234,6 +1236,7 @@ emailtech.info
 emailtemporanea.net
 emailtemporario.com.br
 emailthe.net
+emailto.de
 emailure.net
 emailvenue.com
 emailwarden.com
@@ -1353,7 +1356,6 @@ fast-mail.fr
 fast-mail.one
 fastemails.us
 fastermail.com
-fastmailforyou.net
 fastmoney.pro
 fasty.xyz
 fatflap.com
@@ -1404,7 +1406,6 @@ firstcapitalfibers.com
 fish.skytale.net
 fivemail.de
 fivestarclt.com
-fizmail.com
 flash-mail.xyz
 flashbox.5july.org
 flashmail.co
@@ -1458,7 +1459,6 @@ freemail.trankery.net
 freemail.tweakly.net
 freemymail.org
 freeroid.com
-freetubearchive.com
 freeweb.email
 freshviralnewz.club
 freundin.ru
@@ -1707,6 +1707,7 @@ hat-geld.de
 hatespam.org
 hatiyangpatah.online
 hatmail.ir
+hax0r.id
 haydoo.com
 hbdya.info
 hcac.net
@@ -2440,6 +2441,7 @@ mailbox72.biz
 mailbox87.de
 mailbox92.biz
 mailboxy.fun
+mailbucket.org
 mailcat.biz
 mailcatch.com
 mailcatch.xyz
@@ -2520,6 +2522,7 @@ mailquack.com
 mailrock.biz
 mailsac.com
 mailsac.tk
+mailscdn.com
 mailschain.com
 mailscheap.us
 mailseal.de
@@ -2771,6 +2774,7 @@ muttwalker.net
 muuyharold.com
 mv1951.cf
 mv1951.ga
+mv1951.gq
 mv1951.ml
 mv1951.tk
 mvrht.com
@@ -3350,7 +3354,6 @@ qisoa.com
 qnb.io
 qocya.com
 qoika.com
-qoo-10.id
 qopmail.com
 qorikan.com
 qpalong.com
@@ -3667,6 +3670,7 @@ shironime.tk
 shitaway.tk
 shitmail.cf
 shitmail.de
+shitmail.gq
 shitmail.me
 shitmail.ml
 shitmail.org
@@ -3713,7 +3717,6 @@ slothmail.net
 slsrs.ru
 slushmail.com
 slutty.horse
-smallanawanginbeach.com
 smallker.tk
 sman14kabtangerang.site
 smaretboy.pw
@@ -3804,6 +3807,7 @@ spamfree24.de
 spamfree24.eu
 spamfree24.info
 spamfree24.net
+spamfree24.org
 spamgourmet.com
 spamgourmet.net
 spamgourmet.org
@@ -3833,7 +3837,6 @@ sperma.gq
 spindl-e.com
 spmy.netpage.dk
 spoofmail.de
-sporexbet.com
 spr.io
 spreaddashboard.com
 sprin.tf
@@ -3959,6 +3962,8 @@ szucsati.net
 t-shirtcasual.com
 t-student.cf
 t-student.ga
+t-student.gq
+t-student.ml
 t-student.tk
 t.psh.me
 t24e4p7.com
@@ -4385,7 +4390,6 @@ vctel.com
 vda.ro
 vdmmhozx5kxeh.tk
 veanlo.com
-vedmail.com
 vedula.com
 veebee.tk
 vektik.com
@@ -4791,6 +4795,7 @@ zep-hyr.com
 zepp.dk
 zerodog.icu
 zeroknow.ga
+zerotohero-1.com
 zetmail.com
 zeveyuse.com
 zeveyuse.net
@@ -4865,5 +4870,6 @@ zxcvbnm.com
 zxcvbnm.tk
 zxcxc.com
 zynga-email.com
-zyyu6mute9qn.cf
+zyyu6mute9qn.ga
+zyyu6mute9qn.gq
 zzz.com
