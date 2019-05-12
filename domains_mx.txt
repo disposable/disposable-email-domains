@@ -25,6 +25,7 @@
 1.atm-mi.ml
 1.atm-mi.tk
 1.batikbantul.com
+1.kerl.cf
 1000kti.xyz
 1000rebates.stream
 100kti.xyz
@@ -48,7 +49,6 @@
 10minutesmail.fr
 10minutesmail.net
 10minutetempemail.com
-10minutmail.pl
 10vpn.info
 10x.es
 11-32.tk
@@ -88,6 +88,7 @@
 1webmail.info
 1website.net
 2.batikbantul.com
+2.kerl.cf
 2.sexymail.ooo
 2.tebwinsoi.ooo
 2000rebates.stream
@@ -109,6 +110,7 @@
 2anom.com
 2dfmail.tk
 2emea.com
+2ether.net
 2fdgdfgdfgdf.tk
 2mailnext.com
 2mailnext.top
@@ -119,6 +121,7 @@
 2wc.info
 2zpph1mgg70hhub.tk
 3.batikbantul.com
+3.kerl.cf
 30minutenmail.eu
 30wave.com
 3202.com
@@ -212,6 +215,7 @@
 a-b.co.za
 a-bc.net
 a.hido.tech
+a.kerl.gq
 a41odgz7jh.com
 a41odgz7jh.com.com
 a45.in
@@ -492,6 +496,7 @@ azazazatashkent.tk
 azcomputerworks.com
 azmeil.tk
 azure.cloudns.asia
+b.kerl.gq
 b1of96u.com
 b2bx.net
 b5safaria.com
@@ -651,6 +656,7 @@ bossmail.de
 bot.nu
 botz.online
 boun.cr
+box.comx.cf
 boxformail.in
 boximail.com
 boxmail.co
@@ -710,6 +716,7 @@ bwa33.net
 byebyemail.com
 byom.de
 bzymail.top
+c.kerl.gq
 c0rtana.tk
 c1oramn.com
 c2.hu
@@ -751,6 +758,7 @@ cdpa.cc
 ceed.se
 cek.pm
 cekajahhs.tk
+cellurl.com
 cem.net
 cetpass.com
 cex1z9qo.cf
@@ -1138,6 +1146,7 @@ dwutuemzudvcb.tk
 dz17.net
 dzimbabwegq.com
 e-mail.com
+e-mail.comx.cf
 e-mail.net
 e-mail.org
 e-mule.tk
@@ -1196,6 +1205,7 @@ email-list.online
 email-server.info
 email-temp.com
 email-wizard.com
+email.comx.cf
 email.infokehilangan.com
 email.net
 email0.tk
@@ -2246,7 +2256,6 @@ lawrence1121.club
 lazyinbox.com
 lazymail.ooo
 lbe.kr
-lbjmail.com
 lcebull.com
 ldtp.com
 le.monchu.fr
@@ -2389,6 +2398,7 @@ mail.aws910.com
 mail.bentrask.com
 mail.bestoption25.club
 mail.by
+mail.comx.cf
 mail.crowdpress.it
 mail.defaultdomain.ml
 mail.fettometern.com
@@ -2446,6 +2456,7 @@ mailbox72.biz
 mailbox87.de
 mailbox92.biz
 mailboxy.fun
+mailbucket.org
 mailcat.biz
 mailcatch.com
 mailcatch.xyz
@@ -3122,6 +3133,7 @@ ozyl.de
 p-gdl.tk
 p-value.ga
 p-value.tk
+p.new-mgmt.ga
 p180.tk
 p1nhompdgwn.tk
 p33.org
@@ -3165,7 +3177,6 @@ payforpost.org
 payperex2.com
 payspun.com
 pb-shelley.tk
-pb5g.com
 pcmylife.com
 pcusers.otherinbox.com
 pdold.com
@@ -3339,6 +3350,7 @@ pw.r4.dns-cloud.net
 pwp.lv
 pwrby.com
 pyiauje42dysm.tk
+q.new-mgmt.ga
 q.xtc.yt
 q314.net
 q7t43q92.com.com
@@ -3351,7 +3363,6 @@ qbfree.us
 qbi.kr
 qc.to
 qdrwriterx.com
-qedwardr.com
 qeispacesq.com
 qhstreetr.com
 qiaua.com
@@ -3813,6 +3824,7 @@ spamfree24.de
 spamfree24.eu
 spamfree24.info
 spamfree24.net
+spamfree24.org
 spamgourmet.com
 spamgourmet.net
 spamgourmet.org
@@ -4196,6 +4208,7 @@ toi.kr
 tokenmail.de
 tol.ooo
 tolongsaya.me
+tonno.tk
 tonymanso.com
 tool.pp.ua
 toomail.biz
@@ -4377,6 +4390,7 @@ uyu.kr
 uzxia.tk
 v-mail.xyz
 v.jsonp.ro
+v.olvos90.tk
 v7ecub.com
 vaasfc4.tk
 vadlag.xyz
@@ -4423,10 +4437,12 @@ viewcastmedia.org
 vilnapresa.com
 vincenza1818.site
 vinernet.com
+vip.aiot.eu.org
 vip.cool
 vip.dmtc.press
 vip.hstu.eu.org
 vipepe.com
+viphone.eu.org
 vipmail.pw
 viral-science.fun
 viralplays.com
@@ -4681,7 +4697,6 @@ xwaretech.net
 xww.ro
 xx-9.tk
 xxlocanto.us
-xxme.me
 xxolocanto.us
 xxqx3802.com
 xzavier1121.club
@@ -4753,6 +4768,7 @@ yourlms.biz
 youropinion.ooo
 yourspamgoesto.space
 yourweb.email
+youtube.comx.cf
 youzend.net
 yroid.com
 yspend.com
