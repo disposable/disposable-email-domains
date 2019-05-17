@@ -36,7 +36,6 @@
 10mail.org
 10minut.com.pl
 10minut.xyz
-10minute-email.com
 10minutemail.co.uk
 10minutemail.co.za
 10minutemail.com
@@ -303,6 +302,7 @@ aktiefmail.nl
 akunamatata.site
 akusayyangkamusangat.tk
 akvaristlerdunyasi.com
+al-jazeera.comx.cf
 al-qaeda.us
 alaki.ga
 aldeyaa.ae
@@ -1219,7 +1219,6 @@ email-server.info
 email-temp.com
 email-wizard.com
 email.comx.cf
-email.infokehilangan.com
 email.net
 email0.tk
 email2.tk
@@ -1750,6 +1749,7 @@ hax0r.id
 haydoo.com
 hbdya.info
 hcac.net
+headset5pl.com
 headstrong.de
 healbutty.info
 healthbeautynatural.site
@@ -2715,6 +2715,7 @@ miranda1121.club
 misterpinball.de
 mitsubishi-asx.tk
 mitsubishi-pajero.tk
+miur.ml
 miur.tk
 mixchains.win
 mixi.gq
@@ -2974,7 +2975,6 @@ newbpotato.tk
 newmesotheliomalaywers.com
 newsmag.us
 newspro.fun
-newsusfun.com
 newtempmail.com
 newviral.fun
 next-mail.info
@@ -3084,7 +3084,6 @@ obxpestcontrol.com
 ocotbukanmain.club
 odaymail.com
 odnorazovoe.ru
-oduyzrp.com
 oerpub.org
 officialngentot.cf
 officialngentot.ga
@@ -3407,7 +3406,6 @@ qdrwriterx.com
 qeispacesq.com
 qhstreetr.com
 qiaua.com
-qibl.at
 qisdo.com
 qisoa.com
 qnb.io
@@ -3525,6 +3523,7 @@ rewas-app-lex.com
 rex-app-lexc.com
 rexagod.tk
 rfc822.org
+rfirewallj.com
 rfreedomj.com
 rgb9000.net
 rh3qqqmfamt3ccdgfa.tk
@@ -3560,9 +3559,6 @@ robot-mail.com
 robot2.club
 robot2.me
 robox.agency
-rocketmail.cf
-rocketmail.ga
-rocketmail.gq
 rockyoujit.icu
 rollindo.agency
 rollsroyce-plc.tk
@@ -4161,6 +4157,7 @@ thefirstticket.com
 theglockner.com
 theglockneronline.com
 thehagiasophia.com
+thejoaocarlosblog.tk
 thelimestones.com
 themailpro.net
 thembones.com.au
@@ -4181,7 +4178,6 @@ thetrash.email
 thetrommler.com
 thex.ro
 thietbivanphong.asia
-thinkingus24.com
 thisisnotmyrealemail.com
 thismail.net
 thnikka.com
@@ -4656,7 +4652,6 @@ wicked-game.tk
 wicked.cricket
 wierie.tk
 wiki.8191.at
-wikidocuslava.ru
 wikipedia-inc.tk
 wikipedia-llc.tk
 wil.kr

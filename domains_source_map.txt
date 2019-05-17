@@ -1,18 +1,3 @@
-https://emailfake.com:agustaa.top
-https://emailfake.com:devset.space
-https://emailfake.com:fikrihidayah.ml
-https://emailfake.com:jorosc.tk
-https://emailfake.com:moparayes.site
-https://emailfake.com:owh.ooo
-https://emailfake.com:salvatore1818.site
-https://emailfake.com:sempuranadi.cf
-https://emailfake.com:titaspaharpur5.gq
-https://emailfake.com:tourbalitravel.com
-https://emailfake.com:tuyulmokad.ml
-https://emailfake.com:vip.cool
-https://emailfake.com:whiteseoromania.tk
-https://emailfake.com:wrlnewstops.space
-https://emailfake.com:zurtel.gq
 https://gist.githubusercontent.com/adamloving/4401361/raw/66688cf8ad890433b917f3230f44489aa90b03b7:0-mail.com
 https://gist.githubusercontent.com/adamloving/4401361/raw/66688cf8ad890433b917f3230f44489aa90b03b7:0815.ru
 https://gist.githubusercontent.com/adamloving/4401361/raw/66688cf8ad890433b917f3230f44489aa90b03b7:0clickemail.com
@@ -17541,8 +17526,10 @@ https://raw.githubusercontent.com/wesbos/burner-email-providers/master/emails.tx
 https://raw.githubusercontent.com/wesbos/burner-email-providers/master/emails.txt:0815.ry
 https://raw.githubusercontent.com/wesbos/burner-email-providers/master/emails.txt:0815.su
 https://raw.githubusercontent.com/wesbos/burner-email-providers/master/emails.txt:0845.ru
+https://raw.githubusercontent.com/wesbos/burner-email-providers/master/emails.txt:0ak.org
 https://raw.githubusercontent.com/wesbos/burner-email-providers/master/emails.txt:0box.eu
 https://raw.githubusercontent.com/wesbos/burner-email-providers/master/emails.txt:0clickemail.com
+https://raw.githubusercontent.com/wesbos/burner-email-providers/master/emails.txt:0hcow.com
 https://raw.githubusercontent.com/wesbos/burner-email-providers/master/emails.txt:0hdear.com
 https://raw.githubusercontent.com/wesbos/burner-email-providers/master/emails.txt:0mel.com
 https://raw.githubusercontent.com/wesbos/burner-email-providers/master/emails.txt:0mixmail.info
@@ -20891,7 +20878,6 @@ https://raw.githubusercontent.com/wesbos/burner-email-providers/master/emails.tx
 https://raw.githubusercontent.com/wesbos/burner-email-providers/master/emails.txt:sosmanga.com
 https://raw.githubusercontent.com/wesbos/burner-email-providers/master/emails.txt:spa.com
 https://raw.githubusercontent.com/wesbos/burner-email-providers/master/emails.txt:spaereplease.com
-https://raw.githubusercontent.com/wesbos/burner-email-providers/master/emails.txt:spaereplease.com
 https://raw.githubusercontent.com/wesbos/burner-email-providers/master/emails.txt:spam-be-gone.com
 https://raw.githubusercontent.com/wesbos/burner-email-providers/master/emails.txt:spam.2012-2016.ru
 https://raw.githubusercontent.com/wesbos/burner-email-providers/master/emails.txt:spam.care
@@ -21226,6 +21212,7 @@ https://raw.githubusercontent.com/wesbos/burner-email-providers/master/emails.tx
 https://raw.githubusercontent.com/wesbos/burner-email-providers/master/emails.txt:tmpeml.info
 https://raw.githubusercontent.com/wesbos/burner-email-providers/master/emails.txt:tmpjr.me
 https://raw.githubusercontent.com/wesbos/burner-email-providers/master/emails.txt:tmpmail.net
+https://raw.githubusercontent.com/wesbos/burner-email-providers/master/emails.txt:tmpmail.org
 https://raw.githubusercontent.com/wesbos/burner-email-providers/master/emails.txt:tntitans.club
 https://raw.githubusercontent.com/wesbos/burner-email-providers/master/emails.txt:toddsbighug.com
 https://raw.githubusercontent.com/wesbos/burner-email-providers/master/emails.txt:toi.kr
@@ -21841,6 +21828,7 @@ https://tempr.email:3.kerl.cf
 https://tempr.email:a.kerl.gq
 https://tempr.email:a.uditt.cf
 https://tempr.email:adfly.comx.cf
+https://tempr.email:al-jazeera.comx.cf
 https://tempr.email:apple.dnsabr.com
 https://tempr.email:attnetwork.com
 https://tempr.email:b.kerl.gq
