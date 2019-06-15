@@ -248,6 +248,7 @@
 11top.xyz
 120mail.com
 123-m.com
+123.dns-cloud.net
 1236456.com
 12ab.info
 12hosting.net
@@ -782,6 +783,7 @@
 445t6454545ty4.tk
 44bit.ru
 44mot.ru
+456.dns-cloud.net
 456b4564.cf
 456b4564.ga
 456b4564.gq
@@ -1237,6 +1239,7 @@
 77game.ru
 77jin.ru
 77mot.ru
+789.dns-cloud.net
 78el.ru
 79mail.com
 7ag83mwrabz.ga
@@ -5238,6 +5241,7 @@ duskmail.com
 dusnedesigns.ml
 dutiesu0.com
 dvd.dns-cloud.net
+dvd.dnsabr.com
 dvdxpress.biz
 dveri5.ru
 dvigatelsaita.ru
