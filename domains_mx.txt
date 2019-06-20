@@ -75,7 +75,6 @@
 18-9-2.tk
 188133756.ru
 18am.ru
-19-crimes.ru
 1airpods.ru
 1aolmail.com
 1blackmoon.com
@@ -340,6 +339,8 @@ abacuswe.us
 abakiss.com
 abanksat.us
 abarth.tk
+abb.dns-cloud.net
+abb.dnsabr.com
 abc.yopmail.com
 abcmail.men
 abilityskillup.info
@@ -840,7 +841,6 @@ bakar.bid
 bakhaus.ru
 balanc3r.com
 ballsofsteel.net
-baltecosalon.ru
 bandamn.ru
 bangsat.in
 banikata.ru
@@ -1570,7 +1570,6 @@ de-a.org
 de.introverted.ninja
 de.vipqq.eu.org
 dea.soon.it
-deadchildren.org
 deagot.com
 debuilding.ru
 decobar.ru
@@ -1660,6 +1659,7 @@ dinoza.pro
 dinozy.net
 dioscolwedddas.3-a.net
 diplomvirkutske.ru
+dipoelast.ru
 direct-mail.info
 directmail.top
 directmail24.net
@@ -1953,7 +1953,6 @@ emaillime.com
 emailmenow.info
 emailna.co
 emailna.life
-emailnode.net
 emailo.pro
 emailondeck.com
 emailr.win
@@ -2423,6 +2422,7 @@ general-motors.tk
 generator.email
 genicraft.ru
 geo-crypto.com
+geokomponent.ru
 geomail.win
 geraldlover.org
 germanmails.biz
@@ -2509,6 +2509,8 @@ gmaul.com
 gmeil.me
 gmial.com
 gmil.com
+gmx.dns-cloud.net
+gmx.dnsabr.com
 gmx.fr.nf
 gmx1mail.top
 gmxmail.top
@@ -2686,6 +2688,8 @@ hatmail.ir
 hax0r.id
 haydoo.com
 hbdya.info
+hbo.dns-cloud.net
+hbo.dnsabr.com
 hcac.net
 hccmail.win
 hcoupledp.com
@@ -2764,7 +2768,6 @@ hkhangsen.ru
 hlooy.com
 hmail.us
 hmamail.com
-hmh.ro
 hmmarketru.ru
 hndard.com
 hntr93vhdv.uy.to
@@ -2890,7 +2893,6 @@ icloudbusiness.net
 ico-decenturion.ru
 iconsultant.me
 icunet.icu
-icx.ro
 id10tproof.com
 idea-mail.com
 ideepmind.pw
@@ -3055,7 +3057,6 @@ iot.ptcu.dev
 iot.vuforia.us
 iotu.creo.site
 iotu.de.vipqq.eu.org
-iotu.hstu.eu.org
 iotu.nctu.me
 iozak.com
 ip4.pp.ua
@@ -3081,7 +3082,6 @@ iren24.ru
 irina-kusik.ru
 irish2me.com
 irknim.ru
-irobotlab.ru
 iroid.com
 iroirorussia.ru
 ironiebehindert.de
@@ -3298,6 +3298,7 @@ kazan-elki.ru
 kazper.net
 kcrw.de
 kdeos.ru
+kdjngsdgsd.tk
 kdublinstj.com
 kedrovskiy.ru
 keeplucky.pw
@@ -3640,7 +3641,6 @@ lol.ovpn.to
 lolfreak.net
 lom.kr
 london2.space
-londondesign.ru
 longio.org
 lookugly.com
 lordsofts.com
@@ -4256,7 +4256,6 @@ muhammadafandi.com
 muimail.com
 multfilmmoney.ru
 multidrone.ru
-multitul-lath.ru
 mummybags.ru
 mundodigital.me
 mupload.nl
@@ -4412,6 +4411,7 @@ nandini.com
 nando1.com
 nano-baby.ru
 nanonym.ch
+napalm51.ga
 napalm51.igg.biz
 nasa.dmtc.edu.pl
 nasa.iotu.nctu.me
@@ -4549,7 +4549,6 @@ no-vax.tk
 noaado-shop.ru
 nodie.cc
 noemail.com
-nofocodobrasil.tk
 nogmailspam.info
 noifeelings.com
 nokiahere.tk
@@ -4581,6 +4580,7 @@ nospammail.net
 nospammer.ovh
 not0k.com
 notesell.ru
+nothingtoseehere.ca
 notif.me
 notion.work
 notmail.com
@@ -4601,7 +4601,6 @@ nozala-company.ru
 npv.kr
 nqav95zj0p.kro.kr
 nsk1vbz.tk
-ntlhelp.net
 nubescontrol.com
 nuke.africa
 nullbox.info
@@ -5345,7 +5344,6 @@ rfreedomj.com
 rfzaym.ru
 rgb9000.net
 rh3qqqmfamt3ccdgfa.tk
-rheank.com
 rhombushorizons.com
 rhyta.com
 riba-4ok.ru
@@ -5463,7 +5461,6 @@ russtavki.ru
 rust-inside.ru
 rustinside.ru
 rustydoor.com
-rvb.ro
 rvbspending.com
 rxmail.us
 rxtx.us
@@ -5674,7 +5671,6 @@ shop-horse.ru
 shop-konditer.ru
 shop4mail.net
 shopbaby.me
-shopdream1.ru
 shoping25.ru
 shopingmax.ru
 shopingmir.ru
@@ -5734,11 +5730,11 @@ skeefmail.com
 skifsmm.ru
 skrx.tk
 skv-object.ru
+sky.dnsabr.com
 skymail.gq
 skymailapp.com
 skymailgroup.com
 slaskpost.rymdprojekt.se
-slave-auctions.net
 slimfort.ru
 slippery.email
 sliv-cash.ru
@@ -5863,7 +5859,6 @@ spamcorptastic.com
 spamcowboy.com
 spamcowboy.net
 spamcowboy.org
-spamdecoy.net
 spameater.org
 spamex.com
 spamfree.eu
@@ -5966,7 +5961,6 @@ steamgg.ru
 steamprank.com
 stecloochistitel.ru
 stelliteop.info
-stemfor.ru
 steorn.tk
 stg.malibucoding.com
 stihi-poeziya.ru
@@ -6562,6 +6556,8 @@ uapproves.com
 uber-mail.com
 ubismail.net
 ubm.md
+ubuntu.dns-cloud.net
+ubuntu.dnsabr.com
 ucandobest.pw
 ucansuc.pw
 ucche.us
@@ -6775,6 +6771,8 @@ viralplays.com
 virgiliomail.tk
 virtual-email.com
 virtznakomstva.ru
+visa.dns-cloud.net
+visa.dnsabr.com
 visa159.ru
 visal007.tk
 visal168.tk
@@ -7226,7 +7224,6 @@ you.e4ward.com
 youbestone.pw
 youchat.ooo
 yougotgoated.com
-youmailr.com
 youmails.online
 young-app-lexacc.com
 youporn.igg.biz

@@ -1741,6 +1741,8 @@ abanksat.us
 abarth.ga
 abarth.gq
 abarth.tk
+abb.dns-cloud.net
+abb.dnsabr.com
 abc.yopmail.com
 abcda.tech
 abcmail.email
@@ -7269,6 +7271,8 @@ gmdabuwp64oprljs3f.tk
 gmeil.me
 gmial.com
 gmil.com
+gmx.dns-cloud.net
+gmx.dnsabr.com
 gmx.fr.nf
 gmx1mail.top
 gmxip8vet5glx2n9ld.cf
@@ -7796,6 +7800,8 @@ hazelnut4u.com
 hazelnuts4u.com
 hazmatshipping.org
 hbdya.info
+hbo.dns-cloud.net
+hbo.dnsabr.com
 hbontqv90dsmvko9ss.cf
 hbontqv90dsmvko9ss.ga
 hbontqv90dsmvko9ss.gq
@@ -15966,6 +15972,7 @@ skv-object.ru
 sky-inbox.com
 sky-mail.ga
 sky-ts.de
+sky.dnsabr.com
 skydragon112.cf
 skydragon112.ga
 skydragon112.gq
@@ -17895,6 +17902,8 @@ ubdeexu2ozqnoykoqn8.tk
 uber-mail.com
 ubismail.net
 ubm.md
+ubuntu.dns-cloud.net
+ubuntu.dnsabr.com
 ucandobest.pw
 ucansuc.pw
 ucavlq9q3ov.cf
@@ -18506,6 +18515,8 @@ visa-securepay.gq
 visa-securepay.ml
 visa-securepay.tk
 visa.coms.hk
+visa.dns-cloud.net
+visa.dnsabr.com
 visa159.ru
 visal007.tk
 visal168.cf
