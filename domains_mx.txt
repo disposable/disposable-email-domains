@@ -38,6 +38,7 @@
 10mail.org
 10minut.com.pl
 10minut.xyz
+10minute-email.com
 10minutemail.co.uk
 10minutemail.co.za
 10minutemail.com
@@ -61,7 +62,6 @@
 120mail.com
 123-m.com
 123.dns-cloud.net
-1236456.com
 12ab.info
 12hosting.net
 12minutemail.com
@@ -123,6 +123,7 @@
 2120001.net
 22mot.ru
 22office.com
+23.8.dnsabr.com
 24hinbox.com
 24mail.top
 24mail.xyz
@@ -274,6 +275,7 @@
 7rent.top
 7tags.com
 7uy35p.tk
+8.dnsabr.com
 8.thepieter.com
 800sacramento.tk
 80665.com
@@ -720,6 +722,7 @@ asgardia-space.tk
 ashik2in.com
 ashotmail.com
 asia-pasifikacces.com
+asia.dnsabr.com
 asiapmail.club
 asifboot.com
 asik2in.com
@@ -779,7 +782,6 @@ avtobym.ru
 avtomatika-stout.ru
 avtoproin16.ru
 avtoservisrus.ru
-avtoshkolaexpert.ru
 avtoshtorka.ru
 avtospasatel39.ru
 awatum.de
@@ -841,6 +843,7 @@ bakar.bid
 bakhaus.ru
 balanc3r.com
 ballsofsteel.net
+baltecosalon.ru
 bandamn.ru
 bangsat.in
 banikata.ru
@@ -1146,7 +1149,6 @@ buchhandlung24.com
 budaya-tionghoa.com
 budayationghoa.com
 budgetgoods.ru
-bugmenever.com
 bui-in-samara.ru
 buketeriya.ru
 buketgurmana.ru
@@ -1258,7 +1260,6 @@ centr-fejerverkov28.ru
 centr-luch.ru
 cetpass.com
 cex1z9qo.cf
-chacuo.net
 chaichuang.com
 chammy.info
 champmails.com
@@ -1924,6 +1925,7 @@ email-fake.com
 email-host.info
 email-jetable.fr
 email-list.online
+email-mail.pw
 email-server.info
 email-temp.com
 email-wizard.com
@@ -1972,7 +1974,6 @@ emailtemporanea.net
 emailtemporario.com.br
 emailtex.com
 emailthe.net
-emailto.de
 emailure.net
 emailvenue.com
 emailwarden.com
@@ -2042,12 +2043,13 @@ ethereumru.ru
 ethersports.org
 etlgr.com
 etoic.com
-etotvibor.ru
 etranquil.com
 etranquil.net
 etranquil.org
 etszys.com
 etzdnetx.com
+eu.dns-cloud.net
+eu.dnsabr.com
 eu.igg.biz
 euaqa.com
 eur-sec1.tk
@@ -2429,6 +2431,7 @@ general-motors.tk
 generator.email
 genicraft.ru
 geo-crypto.com
+geokomponent.ru
 geomail.win
 geraldlover.org
 germanmails.biz
@@ -2648,7 +2651,6 @@ guzik-game.ru
 guzik-loto.ru
 gwfh.tk
 gxemail.men
-gynzi.com
 gynzy.eu
 gyro-net.ru
 h0116.top
@@ -2767,6 +2769,8 @@ hitale.ru
 hitbts.com
 hitetogogoda.ru
 hitler-adolf.tk
+hitler.dns-cloud.net
+hitler.dnsabr.com
 hix.kr
 hiz.kr
 hjdosage.com
@@ -3018,7 +3022,6 @@ inmynetwork.tk
 inoutmail.de
 inretail.ru
 inrim.tk
-inshapeactive.ru
 insta-ground.ru
 instaforex-info.ru
 instafun.men
@@ -3092,7 +3095,6 @@ iren24.ru
 irina-kusik.ru
 irish2me.com
 irknim.ru
-irobotlab.ru
 iroid.com
 iroirorussia.ru
 ironiebehindert.de
@@ -3513,7 +3515,6 @@ lampadlyagellaka.ru
 landingcenter.ru
 landmail.co
 landmark.io
-langclubs.ru
 laoeq.com
 laoho.com
 lapeksp.ru
@@ -3576,7 +3577,6 @@ libertymail.info
 libidopluses.ru
 libox.fr
 licorne.ml
-lideravtoshkola.ru
 life-online1.ru
 life-smile.ru
 lifeguru.online
@@ -4145,6 +4145,7 @@ mkrecondition.ru
 ml8.ca
 mlo.kr
 mlx.ooo
+mm.8.dnsabr.com
 mm5.se
 mmail.igg.biz
 mmclobau.top
@@ -4558,6 +4559,7 @@ no-vax.tk
 noaado-shop.ru
 nodie.cc
 noemail.com
+nofocodobrasil.tk
 nogmailspam.info
 noifeelings.com
 nokiahere.tk
@@ -5053,7 +5055,6 @@ pqoss.com
 pr4y.web.id
 prado-mail.ru
 pradvice.ru
-prava-ab.ru
 pravorobotov.ru
 prazdnik-37.ru
 predatorrat.tk
@@ -5147,6 +5148,8 @@ puttana.tk
 putthisinyourspamdatabase.com
 pvckomplekt.ru
 pw-mail.tk
+pw.8.dnsabr.com
+pw.email-mail.cf
 pw.epac.to
 pw.igg.biz
 pw.islam.igg.biz
@@ -5465,7 +5468,6 @@ rus-oonies.ru
 rusecoflot.ru
 rush.ovh
 ruskovka.ru
-rusnewsfeed.ru
 russ-samsung.ru
 russian-elka.ru
 russtavki.ru
@@ -5657,7 +5659,6 @@ shewishop.ru
 shey-sama.ru
 shieldemail.com
 shiftmail.com
-shimano-catan.ru
 shineru.ru
 shinnemo.com
 shiroinime.ga
@@ -6132,7 +6133,6 @@ taxi-france.com
 taximone.ru
 taylorventuresllc.com
 tayohei-official.com
-tb-on-line.net
 tbs35.ru
 tcgun.ru
 tcnmistakes.com
@@ -6425,7 +6425,6 @@ tourtripbali.com
 tovar-off.ru
 tovar-tyt.ru
 tovar-zdes.ru
-tovarsales70.ru
 tovarshopmoscow.ru
 towergames.ru
 toy-me.ru
@@ -7081,7 +7080,6 @@ x-runovosti.ru
 x-rutochka.ru
 x-vestnik.ru
 x.nadazero.net
-x0zj6k8.com
 x13x13x13.com
 x1cult.ru
 x1econ.ru
@@ -7220,6 +7218,8 @@ yoginyogik.ru
 yolooo.top
 yomail.info
 yood.org
+yop.dns-cloud.net
+yop.dnsabr.com
 yop.emersion.fr
 yop.itram.es
 yop.profmusique.com
@@ -7328,7 +7328,6 @@ zfymail.com
 zh.ax
 zhaoyuanedu.cn
 zhcne.com
-zhidkiy-gazon.ru
 zhorachu.com
 zik.dj
 zilmail.tk
