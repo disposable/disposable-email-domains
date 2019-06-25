@@ -26,6 +26,7 @@
 0x03.tk
 1.batikbantul.com
 10-0-0-1.defaultdomain.ml
+10-minuten-mail.de
 10.dns-cloud.net
 1000kti.xyz
 1000rebates.stream
@@ -1235,7 +1236,6 @@ caseedu.tk
 casekoga.ru
 casio-edu.tk
 catch.everton.com
-catchonline.ooo
 cathead.ru
 cavisto.ru
 cax-aksmmor.ru
@@ -1614,7 +1614,6 @@ desoz.com
 despammed.com
 detskiechasy72.ru
 dettol.gq
-dettol.tk
 deucemail.com
 dev-api.ru
 devnullmail.com
@@ -1646,7 +1645,6 @@ digitalesbusiness.info
 digitalmail.info
 digitalmariachis.com
 digitalsanctuary.com
-digitaltechnic.ru
 dikriemangasu.cf
 dikriemangasu.ga
 dikriemangasu.gq
@@ -1973,7 +1971,6 @@ emailtemporanea.net
 emailtemporario.com.br
 emailtex.com
 emailthe.net
-emailto.de
 emailure.net
 emailvenue.com
 emailwarden.com
@@ -2018,7 +2015,6 @@ ephemeral.email
 epic.swat.rip
 eq-trainer.ru
 erasf.com
-ergo-ryukzak.ru
 ergobabyrussian.ru
 errorstud.io
 esbano-magazin.ru
@@ -2431,6 +2427,7 @@ general-motors.tk
 generator.email
 genicraft.ru
 geo-crypto.com
+geokomponent.ru
 geomail.win
 geraldlover.org
 germanmails.biz
@@ -2715,7 +2712,6 @@ health-2-beauty.ru
 health112.ru
 healthoutlet.ru
 healthydiets.ru
-healyourself.xyz
 heathenhammer.com
 hecat.es
 heeco.me
@@ -2996,6 +2992,7 @@ indeedtime.us
 indirect.ws
 indogame.site
 indomaed.pw
+indomovie21.me
 indoserver.stream
 inf39.ru
 infitter.ru
@@ -3095,6 +3092,7 @@ iren24.ru
 irina-kusik.ru
 irish2me.com
 irknim.ru
+irobotlab.ru
 iroid.com
 iroirorussia.ru
 ironiebehindert.de
@@ -3256,7 +3254,6 @@ junk.ihmehl.com
 junk.to
 junk1e.com
 junkmail.com
-junkmail.ga
 jur-likbez.ru
 just-games.ru
 just4spam.com
@@ -3369,8 +3366,6 @@ kiwsz.com
 kix-tioman.ru
 kkm35.ru
 kksm.be
-kkwbeauty54.ru
-kkzntk868mail.gq
 klaass.ru
 klassmaster.com
 klick-tipp.us
@@ -3537,7 +3532,6 @@ le-tim.ru
 le.monchu.fr
 leadingemail.com
 leapradius.com
-lecsaljuk.club
 ledmedia92.ru
 ledoktre.com
 lee.mx
@@ -5013,6 +5007,7 @@ pop3.xyz
 popconn.party
 popesodomy.com
 popmailserv.org
+poppyalwaz.site
 popso.tk
 popsok.tk
 porororebus.top
@@ -5682,7 +5677,6 @@ shop4mail.net
 shopbaby.me
 shoping25.ru
 shopingmax.ru
-shopingmir.ru
 shoproyal.net
 shopser.ru
 shoptumen.ru
@@ -5941,7 +5935,6 @@ sssppua.tk
 ssst-zar.ru
 st-m.tk
 stacklance.com
-staffchat.tk
 stalingradd.ru
 stanford-edu.tk
 stanfordujjain.com
@@ -6140,7 +6133,6 @@ teambogor.online
 teamrnd.win
 tebwinsoi.ooo
 tech5group.com
-tech69.com
 techbike.ru
 techemail.com
 techgroup.me
@@ -6676,6 +6668,12 @@ uzxia.com
 uzxia.tk
 v-mail.xyz
 v.jsonp.ro
+v250.cf
+v250.dns-cloud.net
+v250.ga
+v250.gq
+v250.ml
+v250.tk
 v7ecub.com
 vaasfc4.tk
 vacancydom.ru
@@ -6891,7 +6889,6 @@ wapl.ga
 wapyello.gq
 warau-kadoni.com
 warnednl2.com
-warungku.me
 wasabi-75.ru
 wasd.10mail.org
 wasd.dropmail.me
@@ -7018,7 +7015,6 @@ wolfsmails.tk
 wollan.info
 woman2019.ru
 womenbox.ru
-womenhealthcare.ooo
 wonderfulgifts.ru
 wonlexofficial.ru
 woodmachinery-group.ru

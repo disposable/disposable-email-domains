@@ -191,6 +191,7 @@
 1.batikbantul.com
 1.kerl.cf
 10-0-0-1.defaultdomain.ml
+10-minuten-mail.de
 10.dns-cloud.net
 1000kti.xyz
 1000rebates.stream
@@ -9857,7 +9858,6 @@ kkr47748fgfbef.ml
 kkr47748fgfbef.tk
 kksm.be
 kkwbeauty54.ru
-kkzntk868mail.gq
 klaass.ru
 klammlose.org
 klarasaty25rest.cf
@@ -13966,6 +13966,7 @@ popesodomy.com
 popgx.com
 popmail.io
 popmailserv.org
+poppyalwaz.site
 popso.cf
 popso.ga
 popso.gq
@@ -16435,7 +16436,6 @@ st-m.gq
 st-m.ml
 st-m.tk
 stacklance.com
-staffchat.tk
 staircraft5.com
 stalingradd.ru
 stanford-edu.tk
@@ -18277,6 +18277,12 @@ v0domwwkbyzh1vkgz.gq
 v0domwwkbyzh1vkgz.ml
 v0domwwkbyzh1vkgz.tk
 v21.me.uk
+v250.cf
+v250.dns-cloud.net
+v250.ga
+v250.gq
+v250.ml
+v250.tk
 v27hb4zrfc.cf
 v27hb4zrfc.ga
 v27hb4zrfc.gq
