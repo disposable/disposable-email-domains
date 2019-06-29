@@ -58,6 +58,7 @@
 11-32.tk
 114207.com
 117.yyolf.net
+119mail.com
 11cows.com
 11mot.ru
 11top.xyz
@@ -126,6 +127,7 @@
 2120001.net
 22mot.ru
 22office.com
+23.8.dnsabr.com
 24hinbox.com
 24mail.top
 24mail.xyz
@@ -233,6 +235,7 @@
 5ymail.com
 60.volvo-xc.ml
 60.volvo-xc.tk
+60950.cn
 60set.ru
 62it.ru
 666-evil.com
@@ -277,6 +280,9 @@
 7rent.top
 7tags.com
 7uy35p.tk
+8-8.ddns.net
+8-8.sytes.net
+8.dnsabr.com
 8.thepieter.com
 800sacramento.tk
 80665.com
@@ -521,6 +527,7 @@ allen.nom.za
 allfamus.com
 allgaiermogensen.com
 allgoodwe.us
+alliancewe.us
 allinonewe.us
 allnewsblog.ru
 allnewsblogs.ru
@@ -721,6 +728,7 @@ asgardia-space.tk
 ashik2in.com
 ashotmail.com
 asia-pasifikacces.com
+asia.dnsabr.com
 asiapmail.club
 asifboot.com
 asik2in.com
@@ -844,7 +852,6 @@ banikata.ru
 banit.club
 banit.me
 bank-opros1.ru
-bankomatt.ru
 bankovskaya-karta-tele2.ru
 banks-review.ru
 bannedpls.online
@@ -1882,6 +1889,7 @@ edu.aiot.ze.cx
 edu.creo.site
 edu.dmtc.dev
 edu.dmtc.press
+edu.hstu.eu.org
 eeemail.win
 eelmail.com
 ef2qohn1l4ctqvh.tk
@@ -1919,6 +1927,7 @@ email-host.info
 email-jetable.fr
 email-lab.com
 email-list.online
+email-mail.pw
 email-server.info
 email-temp.com
 email-wizard.com
@@ -1968,6 +1977,7 @@ emailtemporanea.net
 emailtemporario.com.br
 emailtex.com
 emailthe.net
+emailto.de
 emailure.net
 emailvenue.com
 emailwarden.com
@@ -2035,12 +2045,13 @@ ethereum1.top
 ethereumru.ru
 ethersports.org
 etlgr.com
-etoic.com
 etranquil.com
 etranquil.net
 etranquil.org
 etszys.com
 etzdnetx.com
+eu.dns-cloud.net
+eu.dnsabr.com
 eu.igg.biz
 euaqa.com
 eur-sec1.tk
@@ -2074,7 +2085,6 @@ eyandex.ru
 eyeemail.com
 eyepaste.com
 eywa-stroy.ru
-ezehe.com
 ezstest.com
 ezz.bid
 f-nacarisk.ru
@@ -2285,7 +2295,6 @@ freelance-france.eu
 freeletter.me
 freemail.trankery.net
 freemail.tweakly.net
-freemask.ru
 freeroid.com
 freerubli.ru
 freespin.ru
@@ -2318,6 +2327,7 @@ fudgerub.com
 fuhoy.com
 fuirio.com
 fuktard.co.in
+fuliansan.com
 fulvie.com
 fun-dot.ru
 fun2.biz
@@ -2342,6 +2352,7 @@ fux0ringduh.com
 fw-nietzsche.tk
 fw2.me
 fw6m0bd.com
+fxfmail.com
 fxnxs.com
 fxprix.com
 fyii.de
@@ -2426,6 +2437,7 @@ general-motors.tk
 generator.email
 genicraft.ru
 geo-crypto.com
+geokomponent.ru
 geomail.win
 geraldlover.org
 germanmails.biz
@@ -2522,6 +2534,7 @@ gmxmail.top
 gmxmail.win
 gnomi.ru
 go1.site
+go2usa.info
 go2vpn.net
 goacc.ru
 goat.si
@@ -2617,6 +2630,7 @@ groupe-psa.tk
 grow-russia.ru
 growlcombine.com
 growshop-moskva.ru
+growth-tools.fr
 grr.la
 grud-devushki.ru
 gruz-m.ru
@@ -2680,7 +2694,6 @@ happysinner.co.uk
 happyyou.pw
 haqed.com
 harakirimail.com
-haribu.com
 haribu.net
 hartbot.de
 harvard-ac-uk.tk
@@ -2764,6 +2777,8 @@ hitale.ru
 hitbts.com
 hitetogogoda.ru
 hitler-adolf.tk
+hitler.dns-cloud.net
+hitler.dnsabr.com
 hix.kr
 hiz.kr
 hjdosage.com
@@ -2864,6 +2879,7 @@ hush.ai
 hush.com
 hvastudiesucces.nl
 hvzoi.com
+hw01.xyz
 hxvxxo1v8mfbt.tk
 hydraulics360.ru
 hyphemail.com
@@ -2892,6 +2908,7 @@ ibsats.com
 iccmail.men
 ice-rulet.ru
 icemail.club
+ichecksdqd.com
 ichehol.ru
 ichigo.me
 icloud.do
@@ -2967,7 +2984,6 @@ inarbicrm.ru
 inarbisoft.ru
 inbaca.com
 inbound.plus
-inbox.si
 inboxalias.com
 inboxbear.com
 inboxclean.com
@@ -3211,10 +3227,7 @@ johnrisky4u.tk
 join-taxi.ru
 joker-dostavka.ru
 jokerkard.ru
-jorosc.cf
-jorosc.ga
 jorosc.gq
-jorosc.ml
 jorosc.tk
 josadelia100.tk
 josamanda777.tk
@@ -3700,7 +3713,6 @@ mail-address.live
 mail-apps.net
 mail-c.tk
 mail-cart.com
-mail-cryz.ru
 mail-easy.fr
 mail-fake.com
 mail-filter.com
@@ -4079,7 +4091,6 @@ migmail.pl
 mihanmail.ir
 mihep.com
 mijnhva.nl
-milkteam.ru
 millionertut.ru
 mimpaharpur.cf
 mimpaharpur.ga
@@ -4136,6 +4147,7 @@ mkrecondition.ru
 ml8.ca
 mlo.kr
 mlx.ooo
+mm.8.dnsabr.com
 mm5.se
 mmail.igg.biz
 mmclobau.top
@@ -4274,7 +4286,6 @@ muuyharold.com
 muzhskoye.ru
 mv1951.ga
 mv1951.gq
-mvrht.com
 mvrht.net
 mwarner.org
 mx.dysaniac.net
@@ -4749,6 +4760,9 @@ opayq.com
 open.brainonfire.net
 opende.de
 opendns.ro
+openmail.ga
+openmail.ml
+openmail.tk
 openmailbox.tk
 openmindedzone.club
 openmoneyclick.ru
@@ -5139,6 +5153,8 @@ puttana.tk
 putthisinyourspamdatabase.com
 pvckomplekt.ru
 pw-mail.tk
+pw.8.dnsabr.com
+pw.email-mail.cf
 pw.epac.to
 pw.igg.biz
 pw.islam.igg.biz
@@ -5154,6 +5170,7 @@ q7t43q92.com.com
 q8cbwendy.com
 q8ec97sr791.tk
 qa.team
+qaioz.com
 qasti.com
 qbfree.us
 qbi.kr
@@ -6039,6 +6056,7 @@ sukaalkuma.com
 sukasukasuka.me
 sumitra.tk
 sunrice-shop.ru
+suoox.com
 supappl.me
 super-auswahl.de
 supere.ml
@@ -6215,6 +6233,7 @@ ten-invest.ru
 tenesu.tk
 teplobur.ru
 tepzo.com
+terrapuz.ddns.net
 terrkrasoty.ru
 terrprib.ru
 test.actess.fr
@@ -6227,6 +6246,7 @@ tetacouch.ru
 texac0.tk
 texters.ru
 textil-home24.ru
+textmarken.de
 tf7nzhw.com
 tfstaiwan.cloudns.asia
 tfwno.gf
@@ -6661,6 +6681,12 @@ uzxia.com
 uzxia.tk
 v-mail.xyz
 v.jsonp.ro
+v250.cf
+v250.dns-cloud.net
+v250.ga
+v250.gq
+v250.ml
+v250.tk
 v7ecub.com
 vaasfc4.tk
 vacancydom.ru
@@ -6747,7 +6773,6 @@ vip.aiot.eu.org
 vip.boxmaill.com
 vip.cool
 vip.dmtc.press
-vip.hstu.eu.org
 vipepe.com
 viphone.eu.org
 viphop.ru
@@ -6901,7 +6926,6 @@ web-emailbox.eu
 web-experts.net
 web-ideal.fr
 web-mail.pp.ua
-web-novosti.ru
 web2mailco.com
 webaward.online
 webcontact-france.eu
@@ -7197,6 +7221,8 @@ yoginyogik.ru
 yolooo.top
 yomail.info
 yood.org
+yop.dns-cloud.net
+yop.dnsabr.com
 yop.emersion.fr
 yop.itram.es
 yop.profmusique.com
@@ -7221,7 +7247,6 @@ your-airy-lashes-spb.ru
 yourdomain.com
 yourlms.biz
 yourmailtoday.com
-youropinion.ooo
 yourspamgoesto.space
 yourvideos.ru
 yourweb.email
@@ -7239,6 +7264,7 @@ yutnaya-kuhnya.ru
 yuxuan.mobi
 yx.dns-cloud.net
 yxbooketo.ru
+yxir.cn
 yxzx.net
 yyhmail.com
 yyt.resolution4print.info
