@@ -52,7 +52,6 @@
 10minutesmail.com
 10minutesmail.fr
 10minutesmail.net
-10minutmail.pl
 10vpn.info
 10x.es
 11-32.tk
@@ -126,7 +125,6 @@
 2120001.net
 22mot.ru
 22office.com
-23.8.dnsabr.com
 24hinbox.com
 24mail.top
 24mail.xyz
@@ -168,6 +166,7 @@
 33m.co
 33mail.com
 35bit.ru
+36ru.com
 3d-magical-magnet.ru
 3l6.com
 3mail.rocks
@@ -279,9 +278,6 @@
 7rent.top
 7tags.com
 7uy35p.tk
-8-8.ddns.net
-8-8.sytes.net
-8.dnsabr.com
 8.thepieter.com
 800sacramento.tk
 80665.com
@@ -447,6 +443,7 @@ ai.edu.aiot.ze.cx
 ai.vcss.eu.org
 aidshops.ru
 aim-v.ru
+aink.gq
 aiot.aiphone.eu.org
 aiot.creo.site
 aiot.creou.dev
@@ -726,7 +723,6 @@ asgardia-space.tk
 ashik2in.com
 ashotmail.com
 asia-pasifikacces.com
-asia.dnsabr.com
 asiapmail.club
 asifboot.com
 asik2in.com
@@ -774,7 +770,6 @@ aver.com
 averdov.com
 aviani.com
 avikd.tk
-avio.gq
 avioaero.tk
 avls.pt
 avosbka.ru
@@ -1245,7 +1240,6 @@ cc-s3x.tk
 ccmail.men
 cdcmail.date
 cdcovers.icu
-cdnqa.com
 cdpa.cc
 ceed.se
 cek.pm
@@ -1601,6 +1595,7 @@ denservise.ru
 density2v.com
 dentistry32norma.ru
 deocrystal.ru
+deployments.pro
 depositbtc.ru
 der-kombi.de
 derbydales.co.uk
@@ -1975,7 +1970,6 @@ emailtemporanea.net
 emailtemporario.com.br
 emailtex.com
 emailthe.net
-emailto.de
 emailure.net
 emailvenue.com
 emailwarden.com
@@ -2049,8 +2043,6 @@ etranquil.net
 etranquil.org
 etszys.com
 etzdnetx.com
-eu.dns-cloud.net
-eu.dnsabr.com
 eu.igg.biz
 euaqa.com
 eur-sec1.tk
@@ -2126,6 +2118,7 @@ familiekersten.tk
 family-class.ru
 familyandlife.ru
 familyfive.ru
+fammix.com
 fangoh.com
 fanmonero.dns.navy
 fantaseri.ru
@@ -2352,7 +2345,6 @@ fux0ringduh.com
 fw-nietzsche.tk
 fw2.me
 fw6m0bd.com
-fxfmail.com
 fxnxs.com
 fxprix.com
 fyii.de
@@ -2436,6 +2428,7 @@ general-motors.tk
 generator.email
 genicraft.ru
 geo-crypto.com
+geokomponent.ru
 geomail.win
 geraldlover.org
 germanmails.biz
@@ -2775,8 +2768,6 @@ hitale.ru
 hitbts.com
 hitetogogoda.ru
 hitler-adolf.tk
-hitler.dns-cloud.net
-hitler.dnsabr.com
 hix.kr
 hiz.kr
 hjdosage.com
@@ -3089,6 +3080,7 @@ iphoneaccount.com
 iphonees.info
 iphonex-shop.ru
 ipiranga.dynu.com
+ipizza24.ru
 ipmaximus.ru
 ippandansei.tk
 ipriva.com
@@ -3102,6 +3094,7 @@ iren24.ru
 irina-kusik.ru
 irish2me.com
 irknim.ru
+irobotlab.ru
 iroid.com
 iroirorussia.ru
 ironiebehindert.de
@@ -3655,8 +3648,10 @@ losemymail.com
 loskutnat.ru
 love-youboy.ru
 lovebitco.in
+lovemeleaveme.com
 loy.kr
 lr78.com
+lru.me
 ls-server.ru
 ltcorp.org
 ltuc.edu.eu.org
@@ -3677,15 +3672,11 @@ lvc2txcxuota.tk
 lvlxd.ru
 lyamda.ru
 lzoaq.com
-m.2pai-dev.com
 m.beedham.org
 m.codng.com
 m.convulse.net
 m.nosuchdoma.in
 m.svlp.net
-m3.dns-cloud.net
-m4.dns-cloud.net
-m5.dns-cloud.net
 m8r.davidfuhr.de
 m8r.mcasal.com
 ma-boite-aux-lettres.infos.st
@@ -4143,7 +4134,6 @@ mkrecondition.ru
 ml8.ca
 mlo.kr
 mlx.ooo
-mm.8.dnsabr.com
 mm5.se
 mmail.igg.biz
 mmclobau.top
@@ -4514,7 +4504,6 @@ news-perviy.ru
 newsmag.us
 newspro.fun
 newstarss.ru
-newtempmail.com
 newviral.fun
 next-mail.info
 next-mail.online
@@ -5145,8 +5134,6 @@ puttana.tk
 putthisinyourspamdatabase.com
 pvckomplekt.ru
 pw-mail.tk
-pw.8.dnsabr.com
-pw.email-mail.cf
 pw.epac.to
 pw.igg.biz
 pw.islam.igg.biz
@@ -5415,7 +5402,6 @@ rootfest.net
 roots31.ru
 rosebear21.ru
 rosebearmylove.ru
-roseltorg-info.ru
 roseofwind.ru
 rotaniliam.com
 rotate.pw
@@ -5820,7 +5806,6 @@ sp.woot.at
 spa.com
 space-company.ru
 spacebazzar.ru
-spaceflowers.ru
 spacibbacmo.lflink.com
 spam-en.de
 spam-nicht.de
@@ -6223,7 +6208,6 @@ ten-invest.ru
 tenesu.tk
 teplobur.ru
 tepzo.com
-terrapuz.ddns.net
 terrkrasoty.ru
 terrprib.ru
 test.actess.fr
@@ -6670,7 +6654,6 @@ uzxia.tk
 v-mail.xyz
 v.jsonp.ro
 v250.cf
-v250.dns-cloud.net
 v250.ga
 v250.gq
 v250.ml
@@ -6777,7 +6760,6 @@ viralplays.com
 virgiliomail.tk
 virtual-email.com
 virtualemail.info
-virtualserver.pro
 virtznakomstva.ru
 visa.dns-cloud.net
 visa.dnsabr.com
@@ -7074,7 +7056,6 @@ x-runovosti.ru
 x-rutochka.ru
 x-vestnik.ru
 x.nadazero.net
-x1-active-manager1.com
 x13x13x13.com
 x1cult.ru
 x1econ.ru
@@ -7212,8 +7193,6 @@ yoginyogik.ru
 yolooo.top
 yomail.info
 yood.org
-yop.dns-cloud.net
-yop.dnsabr.com
 yop.emersion.fr
 yop.itram.es
 yop.profmusique.com
