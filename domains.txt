@@ -2696,6 +2696,7 @@ avto-ap.pro
 avto-fakt.ru
 avto-op.pro
 avto-parts24.ru
+avtobalans.ru
 avtobym.ru
 avtomatika-stout.ru
 avtoproin16.ru
@@ -2916,6 +2917,7 @@ bapumoj.ga
 bapumoj.gq
 bapumoj.ml
 bapumoj.tk
+bapumojo.tk
 baraccudacoach.ru
 barbarrianking.com
 barcakana.tk
@@ -6054,6 +6056,16 @@ ethersportz.info
 etlgr.com
 etoic.com
 etotvibor.ru
+etr500.cf
+etr500.ga
+etr500.gq
+etr500.ml
+etr500.tk
+etr700.cf
+etr700.ga
+etr700.gq
+etr700.ml
+etr700.tk
 etranquil.com
 etranquil.net
 etranquil.org
@@ -9334,6 +9346,7 @@ jo8otki4rtnaf.gq
 jo8otki4rtnaf.ml
 jo8otki4rtnaf.tk
 joakarond.tk
+joao.ga
 joaquinito01.servehttp.com
 joasantos.ga
 job.craigslist.org
@@ -19528,6 +19541,7 @@ xcode.ro
 xcodes.net
 xcompress.com
 xcpy.com
+xcvitir-account1manager1.com
 xcxqtsfd0ih2l.cf
 xcxqtsfd0ih2l.ga
 xcxqtsfd0ih2l.gq
