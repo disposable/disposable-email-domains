@@ -11,6 +11,7 @@
 0815.su
 0box.eu
 0clickemail.com
+0clock.net
 0clock.org
 0hboy.com
 0hcow.com
@@ -18,6 +19,7 @@
 0mixmail.info
 0nce.net
 0nedrive.tk
+0nes.net
 0nly.org
 0rdered.com
 0sg.net
@@ -106,7 +108,6 @@
 1webmail.info
 1website.net
 2.batikbantul.com
-2.mmspa.cf
 2.sexymail.ooo
 2.tebwinsoi.ooo
 20.dns-cloud.net
@@ -127,7 +128,6 @@
 2120001.net
 22mot.ru
 22office.com
-23.8.dnsabr.com
 24hinbox.com
 24mail.top
 24online-marketing.ru
@@ -268,7 +268,6 @@
 77jin.ru
 77mot.ru
 789.dns-cloud.net
-78el.ru
 79mail.com
 7magazinov.ru
 7mail.io
@@ -278,9 +277,6 @@
 7rent.top
 7tags.com
 7uy35p.tk
-8-8.ddns.net
-8-8.sytes.net
-8.dnsabr.com
 8.thepieter.com
 800sacramento.tk
 80665.com
@@ -375,6 +371,7 @@ accounts4sell.com
 accreditedwe.us
 ace-mail.net
 acemail.info
+acfddy.ltd
 achievementwe.us
 achievewe.us
 acornwe.us
@@ -710,7 +707,6 @@ asgardia-space.tk
 ashik2in.com
 ashotmail.com
 asia-pasifikacces.com
-asia.dnsabr.com
 asianmeditations.ru
 asiapmail.club
 asifboot.com
@@ -955,6 +951,7 @@ bestwishes.pw
 beteajah.tk
 betonchehov.ru
 betr.co
+betrax.ml
 betsbest24.ru
 beupmore.win
 beverlytx.com
@@ -1185,6 +1182,7 @@ c99.me
 ca11.cf
 cabekeriting99.com
 cacanhbaoloc.com
+cad.edu.creo.tips
 cad.edu.gr
 cadillac-ats.tk
 cahayasenja.online
@@ -1238,6 +1236,7 @@ centr-fejerverkov28.ru
 centr-luch.ru
 cetpass.com
 cex1z9qo.cf
+chacuo.net
 chaichuang.com
 chammy.info
 champmails.com
@@ -1302,6 +1301,7 @@ claimab.com
 clandest.in
 clarkgriswald.net
 clashatclintonemail.com
+clashkings.ru
 clasicoloto.ru
 classywebsite.co
 clay.xyz
@@ -1590,6 +1590,7 @@ denservise.ru
 density2v.com
 dentistry32norma.ru
 deocrystal.ru
+deployments.pro
 der-kombi.de
 derbydales.co.uk
 derg.pro
@@ -1645,7 +1646,6 @@ dinogam.com
 dinoza.pro
 dioscolwedddas.3-a.net
 diplomvirkutske.ru
-dipoelast.ru
 direct-mail.info
 directmail.top
 directmail24.net
@@ -1870,7 +1870,6 @@ edu.aiot.ze.cx
 edu.creo.site
 edu.dmtc.dev
 edu.dmtc.press
-edu.hstu.eu.org
 eeemail.win
 eelmail.com
 ef2qohn1l4ctqvh.tk
@@ -1956,12 +1955,12 @@ emailsingularity.net
 emailspot.org
 emailspro.site
 emailsteel.com
+emailtea.com
 emailtech.info
 emailtemporanea.net
 emailtemporario.com.br
 emailtex.com
 emailthe.net
-emailto.de
 emailure.net
 emailvenue.com
 emailwarden.com
@@ -2029,25 +2028,12 @@ ethersports.org
 ethersportz.info
 etlgr.com
 etoic.com
-etr500.cf
-etr500.ga
-etr500.gq
-etr500.ml
-etr500.tk
-etr700.cf
-etr700.ga
-etr700.gq
-etr700.ml
-etr700.tk
 etranquil.com
 etranquil.net
 etranquil.org
 etzdnetx.com
-eu.dns-cloud.net
-eu.dnsabr.com
 euaqa.com
 eur-sec1.tk
-euromail.tk
 ev-mc.ru
 evakuator-teh.ru
 evcmail.com
@@ -2430,7 +2416,6 @@ getstructuredsettlement.com
 gett.icu
 gettempmail.com
 gfcom.com
-gfmail.cf
 gfmail.ga
 gfmail.gq
 gfmail.tk
@@ -2594,7 +2579,6 @@ growlcombine.com
 growshop-moskva.ru
 growth-tools.fr
 grr.la
-gruz-m.ru
 gruz-man.ru
 gsrv.co.uk
 gta-offline.ru
@@ -2656,6 +2640,7 @@ happysinner.co.uk
 happyyou.pw
 haqed.com
 harakirimail.com
+haribu.com
 haribu.net
 hartbot.de
 harvard-ac-uk.tk
@@ -2979,6 +2964,7 @@ inmynetwork.tk
 inoutmail.de
 inretail.ru
 inrim.tk
+inshapeactive.ru
 insta-ground.ru
 instaforex-info.ru
 instafun.men
@@ -3036,7 +3022,6 @@ iphoneaccount.com
 iphonees.info
 iphonex-shop.ru
 ipiranga.dynu.com
-ipizza24.ru
 ipmaximus.ru
 ippandansei.tk
 ipriva.com
@@ -3050,7 +3035,6 @@ iren24.ru
 irina-kusik.ru
 irish2me.com
 irknim.ru
-irobotlab.ru
 iroid.com
 iroirorussia.ru
 ironiebehindert.de
@@ -3096,7 +3080,6 @@ j-keats.tk
 j-p.us
 j.fairuse.org
 jaaj.cf
-jabkagames.ru
 jacckpot.site
 jackymail.top
 jacquelx.com
@@ -3238,7 +3221,7 @@ kad01.cf
 kad01.ga
 kad01.gq
 kad01.ml
-kad02.ml
+kad02.cf
 kadokawa.tk
 kadokawa.top
 kah.pw
@@ -3306,7 +3289,6 @@ kiani.com
 kidstory35.ru
 kikoxltd.com
 killmail.com
-kilton2001.ml
 kim-rikil.ru
 kingmain.ru
 kings-game.ru
@@ -3494,7 +3476,6 @@ lenlinza.ru
 lenovo120s.tk
 lenovog4.com
 lenputrima5494.cf
-leon13.ru
 leonfamily.ru
 lequitywk.com
 lerch.ovh
@@ -3625,9 +3606,7 @@ m.codng.com
 m.convulse.net
 m.nosuchdoma.in
 m.svlp.net
-m3.dns-cloud.net
-m4.dns-cloud.net
-m5.dns-cloud.net
+m2project.xyz
 m8r.davidfuhr.de
 m8r.mcasal.com
 ma-boite-aux-lettres.infos.st
@@ -3963,7 +3942,6 @@ mega-water.ru
 mega.zik.dj
 megatir.ru
 megbaystore.ru
-meinspamschutz.de
 meken.ru
 melitta-remont.ru
 melloskin.ru
@@ -4085,7 +4063,6 @@ mkrecondition.ru
 ml8.ca
 mlo.kr
 mlx.ooo
-mm.8.dnsabr.com
 mm5.se
 mmclobau.top
 mmikal-auvn.ru
@@ -4751,6 +4728,7 @@ p1nhompdgwn.tk
 p33.org
 p71ce1m.com
 pa9e.com
+pabuksat.ml
 pachilly.com
 padanghijau.online
 paddlepanel.com
@@ -4794,6 +4772,7 @@ patronage-365.ru
 patronage-msk.ru
 patronmail.club
 patronmail.icu
+patronmail.online
 patronmail.press
 patronmail.site
 patronmail.space
@@ -4891,7 +4870,6 @@ pischevik24.ru
 pisls.com
 pistoletow-blog.ru
 pitaniezdorovie.ru
-pivo-bar.ru
 pizhama-hotel.ru
 pizzanadiapro.website
 pjjkp.com
@@ -5073,8 +5051,6 @@ puttana.tk
 putthisinyourspamdatabase.com
 pvckomplekt.ru
 pw-mail.tk
-pw.8.dnsabr.com
-pw.email-mail.cf
 pw.epac.to
 pw.r4.dns-cloud.net
 pwp.lv
@@ -5099,6 +5075,7 @@ qeispacesq.com
 qhesnwv.com
 qhstreetr.com
 qiaua.com
+qibl.at
 qiq.us
 qisdo.com
 qisoa.com
@@ -5381,7 +5358,6 @@ rus-oonies.ru
 rusecoflot.ru
 rush.ovh
 ruskovka.ru
-russ-samsung.ru
 russian-elka.ru
 russtavki.ru
 rust-inside.ru
@@ -5576,7 +5552,6 @@ shitmail.gq
 shitmail.me
 shitmail.org
 shitposting.agency
-shittymail.tk
 shitware.nl
 shockmail.win
 shocknewsru.ru
@@ -5721,7 +5696,6 @@ sozdanie-websaita.ru
 sp-market.ru
 sp.woot.at
 spa.com
-spacebazzar.ru
 spacibbacmo.lflink.com
 spam-en.de
 spam-nicht.de
@@ -6121,7 +6095,6 @@ tempymail.com
 ten-invest.ru
 tenesu.tk
 teplobur.ru
-terrapuz.ddns.net
 terrkrasoty.ru
 terrprib.ru
 test.actess.fr
@@ -6393,7 +6366,6 @@ triton-service.ru
 trixtrax1.ru
 trixtrux1.ru
 trobertqs.com
-trock.cf
 trommlergroup.com
 trommleronline.com
 trommlershop.com
@@ -6441,7 +6413,6 @@ tweakly.net
 twinmail.de
 twisty-petz-optom.ru
 twmail.tk
-two-shoes.ru
 two0aks.com
 twocowmail.net
 twosale.ru
@@ -6564,7 +6535,6 @@ uzxia.tk
 v-mail.xyz
 v.jsonp.ro
 v250.cf
-v250.dns-cloud.net
 v250.ga
 v250.gq
 v250.ml
@@ -6657,6 +6627,7 @@ vip.aiot.eu.org
 vip.boxmaill.com
 vip.cool
 vip.dmtc.press
+vip.hstu.eu.org
 vipepe.com
 viphone.eu.org
 viphop.ru
@@ -6766,7 +6737,6 @@ w3internet.co.uk
 w3mailbox.com
 w4i3em6r.com
 w4ms.ga
-w4ms.ml
 w9y9640c.com
 wa010.com
 wadawdawd.ru
@@ -6959,8 +6929,6 @@ x-rugazeta.ru
 x-runovosti.ru
 x-rutochka.ru
 x-vestnik.ru
-x.dc74.cf
-x.dc74.ml
 x.nadazero.net
 x13x13x13.com
 x1cult.ru
@@ -7094,8 +7062,6 @@ yoginyogik.ru
 yolooo.top
 yomail.info
 yood.org
-yop.dns-cloud.net
-yop.dnsabr.com
 yop.emersion.fr
 yop.itram.es
 yop.profmusique.com
@@ -7194,6 +7160,7 @@ zerodog.icu
 zeroknow.ga
 zerotohero-1.com
 zetmail.com
+zeusrisky07.tk
 zezis.ru
 zfymail.com
 zh.ax
