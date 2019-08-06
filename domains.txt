@@ -417,7 +417,6 @@
 2.batikbantul.com
 2.emailfake.ml
 2.kerl.cf
-2.mmspa.cf
 2.safemail.cf
 2.safemail.tk
 2.sexymail.ooo
@@ -468,7 +467,6 @@
 22ov17gzgebhrl.gq
 22ov17gzgebhrl.ml
 22ov17gzgebhrl.tk
-23.8.dnsabr.com
 246hltwog9utrzsfmj.cf
 246hltwog9utrzsfmj.ga
 246hltwog9utrzsfmj.gq
@@ -1354,7 +1352,6 @@
 7wzctlngbx6fawlv.gq
 7wzctlngbx6fawlv.ml
 7wzctlngbx6fawlv.tk
-8.dnsabr.com
 8.thepieter.com
 800sacramento.tk
 806.flu.cc
@@ -2549,7 +2546,6 @@ arysc.ooo
 as.onlysext.com
 as01.cf
 as01.ga
-as01.gq
 as01.ml
 as02.ga
 asahi.cf
@@ -2590,7 +2586,6 @@ ashik2in.com
 ashleyandrew.com
 ashotmail.com
 asia-pasifikacces.com
-asia.dnsabr.com
 asiangangsta.site
 asianmeditations.ru
 asiapmail.club
@@ -2814,10 +2809,6 @@ azxhzkohzjwvt6lcx.ga
 azxhzkohzjwvt6lcx.gq
 azxhzkohzjwvt6lcx.ml
 azxhzkohzjwvt6lcx.tk
-azzurro.cf
-azzurro.ga
-azzurro.gq
-azzurro.ml
 b-sky-b.cf
 b-sky-b.ga
 b-sky-b.gq
@@ -5821,7 +5812,6 @@ email.freecrypt.org
 email.infokehilangan.com
 email.net
 email.pubgm.website
-email.viola.gq
 email.wassusf.online
 email0.cf
 email0.ga
@@ -6169,11 +6159,6 @@ etr500.ga
 etr500.gq
 etr500.ml
 etr500.tk
-etr700.cf
-etr700.ga
-etr700.gq
-etr700.ml
-etr700.tk
 etranquil.com
 etranquil.net
 etranquil.org
@@ -6186,8 +6171,6 @@ etxm.gq
 etzdnetx.com
 eu.dlink.cf
 eu.dlink.gq
-eu.dns-cloud.net
-eu.dnsabr.com
 eu.igg.biz
 eu6genetic.com
 euaqa.com
@@ -7332,9 +7315,7 @@ ghtreihfgh.xyz
 giacmosuaviet.info
 giaiphapmuasam.com
 giallo.cf
-giallo.gq
 giallo.ml
-giallo.tk
 gianna1121.club
 giantmail.de
 giaoisgla35ta.cf
@@ -7442,7 +7423,6 @@ glqbsobn8adzzh.ml
 glqbsobn8adzzh.tk
 glubex.com
 glucosegrin.com
-gm.marrone.cf
 gmai.com
 gmaiil.ml
 gmaiilll.cf
@@ -7654,7 +7634,6 @@ gratislose.de
 gratisneuke.be
 gratosmail.fr.nf
 graur.ru
-gray.grigio.cf
 graymail.ga
 great-host.in
 greattimes.ga
@@ -7677,7 +7656,6 @@ gregorygamel.com
 gregorygamel.net
 grencex.cf
 grepekhyo65hfr.tk
-grey.grigio.cf
 greyjack.com
 grimjjowjager.cf
 grimjjowjager.ga
@@ -8217,7 +8195,6 @@ hitler-adolf.ga
 hitler-adolf.gq
 hitler-adolf.ml
 hitler-adolf.tk
-hitler.dnsabr.com
 hitprice.co
 hix.kr
 hiyrey.cf
@@ -9811,6 +9788,8 @@ kad04.gq
 kad04.ml
 kad11.ga
 kad11.ml
+kad14.ga
+kad15.cf
 kadag.ir
 kademen.com
 kadokawa.cf
@@ -11158,14 +11137,11 @@ m0y1mqvqegwfvnth.ga
 m0y1mqvqegwfvnth.gq
 m0y1mqvqegwfvnth.ml
 m0y1mqvqegwfvnth.tk
-m1.dns-cloud.net
 m1.guardmail.cf
-m2.dns-cloud.net
 m2.guardmail.cf
 m21.cc
 m2project.xyz
 m2r60ff.com
-m3.dns-cloud.net
 m3.guardmail.cf
 m4ilweb.info
 m8gj8lsd0i0jwdno7l.cf
@@ -11341,7 +11317,6 @@ mail1999.ml
 mail1999.tk
 mail1a.de
 mail2.cf
-mail2.dns-cloud.net
 mail2.drama.tw
 mail2.info.tm
 mail2.ntuz.me
@@ -11561,8 +11536,6 @@ mailpick.biz
 mailpm.live
 mailpooch.com
 mailpost.comx.cf
-mailpost.dns-cloud.net
-mailpost.ga
 mailpost.gq
 mailpremium.net
 mailprohub.com
@@ -12147,7 +12120,6 @@ mlq6wylqe3.gq
 mlq6wylqe3.ml
 mlq6wylqe3.tk
 mlx.ooo
-mm.8.dnsabr.com
 mm.my
 mm5.se
 mmail.igg.biz
@@ -12513,7 +12485,6 @@ my-webmail.tk
 my.efxs.ca
 my.longaid.net
 my.safe-mail.gq
-my.viola.gq
 my.vondata.com.ar
 my10minutemail.com
 my365.tw
@@ -14626,8 +14597,6 @@ pw-mail.ga
 pw-mail.gq
 pw-mail.ml
 pw-mail.tk
-pw.8.dnsabr.com
-pw.email-mail.cf
 pw.epac.to
 pw.flu.cc
 pw.igg.biz
@@ -15283,7 +15252,6 @@ renaulttrucks.ml
 renaulttrucks.tk
 rendymail.com
 rengginangred95btw.cf
-renoszrtqw.club
 renovation-building.ru
 renraku.in
 renumax-dealer.ru
@@ -16135,7 +16103,6 @@ seven-shoes.ru
 seven6s.com
 sewafotocopy-xerox.com
 sex.dns-cloud.net
-sex.marrone.cf
 sexboxx.cf
 sexboxx.ga
 sexboxx.gq
@@ -16592,8 +16559,6 @@ spam.coroiu.com
 spam.deluser.net
 spam.dexter0.xyz
 spam.dhsf.net
-spam.dns-cloud.net
-spam.dnsabr.com
 spam.dnsx.xyz
 spam.fassagforpresident.ga
 spam.flu.cc
@@ -16613,7 +16578,6 @@ spam.shep.pw
 spam.su
 spam.trajano.net
 spam.usa.cc
-spam.viola.gq
 spam.visuao.net
 spam.wtf.at
 spam.wulczer.org
@@ -16903,7 +16867,6 @@ storal.co
 storant.co
 store-perfume.ru
 storeamnos.co
-storebero.club
 storebestsale.ru
 storeclsrn.xyz
 storectic.co
@@ -17484,7 +17447,6 @@ temporarymail.ga
 temporarymail.org
 temporarymailaddress.com
 tempr.email
-tempr.email.viola.gq
 tempremail.cf
 tempremail.tk
 tempsky.com
@@ -18710,7 +18672,6 @@ v0domwwkbyzh1vkgz.ml
 v0domwwkbyzh1vkgz.tk
 v21.me.uk
 v250.cf
-v250.dns-cloud.net
 v250.ga
 v250.gq
 v250.ml
@@ -19803,8 +19764,6 @@ x-rugazeta.ru
 x-runovosti.ru
 x-rutochka.ru
 x-vestnik.ru
-x.dc74.cf
-x.dc74.ml
 x.ip6.li
 x.marrone.cf
 x.nadazero.net
@@ -20386,8 +20345,6 @@ yolooo.top
 yomail.info
 yoo.ro
 yood.org
-yop.dns-cloud.net
-yop.dnsabr.com
 yop.email
 yop.emersion.fr
 yop.itram.es
