@@ -249,6 +249,7 @@
 10minut.com.pl
 10minut.xyz
 10minute-email.com
+10minute.cf
 10minutemail.be
 10minutemail.cf
 10minutemail.co.uk
@@ -3457,6 +3458,7 @@ bit-degree.com
 bit-led.ru
 bit2tube.com
 bitatilsec.com
+bitchmail.ga
 bitco-change.ru
 bitcoini-bestchange.ru
 bitconecct.ru
@@ -11939,6 +11941,7 @@ linshiyouxiang.net
 linshuhang.com
 linux.7m.ro
 linuxmail.so
+linuxmail.tk
 linuxpl.eu
 linx.email
 linzacolor.ru
@@ -12256,6 +12259,9 @@ luutrudulieu.net
 luutrudulieu.online
 luv2.us
 lux-building.ru
+luxusmail.gq
+luxusmail.tk
+luxusmail.uk
 luxusroleplay.us
 lvbq5bc1f3eydgfasn.cf
 lvbq5bc1f3eydgfasn.ga
@@ -15087,6 +15093,8 @@ one.pl
 one2mail.info
 onebiginbox.com
 onecitymail.com
+onedaymail.cf
+onedaymail.ga
 onelegalplan.com
 onemail.host
 onemail1.com
