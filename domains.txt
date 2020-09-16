@@ -1409,7 +1409,6 @@
 1game.store
 1gatwickaccommodation.info
 1gdaily-profit.site
-1ghosts.com
 1ghtyu.com
 1gi.info
 1gmail.com
@@ -12752,6 +12751,7 @@ askimpromptu.com
 askingprice.click
 askjennytnow.com
 askjob.asia
+asklexi.com
 askmyfaith.org
 askopindo.com
 askoqopoiweiwe.online
@@ -53449,7 +53449,6 @@ karabukciceksiparisi.xyz
 karabukluyuz.xyz
 karadiners.site
 karam.host
-karamanbasari.com
 karamanbasari.xyz
 karamanrehber.xyz
 karamansoneremlak.com
@@ -69524,6 +69523,7 @@ notdus.xyz
 notebookercenter.info
 notebookware.de
 noteexpress.press
+noteg.xyz
 notelayer.com
 notemaws.site
 noteregales.com
@@ -75857,6 +75857,7 @@ pluskatv.sk
 plusmail.cf
 plusonefactory.com
 plussizecorsets4sale.com
+plussmail.com
 plussreklam.xyz
 plustrak.ga
 plutbild.ru
@@ -81176,6 +81177,7 @@ remusi.ml
 remusi.tk
 remyqneen.com
 remythompsonphotography.com
+remza.net
 renalremission.net
 renault-brasil.club
 renault-duster-online.ru
@@ -85811,7 +85813,6 @@ sendbananas.website
 sendcertifiedletters.com
 sendemail2.com
 senderelasem.tk
-sendermail.info
 sendfree.org
 sendify.email
 sendify.org
