@@ -73484,6 +73484,7 @@ luxusmail.ga
 luxusmail.gq
 luxusmail.ml
 luxusmail.my.id
+luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusmail.xyz
@@ -75243,6 +75244,7 @@ makeplugin.com
 makeracistsafraidagain.com
 makerains.tk
 makerinist.com
+makerkiller.ml
 makersxq.com
 makeshopping.pp.ua
 makesnte.com
@@ -93195,7 +93197,6 @@ playmtv.com
 plaync.top
 plaync.xyz
 playnets.shop
-playnets.site
 playnposm.com
 playon.fun
 playonlinecasino.tech
