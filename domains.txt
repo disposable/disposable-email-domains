@@ -59378,7 +59378,6 @@ icralti.ml
 icralti.tk
 icrr2011symp.pl
 icrrr.org
-icsfinomornasco.it
 icslecture.com
 icsmcoop.com
 icsofcolorado.com
@@ -78587,7 +78586,6 @@ mimpaharpur.ml
 mimpaharpur.tk
 mimpi99.com
 min-group.club
-min-support.ga
 min.burningfish.net
 min.edu.gov
 mina.com
