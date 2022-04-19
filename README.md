@@ -6,7 +6,7 @@ For more informations, please check the [main repository](https://github.com/dis
 
 ---
 
-*If your domain is listed and it's not a domain used for temporary emails please open [an issue](https://github.com/disposable/disposable/issues) on the main repository.*
+*If your domain is listed and it is not a domain used for temporary emails, please open [an issue](https://github.com/disposable/disposable/issues) in the main repository.*
 
 ---
 
