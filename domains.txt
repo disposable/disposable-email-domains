@@ -36137,6 +36137,7 @@ devlw.site
 devlx.site
 devly.site
 devlz.site
+devmeyou.tech
 devmoe.com
 devmongo.com
 devnaught.com
@@ -42265,7 +42266,6 @@ emailtemporanea.com
 emailtemporanea.net
 emailtemporar.ro
 emailtemporario.com.br
-emailtemporl.org
 emailtex.com
 emailthe.net
 emailtmp.com
@@ -68670,6 +68670,7 @@ kicklie.com
 kickmark.com
 kickmarx.net
 kickmature.xyz
+kickme.me
 kickref.ru
 kickskshoes.com
 kickstartbradford.com
@@ -75546,7 +75547,6 @@ luxusmail.ga
 luxusmail.gq
 luxusmail.ml
 luxusmail.my.id
-luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusmail.xyz
@@ -82210,7 +82210,6 @@ mingbocor.ga
 mingbocor.ml
 mingbocor.tk
 minggardentakeaway.com
-minggu.me
 mingmingzizhong.cd
 mingnickta.cf
 mingnickta.gq
@@ -90065,7 +90064,6 @@ nxt.ru
 nxtbroker.com
 nxtickets.com
 nxtjh.com
-nxtseccld.tk
 nxxx.club
 nxy73j.us
 ny-auto-sterilization.com
@@ -104225,7 +104223,6 @@ renewinsidergift.com
 renewitcarsales.com
 renewtechnologyinc.com
 rengginangred95btw.cf
-rengo.tk
 reniku.com
 reninimpressskulk.site
 renklervecizgiler.com
@@ -108550,7 +108547,6 @@ santonicrotone.it
 santorini-holiday.com
 santoriniflyingdress.com
 santorinitoptours.com
-santuy.email
 sanvekhuyenmai.com
 sanvetetre.com
 sanvosport.com
@@ -119574,6 +119570,7 @@ temeculahomecenter.com
 temengaming.com
 temhuv.com
 temiznetwork.xyz
+teml.net
 temmail.xyz
 temmrktg.com
 temp-cloud.net
@@ -133749,10 +133746,6 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
-window.adsbygoogle
-window.dataLayer
-window.livewire
-window.onload
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl
