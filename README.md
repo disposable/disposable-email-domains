@@ -8,6 +8,8 @@ For more informations, please check the [main repository](https://github.com/dis
 
 ---
 
+![GitHub last commit](https://img.shields.io/github/last-commit/disposable/disposable-email-domains?label=Last%20update)
+
 ### Generic lists with all domains
 
 * [TXT](https://disposable.github.io/disposable-email-domains/domains.txt): `https://disposable.github.io/disposable-email-domains/domains.txt`
