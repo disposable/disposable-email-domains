@@ -13545,7 +13545,6 @@ aolinemail.cf
 aolinemail.ga
 aoll.com
 aolmail.pw
-aolmate.com
 aolo.com
 aolopdep.org
 aoltimewarner.cf
@@ -41572,7 +41571,6 @@ emailtemporanea.com
 emailtemporanea.net
 emailtemporar.ro
 emailtemporario.com.br
-emailtemporl.org
 emailtex.com
 emailthe.net
 emailtmp.com
@@ -72352,7 +72350,6 @@ liwa.site
 liwa1-afekis.ru
 liwondenationalpark.com
 lixian8.com
-lixianlinzhang.cn
 lixin1688.net
 lixo.loxot.eu
 liyaxiu.com
@@ -74126,7 +74123,6 @@ luxusmail.ga
 luxusmail.gq
 luxusmail.ml
 luxusmail.my.id
-luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusmail.xyz
@@ -75437,6 +75433,7 @@ mailinbox.ga
 mailinbox.gq
 mailinbox.guru
 mailinbox.ml
+mailinc.tech
 mailincubator.com
 mailindexer.com
 mailinfo8.pro
@@ -80380,7 +80377,6 @@ modabuolsun.xyz
 modachane1borsee.com
 modaequipate.com
 modaiptv.com
-modal-backdrop.show
 modalova.biz
 modalova.online
 modalova.se
@@ -88739,7 +88735,6 @@ oneoffemail.com
 oneoffmail.com
 oneonfka.org.ua
 oneooneproperty.com
-onepack.systems
 onepageaway.live
 onepageaway.org
 onepay.cyou
@@ -110187,7 +110182,6 @@ softgel.biz
 softistic.net
 softistic.org
 softkey-office.ru
-softmail.site
 softmails.info
 softnews.su
 softonics.site
@@ -111116,6 +111110,7 @@ spetsinger.ru
 spfence.net
 spga.de
 spgen.net
+spgmail.tk
 spharell.com
 sphate.ru
 spheresdesign.com
@@ -119374,7 +119369,6 @@ topand.best
 topantop.site
 topar.pro
 toparama.com
-topatudo.tk
 topaz.studio
 topazpro.xyz
 topbabygirl.com
@@ -129861,10 +129855,6 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
-window.adsbygoogle
-window.dataLayer
-window.livewire
-window.onload
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl
