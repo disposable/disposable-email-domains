@@ -11267,6 +11267,7 @@ akma.email
 akmail.com
 akmaila.org
 akmandken.tk
+akmra.com
 aknzr.com
 akoncasino1.com
 akoncasino4.com
@@ -37498,7 +37499,6 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
-document.title
 documentingyellowstone.com
 documentlegalisation.net
 documentstorage4.com
@@ -41581,7 +41581,6 @@ emailtemporanea.com
 emailtemporanea.net
 emailtemporar.ro
 emailtemporario.com.br
-emailtemporl.org
 emailtex.com
 emailthe.net
 emailtmp.com
@@ -74139,7 +74138,6 @@ luxusmail.ga
 luxusmail.gq
 luxusmail.ml
 luxusmail.my.id
-luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusmail.xyz
@@ -75772,6 +75770,7 @@ mailucy.ml
 mailuisa.ml
 mailuniverse.co.uk
 mailur.com
+mailus.ga
 mailusa.tech
 mailusivip.xyz
 mailvat.com
@@ -75923,6 +75922,7 @@ makeplugin.com
 makeracistsafraidagain.com
 makerains.tk
 makerinist.com
+makerkiller.ml
 makersxq.com
 makeshopping.pp.ua
 makesnte.com
@@ -80397,7 +80397,6 @@ modabuolsun.xyz
 modachane1borsee.com
 modaequipate.com
 modaiptv.com
-modal-backdrop.show
 modalova.biz
 modalova.online
 modalova.se
@@ -104674,6 +104673,7 @@ saibaagora.website
 saibis.ru
 saidbetanzos.info
 saidwise.com
+saidytb.ml
 saifix.xyz
 saigoncity-dublin.com
 saigonmaigoinhaubangcung.com
@@ -115661,7 +115661,6 @@ techmoe.asia
 technent.org
 technet.mobi
 technicalchartalerts.com
-technicloud.tech
 technicolor.cf
 technicolor.ga
 technicolor.gq
@@ -123788,7 +123787,6 @@ uptiwin.tk
 upto1.shop
 uptodate.tech
 uptownartsgranburytx.com
-uptownrp.id
 uptrendwindsor.com
 uptuber.info
 upumail.com
@@ -129889,10 +129887,6 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
-window.adsbygoogle
-window.dataLayer
-window.livewire
-window.onload
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl
@@ -134293,7 +134287,6 @@ yetereveoturupkaldim.tk
 yetgo.site
 yetipay.cd
 yetmail.net
-yeumark.ga
 yeuniverse.net
 yeuniverse.org
 yeupmail.cf
