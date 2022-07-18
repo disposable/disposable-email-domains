@@ -25046,7 +25046,6 @@ c-wrench.com
 c.alabamavape.com
 c.andreihusanu.ro
 c.hcac.net
-c.id
 c.kadag.ir
 c.kerl.gq
 c.nut.emailfake.nut.cc
@@ -31390,7 +31389,6 @@ correo.blogos.net
 correofa.ga
 correoparacarlos.ga
 correos-es.site
-correotemporal.org
 correotodo.com
 corrientelatina.net
 corrupt.life
@@ -32602,7 +32600,6 @@ cuabs.info
 cuabs.us
 cuadongplaza.com
 cuaina.com
-cuan.email
 cuanmarket.xyz
 cuantoesta.com
 cuarl.com
@@ -37536,8 +37533,6 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
-document.onreadystatechange
-document.title
 documentingyellowstone.com
 documentlegalisation.net
 documentstorage4.com
@@ -73308,6 +73303,7 @@ lorel.best
 lorencic.ro
 lorenwoka.com
 lorenzidecks.com
+lorientediy.com
 lorimer.co
 lorinhouse.co
 lorotzeliothavershcha.info
@@ -74244,7 +74240,6 @@ luxusmail.ga
 luxusmail.gq
 luxusmail.ml
 luxusmail.my.id
-luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusmail.xyz
@@ -80512,7 +80507,6 @@ modabuolsun.xyz
 modachane1borsee.com
 modaequipate.com
 modaiptv.com
-modal-backdrop.show
 modalova.biz
 modalova.online
 modalova.se
@@ -85237,6 +85231,7 @@ ng9rcmxkhbpnvn4jis.gq
 ng9rcmxkhbpnvn4jis.ml
 ng9rcmxkhbpnvn4jis.tk
 ngab.email
+ngabarin.ga
 ngancuk.online
 ngaydi.xyz
 ngayngo.asia
@@ -86780,7 +86775,6 @@ nstation.space
 nsufllibguides.best
 nsvcb.us
 nsw-flag.info
-nswgovernment.ga
 nswmartialarts.com
 nt6868.org
 ntalecom.net
@@ -130098,10 +130092,6 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
-window.adsbygoogle
-window.dataLayer
-window.livewire
-window.onload
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl
