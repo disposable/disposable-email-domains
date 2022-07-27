@@ -20396,6 +20396,7 @@ biaplunsuc.ga
 biaplunsuc.gq
 biaplunsuc.tk
 biasalah.me
+biasdocore.com
 biazz2.live
 bibars.cloud
 bibbiasary.info
@@ -22882,7 +22883,6 @@ bosch-pkp.online
 boscheasyvac.online
 boscialiquor.com
 bosdal.com
-bosgrit.finance
 bosgrit.tech
 boshuizen.org
 bosi.website
@@ -25054,6 +25054,7 @@ c-wrench.com
 c.alabamavape.com
 c.andreihusanu.ro
 c.hcac.net
+c.id
 c.kadag.ir
 c.kerl.gq
 c.nut.emailfake.nut.cc
@@ -31400,6 +31401,7 @@ correo.blogos.net
 correofa.ga
 correoparacarlos.ga
 correos-es.site
+correotemporal.org
 correotodo.com
 corrientelatina.net
 corrupt.life
@@ -33482,6 +33484,7 @@ dadukiukiu.com
 dae-bam.net
 daedaulusvipinsider.com
 daef.cn
+daegon.tk
 daekano.com
 daelogi.cf
 daelogi.ga
@@ -37546,6 +37549,8 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
+document.onreadystatechange
+document.title
 documentingyellowstone.com
 documentlegalisation.net
 documentstorage4.com
@@ -74268,6 +74273,7 @@ luxusmail.ga
 luxusmail.gq
 luxusmail.ml
 luxusmail.my.id
+luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusmail.xyz
@@ -80541,6 +80547,7 @@ modabuolsun.xyz
 modachane1borsee.com
 modaequipate.com
 modaiptv.com
+modal-backdrop.show
 modalova.biz
 modalova.online
 modalova.se
@@ -84541,6 +84548,7 @@ netbonking.com
 netbookera.com
 netcol.club
 netcom.ws
+netcook.org
 netctrcon.live
 netdisk.life
 netexchangeclient.com
@@ -85267,6 +85275,7 @@ ng9rcmxkhbpnvn4jis.gq
 ng9rcmxkhbpnvn4jis.ml
 ng9rcmxkhbpnvn4jis.tk
 ngab.email
+ngabarin.ga
 ngancuk.online
 ngaydi.xyz
 ngayngo.asia
@@ -108581,6 +108590,7 @@ sighzove.ga
 sighzove.gq
 sighzove.tk
 sigmabestshop.online
+sign-in.social
 sign-up.website
 signal.best
 signal.sale
@@ -117117,6 +117127,7 @@ theadvertisingdesk.com
 theaffiliatepeople.com
 theairfilters.com
 theajmorganfoundation.org
+thealderagency.com
 theallardprize.com
 theallgaiermogensen.com
 theallmightyyes.com
@@ -119892,6 +119903,7 @@ toritorati.com
 torm.xyz
 tormail.net
 tormail.org
+tormails.com
 tornadobet11.net
 tornadobet365.net
 tornbanner.com
@@ -125565,6 +125577,7 @@ veralucia.top
 verarays.info
 veratoiun.ga
 verbee.ru
+verbmanagement.com
 verboseguides.com
 vercameab.cf
 vercameab.ga
@@ -130137,6 +130150,10 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
+window.adsbygoogle
+window.dataLayer
+window.livewire
+window.onload
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl
