@@ -25058,7 +25058,6 @@ c-wrench.com
 c.alabamavape.com
 c.andreihusanu.ro
 c.hcac.net
-c.id
 c.kadag.ir
 c.kerl.gq
 c.nut.emailfake.nut.cc
@@ -29030,6 +29029,7 @@ ckcarpetcare.com
 ckcltd.ru
 ckcmzm.fun
 ckdvjizln.pl
+ckentuckyq.com
 ckfibyvz1nzwqrmp.cf
 ckfibyvz1nzwqrmp.ga
 ckfibyvz1nzwqrmp.gq
@@ -31405,7 +31405,6 @@ correo.blogos.net
 correofa.ga
 correoparacarlos.ga
 correos-es.site
-correotemporal.org
 correotodo.com
 corrientelatina.net
 corrupt.life
@@ -32618,6 +32617,7 @@ cuabs.us
 cuadongplaza.com
 cuaina.com
 cuan.email
+cuanbrothers.com
 cuanmarket.xyz
 cuantoesta.com
 cuarl.com
@@ -33488,7 +33488,6 @@ dadukiukiu.com
 dae-bam.net
 daedaulusvipinsider.com
 daef.cn
-daegon.tk
 daekano.com
 daelogi.cf
 daelogi.ga
@@ -37553,8 +37552,6 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
-document.onreadystatechange
-document.title
 documentingyellowstone.com
 documentlegalisation.net
 documentstorage4.com
@@ -74281,7 +74278,6 @@ luxusmail.ga
 luxusmail.gq
 luxusmail.ml
 luxusmail.my.id
-luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusmail.xyz
@@ -80556,7 +80552,6 @@ modabuolsun.xyz
 modachane1borsee.com
 modaequipate.com
 modaiptv.com
-modal-backdrop.show
 modalova.biz
 modalova.online
 modalova.se
@@ -82500,6 +82495,7 @@ myallgaiermogensen.com
 myallsmiledentals.com
 myalphax.tech
 myamberpharmacy.net
+myandex.ml
 myandroidforum.ru
 myanmar11.com
 myanmar22.com
@@ -99529,6 +99525,7 @@ randizzy.com
 randkiuk.com
 rando-nature.com
 randofficcloth.com
+random-mail.tk
 randomactsofkindness.site
 randomail.io
 randomail.net
@@ -130164,10 +130161,6 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
-window.adsbygoogle
-window.dataLayer
-window.livewire
-window.onload
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl
