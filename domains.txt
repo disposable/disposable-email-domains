@@ -18284,6 +18284,7 @@ bc9827.com
 bc9c.com
 bcamerapeak.info
 bcaoo.com
+bcarriedxl.com
 bcast.store
 bcast.vote
 bcast.ws
@@ -22887,6 +22888,7 @@ bosch-pkp.online
 boscheasyvac.online
 boscialiquor.com
 bosdal.com
+bosgrit.finance
 bosgrit.tech
 boshuizen.org
 bosi.website
@@ -24256,6 +24258,7 @@ burklabs.com
 burleighsociety.org
 burlingtonfancynails.com
 burlingtonxku.com
+burnaby-lougheed.org
 burnacidgerd.com
 burner-email.com
 burner.fund
@@ -24846,6 +24849,7 @@ buzzdomain.com
 buzzedibles.org
 buzzjoint.com
 buzzndaraiangop2wae.buzz
+buzznor.ga
 buzzsaty.com
 buzzsocial.tk
 buzzuoso.com
@@ -25058,6 +25062,7 @@ c-wrench.com
 c.alabamavape.com
 c.andreihusanu.ro
 c.hcac.net
+c.id
 c.kadag.ir
 c.kerl.gq
 c.nut.emailfake.nut.cc
@@ -27984,6 +27989,7 @@ cheetabet12.com
 cheetahcyprus.com
 cheeze25421.com
 cheezoo.com
+cheezy.cf
 chef.asana.biz
 chefbowmeow.com
 chefenmore.com
@@ -31405,6 +31411,7 @@ correo.blogos.net
 correofa.ga
 correoparacarlos.ga
 correos-es.site
+correotemporal.org
 correotodo.com
 corrientelatina.net
 corrupt.life
@@ -32617,7 +32624,6 @@ cuabs.us
 cuadongplaza.com
 cuaina.com
 cuan.email
-cuanbrothers.com
 cuanmarket.xyz
 cuantoesta.com
 cuarl.com
@@ -37552,6 +37558,8 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
+document.onreadystatechange
+document.title
 documentingyellowstone.com
 documentlegalisation.net
 documentstorage4.com
@@ -50040,6 +50048,7 @@ gatewaytube.com
 gath.cd
 gathelabuc.almostmy.com
 gatherenmedia.com
+gati.tech
 gatlisheco.icu
 gatmoka.com
 gatmokka.com
@@ -74278,6 +74287,7 @@ luxusmail.ga
 luxusmail.gq
 luxusmail.ml
 luxusmail.my.id
+luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusmail.xyz
@@ -80552,6 +80562,7 @@ modabuolsun.xyz
 modachane1borsee.com
 modaequipate.com
 modaiptv.com
+modal-backdrop.show
 modalova.biz
 modalova.online
 modalova.se
@@ -82495,7 +82506,6 @@ myallgaiermogensen.com
 myallsmiledentals.com
 myalphax.tech
 myamberpharmacy.net
-myandex.ml
 myandroidforum.ru
 myanmar11.com
 myanmar22.com
@@ -85724,6 +85734,7 @@ nimbponmi.tk
 nimcasa-carsiam.ru
 nimfa.info
 nimiety.xyz
+nimilite.shop
 nimir.org
 nimonti.cf
 nimonti.ga
@@ -87743,6 +87754,7 @@ octagon-projects.org
 octagonn.club
 octalmoltenquasi.site
 octanepistol.com
+octareputation.com
 octetresearch.info
 octobermovo.com
 octolive.xyz
@@ -130161,6 +130173,10 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
+window.adsbygoogle
+window.dataLayer
+window.livewire
+window.onload
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl
