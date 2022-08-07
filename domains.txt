@@ -26614,6 +26614,7 @@ c.gsasearchengineranker.space
 c.gsasearchengineranker.top
 c.gsasearchengineranker.xyz
 c.hcac.net
+c.id
 c.kadag.ir
 c.kerl.gq
 c.mashed.site
@@ -33227,6 +33228,7 @@ correo.blogos.net
 correofa.ga
 correoparacarlos.ga
 correos-es.site
+correotemporal.org
 correotodo.com
 corrientelatina.net
 corrupt.life
@@ -34489,7 +34491,6 @@ cuabs.us
 cuadongplaza.com
 cuaina.com
 cuan.email
-cuanbrothers.com
 cuanmarket.xyz
 cuantoesta.com
 cuarl.com
@@ -39634,6 +39635,8 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
+document.onreadystatechange
+document.title
 documentingyellowstone.com
 documentlegalisation.net
 documentstorage4.com
@@ -42728,7 +42731,6 @@ edukid.online
 edultry.com
 edumaga.com
 edumail.fun
-edume.me
 edunk.com
 eduostia.com
 edupost.pl
@@ -50078,7 +50080,6 @@ food-like-art.com
 food-tribes.com
 food315.xyz
 food4kid.ru
-food4thoughtcuisine.com
 foodbank150.com
 foodbank150.net
 foodblogs.blog
@@ -50118,6 +50119,7 @@ foot-streaming.online
 foot.stream
 footangelsocks.com
 footard.com
+footbal.app
 football-zone.ru
 footballan.ru
 footballsaintsstore.online
@@ -78025,6 +78027,7 @@ luxusmail.ga
 luxusmail.gq
 luxusmail.ml
 luxusmail.my.id
+luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusmail.xyz
@@ -84639,6 +84642,7 @@ modabuolsun.xyz
 modachane1borsee.com
 modaequipate.com
 modaiptv.com
+modal-backdrop.show
 modalova.biz
 modalova.online
 modalova.se
@@ -89562,6 +89566,7 @@ ng9rcmxkhbpnvn4jis.gq
 ng9rcmxkhbpnvn4jis.ml
 ng9rcmxkhbpnvn4jis.tk
 ngab.email
+ngabarin.ga
 ngancuk.online
 ngaydi.xyz
 ngayngo.asia
@@ -109504,7 +109509,6 @@ sabrgist.com
 sabrinawurmbrand.net
 sabrituncer.site
 sabtekarimkhan.com
-sabtu.me
 sabuyjai.info
 sabzshopp.com
 sac-chane1.com
@@ -117263,7 +117267,6 @@ srtnr.org
 srub48.ru
 srubstroy35.ru
 srugiel.eu
-sruputkopine.co
 srv-aple-scr.xyz
 srv31585.seohost.com.pl
 srvais.online
@@ -121390,7 +121393,6 @@ tecampto.tk
 tecbnb.com
 tecemail.top
 tech-guru.site
-tech-mail.cf
 tech-mail.net
 tech-repair-centre.co.uk
 tech-suit.org
@@ -128577,7 +128579,6 @@ ubm.md
 ubmail.com
 ubnqpm.ml
 ubreakfix.net
-ubrut.xyz
 ubsbooks.kiwi
 ubssvlkv.shop
 ubt-uni.info
@@ -135748,6 +135749,7 @@ whatwhat.com
 whatworkscsc.org
 whatyourdoctorwasnttaughtebook.com
 whbhwh.com
+whcosts.com
 whdentalstudio.xyz
 wheatbright.com
 wheatbright.net
@@ -136317,6 +136319,10 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
+window.adsbygoogle
+window.dataLayer
+window.livewire
+window.onload
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl
@@ -141347,6 +141353,7 @@ youcankeepit.info
 youcaresimple.com
 youcefchipshop.com
 youchat.ooo
+youcloudme.tech
 youdealonline.org
 youdoloveme.me
 youfffgo.tk
