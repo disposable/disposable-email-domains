@@ -26616,7 +26616,6 @@ c.gsasearchengineranker.space
 c.gsasearchengineranker.top
 c.gsasearchengineranker.xyz
 c.hcac.net
-c.id
 c.kadag.ir
 c.kerl.gq
 c.mashed.site
@@ -33231,7 +33230,6 @@ correo.blogos.net
 correofa.ga
 correoparacarlos.ga
 correos-es.site
-correotemporal.org
 correotodo.com
 corrientelatina.net
 corrupt.life
@@ -35408,7 +35406,6 @@ dae-bam.net
 daeac.com
 daedaulusvipinsider.com
 daef.cn
-daegon.tk
 daekano.com
 daelogi.cf
 daelogi.ga
@@ -39640,8 +39637,6 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
-document.onreadystatechange
-document.title
 documentingyellowstone.com
 documentlegalisation.net
 documentstorage4.com
@@ -53809,7 +53804,6 @@ ggqfuc.rest
 ggr-supportservices.com
 ggroop.info
 ggrreds.com
-ggsel.ml
 ggstandoff.ru
 ggtoll.com
 ggwest.ru
@@ -54389,6 +54383,7 @@ glamourcow.com
 glampiredesign.com
 glamtagonist.com
 glamurr-club.ru
+glaptopsw.com
 glareinstalmosquito.website
 glaringinfuse.ml
 glasgowmotors.co.uk
@@ -55550,6 +55545,7 @@ googlegarbage.com
 googlegmail.xyz
 googlelogin.online
 googlelogin.site
+googlem.ml
 googlemail.press
 googlemarket.com
 googlesite.org
@@ -66410,6 +66406,7 @@ ithallamineparke.xyz
 ithconbi.ml
 ithconbi.tk
 ithebettsnaps.xyz
+ithostingreview.com
 itibmail.com
 itid.info
 itidata.asia
@@ -78036,7 +78033,6 @@ luxusmail.ga
 luxusmail.gq
 luxusmail.ml
 luxusmail.my.id
-luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusmail.xyz
@@ -84651,7 +84647,6 @@ modabuolsun.xyz
 modachane1borsee.com
 modaequipate.com
 modaiptv.com
-modal-backdrop.show
 modalova.biz
 modalova.online
 modalova.se
@@ -89397,6 +89392,7 @@ newwinterrss.com
 newworimjq.space
 newx6.info
 newyearfreepas.ws
+newyeargreetingcard.com
 newyearnewchance.faith
 newyearsevela.com
 newyork-divorce.org
@@ -133328,6 +133324,7 @@ votingportland07.info
 votiputox.org
 votofeliz.com
 votooe.com
+votorantimemprestimos.org
 votretableaupersonnalise.fr
 vouchergeek.com
 vouchfor.app
@@ -136327,10 +136324,6 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
-window.adsbygoogle
-window.dataLayer
-window.livewire
-window.onload
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl
