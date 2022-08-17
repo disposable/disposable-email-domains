@@ -10859,6 +10859,7 @@ adstabym.ml
 adstabym.tk
 adstra.dev
 adstreet.es
+adsvn.me
 adtalarmsbuffalo.com
 adtemps.org
 adtika.online
@@ -26620,6 +26621,7 @@ c.gsasearchengineranker.space
 c.gsasearchengineranker.top
 c.gsasearchengineranker.xyz
 c.hcac.net
+c.id
 c.kadag.ir
 c.kerl.gq
 c.mashed.site
@@ -33235,6 +33237,7 @@ correo.blogos.net
 correofa.ga
 correoparacarlos.ga
 correos-es.site
+correotemporal.org
 correotodo.com
 corrientelatina.net
 corrupt.life
@@ -34829,6 +34832,7 @@ cuttheropefullfree.com
 cutthrrcpc.space
 cutti.net
 cuttingedgeprospects.com
+cuttlink.me
 cutwoeq.space
 cuuhorobot.info
 cuvkpd.icu
@@ -39643,6 +39647,8 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
+document.onreadystatechange
+document.title
 documentingyellowstone.com
 documentlegalisation.net
 documentstorage4.com
@@ -41825,6 +41831,7 @@ e-trader.live
 e-trend.pl
 e-ulogies.com
 e-vents2009.info
+e-w.live
 e-wawa.pl
 e-zlunchbox.com
 e.amav.ro
@@ -53812,6 +53819,7 @@ ggqfuc.rest
 ggr-supportservices.com
 ggroop.info
 ggrreds.com
+ggsel.ml
 ggstandoff.ru
 ggtoll.com
 ggwest.ru
@@ -58763,7 +58771,6 @@ hc94.net
 hc96.net
 hcac.net
 hcaptcha.online
-hcaptcha.site
 hcathcar.shop
 hccg.net
 hccmail.win
@@ -78045,6 +78052,7 @@ luxusmail.ga
 luxusmail.gq
 luxusmail.ml
 luxusmail.my.id
+luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusmail.xyz
@@ -84659,6 +84667,7 @@ modabuolsun.xyz
 modachane1borsee.com
 modaequipate.com
 modaiptv.com
+modal-backdrop.show
 modalova.biz
 modalova.online
 modalova.se
@@ -89585,7 +89594,6 @@ ng9rcmxkhbpnvn4jis.gq
 ng9rcmxkhbpnvn4jis.ml
 ng9rcmxkhbpnvn4jis.tk
 ngab.email
-ngabarin.ga
 ngancuk.online
 ngaydi.xyz
 ngayngo.asia
@@ -95159,7 +95167,6 @@ owsz.edu.pl
 owwapp.com
 owz83.space
 ox5bk.us
-oxadon.tech
 oxalamid.best
 oxbio.xyz
 oxbridgeeight.com
@@ -103014,6 +103021,7 @@ qnkznwsrwu3.ml
 qnkznwsrwu3.tk
 qnlburied.com
 qnmails.com
+qnorfolkx.com
 qntrvx.xyz
 qnuqgrfujukl2e8kh3o.cf
 qnuqgrfujukl2e8kh3o.ga
@@ -121431,6 +121439,7 @@ tech.madrid
 tech2fly.com
 tech5group.com
 tech69.com
+techale.tk
 techballball.com
 techbike.ru
 techbirb.dev
@@ -136349,6 +136358,10 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
+window.adsbygoogle
+window.dataLayer
+window.livewire
+window.onload
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl
@@ -142680,6 +142693,7 @@ zedeliereo.icu
 zednation.xyz
 zedsoft.net
 zedthei.shop
+zeducation.tech
 zeedcn.site
 zeego.site
 zeelandent.nl
