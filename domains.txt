@@ -5354,6 +5354,7 @@
 53vtbcwxf91gcar.ml
 53vtbcwxf91gcar.tk
 53yahoo.com
+54.mk
 540gmail.com
 54177.monster
 541gmail.com
@@ -26621,7 +26622,6 @@ c.gsasearchengineranker.space
 c.gsasearchengineranker.top
 c.gsasearchengineranker.xyz
 c.hcac.net
-c.id
 c.kadag.ir
 c.kerl.gq
 c.mashed.site
@@ -33237,7 +33237,6 @@ correo.blogos.net
 correofa.ga
 correoparacarlos.ga
 correos-es.site
-correotemporal.org
 correotodo.com
 corrientelatina.net
 corrupt.life
@@ -39647,8 +39646,6 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
-document.onreadystatechange
-document.title
 documentingyellowstone.com
 documentlegalisation.net
 documentstorage4.com
@@ -50402,6 +50399,7 @@ fortwaynehairsalons.com
 fortwayneheroinrehab.com
 fortworthheroinrehab.com
 forty-four-score.com
+fortzelhost.me
 forum-bank.ru
 forum-consumo.org
 forum-diazrp.ru
@@ -73460,6 +73458,7 @@ lakevilleapartments.com
 lakewater.org
 lakeworthfarming.co.uk
 lakexbetpinup.ru
+lakibaba.com
 laklica.com
 lakngin.ga
 lakngin.ml
@@ -78052,7 +78051,6 @@ luxusmail.ga
 luxusmail.gq
 luxusmail.ml
 luxusmail.my.id
-luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusmail.xyz
@@ -81926,6 +81924,7 @@ medhelperssustav.website
 medhelperssustav.xyz
 medi-angel.com
 media-cools.com
+media-greenhouse.com
 media-library.app
 media-maghreb.com
 media-ministry.org
@@ -84667,7 +84666,6 @@ modabuolsun.xyz
 modachane1borsee.com
 modaequipate.com
 modaiptv.com
-modal-backdrop.show
 modalova.biz
 modalova.online
 modalova.se
@@ -95168,6 +95166,7 @@ owwapp.com
 owz83.space
 ox5bk.us
 oxalamid.best
+oxavps.me
 oxbio.xyz
 oxbridgeeight.com
 oxcel.art
@@ -110296,6 +110295,7 @@ san-maria-takeaway.com
 san-marino-nedv.ru
 sana-all.com
 sanaewesthkff.xyz
+sanahalls.com
 sanalada.com
 sanalalem.com
 sanalankara.xyz
@@ -118664,6 +118664,7 @@ studentdaysout.com
 studentdebtheros.com
 studentdonor.org
 studentlendingworks.com
+studentline.tech
 studentloaninterestdeduction.info
 studentloantherapist.com
 studentmail.me
@@ -121439,7 +121440,6 @@ tech.madrid
 tech2fly.com
 tech5group.com
 tech69.com
-techale.tk
 techballball.com
 techbike.ru
 techbirb.dev
@@ -124703,6 +124703,7 @@ tkfkdwlx.com
 tkgmmj.fun
 tkhaetgsf.pl
 tkhmlp.fun
+tkhplanesw.com
 tkijuu.tokyo
 tkitc.de
 tkitchen.online
@@ -135646,6 +135647,7 @@ wewatestg2513.com
 wewintheylose.com
 weworkweplay.org
 wewtmail.com
+wexcc.com
 wexdh.info
 wexdh.ooo
 weyfamily.com
@@ -136358,10 +136360,6 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
-window.adsbygoogle
-window.dataLayer
-window.livewire
-window.onload
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl
@@ -142693,7 +142691,6 @@ zedeliereo.icu
 zednation.xyz
 zedsoft.net
 zedthei.shop
-zeducation.tech
 zeedcn.site
 zeego.site
 zeelandent.nl
