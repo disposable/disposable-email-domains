@@ -5354,7 +5354,6 @@
 53vtbcwxf91gcar.ml
 53vtbcwxf91gcar.tk
 53yahoo.com
-54.mk
 540gmail.com
 54177.monster
 541gmail.com
@@ -9850,6 +9849,7 @@ abimillepattes.com
 abincol.com
 abingtongroup.com
 abirelwardmaternelle.com
+abisheka.cf
 abista.space
 abkacam.xyz
 abkcnjiga.com
@@ -16353,6 +16353,7 @@ asu.su
 asu.wiki
 asuaia.xyz
 asub1.bace.wroclaw.pl
+asubtlejm.com
 asuctp.info
 asuk.com
 asukanet.com
@@ -26622,6 +26623,7 @@ c.gsasearchengineranker.space
 c.gsasearchengineranker.top
 c.gsasearchengineranker.xyz
 c.hcac.net
+c.id
 c.kadag.ir
 c.kerl.gq
 c.mashed.site
@@ -33237,6 +33239,7 @@ correo.blogos.net
 correofa.ga
 correoparacarlos.ga
 correos-es.site
+correotemporal.org
 correotodo.com
 corrientelatina.net
 corrupt.life
@@ -39646,6 +39649,8 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
+document.onreadystatechange
+document.title
 documentingyellowstone.com
 documentlegalisation.net
 documentstorage4.com
@@ -50399,7 +50404,6 @@ fortwaynehairsalons.com
 fortwayneheroinrehab.com
 fortworthheroinrehab.com
 forty-four-score.com
-fortzelhost.me
 forum-bank.ru
 forum-consumo.org
 forum-diazrp.ru
@@ -61256,6 +61260,7 @@ hostingoptim.com
 hostingpagessmallworld.info
 hostingromania.biz
 hostingtheinter.net
+hostjahiztest.tk
 hostkisx.space
 hostlaba.com
 hostlabs.ru
@@ -73458,7 +73463,6 @@ lakevilleapartments.com
 lakewater.org
 lakeworthfarming.co.uk
 lakexbetpinup.ru
-lakibaba.com
 laklica.com
 lakngin.ga
 lakngin.ml
@@ -78051,6 +78055,7 @@ luxusmail.ga
 luxusmail.gq
 luxusmail.ml
 luxusmail.my.id
+luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusmail.xyz
@@ -84666,6 +84671,7 @@ modabuolsun.xyz
 modachane1borsee.com
 modaequipate.com
 modaiptv.com
+modal-backdrop.show
 modalova.biz
 modalova.online
 modalova.se
@@ -90711,6 +90717,7 @@ nootrolovers.site
 nootrolovers.space
 nootropicstackblog.xyz
 nootropicstudy.xyz
+nopalzure.me
 nopecon.org
 nopenopenope.com
 nopethsijezy.ru
@@ -100982,6 +100989,7 @@ privatemusicteacher.com
 privateprofileviewerforinsta.com
 privaterelay.appleid.com
 privatesent.tk
+privboz.email
 privebet7.com
 privebet9.com
 priver.online
@@ -104325,6 +104333,7 @@ ramaninio.ga
 ramaninio.gq
 ramaninio.ml
 ramaninio.tk
+ramarailfans.ga
 ramatrk.site
 ramazan-2012.com
 rambakcor44bwd.ga
@@ -124601,6 +124610,7 @@ titaspaharpur5.tk
 titietnana.com
 titipoker.net
 titipoker.org
+titiriwiki.com
 titkiprokla.tk
 title1program.com
 title1reading.com
@@ -135647,7 +135657,6 @@ wewatestg2513.com
 wewintheylose.com
 weworkweplay.org
 wewtmail.com
-wexcc.com
 wexdh.info
 wexdh.ooo
 weyfamily.com
@@ -136360,6 +136369,10 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
+window.adsbygoogle
+window.dataLayer
+window.livewire
+window.onload
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl
@@ -142511,6 +142524,7 @@ zaragozatoros.es
 zarbelo.ga
 zarbelo.tk
 zard.website
+zareizen.com
 zarhq.com
 zarifdardokuma.xyz
 zarinparvaz.net
