@@ -12203,7 +12203,6 @@ akihiro84.downloadism.top
 akillietkinlik.xyz
 akina.pl
 akinesis.info
-akinozilkree.click
 akinsoftsivas.com
 akiol555.vv.cc
 akiowrertutrrewa.co.tv
@@ -16347,6 +16346,7 @@ astrthelabel.xyz
 astutedesignstudio.com
 astutegames.com
 astxixi.com
+astyx.fun
 asu.mx
 asu.party
 asu.su
@@ -25582,6 +25582,7 @@ bukansarjana.com
 bukatoto.net
 buketeriya.ru
 buketgurmana.ru
+bukhariansiddur.com
 bukkin.com
 bukleti-vizitki.ru
 bukmekerskajakontora.ru
@@ -26623,6 +26624,7 @@ c.gsasearchengineranker.space
 c.gsasearchengineranker.top
 c.gsasearchengineranker.xyz
 c.hcac.net
+c.id
 c.kadag.ir
 c.kerl.gq
 c.mashed.site
@@ -30787,6 +30789,7 @@ ckjmpt.fun
 ckjmyn.fun
 ckjmyp.fun
 ckk59.xyz
+ckkdetails.com
 ckkmkm.fun
 ckkmnh.fun
 ckland.ru
@@ -33239,6 +33242,7 @@ correo.blogos.net
 correofa.ga
 correoparacarlos.ga
 correos-es.site
+correotemporal.org
 correotodo.com
 corrientelatina.net
 corrupt.life
@@ -39648,6 +39652,8 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
+document.onreadystatechange
+document.title
 documentingyellowstone.com
 documentlegalisation.net
 documentstorage4.com
@@ -48922,6 +48928,7 @@ finsilan.gq
 finsilan.tk
 finspirations.com
 finspreads-spread-betting1.com
+finsta.cyou
 fintechistanbul.net
 fintechturkiye.net
 fintechturkiye.org
@@ -66728,7 +66735,6 @@ ixkxirzvu10sybu.gq
 ixkxirzvu10sybu.ml
 ixkxirzvu10sybu.tk
 ixloud.me
-ixsoft.software
 ixtwhjqz4a992xj.cf
 ixtwhjqz4a992xj.ga
 ixtwhjqz4a992xj.gq
@@ -73465,6 +73471,7 @@ lakevilleapartments.com
 lakewater.org
 lakeworthfarming.co.uk
 lakexbetpinup.ru
+lakibaba.com
 laklica.com
 lakngin.ga
 lakngin.ml
@@ -78058,6 +78065,7 @@ luxusmail.ga
 luxusmail.gq
 luxusmail.ml
 luxusmail.my.id
+luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusmail.xyz
@@ -82901,6 +82909,7 @@ mfbh.cf
 mfbog1.site
 mfbunkoj.online
 mfbx.org
+mfctve.shop
 mfdn.ru
 mfgfx.com
 mfghrtdf5bgfhj7hh.tk
@@ -84674,6 +84683,7 @@ modabuolsun.xyz
 modachane1borsee.com
 modaequipate.com
 modaiptv.com
+modal-backdrop.show
 modalova.biz
 modalova.online
 modalova.se
@@ -102501,7 +102511,6 @@ pythoncloud.website
 pythondemy.online
 pywicoo.xyz
 pyxe.com
-pyxl.careers
 pyxyvy.info
 pyymool.com
 pyyzxo.us
@@ -109555,7 +109564,6 @@ sabrgist.com
 sabrinawurmbrand.net
 sabrituncer.site
 sabtekarimkhan.com
-sabtu.me
 sabuyjai.info
 sabzshopp.com
 sac-chane1.com
@@ -121504,7 +121512,6 @@ techmoe.asia
 technent.org
 technet.mobi
 technicalchartalerts.com
-technicloud.tech
 technicolor.cf
 technicolor.ga
 technicolor.gq
@@ -124618,7 +124625,6 @@ titaspaharpur5.tk
 titietnana.com
 titipoker.net
 titipoker.org
-titiriwiki.com
 titkiprokla.tk
 title1program.com
 title1reading.com
@@ -135668,6 +135674,7 @@ wewatestg2513.com
 wewintheylose.com
 weworkweplay.org
 wewtmail.com
+wexcc.com
 wexdh.info
 wexdh.ooo
 weyfamily.com
@@ -136380,6 +136387,10 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
+window.adsbygoogle
+window.dataLayer
+window.livewire
+window.onload
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl
