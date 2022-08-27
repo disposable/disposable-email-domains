@@ -5354,6 +5354,7 @@
 53vtbcwxf91gcar.ml
 53vtbcwxf91gcar.tk
 53yahoo.com
+54.mk
 540gmail.com
 54177.monster
 541gmail.com
@@ -26628,7 +26629,6 @@ c.gsasearchengineranker.space
 c.gsasearchengineranker.top
 c.gsasearchengineranker.xyz
 c.hcac.net
-c.id
 c.kadag.ir
 c.kerl.gq
 c.mashed.site
@@ -33246,7 +33246,6 @@ correo.blogos.net
 correofa.ga
 correoparacarlos.ga
 correos-es.site
-correotemporal.org
 correotodo.com
 corrientelatina.net
 corrupt.life
@@ -39657,8 +39656,6 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
-document.onreadystatechange
-document.title
 documentingyellowstone.com
 documentlegalisation.net
 documentstorage4.com
@@ -40331,7 +40328,6 @@ downgentai.ga
 downgentai.gq
 downgentai.ml
 downgentai.tk
-downgit.tk
 downhillbillies.org
 downlayer.com
 download-hub.cf
@@ -65594,7 +65590,6 @@ inveteracies.best
 invict.ml
 invictawatch.net
 invictus.games
-invictusmy.tk
 invictuswebportalservices.com
 inviersu.com
 invincible-wear.com
@@ -78077,7 +78072,6 @@ luxusmail.ga
 luxusmail.gq
 luxusmail.ml
 luxusmail.my.id
-luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusmail.xyz
@@ -84696,7 +84690,6 @@ modabuolsun.xyz
 modachane1borsee.com
 modaequipate.com
 modaiptv.com
-modal-backdrop.show
 modalova.biz
 modalova.online
 modalova.se
@@ -92734,7 +92727,6 @@ oink8jwx7sgra5dz.ml
 oink8jwx7sgra5dz.tk
 oinkboinku.com
 oinknetworks.com
-oinks.shop
 ointeractive.net
 oinvest.capetown
 oinvest.durban
@@ -107957,7 +107949,6 @@ ronipidp.gq
 ronnierage.net
 ronstasmoove.com
 ronter.com
-rontgateprop.com
 ronthebusnut.com
 ronvfiuj.shop
 roodrc.tk
@@ -109585,6 +109576,7 @@ sabrgist.com
 sabrinawurmbrand.net
 sabrituncer.site
 sabtekarimkhan.com
+sabtu.me
 sabuyjai.info
 sabzshopp.com
 sac-chane1.com
@@ -115830,7 +115822,6 @@ softkey-office.ru
 softmails.info
 softnews.su
 softonics.site
-softonix.software
 softpaws.ru
 softpls.asia
 softportald.tk
@@ -118867,6 +118858,7 @@ subcblognus.ml
 subcblognus.tk
 subccybd.site
 subchina.com
+subema.cf
 subgauge.com
 subgold.ru
 subiri.cf
@@ -124649,6 +124641,7 @@ titaspaharpur5.tk
 titietnana.com
 titipoker.net
 titipoker.org
+titiriwiki.com
 titkiprokla.tk
 title1program.com
 title1reading.com
@@ -136415,10 +136408,6 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
-window.adsbygoogle
-window.dataLayer
-window.livewire
-window.onload
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl
@@ -142753,6 +142742,7 @@ zedeliereo.icu
 zednation.xyz
 zedsoft.net
 zedthei.shop
+zeducation.tech
 zeedcn.site
 zeego.site
 zeelandent.nl
