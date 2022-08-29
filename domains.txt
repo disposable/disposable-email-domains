@@ -408,6 +408,7 @@
 08-life.ru
 08-mir.ru
 08-novosti.ru
+0800br.ml
 08034.monster
 080mail.com
 0815.ru
@@ -12207,7 +12208,6 @@ akihiro84.downloadism.top
 akillietkinlik.xyz
 akina.pl
 akinesis.info
-akinozilkree.click
 akinsoftsivas.com
 akiol555.vv.cc
 akiowrertutrrewa.co.tv
@@ -26630,6 +26630,7 @@ c.gsasearchengineranker.space
 c.gsasearchengineranker.top
 c.gsasearchengineranker.xyz
 c.hcac.net
+c.id
 c.kadag.ir
 c.kerl.gq
 c.mashed.site
@@ -33247,6 +33248,7 @@ correo.blogos.net
 correofa.ga
 correoparacarlos.ga
 correos-es.site
+correotemporal.org
 correotodo.com
 corrientelatina.net
 corrupt.life
@@ -39658,6 +39660,8 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
+document.onreadystatechange
+document.title
 documentingyellowstone.com
 documentlegalisation.net
 documentstorage4.com
@@ -40842,6 +40846,7 @@ driversgood.ru
 driverstorage-bokaxude.tk
 drivesotp7.com
 drivetagdev.com
+drivetomz.com
 drivewayrepairburbank.info
 drivingcars.world
 drivingjobsinindiana.com
@@ -78076,6 +78081,7 @@ luxusmail.ga
 luxusmail.gq
 luxusmail.ml
 luxusmail.my.id
+luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusmail.xyz
@@ -84694,6 +84700,7 @@ modabuolsun.xyz
 modachane1borsee.com
 modaequipate.com
 modaiptv.com
+modal-backdrop.show
 modalova.biz
 modalova.online
 modalova.se
@@ -86025,7 +86032,6 @@ mtbitreatmentclinic.com
 mtbtrailreview.com
 mtc-cloud.tech
 mtcheahaharley.com
-mtcmax.tech
 mtcox.tech
 mtcx.org
 mtcxmail.com
@@ -92732,7 +92738,6 @@ oink8jwx7sgra5dz.ml
 oink8jwx7sgra5dz.tk
 oinkboinku.com
 oinknetworks.com
-oinks.shop
 ointeractive.net
 oinvest.capetown
 oinvest.durban
@@ -113280,7 +113285,6 @@ shipfromto.com
 shiphang.club
 shiphangmy.club
 shiphazmat.org
-shipkom.online
 shipkom.shop
 shipping-regulations.com
 shippingcontainerhousing.org
@@ -136413,6 +136417,10 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
+window.adsbygoogle
+window.dataLayer
+window.livewire
+window.onload
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl
