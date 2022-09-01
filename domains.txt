@@ -408,7 +408,6 @@
 08-life.ru
 08-mir.ru
 08-novosti.ru
-0800br.ml
 08034.monster
 080mail.com
 0815.ru
@@ -14952,7 +14951,6 @@ appsec.link
 appseer.com
 appsforcoins.com
 appsfy.com
-appsmail.me
 appsmail.us
 appstrackr.cd
 apptalker.com
@@ -26634,6 +26632,7 @@ c.gsasearchengineranker.space
 c.gsasearchengineranker.top
 c.gsasearchengineranker.xyz
 c.hcac.net
+c.id
 c.kadag.ir
 c.kerl.gq
 c.mashed.site
@@ -31318,7 +31317,6 @@ clonefb247-net.ga
 clonefb247-net.tk
 clonefbtmc1.club
 cloneforsale.com
-clonemoi.tk
 clonequick.com
 cloneroad.com
 cloneviptmc1.club
@@ -33252,6 +33250,7 @@ correo.blogos.net
 correofa.ga
 correoparacarlos.ga
 correos-es.site
+correotemporal.org
 correotodo.com
 corrientelatina.net
 corrupt.life
@@ -39663,6 +39662,8 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
+document.onreadystatechange
+document.title
 documentingyellowstone.com
 documentlegalisation.net
 documentstorage4.com
@@ -68747,7 +68748,6 @@ josephjasinski.com
 josephmillerdesign.com
 josephsu.com
 josephswingle.com
-joseshdecuis.com
 josethor.drope.ml
 josethouse.co
 josfitrawati410.ga
@@ -73128,6 +73128,7 @@ kz64vewn44jl79zbb.ml
 kz64vewn44jl79zbb.tk
 kz9tev-mail.xyz
 kzbvyq.host
+kzccv.com
 kzcontractors.com
 kzctsgdo.shop
 kzdylr.com
@@ -78086,6 +78087,7 @@ luxusmail.ga
 luxusmail.gq
 luxusmail.ml
 luxusmail.my.id
+luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusmail.xyz
@@ -84704,6 +84706,7 @@ modabuolsun.xyz
 modachane1borsee.com
 modaequipate.com
 modaiptv.com
+modal-backdrop.show
 modalova.biz
 modalova.online
 modalova.se
@@ -96832,6 +96835,7 @@ pdfj.site
 pdfk.site
 pdfl.press
 pdfl.site
+pdfly.in
 pdfm.site
 pdfn.site
 pdfo.online
@@ -102913,6 +102917,7 @@ qinicial.ru
 qinspections.online
 qinth.today
 qiodinlxed.pro
+qiott.com
 qip-file.tk
 qipaomei.com
 qipdcv.icu
@@ -113303,7 +113308,6 @@ shirleyanggraini.art
 shirleybowman.com
 shirleyespinozachiropractic.com
 shirleylogan.com
-shiro.pw
 shiroinime.ga
 shironime.ga
 shironime.ml
@@ -124159,6 +124163,7 @@ ticpire.cf
 ticpire.gq
 ticpire.ml
 ticpire.tk
+tidaktahu.xyz
 tidc.dev
 tide-fillmig.rest
 tideloans.com
@@ -136424,6 +136429,10 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
+window.adsbygoogle
+window.dataLayer
+window.livewire
+window.onload
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl
@@ -137672,6 +137681,7 @@ wusolar.com
 wusrmp.best
 wustl.com
 wuupr.com
+wuuvo.com
 wuvamarket.site
 wuwaqu.info
 wuwnxia.xyz
@@ -141437,6 +141447,7 @@ yotivi.com
 yotmail.com
 yotobet.com
 yotogroup.com
+yotomail.com
 yotq.site
 you-qi.com
 you-shopping.info
@@ -143679,6 +143690,7 @@ zp4.info
 zp5d0a.com
 zpapa.ooo
 zpaperfax.com
+zpapersek.com
 zpayhub2.com
 zpcaf8dhq.pl
 zpcdgm.us
