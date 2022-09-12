@@ -12787,6 +12787,7 @@ aliwegwpvd.gq
 aliwegwpvd.ml
 aliwegwpvd.tk
 aliwhite.top
+alixasac.workers.dev
 aliyandex.ru
 aliyubillionsblog.com
 aliyummail.cf
@@ -26636,6 +26637,7 @@ c.gsasearchengineranker.space
 c.gsasearchengineranker.top
 c.gsasearchengineranker.xyz
 c.hcac.net
+c.id
 c.kadag.ir
 c.kerl.gq
 c.mashed.site
@@ -30630,7 +30632,6 @@ ciromarina.net
 cirrushdsite.com
 cirrusvillage.com
 cirugiaestetica10.com
-cisadane.tech
 cishanghaimassage.com
 cispikt.ru
 cists.site
@@ -33258,6 +33259,7 @@ correo.blogos.net
 correofa.ga
 correoparacarlos.ga
 correos-es.site
+correotemporal.org
 correotodo.com
 corrientelatina.net
 corrupt.life
@@ -35436,6 +35438,7 @@ dae-bam.net
 daeac.com
 daedaulusvipinsider.com
 daef.cn
+daegon.tk
 daekano.com
 daelogi.cf
 daelogi.ga
@@ -37848,7 +37851,6 @@ dfiles.online
 dfind.online
 dfjunkmail.co.uk
 dfkdkdmfsd.com
-dfllbaseball.com
 dfmdsdfnd.com
 dfmjvd.com
 dfmstaging.com
@@ -39671,6 +39673,8 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
+document.onreadystatechange
+document.title
 documentingyellowstone.com
 documentlegalisation.net
 documentstorage4.com
@@ -50678,7 +50682,6 @@ fractalt.com
 fractalvisual.com
 fractionalapartmentsflorence.com
 fraddyz.ru
-fragilenet.com
 fragiletime.org
 fragolina2.tk
 fragranceplanet.com
@@ -63179,7 +63182,6 @@ icinki.ga
 icinki.ml
 icinki.tk
 icionjoue.com
-icircearth.com
 icj3e.us
 icjmc.org
 ick0h.site
@@ -78103,6 +78105,7 @@ luxusmail.ga
 luxusmail.gq
 luxusmail.ml
 luxusmail.my.id
+luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusmail.xyz
@@ -85167,6 +85170,7 @@ monot.xyz
 monotheism.net
 monotv.store
 monporn.net
+monqerz.com
 monroeelderlawgroup.com
 monsaftey.com
 monsait.com
@@ -90312,6 +90316,7 @@ nkqmwg.fun
 nkqmyl.fun
 nkrozy9wr2snrcj.xyz
 nkshdkjshtri24pp.ml
+nktechnical.tech
 nktltpoeroe.cf
 nktwhg.com
 nkvtkioz.pl
@@ -111877,6 +111882,7 @@ seguridadinformatica.ninja
 seguro.bet
 seguros.agency
 segwrgna.shop
+sehatalami.click
 sehitkamilbelediyespor.xyz
 sehnqv.info
 seibersbach.net
@@ -118613,6 +118619,7 @@ strenmail.tk
 strep.ml
 stresser.store
 stresser.tk
+stresspc.com
 stressylglf.email
 stricapticadore.com
 strictddwxs.email
@@ -136459,6 +136466,10 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
+window.adsbygoogle
+window.dataLayer
+window.livewire
+window.onload
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl
