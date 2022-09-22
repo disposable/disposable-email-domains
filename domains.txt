@@ -12789,6 +12789,7 @@ aliwegwpvd.gq
 aliwegwpvd.ml
 aliwegwpvd.tk
 aliwhite.top
+alixasac.workers.dev
 aliyandex.ru
 aliyubillionsblog.com
 aliyummail.cf
@@ -17874,6 +17875,7 @@ b.polosburberry.com
 b.reed.to
 b.royal-syrup.tk
 b.smelly.cc
+b.teemail.in
 b.uhdtv.website
 b.virtualmail.website
 b.waterpurifier.club
@@ -26646,6 +26648,7 @@ c.gsasearchengineranker.space
 c.gsasearchengineranker.top
 c.gsasearchengineranker.xyz
 c.hcac.net
+c.id
 c.kadag.ir
 c.kerl.gq
 c.mashed.site
@@ -33269,6 +33272,7 @@ correo.blogos.net
 correofa.ga
 correoparacarlos.ga
 correos-es.site
+correotemporal.org
 correotodo.com
 corrientelatina.net
 corrupt.life
@@ -39685,6 +39689,8 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
+document.onreadystatechange
+document.title
 documentingyellowstone.com
 documentlegalisation.net
 documentstorage4.com
@@ -50696,6 +50702,7 @@ fractalt.com
 fractalvisual.com
 fractionalapartmentsflorence.com
 fraddyz.ru
+fragilenet.com
 fragiletime.org
 fragolina2.tk
 fragranceplanet.com
@@ -78126,6 +78133,7 @@ luxusmail.ga
 luxusmail.gq
 luxusmail.ml
 luxusmail.my.id
+luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusmail.xyz
@@ -136496,6 +136504,10 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
+window.adsbygoogle
+window.dataLayer
+window.livewire
+window.onload
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl
