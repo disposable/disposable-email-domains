@@ -12789,7 +12789,6 @@ aliwegwpvd.gq
 aliwegwpvd.ml
 aliwegwpvd.tk
 aliwhite.top
-alixasac.workers.dev
 aliyandex.ru
 aliyubillionsblog.com
 aliyummail.cf
@@ -14955,6 +14954,7 @@ appsec.link
 appseer.com
 appsforcoins.com
 appsfy.com
+appsmail.me
 appsmail.tech
 appsmail.us
 appstrackr.cd
@@ -26648,7 +26648,6 @@ c.gsasearchengineranker.space
 c.gsasearchengineranker.top
 c.gsasearchengineranker.xyz
 c.hcac.net
-c.id
 c.kadag.ir
 c.kerl.gq
 c.mashed.site
@@ -33272,7 +33271,6 @@ correo.blogos.net
 correofa.ga
 correoparacarlos.ga
 correos-es.site
-correotemporal.org
 correotodo.com
 corrientelatina.net
 corrupt.life
@@ -35085,6 +35083,7 @@ cyclecrm.com
 cycledynamicexert.site
 cycleflo.xyz
 cyclejudg.recipes
+cyclelove.cc
 cycletrailsnelson.com
 cyclingcopywriter.com
 cyclingshop.live
@@ -39689,8 +39688,6 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
-document.onreadystatechange
-document.title
 documentingyellowstone.com
 documentlegalisation.net
 documentstorage4.com
@@ -44668,6 +44665,7 @@ eodfku.info
 eodocmdrof.com
 eoemail.com
 eoffice.top
+eogaf.com
 eoinbalara.com
 eojiu1.site
 eol.digital
@@ -70188,6 +70186,7 @@ kaskuslive.com
 kasmabirader.com
 kasmail.com
 kasmirkebabhouse.com
+kaspar.lol
 kaspecism.site
 kasper.uni.me
 kaspop.com
@@ -78133,7 +78132,6 @@ luxusmail.ga
 luxusmail.gq
 luxusmail.ml
 luxusmail.my.id
-luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusmail.xyz
@@ -111818,6 +111816,7 @@ securesystems-corp.gq
 securesystems-corp.ml
 securesystems-corp.tk
 securetel-big.tel
+securethering.com
 securiblog.com
 security7.online
 securitybyprotek.com
@@ -136504,10 +136503,6 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
-window.adsbygoogle
-window.dataLayer
-window.livewire
-window.onload
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl
