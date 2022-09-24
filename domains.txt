@@ -5720,6 +5720,7 @@
 5kife.us
 5kino.ru
 5kmklh82yh72tk0.xyz
+5kratom.com
 5kzdxs.com
 5l3jh.us
 5ljkf.icu
@@ -23318,6 +23319,7 @@ bluebottle.com
 bluecherry.xyz
 bluechipinvestments.com
 bluecitynews.com
+bluecny.com
 blueco.top
 bluecollarguitarpickupsonline.com
 bluecoreshorties.com
@@ -39688,6 +39690,8 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
+document.onreadystatechange
+document.title
 documentingyellowstone.com
 documentlegalisation.net
 documentstorage4.com
@@ -50197,6 +50201,7 @@ footbcharlea.cf
 footbcharlea.ga
 footbcharlea.tk
 footcareshop.life
+footfown.store
 foothardnfes.cf
 foothardnfes.ga
 foothardnfes.gq
@@ -78132,6 +78137,7 @@ luxusmail.ga
 luxusmail.gq
 luxusmail.ml
 luxusmail.my.id
+luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusmail.xyz
@@ -106781,6 +106787,7 @@ rezato.com
 rezaz.live
 rezendeco.com
 rezepi.info
+rezgan.com
 rezistyle.com
 rezkavideo.ru
 reznickabasta.com
@@ -111149,6 +111156,7 @@ schalfpricedlisting.com
 schalfpricedlistings.com
 schaufell.pl
 schaumburgofficecleaning.com
+schdpst.com
 scheduleer.com
 schema.report
 schi-zo.de
@@ -136503,6 +136511,10 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
+window.adsbygoogle
+window.dataLayer
+window.livewire
+window.onload
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl
