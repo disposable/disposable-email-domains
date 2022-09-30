@@ -12840,6 +12840,7 @@ aliwegwpvd.gq
 aliwegwpvd.ml
 aliwegwpvd.tk
 aliwhite.top
+alixasac.workers.dev
 aliyandex.ru
 aliyubillionsblog.com
 aliyummail.cf
@@ -23446,6 +23447,7 @@ bluebottle.com
 bluecherry.xyz
 bluechipinvestments.com
 bluecitynews.com
+bluecny.com
 blueco.top
 bluecollarguitarpickupsonline.com
 bluecoreshorties.com
@@ -26812,6 +26814,7 @@ c.gsasearchengineranker.space
 c.gsasearchengineranker.top
 c.gsasearchengineranker.xyz
 c.hcac.net
+c.id
 c.kadag.ir
 c.kerl.gq
 c.mashed.site
@@ -27711,6 +27714,7 @@ canvasshoeswholesalestoress.info
 canvastailoring.com
 canvii.com
 canwest.net
+canyona.com
 canyonrimhoneybees.com
 canyouhearmenow.cf
 canytimes.com
@@ -30927,6 +30931,7 @@ civic-link.org
 civicinnovation.institute
 civicviz.com
 cividuato.site
+civikli.com
 civilengineertop.com
 civilium.com
 civilius.xyz
@@ -33491,6 +33496,7 @@ correoparacarlos.ga
 correoparacarlos.ml
 correoparacarlos.tk
 correos-es.site
+correotemporal.org
 correotodo.com
 corrientelatina.net
 corrupt.life
@@ -39959,6 +39965,8 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
+document.onreadystatechange
+document.title
 documentingyellowstone.com
 documentlegalisation.net
 documentstorage4.com
@@ -62658,6 +62666,7 @@ hulaboola.com
 hulafa.info
 hulalgea.online
 hulapla.de
+hulas.co
 hulasen10.xyz
 hulasen14.xyz
 hulasen16.xyz
@@ -66672,6 +66681,7 @@ ishop2k.com
 ishoppress.com
 ishqpakeezah.website
 ishuhome.com
+ishyp.com
 isi-group.ru
 isi-tube.com
 isig.cd
@@ -78667,6 +78677,7 @@ lustrapay.org
 lutcha.africa
 luteous.site
 lutherhild.ga
+lutota.com
 luucartones.xyz
 luutrudulieu.net
 luutrudulieu.online
@@ -78721,6 +78732,7 @@ luxusmail.ga
 luxusmail.gq
 luxusmail.ml
 luxusmail.my.id
+luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusmail.xyz
@@ -80362,6 +80374,7 @@ mailsac.tk
 mailsadf.com
 mailsadf.net
 mailsall.com
+mailsaviors.com
 mailscdn.com
 mailschain.com
 mailscheap.us
@@ -89830,6 +89843,7 @@ nevernameless.com
 neverneverland.ru
 nevernverfsa.org.ua
 neverthisqq.org.ua
+neverthought.lol
 nevertmail.cf
 nevertoolate.org.ua
 neverttasd.org.ua
@@ -102758,6 +102772,7 @@ ptxaez.us
 ptyuch.ru
 ptzprint.ru
 puabezwzj.shop
+puan.tech
 puanghli.com
 puapickuptricksfanboy.com
 puaqbqpru.pl
@@ -104100,6 +104115,7 @@ qs2k.com
 qs34.com
 qsb5.us
 qsc95.com
+qscreated.com
 qsdqsdqd.com
 qsdt.com
 qseminarb.com
@@ -137723,6 +137739,10 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
+window.adsbygoogle
+window.dataLayer
+window.livewire
+window.onload
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl
