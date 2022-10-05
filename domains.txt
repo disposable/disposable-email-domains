@@ -12840,7 +12840,6 @@ aliwegwpvd.gq
 aliwegwpvd.ml
 aliwegwpvd.tk
 aliwhite.top
-alixasac.workers.dev
 aliyandex.ru
 aliyubillionsblog.com
 aliyummail.cf
@@ -23448,7 +23447,6 @@ bluebottle.com
 bluecherry.xyz
 bluechipinvestments.com
 bluecitynews.com
-bluecny.com
 blueco.top
 bluecollarguitarpickupsonline.com
 bluecoreshorties.com
@@ -26816,7 +26814,6 @@ c.gsasearchengineranker.space
 c.gsasearchengineranker.top
 c.gsasearchengineranker.xyz
 c.hcac.net
-c.id
 c.kadag.ir
 c.kerl.gq
 c.mashed.site
@@ -33499,7 +33496,6 @@ correoparacarlos.ga
 correoparacarlos.ml
 correoparacarlos.tk
 correos-es.site
-correotemporal.org
 correotodo.com
 corrientelatina.net
 corrupt.life
@@ -39969,8 +39965,6 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
-document.onreadystatechange
-document.title
 documentingyellowstone.com
 documentlegalisation.net
 documentstorage4.com
@@ -44199,6 +44193,7 @@ emailket.online
 emailkg.com
 emailkjff.com
 emailko.in
+emailkoe.co
 emailkoe.com
 emailkoe.xyz
 emaill.host
@@ -72489,6 +72484,7 @@ kobzitroma.website
 kocaeliesnafrehberi.xyz
 kocaelihapkido.com
 kocavalikan.tk
+koceng.social
 koch.ml
 kocheme.com
 kochen24.de
@@ -78737,7 +78733,6 @@ luxusmail.ga
 luxusmail.gq
 luxusmail.ml
 luxusmail.my.id
-luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusmail.xyz
@@ -88283,6 +88278,7 @@ myvk.tk
 myvtools.com
 mywallets.ru
 mywarnernet.net
+mywayzs.com
 mywdn2.us
 mywebsitesecure.com
 mywegolo.com
@@ -137753,10 +137749,6 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
-window.adsbygoogle
-window.dataLayer
-window.livewire
-window.onload
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl
