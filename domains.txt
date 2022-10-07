@@ -12837,6 +12837,7 @@ aliwegwpvd.gq
 aliwegwpvd.ml
 aliwegwpvd.tk
 aliwhite.top
+alixasac.workers.dev
 aliyandex.ru
 aliyubillionsblog.com
 aliyummail.cf
@@ -26812,6 +26813,7 @@ c.gsasearchengineranker.space
 c.gsasearchengineranker.top
 c.gsasearchengineranker.xyz
 c.hcac.net
+c.id
 c.kadag.ir
 c.kerl.gq
 c.mashed.site
@@ -33494,6 +33496,7 @@ correoparacarlos.ga
 correoparacarlos.ml
 correoparacarlos.tk
 correos-es.site
+correotemporal.org
 correotodo.com
 corrientelatina.net
 corrupt.life
@@ -39963,6 +39966,8 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
+document.onreadystatechange
+document.title
 documentingyellowstone.com
 documentlegalisation.net
 documentstorage4.com
@@ -44190,7 +44195,6 @@ emailket.online
 emailkg.com
 emailkjff.com
 emailko.in
-emailkoe.co
 emailkoe.com
 emailkoe.xyz
 emaill.host
@@ -48360,6 +48364,7 @@ fegdemye.ru
 fehuje.ru
 feibet.com
 feic.icu
+feidnepra.com
 feieda.com
 feifan123.com
 feifeijiasuqi.org
@@ -62786,6 +62791,7 @@ hungary-choco-late.club
 hungaryhotels.info
 hungchanyu.com
 hungclone.xyz
+hungeral.com
 hunghair.com
 hunghuka.com
 hungly.xyz
@@ -78732,6 +78738,7 @@ luxusmail.ga
 luxusmail.gq
 luxusmail.ml
 luxusmail.my.id
+luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusmail.xyz
@@ -94073,6 +94080,7 @@ omfh.net
 omgameshop.com
 omgdelights.com
 omgdodedo.com
+omggreatfoods.com
 omheightsy.com
 omhungty.com
 omi4.net
@@ -137745,6 +137753,10 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
+window.adsbygoogle
+window.dataLayer
+window.livewire
+window.onload
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl
@@ -141813,7 +141825,6 @@ yahooo.xyz
 yahooproduct.com
 yahooproduct.net
 yahoosportstab.com
-yahoots.com
 yahooweb.co
 yahoox.de
 yahooz.com
