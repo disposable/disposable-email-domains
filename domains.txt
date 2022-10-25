@@ -12841,6 +12841,7 @@ aliwegwpvd.gq
 aliwegwpvd.ml
 aliwegwpvd.tk
 aliwhite.top
+alixasac.workers.dev
 aliyandex.ru
 aliyubillionsblog.com
 aliyummail.cf
@@ -26823,6 +26824,7 @@ c.gsasearchengineranker.space
 c.gsasearchengineranker.top
 c.gsasearchengineranker.xyz
 c.hcac.net
+c.id
 c.kadag.ir
 c.kerl.gq
 c.mashed.site
@@ -33507,6 +33509,7 @@ correoparacarlos.ga
 correoparacarlos.ml
 correoparacarlos.tk
 correos-es.site
+correotemporal.org
 correotodo.com
 corrientelatina.net
 corrupt.life
@@ -39979,6 +39982,8 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
+document.onreadystatechange
+document.title
 documentingyellowstone.com
 documentlegalisation.net
 documentstorage4.com
@@ -78772,6 +78777,7 @@ luxusmail.ga
 luxusmail.gq
 luxusmail.ml
 luxusmail.my.id
+luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusmail.xyz
@@ -80229,7 +80235,6 @@ mailksders.com
 mailku.live
 mailkuatjku2.ga
 mailkutusu.site
-maill.dev
 maillak.com
 maillang.com
 maillap.com
@@ -89058,6 +89063,7 @@ navoff.com
 navyfederaill.org
 navyhodnye.ru
 navyrizkytavania.art
+nawa.lol
 nawe-videohd.ru
 nawforum.ru
 nawideti.ru
@@ -104715,6 +104721,7 @@ qwpofqpoweipoqw.tk
 qwqrwsf.date
 qwrezasw.com
 qwrfssdweq.com
+qws.lol
 qwsa.ga
 qwtof1c6gewti.cf
 qwtof1c6gewti.ga
@@ -119027,7 +119034,6 @@ startuup.co
 startwithone.ga
 startxters.online
 startymedia.com
-starux.de
 starvalley.homes
 starvalleyequipmentrental.com
 starvalleyranchrvpark.com
@@ -137805,6 +137811,10 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
+window.adsbygoogle
+window.dataLayer
+window.livewire
+window.onload
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl
