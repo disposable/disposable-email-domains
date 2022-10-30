@@ -12842,6 +12842,7 @@ aliwegwpvd.gq
 aliwegwpvd.ml
 aliwegwpvd.tk
 aliwhite.top
+alixasac.workers.dev
 aliyandex.ru
 aliyubillionsblog.com
 aliyummail.cf
@@ -15349,7 +15350,6 @@ areacomms.com
 aread.shop
 areadieselmodule.com
 arealzestforlife.com
-areamoney.us
 areannuitiesforme.com
 arearugsdeals.com
 areasevenvision.com
@@ -23454,6 +23454,7 @@ bluebottle.com
 bluecherry.xyz
 bluechipinvestments.com
 bluecitynews.com
+bluecny.com
 blueco.top
 bluecollarguitarpickupsonline.com
 bluecoreshorties.com
@@ -24233,6 +24234,7 @@ bookov.com
 bookp.site
 bookpinyin.app
 bookpinyin.com
+bookprogram.us
 bookq.site
 bookquoter.com
 bookreviewessay.com
@@ -26825,6 +26827,7 @@ c.gsasearchengineranker.space
 c.gsasearchengineranker.top
 c.gsasearchengineranker.xyz
 c.hcac.net
+c.id
 c.kadag.ir
 c.kerl.gq
 c.mashed.site
@@ -33509,6 +33512,7 @@ correoparacarlos.ga
 correoparacarlos.ml
 correoparacarlos.tk
 correos-es.site
+correotemporal.org
 correotodo.com
 corrientelatina.net
 corrupt.life
@@ -33671,6 +33675,7 @@ countryofearth.foundation
 countrypub.com
 countryroadsbaseball.org
 countrysong.ru
+countrystudent.us
 countryyfinancial.com
 coupandev.shop
 coupdefoudre.immo
@@ -39981,6 +39986,8 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
+document.onreadystatechange
+document.title
 documentingyellowstone.com
 documentlegalisation.net
 documentstorage4.com
@@ -42054,7 +42061,6 @@ dzalaev-advokat.ru
 dzank.cn
 dzavnvqr.shop
 dzddouvgi.shop
-dzeminzudh.ga
 dzep.tk
 dzeucq.com
 dzewa6nnvt9fte.cf
@@ -43150,7 +43156,6 @@ eeifi.site
 eeinduo.site
 eeiv.com
 eek.codes
-eek.rocks
 eeligib.shop
 eellee.org
 eelmail.com
@@ -44214,9 +44219,9 @@ emailket.online
 emailkg.com
 emailkjff.com
 emailko.in
+emailkoe.co
 emailkoe.com
 emailkoe.xyz
-emaill.app
 emaill.host
 emaill.webcam
 emaillab.xyz
@@ -53661,7 +53666,6 @@ genf20plus.com
 genf20review1.com
 gengencharities.net
 gengencharties.net
-gengkapak.ml
 gengxinji.com
 gengzei.club
 genicraft.ru
@@ -66430,7 +66434,6 @@ iptvcccam.club
 iptvmaximum.online
 iptvpro.host
 iptvservice.info
-ipuajnglop.ga
 ipuccidresses.com
 ipukta.site
 ipuyallup.com
@@ -73082,6 +73085,7 @@ kre8ivelance.com
 kreacja.info
 kreacjainfo.net
 kreasianakkampoeng.com
+kreatifku.click
 kreativsad.ru
 kreatoracademy.asia
 kreatorzyiimprez.pl
@@ -78782,6 +78786,7 @@ luxusmail.ga
 luxusmail.gq
 luxusmail.ml
 luxusmail.my.id
+luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusmail.xyz
@@ -79275,7 +79280,6 @@ madaboutpawsuk.com
 madagaskar-nedv.ru
 madam37.ru
 madameemploi.cd
-madangteros.live
 madarinorientalcondos.com
 madasioil.com
 madberry.org
@@ -88707,7 +88711,6 @@ nam4.org
 nam6.org
 namag3m.com
 namail.com
-namakamu.tech
 namakuirfan.com
 namaquanationalpark.com
 namardc.cd
@@ -112291,7 +112294,6 @@ scratchy.tk
 screalian.site
 screamfused.com
 screamingfist.xyz
-screebie.com
 screechcontrol.com
 screen-img.com
 screen2.site
@@ -114546,6 +114548,7 @@ shophuge.com
 shopicron.com
 shopifypurs.online
 shopifypurs.shop
+shopiil.store
 shopikcentr.ru
 shopikss.fun
 shopilingo.xyz
@@ -116980,7 +116983,6 @@ soeo4am81j.tk
 soeveryonecangame.info
 sofaoceco.pl
 sofia.re
-sofia123.club
 sofialenaliving.com
 sofian.website
 sofiarae.com
@@ -123536,6 +123538,7 @@ terrkrasoty.ru
 terroni-per-salvini.it
 terrorcmll.space
 terrorisiertest.ml
+terrorqb.com
 terrprib.ru
 terryjohnson.online
 terrykelley.com
@@ -129192,6 +129195,7 @@ tutrazdeldobra.xyz
 tutrme.net
 tutsimer.space
 tutsport.ru
+tutul.ga
 tutushop.com
 tutusweetshop.com
 tutye.com
@@ -135258,6 +135262,7 @@ vuylkan.com
 vuylu5.host
 vuyulryu.xyz
 vuzimir.cf
+vuzxwwptpy.ga
 vv18269.com
 vv3b.icu
 vv7665.com
@@ -137825,6 +137830,10 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
+window.adsbygoogle
+window.dataLayer
+window.livewire
+window.onload
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl
