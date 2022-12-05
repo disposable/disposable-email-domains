@@ -12844,6 +12844,7 @@ aliwegwpvd.gq
 aliwegwpvd.ml
 aliwegwpvd.tk
 aliwhite.top
+alixasac.workers.dev
 aliyandex.ru
 aliyubillionsblog.com
 aliyummail.cf
@@ -23466,6 +23467,7 @@ bluebottle.com
 bluecherry.xyz
 bluechipinvestments.com
 bluecitynews.com
+bluecny.com
 blueco.top
 bluecollarguitarpickupsonline.com
 bluecoreshorties.com
@@ -24317,6 +24319,7 @@ bookv.site
 bookvirusz.com
 bookw.site
 bookwithgeorge.com
+bookwork.us
 bookworm.site
 bookwrt.com
 bookx.site
@@ -26841,6 +26844,7 @@ c.gsasearchengineranker.space
 c.gsasearchengineranker.top
 c.gsasearchengineranker.xyz
 c.hcac.net
+c.id
 c.kadag.ir
 c.kerl.gq
 c.mashed.site
@@ -33532,6 +33536,7 @@ correoparacarlos.ga
 correoparacarlos.ml
 correoparacarlos.tk
 correos-es.site
+correotemporal.org
 correotodo.com
 corrientelatina.net
 corrupt.life
@@ -40014,6 +40019,8 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
+document.onreadystatechange
+document.title
 documentingyellowstone.com
 documentlegalisation.net
 documentstorage4.com
@@ -51663,6 +51670,7 @@ freshflowersindoorplantscheap.net
 freshguru.ru
 freshkeys.ru
 freshkiwi.ru
+freshline.store
 freshly.cloud
 freshmail.com
 freshmania24.ru
@@ -52085,6 +52093,7 @@ fullfilmizle2.com
 fullframedesign.com
 fullhds.com
 fullhomepacks.info
+fulljob.store
 fulll.stream
 fullmovie.shop
 fullmoviesonline.space
@@ -62405,6 +62414,7 @@ hpc-edge.com
 hpc.tw
 hpd7.cf
 hpfem.com
+hphasesw.com
 hpif.com
 hpiinspectionservices.com
 hpkgrimbsytakeaway.com
@@ -78874,6 +78884,7 @@ luxusmail.ga
 luxusmail.gq
 luxusmail.ml
 luxusmail.my.id
+luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusmail.xyz
@@ -86072,7 +86083,6 @@ monthlyoportynity.com
 monthlypill.com
 monthlyseopackage.com
 monthsleading.com
-monthsystem.us
 montiardxd.space
 montigo.cd
 montokop.pw
@@ -100900,7 +100910,6 @@ popunder.biz
 popuptvs.net
 popuza.net
 poq9sm.us
-poqwfopqwiepoqwe.ga
 poqwnfpoqwopqweiqwe.ga
 poradcamaklera.sk
 porarriba.com
@@ -104741,7 +104750,6 @@ qunke.cd
 quodro.com
 quoiceneck.site
 quoprice.org
-quora.link
 quossum.com
 quotable.email
 quotadr.press
@@ -129383,6 +129391,7 @@ tuubz.com
 tuugo.com
 tuulu-altai.ru
 tuvanthietkexaydung.com
+tuvanwebsite.com
 tuvepi.xyz
 tuvi.xyz
 tuvimoingay.us
@@ -138021,6 +138030,10 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
+window.adsbygoogle
+window.dataLayer
+window.livewire
+window.onload
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl
@@ -139300,6 +139313,7 @@ wuzup.net
 wuzupmail.net
 wv4t2k.info
 wv94.com
+wvasueafcq.ga
 wvcheckpoints.com
 wvckgenbx.pl
 wvclibrary.com
