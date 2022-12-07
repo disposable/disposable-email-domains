@@ -12844,6 +12844,7 @@ aliwegwpvd.gq
 aliwegwpvd.ml
 aliwegwpvd.tk
 aliwhite.top
+alixasac.workers.dev
 aliyandex.ru
 aliyubillionsblog.com
 aliyummail.cf
@@ -15572,6 +15573,7 @@ armourbags.com
 armouredtire.com
 armoux.ml
 armp-rdc.cd
+armsfat.com
 armsrueito.website
 armss.site
 armstrongbuildings.com
@@ -20198,6 +20200,7 @@ begisobaka.gq
 begisobaka.ml
 begisobaka.tk
 begivverh.xyz
+begmhoehph.ga
 begnthp.tk
 begoz.com
 beguh.com
@@ -23466,6 +23469,7 @@ bluebottle.com
 bluecherry.xyz
 bluechipinvestments.com
 bluecitynews.com
+bluecny.com
 blueco.top
 bluecollarguitarpickupsonline.com
 bluecoreshorties.com
@@ -26842,6 +26846,7 @@ c.gsasearchengineranker.space
 c.gsasearchengineranker.top
 c.gsasearchengineranker.xyz
 c.hcac.net
+c.id
 c.kadag.ir
 c.kerl.gq
 c.mashed.site
@@ -29946,6 +29951,7 @@ chefskitchenfoodservice.com
 chefstakeaways.com
 chehov-beton-zavod.ru
 cheikh-rouhou.com
+cheine.online
 cheinepi.cf
 cheinepi.gq
 cheinepi.tk
@@ -32692,6 +32698,7 @@ companycontactslist.com
 companykeyword.com
 companynews.com
 companynotifier.com
+companyprogram.biz
 companytitles.com
 compaq.com
 comparabet.es
@@ -33533,6 +33540,7 @@ correoparacarlos.ga
 correoparacarlos.ml
 correoparacarlos.tk
 correos-es.site
+correotemporal.org
 correotodo.com
 corrientelatina.net
 corrupt.life
@@ -40015,6 +40023,8 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
+document.onreadystatechange
+document.title
 documentingyellowstone.com
 documentlegalisation.net
 documentstorage4.com
@@ -40088,6 +40098,7 @@ dofuskamasgenerateurz.fr
 dofutlook.com
 dog-n-cats-shelter.ru
 dog.coino.pl
+dog0006mine.ml
 dogalisec.com
 dogbackpack.net
 dogberries.ru
@@ -44257,6 +44268,7 @@ emailkjff.com
 emailko.in
 emailkoe.com
 emailkoe.xyz
+emailkom.live
 emaill.host
 emaill.webcam
 emaillab.xyz
@@ -49348,6 +49360,7 @@ findourstore.xyz
 findpassage.com
 findreflexology.com
 findstablevideos.pro
+findtempmail.best
 findu.pl
 findwater.ru
 findwin.online
@@ -60782,6 +60795,7 @@ hisalotk.cf
 hisalotk.ga
 hisalotk.gq
 hisalotk.ml
+hisalzes.store
 hisarlondon.xyz
 hischist.shop
 hisense.org
@@ -60846,6 +60860,7 @@ hitler-adolf.tk
 hitler.rocks
 hitlerbehna.com
 hitlive.ru
+hitmaan.tk
 hitmail.co
 hitmail.es
 hitmail.us
@@ -71202,6 +71217,7 @@ kelloggchurch.org
 kellybagonline.com
 kellychibale-researchgroup-uct.com
 kellycro.ml
+kellyfamily.tk
 kellyodwyer.ca
 kellyodwyer.net
 kellyrandin.com
@@ -78878,6 +78894,7 @@ luxusmail.ga
 luxusmail.gq
 luxusmail.ml
 luxusmail.my.id
+luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusmail.xyz
@@ -82097,6 +82114,7 @@ matchlitha.cf
 matchlitha.gq
 matchlitha.ml
 matchlitha.tk
+matchmatepro.com
 matchpol.net
 matchsingles2.us
 matchsingles7.us
@@ -94260,6 +94278,7 @@ omg-greatfood.com
 omgameshop.com
 omgdelights.com
 omgdodedo.com
+omggreatfoods.com
 omheightsy.com
 omhungty.com
 omi4.net
@@ -106178,6 +106197,7 @@ realestpeople.asia
 realevoo.com
 realexchangerates.com
 realfanclub.cf
+realfashionusa.com
 realfipacoin.net
 realfoxj.site
 realfreedomrealty.com
@@ -121576,6 +121596,7 @@ systemcart.systems
 systemchange.me
 systemcloud.me
 systeminfo.club
+systemlow.ga
 systemnet.club
 systemoases.com
 systempete.site
@@ -125802,6 +125823,7 @@ timeroom.biz
 timesharerentalorlando.com
 timesms.com
 timesports.com.ua
+timestudent.us
 timesua.com
 timetmail.com
 timetodeliver.org
@@ -138023,6 +138045,10 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
+window.adsbygoogle
+window.dataLayer
+window.livewire
+window.onload
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl
