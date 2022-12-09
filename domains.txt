@@ -12844,6 +12844,7 @@ aliwegwpvd.gq
 aliwegwpvd.ml
 aliwegwpvd.tk
 aliwhite.top
+alixasac.workers.dev
 aliyandex.ru
 aliyubillionsblog.com
 aliyummail.cf
@@ -23467,6 +23468,7 @@ bluebottle.com
 bluecherry.xyz
 bluechipinvestments.com
 bluecitynews.com
+bluecny.com
 blueco.top
 bluecollarguitarpickupsonline.com
 bluecoreshorties.com
@@ -25955,6 +25957,7 @@ burcopsg.org
 burdayimcanim.ml
 burdet.xyz
 burdurfm.xyz
+burem.studio
 burenie.space
 bureslav.ru
 burgas.vip
@@ -26843,6 +26846,7 @@ c.gsasearchengineranker.space
 c.gsasearchengineranker.top
 c.gsasearchengineranker.xyz
 c.hcac.net
+c.id
 c.kadag.ir
 c.kerl.gq
 c.mashed.site
@@ -33535,6 +33539,7 @@ correoparacarlos.ga
 correoparacarlos.ml
 correoparacarlos.tk
 correos-es.site
+correotemporal.org
 correotodo.com
 corrientelatina.net
 corrupt.life
@@ -40017,6 +40022,8 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
+document.onreadystatechange
+document.title
 documentingyellowstone.com
 documentlegalisation.net
 documentstorage4.com
@@ -40090,7 +40097,6 @@ dofuskamasgenerateurz.fr
 dofutlook.com
 dog-n-cats-shelter.ru
 dog.coino.pl
-dog0001mine.ml
 dog0006mine.ml
 dogalisec.com
 dogbackpack.net
@@ -70469,7 +70475,6 @@ kaj3goluy2q.ga
 kaj3goluy2q.gq
 kaj3goluy2q.ml
 kaj3goluy2q.tk
-kajene.dev
 kajgnpuan.shop
 kajsdtjksr14826.ga
 kajsdtjksr14826.ml
@@ -73031,7 +73036,6 @@ kounes.com
 kounnes.com
 kouraland.com
 kousao95.icu
-koussay1.ml
 koutburgvil.ga
 koutburgvil.gq
 koutburgvil.ml
@@ -77008,6 +77012,7 @@ livinginsurance.eu
 livingketostyle.com
 livingmarried.com
 livingmetaphor.org
+livingoal.net
 livingprojectcontainer.com
 livingsalty.us
 livingshoot.com
@@ -78887,6 +78892,7 @@ luxusmail.ga
 luxusmail.gq
 luxusmail.ml
 luxusmail.my.id
+luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusmail.xyz
@@ -127664,7 +127670,6 @@ tqophzxzixlxf3uq0i.tk
 tqosi.com
 tqpxdj.us
 tqqun.com
-tqrznniwgc.ga
 tqwagwknnm.pl
 tqyjr2.com
 tr-1s.xyz
@@ -138035,6 +138040,10 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
+window.adsbygoogle
+window.dataLayer
+window.livewire
+window.onload
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl
