@@ -12844,6 +12844,7 @@ aliwegwpvd.gq
 aliwegwpvd.ml
 aliwegwpvd.tk
 aliwhite.top
+alixasac.workers.dev
 aliyandex.ru
 aliyubillionsblog.com
 aliyummail.cf
@@ -20474,7 +20475,6 @@ bentwillys.info
 benussi.store
 benwola.pl
 benwoodburn.news
-benzes.site
 benzi.app
 beo.kr
 beoemyxa.shop
@@ -23468,6 +23468,7 @@ bluebottle.com
 bluecherry.xyz
 bluechipinvestments.com
 bluecitynews.com
+bluecny.com
 blueco.top
 bluecollarguitarpickupsonline.com
 bluecoreshorties.com
@@ -24567,7 +24568,6 @@ botenear.com
 botfed.com
 bothelpdesk.com
 bothgames.com
-bothris.pw
 botig.xyz
 botinki-rus.site
 botkaislove.ru
@@ -26845,6 +26845,7 @@ c.gsasearchengineranker.space
 c.gsasearchengineranker.top
 c.gsasearchengineranker.xyz
 c.hcac.net
+c.id
 c.kadag.ir
 c.kerl.gq
 c.mashed.site
@@ -33537,6 +33538,7 @@ correoparacarlos.ga
 correoparacarlos.ml
 correoparacarlos.tk
 correos-es.site
+correotemporal.org
 correotodo.com
 corrientelatina.net
 corrupt.life
@@ -40019,6 +40021,8 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
+document.onreadystatechange
+document.title
 documentingyellowstone.com
 documentlegalisation.net
 documentstorage4.com
@@ -45992,7 +45996,6 @@ etgdev.de
 etghecnd.com
 etgm9v.us
 eth00010mine.cf
-eth0002mine.cf
 eth0009mine.cf
 eth2btc.info
 ethanolmarketplace.com
@@ -78887,6 +78890,7 @@ luxusmail.ga
 luxusmail.gq
 luxusmail.ml
 luxusmail.my.id
+luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusmail.xyz
@@ -113160,7 +113164,6 @@ sell-brends.ru
 sell-here.ru
 sell-market1.ru
 sell365.me
-sellamivpn.ml
 sellcircuitboards.com
 sellcow.net
 seller1hit.website
@@ -117596,6 +117599,7 @@ sortgleams.top
 sortirlyon.org
 sortsml.com
 soruvi.com
+sosejvpn.xyz
 soshanti.org
 soskenstudios.ru
 soslouisville.com
@@ -138037,6 +138041,10 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
+window.adsbygoogle
+window.dataLayer
+window.livewire
+window.onload
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl
