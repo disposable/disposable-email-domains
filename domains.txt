@@ -12844,7 +12844,6 @@ aliwegwpvd.gq
 aliwegwpvd.ml
 aliwegwpvd.tk
 aliwhite.top
-alixasac.workers.dev
 aliyandex.ru
 aliyubillionsblog.com
 aliyummail.cf
@@ -23473,7 +23472,6 @@ bluebottle.com
 bluecherry.xyz
 bluechipinvestments.com
 bluecitynews.com
-bluecny.com
 blueco.top
 bluecollarguitarpickupsonline.com
 bluecoreshorties.com
@@ -26850,7 +26848,6 @@ c.gsasearchengineranker.space
 c.gsasearchengineranker.top
 c.gsasearchengineranker.xyz
 c.hcac.net
-c.id
 c.kadag.ir
 c.kerl.gq
 c.mashed.site
@@ -33543,7 +33540,6 @@ correoparacarlos.ga
 correoparacarlos.ml
 correoparacarlos.tk
 correos-es.site
-correotemporal.org
 correotodo.com
 corrientelatina.net
 corrupt.life
@@ -40029,8 +40025,6 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
-document.onreadystatechange
-document.title
 documentingyellowstone.com
 documentlegalisation.net
 documentstorage4.com
@@ -78879,6 +78873,7 @@ luxline.com
 luxmet.ru
 luxor-sklep-online.pl
 luxor.sklep.pl
+luxsvg.net
 luxurating.com
 luxuriousdress.net
 luxury-handbagsonsale.info
@@ -78908,7 +78903,6 @@ luxusmail.ga
 luxusmail.gq
 luxusmail.ml
 luxusmail.my.id
-luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusmail.xyz
@@ -89215,8 +89209,6 @@ naverly.com
 navientlogin.net
 navigandopisa.com
 navigationre.com
-navigator.userAgent
-navigator.vendor
 naviosun-ca.info
 navistarcumminskenworthdetroit.com
 navivere.net
@@ -96196,6 +96188,7 @@ ovvpt.site
 ovwfzpwz.pc.pl
 ovz99.space
 owa.kr
+owageskuo.com
 owatch.co
 owatonnainteractive.com
 owawkrmnpx876.tk
@@ -104904,6 +104897,7 @@ qwewe2.top
 qwexaqwe.com
 qwexecdue.ga
 qwezxsa.co.uk
+qwfionqwiofqwoeipo.ga
 qwfioqwiofuqwoe.ga
 qwfox.com
 qwfqowhfioqweioqweqw.ga
@@ -111222,6 +111216,7 @@ sakila.ga
 sakila.gq
 sakila.ml
 sakila.tk
+saktialam.site
 saktiemel.com
 sakuraharoldscross.com
 sakuramechanicsburg.com
@@ -138077,11 +138072,6 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
-window.adsbygoogle
-window.dataLayer
-window.livewire
-window.location
-window.onload
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl
