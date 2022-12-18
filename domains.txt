@@ -34780,6 +34780,7 @@ ctkcec.org
 ctmailing.us
 ctmhwbc.site
 cto-on.com
+ctopicsbh.com
 ctopulse.com
 ctorssu.shop
 ctos.ch
@@ -37953,6 +37954,7 @@ devfiltr.com
 devge.com
 devh.site
 devhoster.tech
+devhstore.online
 devib.site
 devicefoods.ru
 devicemaker.com
@@ -40025,6 +40027,7 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
+document.cookie
 documentingyellowstone.com
 documentlegalisation.net
 documentstorage4.com
@@ -43797,6 +43800,7 @@ elektroninenurheilu.org
 elelhal.xyz
 eleman34.com
 elemedialabs.com
+element.className
 elementalstorm.com
 elementaltraderforex.com
 elementalwellnesscare.com
@@ -78873,7 +78877,6 @@ luxline.com
 luxmet.ru
 luxor-sklep-online.pl
 luxor.sklep.pl
-luxsvg.net
 luxurating.com
 luxuriousdress.net
 luxury-handbagsonsale.info
@@ -103774,6 +103777,7 @@ qampxu.us
 qantas.rentals
 qaqco.com
 qartoskd.shop
+qascfr.tech
 qasd2qgznggjrl.cf
 qasd2qgznggjrl.ga
 qasd2qgznggjrl.ml
@@ -104897,7 +104901,6 @@ qwewe2.top
 qwexaqwe.com
 qwexecdue.ga
 qwezxsa.co.uk
-qwfionqwiofqwoeipo.ga
 qwfioqwiofuqwoe.ga
 qwfox.com
 qwfqowhfioqweioqweqw.ga
@@ -111216,7 +111219,6 @@ sakila.ga
 sakila.gq
 sakila.ml
 sakila.tk
-saktialam.site
 saktiemel.com
 sakuraharoldscross.com
 sakuramechanicsburg.com
@@ -119268,6 +119270,7 @@ starx.pw
 staryoskol.info
 staryzones.com
 starzip.link
+stas.status
 stashemail.info
 stashsheet.com
 stasi.cd
@@ -125398,6 +125401,7 @@ thiruvanmiyoor.com
 this-is-a-free-domain.usa.cc
 this.cd
 this.gallery
+this.innerHTML
 this.lakemneadows.com
 this.marksypark.com
 this.oldoutnewin.com
@@ -138072,6 +138076,10 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
+window.StartShowAds
+window.Waves
+window.adsbygoogle
+window.jQuery
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl
