@@ -40031,7 +40031,6 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
-document.cookie
 document.onreadystatechange
 document.title
 documentingyellowstone.com
@@ -43806,7 +43805,6 @@ elektroninenurheilu.org
 elelhal.xyz
 eleman34.com
 elemedialabs.com
-element.className
 elementalstorm.com
 elementaltraderforex.com
 elementalwellnesscare.com
@@ -119280,7 +119278,6 @@ starx.pw
 staryoskol.info
 staryzones.com
 starzip.link
-stas.status
 stashemail.info
 stashsheet.com
 stasi.cd
@@ -123494,6 +123491,7 @@ tempmail-3.net
 tempmail-4.net
 tempmail-5.net
 tempmail-store.tech
+tempmail.al
 tempmail.cn
 tempmail.co
 tempmail.de
@@ -125411,7 +125409,6 @@ thiruvanmiyoor.com
 this-is-a-free-domain.usa.cc
 this.cd
 this.gallery
-this.innerHTML
 this.lakemneadows.com
 this.marksypark.com
 this.oldoutnewin.com
@@ -138086,11 +138083,8 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
-window.StartShowAds
-window.Waves
 window.adsbygoogle
 window.dataLayer
-window.jQuery
 window.livewire
 window.location
 window.onload
