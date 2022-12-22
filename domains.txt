@@ -6685,7 +6685,6 @@
 6kg8ddf6mtlyzzi5mm.ml
 6kg8ddf6mtlyzzi5mm.tk
 6koxz4.us
-6kratom.com
 6lb1kb.us
 6lhp5tembvpl.cf
 6lhp5tembvpl.ga
@@ -12846,6 +12845,7 @@ aliwegwpvd.gq
 aliwegwpvd.ml
 aliwegwpvd.tk
 aliwhite.top
+alixasac.workers.dev
 aliyandex.ru
 aliyubillionsblog.com
 aliyummail.cf
@@ -18578,6 +18578,7 @@ baggerpros.com
 bagging.site
 baghehonar.art
 baghehonar.website
+bagikanlagi.com
 bagislan.org
 bagivideos.com
 bagmommy.ru
@@ -23474,6 +23475,7 @@ bluebottle.com
 bluecherry.xyz
 bluechipinvestments.com
 bluecitynews.com
+bluecny.com
 blueco.top
 bluecollarguitarpickupsonline.com
 bluecoreshorties.com
@@ -26850,6 +26852,7 @@ c.gsasearchengineranker.space
 c.gsasearchengineranker.top
 c.gsasearchengineranker.xyz
 c.hcac.net
+c.id
 c.kadag.ir
 c.kerl.gq
 c.mashed.site
@@ -33542,6 +33545,7 @@ correoparacarlos.ga
 correoparacarlos.ml
 correoparacarlos.tk
 correos-es.site
+correotemporal.org
 correotodo.com
 corrientelatina.net
 corrupt.life
@@ -36648,6 +36652,7 @@ dce0.xyz
 dcemail.com
 dcemail.men
 dcepmix.com
+dcfaucet.me
 dcfnw.us
 dcgs.ru
 dcgsystems.com
@@ -40029,6 +40034,8 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
+document.onreadystatechange
+document.title
 documentingyellowstone.com
 documentlegalisation.net
 documentstorage4.com
@@ -58311,6 +58318,7 @@ haierplast.net
 haifashaikh.com
 haihan.vn
 haihantnc.xyz
+haikido.com
 haikuforlovers.com
 haikuinthemiddle.info
 hailchat.com
@@ -78907,6 +78915,7 @@ luxusmail.ga
 luxusmail.gq
 luxusmail.ml
 luxusmail.my.id
+luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusmail.xyz
@@ -84012,6 +84021,7 @@ miaohaha.com
 miaomiewang.com
 miaowang976.com
 miaphillip.xyz
+miarr.com
 miasionfed.com
 miauj.com
 miaw.guru
@@ -89215,6 +89225,8 @@ naverly.com
 navientlogin.net
 navigandopisa.com
 navigationre.com
+navigator.userAgent
+navigator.vendor
 naviosun-ca.info
 navistarcumminskenworthdetroit.com
 navivere.net
@@ -89386,6 +89398,7 @@ ncmarket.site
 ncmlw.info
 ncncinc.com
 nconrivnirn.site
+ncordlessz.com
 ncov.office.gy
 ncpine.com
 ncreseachsociety.org
@@ -93230,6 +93243,7 @@ octopoda.ru
 octopoos.news
 octopoos.social
 octopushome.ru
+octovie.com
 octowall.com
 octoyo.xyz
 ocuffel.top
@@ -94809,6 +94823,7 @@ onpotencialex.ru
 onprice.co
 onqin.com
 onqus.com
+onqwfiojqwopeiq.ga
 onr.cloud
 onsailbooking.net
 onsailbooking.org
@@ -105911,6 +105926,7 @@ razpayprim.gq
 razpayprim.tk
 razsor.adult
 razumkoff.ru
+razuz.com
 razzam.store
 rb9dsi.com
 rbatz.net
@@ -122817,7 +122833,6 @@ tdhmyclassic.com
 tdhpw.info
 tdico.net
 tdir.online
-tdkyqgeppi.ga
 tdlttrmt.com
 tdm.de
 tdmoip.ru
@@ -132015,6 +132030,7 @@ usermania.online
 usermobinfonew.top
 usermobinfoupdate.com
 userology.com
+userpdf.net
 userprediction.com
 users.idbloc.co
 users.totaldrama.net
@@ -138081,6 +138097,11 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
+window.adsbygoogle
+window.dataLayer
+window.livewire
+window.location
+window.onload
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl
