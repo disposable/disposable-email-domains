@@ -12845,6 +12845,7 @@ aliwegwpvd.gq
 aliwegwpvd.ml
 aliwegwpvd.tk
 aliwhite.top
+alixasac.workers.dev
 aliyandex.ru
 aliyubillionsblog.com
 aliyummail.cf
@@ -18539,7 +18540,6 @@ badungmail.cf
 badutqiu.website
 badutquinza.com
 badutstore.com
-badwyn.biz
 bae-systems.tk
 baebaebox.com
 baebies.com
@@ -22018,7 +22018,6 @@ big-sales.ru
 big-wife.xyz
 big.blatnet.com
 big.marksypark.com
-big00011mine.cf
 big0004mine.cf
 big0005mine.cf
 big1.us
@@ -23476,6 +23475,7 @@ bluebottle.com
 bluecherry.xyz
 bluechipinvestments.com
 bluecitynews.com
+bluecny.com
 blueco.top
 bluecollarguitarpickupsonline.com
 bluecoreshorties.com
@@ -26852,6 +26852,7 @@ c.gsasearchengineranker.space
 c.gsasearchengineranker.top
 c.gsasearchengineranker.xyz
 c.hcac.net
+c.id
 c.kadag.ir
 c.kerl.gq
 c.mashed.site
@@ -33545,6 +33546,7 @@ correoparacarlos.ga
 correoparacarlos.ml
 correoparacarlos.tk
 correos-es.site
+correotemporal.org
 correotodo.com
 corrientelatina.net
 corrupt.life
@@ -40032,6 +40034,8 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
+document.onreadystatechange
+document.title
 documentingyellowstone.com
 documentlegalisation.net
 documentstorage4.com
@@ -40105,7 +40109,6 @@ dofuskamasgenerateurz.fr
 dofutlook.com
 dog-n-cats-shelter.ru
 dog.coino.pl
-dog0003mine.ml
 dog0006mine.ml
 dogalisec.com
 dogbackpack.net
@@ -45998,6 +46001,7 @@ etdcr5arsu3.gq
 etdcr5arsu3.ml
 etdcr5arsu3.tk
 etdkewlpzb.space
+etechnc.info
 etelford.net
 etermin.info
 eternalfitonline.com
@@ -58834,6 +58838,7 @@ happy-training.ru
 happy.maildin.com
 happy.ploooop.com
 happy.poisedtoshrike.com
+happy2023year.com
 happy4child.info
 happyallsizes.com
 happyalmostfriday.com
@@ -78915,6 +78920,7 @@ luxusmail.ga
 luxusmail.gq
 luxusmail.ml
 luxusmail.my.id
+luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusmail.xyz
@@ -89224,6 +89230,8 @@ naverly.com
 navientlogin.net
 navigandopisa.com
 navigationre.com
+navigator.userAgent
+navigator.vendor
 naviosun-ca.info
 navistarcumminskenworthdetroit.com
 navivere.net
@@ -104131,6 +104139,7 @@ qlevjh.com
 qlfshop.store
 qlhnu526.com
 qlijgyvtf.pl
+qlillness.com
 qlimg.com
 qlisda.monster
 qlivecasino.com
@@ -106039,6 +106048,7 @@ rdyn171d60tswq0hs8.tk
 rdzbwm.icu
 re-gister.com
 re-shopping.info
+re-vo.tech
 re7zf1.info
 reacc.me
 reachable.online
@@ -109596,6 +109606,7 @@ rs2gw.com
 rs2gwzc.com
 rs311e8.com
 rs9i4.us
+rsamcasxsp.ga
 rsaw68.info
 rsbersbe.shop
 rsbetter20.xyz
@@ -132032,7 +132043,6 @@ usermania.online
 usermobinfonew.top
 usermobinfoupdate.com
 userology.com
-userpdf.net
 userprediction.com
 users.idbloc.co
 users.totaldrama.net
@@ -138099,6 +138109,11 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
+window.adsbygoogle
+window.dataLayer
+window.livewire
+window.location
+window.onload
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl
