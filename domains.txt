@@ -12846,6 +12846,7 @@ aliwegwpvd.gq
 aliwegwpvd.ml
 aliwegwpvd.tk
 aliwhite.top
+alixasac.workers.dev
 aliyandex.ru
 aliyubillionsblog.com
 aliyummail.cf
@@ -23480,6 +23481,7 @@ bluebottle.com
 bluecherry.xyz
 bluechipinvestments.com
 bluecitynews.com
+bluecny.com
 blueco.top
 bluecollarguitarpickupsonline.com
 bluecoreshorties.com
@@ -26858,6 +26860,7 @@ c.gsasearchengineranker.space
 c.gsasearchengineranker.top
 c.gsasearchengineranker.xyz
 c.hcac.net
+c.id
 c.kadag.ir
 c.kerl.gq
 c.mashed.site
@@ -27274,7 +27277,6 @@ cajunricecookers.com
 cajydo.info
 cakabahis.com
 cake99.ml
-cakeitzwo.com
 cakemayor.com
 cakenxibenv.email
 cakeonline.ru
@@ -33555,6 +33557,7 @@ correoparacarlos.ga
 correoparacarlos.ml
 correoparacarlos.tk
 correos-es.site
+correotemporal.org
 correotodo.com
 corrientelatina.net
 corrupt.life
@@ -34291,6 +34294,7 @@ crillix.com
 crim3-house.ml
 crimea-kurort-online.ru
 crimeglossary.com
+crimenets.com
 crimesont.com
 criminal-lawyer-attorney.biz
 criminal-lawyer-texas.net
@@ -40046,6 +40050,8 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
+document.onreadystatechange
+document.title
 documentingyellowstone.com
 documentlegalisation.net
 documentstorage4.com
@@ -60834,6 +60840,7 @@ hisalotk.cf
 hisalotk.ga
 hisalotk.gq
 hisalotk.ml
+hisalzes.site
 hisarlondon.xyz
 hischist.shop
 hisense.org
@@ -71602,6 +71609,7 @@ kfscr.ru
 kfsp.email
 kftcrveyr.pl
 kftdcmmn.shop
+kfyudj.lol
 kg-happy-pt.site
 kg1cz7xyfmps.cf
 kg1cz7xyfmps.gq
@@ -73588,6 +73596,7 @@ kukuite.ch
 kukuka.org
 kukuljanovo.info
 kukuljanovo.net
+kukushoppy.site
 kula.uno
 kulepszejprzyszlosci.pl
 kulichiki.com
@@ -78940,6 +78949,7 @@ luxusmail.ga
 luxusmail.gq
 luxusmail.ml
 luxusmail.my.id
+luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusmail.xyz
@@ -80300,7 +80310,6 @@ mailhair.com
 mailhaven.com
 mailhazard.com
 mailhazard.us
-mailhe.me
 mailherber.com
 mailhero.io
 mailhex.com
@@ -82165,6 +82174,7 @@ matchlitha.cf
 matchlitha.gq
 matchlitha.ml
 matchlitha.tk
+matchmatepro.com
 matchpol.net
 matchsingles2.us
 matchsingles7.us
@@ -89252,6 +89262,8 @@ naverly.com
 navientlogin.net
 navigandopisa.com
 navigationre.com
+navigator.userAgent
+navigator.vendor
 naviosun-ca.info
 navistarcumminskenworthdetroit.com
 navivere.net
@@ -98801,6 +98813,7 @@ peybet28.com
 peybet29.com
 peyekkolipi.buzz
 peykesabz.com
+peyonic.site
 peypel.online
 peyuuv.xyz
 peyvandzendegi.com
@@ -138141,6 +138154,11 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
+window.adsbygoogle
+window.dataLayer
+window.livewire
+window.location
+window.onload
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl
