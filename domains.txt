@@ -12846,6 +12846,7 @@ aliwegwpvd.gq
 aliwegwpvd.ml
 aliwegwpvd.tk
 aliwhite.top
+alixasac.workers.dev
 aliyandex.ru
 aliyubillionsblog.com
 aliyummail.cf
@@ -23481,6 +23482,7 @@ bluebottle.com
 bluecherry.xyz
 bluechipinvestments.com
 bluecitynews.com
+bluecny.com
 blueco.top
 bluecollarguitarpickupsonline.com
 bluecoreshorties.com
@@ -26859,6 +26861,7 @@ c.gsasearchengineranker.space
 c.gsasearchengineranker.top
 c.gsasearchengineranker.xyz
 c.hcac.net
+c.id
 c.kadag.ir
 c.kerl.gq
 c.mashed.site
@@ -33556,6 +33559,7 @@ correoparacarlos.ga
 correoparacarlos.ml
 correoparacarlos.tk
 correos-es.site
+correotemporal.org
 correotodo.com
 corrientelatina.net
 corrupt.life
@@ -35361,6 +35365,7 @@ cyberkumbh.org
 cybermail.ga
 cybermax.systems
 cyberoligarch.ru
+cyberon.store
 cyberpay.shop
 cyberper.net
 cyberpointeservices.com
@@ -38294,6 +38299,7 @@ dh545.site
 dh8.xyz
 dh98.xyz
 dh9837.com
+dhabamax.com
 dhabfontdec.cf
 dhabfontdec.ga
 dhabfontdec.gq
@@ -40048,6 +40054,8 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
+document.onreadystatechange
+document.title
 documentingyellowstone.com
 documentlegalisation.net
 documentstorage4.com
@@ -52032,6 +52040,7 @@ ftsalons.com
 ftsecurity.com
 ftsxthiw.site
 ftuns.live
+ftvhpdidvf.ga
 ftwapps.com
 ftworld.ru
 ftwzg1.site
@@ -78947,6 +78956,7 @@ luxusmail.ga
 luxusmail.gq
 luxusmail.ml
 luxusmail.my.id
+luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusmail.xyz
@@ -88933,6 +88943,7 @@ nameq.io
 namesearcher4america.com
 namesever.website
 nameshirt.xyz
+namesloz.com
 namesperplexpower.site
 namesportklop.ru
 nametrans.net
@@ -89258,6 +89269,8 @@ naverly.com
 navientlogin.net
 navigandopisa.com
 navigationre.com
+navigator.userAgent
+navigator.vendor
 naviosun-ca.info
 navistarcumminskenworthdetroit.com
 navivere.net
@@ -91273,6 +91286,7 @@ njswnh.site
 njt2mb-mail.xyz
 njtec.com
 njwgw.info
+njzksdsgsc.ga
 nk52.biz
 nkads.com
 nkasaruparanationalpark.com
@@ -95614,7 +95628,6 @@ ortimax.com
 ortonvillemn.net
 ortutay.best
 ortuteks.xyz
-oru-host.store
 orumail.com
 orumcekstand.com
 oruse.xyz
@@ -95624,6 +95637,7 @@ orvit.net
 orvnr2ed.pl
 orwf.icu
 orxy.tech
+oryclgfmdt.ga
 oryjcqzx.shop
 oryol-dosug.ru
 oryx.hr
@@ -104084,6 +104098,7 @@ qinspections.online
 qinth.today
 qiodinlxed.pro
 qiott.com
+qiowfnqowfopqpowepn.ga
 qip-file.tk
 qipaomei.com
 qipdcv.icu
@@ -113255,6 +113270,7 @@ sell-brends.ru
 sell-here.ru
 sell-market1.ru
 sell365.me
+sellamivpnvit.tk
 sellcircuitboards.com
 sellcow.net
 seller1hit.website
@@ -138150,6 +138166,11 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
+window.adsbygoogle
+window.dataLayer
+window.livewire
+window.location
+window.onload
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl
