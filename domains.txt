@@ -23486,7 +23486,6 @@ bluebottle.com
 bluecherry.xyz
 bluechipinvestments.com
 bluecitynews.com
-bluecny.com
 blueco.top
 bluecollarguitarpickupsonline.com
 bluecoreshorties.com
@@ -31741,6 +31740,7 @@ clsn1.com
 clt.dev
 cltj5.us
 club-pchelka.ru
+club.co
 club127.com
 club4skin.ru
 club55vs.host
@@ -40063,8 +40063,6 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
-document.onreadystatechange
-document.title
 documentingyellowstone.com
 documentlegalisation.net
 documentstorage4.com
@@ -42176,6 +42174,7 @@ dzinoy58w12.tk
 dzip.site
 dzjrys.icu
 dznf.net
+dzoefxifzd.ga
 dzprosat.com
 dzsyr.com
 dzubn.ru
@@ -77545,6 +77544,7 @@ lockaya.com
 lockdown.africa
 lockedintheconception.com
 lockedsyz.com
+lockedyourprofile.com
 lockersinthecity.com
 locklisa.cf
 locklisa.ga
@@ -78984,7 +78984,6 @@ luxusmail.ga
 luxusmail.gq
 luxusmail.ml
 luxusmail.my.id
-luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusmail.xyz
@@ -85389,7 +85388,6 @@ mmtt69.com
 mmtt7.com
 mmtt9.com
 mmublera.site
-mmukmedia.net
 mmvcplc.com
 mmvl.com
 mmyl9.com
@@ -89301,8 +89299,6 @@ naverly.com
 navientlogin.net
 navigandopisa.com
 navigationre.com
-navigator.userAgent
-navigator.vendor
 naviosun-ca.info
 navistarcumminskenworthdetroit.com
 navivere.net
@@ -96401,6 +96397,7 @@ oxxbcnqi.shop
 oxxdd12.com
 oxxx.bid
 oxyelitepro.ru
+oxyemail.com
 oxyroot.com
 oxzi.com
 oyalmail.com
@@ -98856,7 +98853,6 @@ peybet28.com
 peybet29.com
 peyekkolipi.buzz
 peykesabz.com
-peyonic.site
 peypel.online
 peyuuv.xyz
 peyvandzendegi.com
@@ -105025,7 +105021,6 @@ qwkcmail.net
 qwkk111.com
 qwmmanbetx.com
 qwnxf1.us
-qwofnioqwnfoiqwe.ga
 qwop.space
 qwpofqpoweipoqw.tk
 qwqrwsf.date
@@ -108657,6 +108652,7 @@ rjclctin.tech
 rjdwpxykkv.fun
 rjfencesandgates.com
 rjjsz.live
+rjkiuljihq.ga
 rjkl.us
 rjmerah.com
 rjof.info
@@ -120005,6 +120001,7 @@ storysolution.com
 storyst.xyz
 storysta.xyz
 storywat.xyz
+storyyear.us
 stovepartes1.com
 stowawaygingerbeer.com
 stowsshop.com
@@ -120154,6 +120151,7 @@ stripbrush.biz
 stripbrush.us
 stripbrushes.net
 stripbrushes.us
+stripers.live
 stripmsk.ru
 stripouts.melbourne
 stripquiz.ru
@@ -138229,11 +138227,6 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
-window.adsbygoogle
-window.dataLayer
-window.livewire
-window.location
-window.onload
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl
