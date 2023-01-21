@@ -13672,6 +13672,7 @@ amimu.com
 amin.co.pl
 amin.consulting
 amindhab.ga
+amine2.gq
 amineoffice.com
 aminois.ga
 aminoprimereview.info
@@ -23486,6 +23487,7 @@ bluebottle.com
 bluecherry.xyz
 bluechipinvestments.com
 bluecitynews.com
+bluecny.com
 blueco.top
 bluecollarguitarpickupsonline.com
 bluecoreshorties.com
@@ -40068,6 +40070,8 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
+document.onreadystatechange
+document.title
 documentingyellowstone.com
 documentlegalisation.net
 documentstorage4.com
@@ -46999,6 +47003,7 @@ eyesofnoctumofficial.com
 eyespains.info
 eyesshop.live
 eyetique.info
+eyeword.biz
 eyeysdc.com
 eyimail.com
 eykr7a.com
@@ -55467,6 +55472,7 @@ gmasil.com
 gmatch.org
 gmaul.com
 gmawfurbabies.com
+gmaxgxynss.ga
 gmblmania.club
 gmc-sierra.club
 gmcd.de
@@ -66441,6 +66447,7 @@ iopgox.ru
 ioplo.com
 iopmail.com
 iopmail.net
+ioqjwpoeiqpoweq.ga
 iorbita.ru
 iordan-nedv.ru
 iordanii.ru
@@ -79001,6 +79008,7 @@ luxusmail.ga
 luxusmail.gq
 luxusmail.ml
 luxusmail.my.id
+luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusmail.xyz
@@ -84750,6 +84758,7 @@ mintemail.ga
 mintemail.gq
 mintemail.ml
 mintemail.tk
+minterp.com
 mintsbolts.top
 mintsportjop.ru
 mintstresms.xyz
@@ -85405,6 +85414,7 @@ mmtt69.com
 mmtt7.com
 mmtt9.com
 mmublera.site
+mmukmedia.net
 mmvcplc.com
 mmvl.com
 mmyl9.com
@@ -86893,6 +86903,7 @@ mrs1c1.com
 mrs24.de
 mrsands.org
 mrscript.ru
+mrsfs.com
 mrshok.xyz
 mrsikitjoefxsqo8qi.cf
 mrsikitjoefxsqo8qi.ga
@@ -89318,6 +89329,8 @@ naverly.com
 navientlogin.net
 navigandopisa.com
 navigationre.com
+navigator.userAgent
+navigator.vendor
 naviosun-ca.info
 navistarcumminskenworthdetroit.com
 navivere.net
@@ -90172,6 +90185,7 @@ neverwype.com
 neveu.universallightkeys.com
 nevfam.ru
 nevsehiralemdar.xyz
+nevyxus.com
 new-action-clear.host
 new-beats-by-dr-dre.com
 new-belstaff-jackets.com
@@ -98874,6 +98888,7 @@ peybet28.com
 peybet29.com
 peyekkolipi.buzz
 peykesabz.com
+peyonic.site
 peypel.online
 peyuuv.xyz
 peyvandzendegi.com
@@ -104114,6 +104129,7 @@ qhrhtlvek.com
 qhsmedicaltraining.com
 qhstreetr.com
 qhwclmql.pl
+qhwigbbzmi.ga
 qhzfjt.com
 qi2i.com
 qi3ivu.com
@@ -107369,6 +107385,7 @@ renaltechnologies.com
 renaprems.ga
 renatabitha.art
 renate-date.de
+renatika.com
 renault-brasil.club
 renault-duster-online.ru
 renault-forums.ru
@@ -109297,6 +109314,7 @@ roomka.online
 roommother.biz
 roomserve.ir
 roomservicemassage.com
+roomsystem.us
 roomy-hostel.ru
 rooqie.com
 rooseveltmail.com
@@ -120348,6 +120366,7 @@ studychoicebes.com
 studyeainja.email
 studytantra.com
 studytitl.fun
+studyyear.us
 stuelpna.ml
 stuen.site
 stuff.munrohk.com
@@ -138257,6 +138276,11 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
+window.adsbygoogle
+window.dataLayer
+window.livewire
+window.location
+window.onload
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl
