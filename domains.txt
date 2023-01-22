@@ -13672,7 +13672,6 @@ amimu.com
 amin.co.pl
 amin.consulting
 amindhab.ga
-amine2.gq
 amineoffice.com
 aminois.ga
 aminoprimereview.info
@@ -23487,7 +23486,6 @@ bluebottle.com
 bluecherry.xyz
 bluechipinvestments.com
 bluecitynews.com
-bluecny.com
 blueco.top
 bluecollarguitarpickupsonline.com
 bluecoreshorties.com
@@ -34690,6 +34688,7 @@ csccsports.com
 cschammel.com
 cscrddata.com
 csderf.xyz
+csdfth.store
 csdinterpretingonline.com
 csdm73.ru
 csdoland.net
@@ -40070,8 +40069,6 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
-document.onreadystatechange
-document.title
 documentingyellowstone.com
 documentlegalisation.net
 documentstorage4.com
@@ -79008,7 +79005,6 @@ luxusmail.ga
 luxusmail.gq
 luxusmail.ml
 luxusmail.my.id
-luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusmail.xyz
@@ -89329,8 +89325,6 @@ naverly.com
 navientlogin.net
 navigandopisa.com
 navigationre.com
-navigator.userAgent
-navigator.vendor
 naviosun-ca.info
 navistarcumminskenworthdetroit.com
 navivere.net
@@ -123525,6 +123519,7 @@ telfty.com
 telgnik.best
 telialebanon.com
 telkompro.com
+telkomsel.ml
 telkomuniversity.duckdns.org
 tellectualpress.com
 tellercar.xyz
@@ -138276,11 +138271,6 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
-window.adsbygoogle
-window.dataLayer
-window.livewire
-window.location
-window.onload
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl
@@ -141761,6 +141751,7 @@ xwatch.today
 xwcbk1.site
 xwdmoe.cf
 xwfzlvjb.shop
+xwgiant.com
 xwgpzgajlpw.cf
 xwgpzgajlpw.ga
 xwgpzgajlpw.gq
@@ -143752,6 +143743,7 @@ yq6iki8l5xa.tk
 yqdongze.com
 yqejb1.site
 yqevzp.online
+yqjbgcizut.ga
 yqjmtqpl.shop
 yqlnd.art
 yquhnhipm.pl
