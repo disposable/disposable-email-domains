@@ -28201,6 +28201,7 @@ cascaisnetradio.com
 case4pads.com
 casecab.com
 caseedu.tk
+casehome.us
 caseincancer.com
 casekoga.ru
 caseritodelibery.com
@@ -40072,6 +40073,8 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
+document.onreadystatechange
+document.title
 documentingyellowstone.com
 documentlegalisation.net
 documentstorage4.com
@@ -46054,6 +46057,7 @@ etghecnd.com
 etgm9v.us
 eth00010mine.cf
 eth0007mine.cf
+eth0008mine.cf
 eth0009mine.cf
 eth2btc.info
 ethanolmarketplace.com
@@ -65315,6 +65319,7 @@ indiszu.ml
 individualbased.com
 individuative.best
 indmarsa.com
+indmeds.com
 indo228.ninja
 indo32.net
 indo365.biz
@@ -69255,6 +69260,7 @@ jobslao.com
 jobssearch.online
 jobstaff.co.uk
 jobstoknow.com
+jobstudy.us
 jobsunleashed.net
 jobsunleashed.vet
 jobtoto6.net
@@ -79009,6 +79015,7 @@ luxusmail.ga
 luxusmail.gq
 luxusmail.ml
 luxusmail.my.id
+luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusmail.xyz
@@ -80468,6 +80475,7 @@ mailkept.com
 mailkert.com
 mailking.ru
 mailkita.cf
+mailkom.site
 mailkon.com
 mailkor.xyz
 mailksders.com
@@ -82680,6 +82688,7 @@ mccolluminteriors.com
 mccoy.com
 mccs.info
 mccz.us
+mcdd.me
 mcde.com
 mcde1.com
 mcdonald.cf
@@ -89329,6 +89338,8 @@ naverly.com
 navientlogin.net
 navigandopisa.com
 navigationre.com
+navigator.userAgent
+navigator.vendor
 naviosun-ca.info
 navistarcumminskenworthdetroit.com
 navivere.net
@@ -94932,6 +94943,7 @@ onprice.co
 onqin.com
 onqus.com
 onqwfiojqwopeiq.ga
+onqwfopqwipoeqwe.ga
 onr.cloud
 onsailbooking.net
 onsailbooking.org
@@ -138277,6 +138289,11 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
+window.adsbygoogle
+window.dataLayer
+window.livewire
+window.location
+window.onload
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl
