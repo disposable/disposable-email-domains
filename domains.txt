@@ -24926,6 +24926,7 @@ brandonscody.live
 brandonstore.com
 brandonwhetsel.online
 brandoshnaya.com
+brandoza.com
 brandroot.info
 brandroot.org
 brandroot.us
@@ -26758,6 +26759,7 @@ bykuzen.xyz
 bylup.com
 bymahades.com
 bymail.info
+bymercy.com
 byng.de
 byngo.com
 bynyqs.com
@@ -30458,6 +30460,7 @@ chothuevinhomesquan9.com
 chothuexeonline.com
 chotibachi.club
 chotm1.site
+chotunai.com
 chovy12.com
 chowderco.net
 chowet.site
@@ -31388,6 +31391,7 @@ click-pru.pro
 click-r.pro
 click-rb.pro
 click-rr.pro
+click-wa.me
 click10kz.pro
 click11kz.pro
 click12kz.pro
@@ -40077,6 +40081,7 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
+document.cookie
 document.onreadystatechange
 document.title
 documentingyellowstone.com
@@ -43854,6 +43859,7 @@ elektroninenurheilu.org
 elelhal.xyz
 eleman34.com
 elemedialabs.com
+element.className
 elementalstorm.com
 elementaltraderforex.com
 elementalwellnesscare.com
@@ -46827,6 +46833,7 @@ expertmobi.com
 expertpestcontrolcallusnow.com
 expertroofingbrisbane.com
 expertruby.com
+expetasia.my.id
 expirebox.com
 expirebox.email
 expirebox.me
@@ -47067,6 +47074,7 @@ ezfill.club
 ezfill.com
 ezfree.online
 ezgaga.com
+ezgiant.com
 ezhandui.com
 ezhj.com
 ezhulenev.fvds.ru
@@ -52018,6 +52026,7 @@ fsmilitary.com
 fsmto.org
 fsociety-br.online
 fsociety.org
+fsouda.com
 fsreg.cf
 fsrfwwsugeo.cf
 fsrfwwsugeo.ga
@@ -59402,6 +59411,7 @@ hazirmesaj.info
 hazirsite.site
 hazmatdictionary.com
 hazmatshipping.org
+hazytune.com
 hazziz.ze.cx
 hb-120.com
 hb-1tvm.com
@@ -103448,6 +103458,7 @@ puppyhood.best
 puppynames.info
 puppyplace.xyz
 puppyproduct.com
+purajewel.com
 puralife.ru
 purati.cf
 purati.ga
@@ -119467,6 +119478,7 @@ starx.pw
 staryoskol.info
 staryzones.com
 starzip.link
+stas.status
 stashemail.info
 stashsheet.com
 stasi.cd
@@ -125612,6 +125624,7 @@ thiruvanmiyoor.com
 this-is-a-free-domain.usa.cc
 this.cd
 this.gallery
+this.innerHTML
 this.lakemneadows.com
 this.marksypark.com
 this.oldoutnewin.com
@@ -138305,8 +138318,11 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
+window.StartShowAds
+window.Waves
 window.adsbygoogle
 window.dataLayer
+window.jQuery
 window.livewire
 window.location
 window.onload
