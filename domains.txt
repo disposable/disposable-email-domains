@@ -23490,6 +23490,7 @@ bluebottle.com
 bluecherry.xyz
 bluechipinvestments.com
 bluecitynews.com
+bluecny.com
 blueco.top
 bluecollarguitarpickupsonline.com
 bluecoreshorties.com
@@ -40082,6 +40083,8 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
+document.onreadystatechange
+document.title
 documentingyellowstone.com
 documentlegalisation.net
 documentstorage4.com
@@ -43930,6 +43933,7 @@ eliminatetrend.info
 elinakamiren.ru
 elinbox.com
 elinore1818.site
+eliotkids.com
 elipsys.ru
 eliselifewire.com
 elisione.pl
@@ -77150,6 +77154,7 @@ livinginsurance.eu
 livingketostyle.com
 livingmarried.com
 livingmetaphor.org
+livingoal.net
 livingprojectcontainer.com
 livingsalty.us
 livingshoot.com
@@ -79031,6 +79036,7 @@ luxusmail.ga
 luxusmail.gq
 luxusmail.ml
 luxusmail.my.id
+luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusmail.xyz
@@ -79902,6 +79908,7 @@ mail.bentrask.com
 mail.by
 mail.c-n-shop.com
 mail.chatfunny.com
+mail.checkermaker.me
 mail.com.vc
 mail.comx.cf
 mail.crowdpress.it
@@ -89353,6 +89360,8 @@ naverly.com
 navientlogin.net
 navigandopisa.com
 navigationre.com
+navigator.userAgent
+navigator.vendor
 naviosun-ca.info
 navistarcumminskenworthdetroit.com
 navivere.net
@@ -107869,6 +107878,7 @@ retapps.biz
 retapps.cloud
 retarusblog.com
 retep.com.au
+retgoetbej.ga
 rethmail.ga
 rethynkaus.com
 reticaller.xyz
@@ -118052,6 +118062,7 @@ spam-be-gone.com
 spam-en.de
 spam-nicht.de
 spam.care
+spam.ceo
 spam.coroiu.com
 spam.deluser.net
 spam.dhsf.net
@@ -138312,6 +138323,11 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
+window.adsbygoogle
+window.dataLayer
+window.livewire
+window.location
+window.onload
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl
