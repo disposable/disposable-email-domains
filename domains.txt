@@ -23495,6 +23495,7 @@ bluebottle.com
 bluecherry.xyz
 bluechipinvestments.com
 bluecitynews.com
+bluecny.com
 blueco.top
 bluecollarguitarpickupsonline.com
 bluecoreshorties.com
@@ -32744,7 +32745,6 @@ companycontactslist.com
 companykeyword.com
 companynews.com
 companynotifier.com
-companyprogram.biz
 companytitles.com
 compaq.com
 comparabet.es
@@ -33753,6 +33753,7 @@ countrypub.com
 countryroadsbaseball.org
 countrysong.ru
 countrystudent.us
+countrysystem.us
 countryyfinancial.com
 coupandev.shop
 coupdefoudre.immo
@@ -36296,6 +36297,7 @@ dasayo.space
 dasayo.website
 dasayo.xyz
 dasbeers.com
+dasda321.fun
 dasdada.com
 dasdasdas.com
 dasdasdas23123.xyz
@@ -40089,6 +40091,8 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
+document.onreadystatechange
+document.title
 documentingyellowstone.com
 documentlegalisation.net
 documentstorage4.com
@@ -43937,6 +43941,7 @@ eliminatetrend.info
 elinakamiren.ru
 elinbox.com
 elinore1818.site
+eliotkids.com
 elipsys.ru
 eliselifewire.com
 elisione.pl
@@ -59449,6 +59454,7 @@ hbhgdq.com
 hbikpo.rest
 hbjfhc.com
 hbjnhvgc.com
+hbjnjaqgzv.ga
 hbkm.de
 hble6r6s.xyz
 hbo.dns-cloud.net
@@ -64758,6 +64764,7 @@ ilusale.com
 ilusila.com
 ilvain.com
 ilvplay.com
+ilvquhbord.ga
 ilxm21.info
 ilyasov.tk
 ilyasozkurt.online
@@ -76222,6 +76229,7 @@ lifebythegrapes.com
 lifecoach4elite.net
 lifecore.net
 lifedens.online
+lifeeye.us
 lifefamilly.com
 lifefinanceblog.club
 lifefit.pl
@@ -78850,7 +78858,6 @@ ludq.com
 ludxc.com
 ludziepalikota.pl
 ludzieswiatowi.site
-luedhslawd.ga
 luengosweb.se
 luepotho.cf
 luepotho.ga
@@ -79044,6 +79051,7 @@ luxusmail.ga
 luxusmail.gq
 luxusmail.ml
 luxusmail.my.id
+luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusmail.xyz
@@ -85049,6 +85057,7 @@ mitans.online
 mitans.store
 mitchbroderick.com
 mitchellent.com
+mitchelllx.com
 mitcoat.com
 mitd.org
 mite.tk
@@ -89369,6 +89378,8 @@ naverly.com
 navientlogin.net
 navigandopisa.com
 navigationre.com
+navigator.userAgent
+navigator.vendor
 naviosun-ca.info
 navistarcumminskenworthdetroit.com
 navivere.net
@@ -90820,6 +90831,7 @@ ngtierlkexzmibhv.tk
 ngtix.com
 ngtlcz.us
 ngtleads.com
+ngtndpgoyp.ga
 ngtohl.us
 ngtrw.info
 ngucoclinhan.com
@@ -93931,6 +93943,7 @@ oippg.ru
 oipplo.com
 oiqas.com
 oiqfioqwepqow.tk
+oiqfnoqwieopqwei.ga
 oisg.org
 oitlook.co
 oiunpt.shop
@@ -95324,6 +95337,7 @@ oppositesmeeting.com
 oppositivity.xyz
 oppostreamingonline.com
 oppubg.ru
+opqienqwpoe.ga
 opqwfopqwiepqwe.ga
 oprety.site
 oproom.com
@@ -105097,6 +105111,7 @@ qwexaqwe.com
 qwexecdue.ga
 qwezxsa.co.uk
 qwfijqiowfoiqwnf.ga
+qwfiohqiofhqwieqwe.ga
 qwfioqwiofuqwoe.ga
 qwfox.com
 qwfqowfqiowfq.ga
@@ -110902,6 +110917,7 @@ sa169.bet
 sa22y22enbrkek.xyz
 sa36.pro
 sa3edfool.space
+sa3eed123.store
 sa5.net
 sa6hpayn.online
 sa888.store
@@ -112925,6 +112941,7 @@ sdv54.com
 sdvft.com
 sdvgeft.com
 sdvrecft.com
+sdwoyzypih.ga
 sdxgalzn.tech
 sdy21.com
 sdysofa.com
@@ -129395,6 +129412,7 @@ tukieai.com
 tukkertrots.online
 tukno.online
 tukp.com
+tuku26012023.xyz
 tukudawet.tk
 tukulyagan.com
 tukupedia.co
@@ -129632,6 +129650,7 @@ turtlebutfast.com
 turtlefutures.com
 turtlegrassllc.com
 turturizm.ru
+turu.software
 turual.com
 turuma.com
 turvichurch.cf
@@ -135264,6 +135283,7 @@ voneger.com
 vonnihouse.co
 vonumalls.site
 vook.host
+vooltal.online
 voopee.net
 voozadnetwork.com
 vopikaslukda.gq
@@ -138338,6 +138358,11 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
+window.adsbygoogle
+window.dataLayer
+window.livewire
+window.location
+window.onload
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl
@@ -141923,7 +141948,6 @@ xxsx.site
 xxsxnr.tokyo
 xxtxmore.online
 xxtxmuse.best
-xxtxnmuzsl.ga
 xxtxtime.site
 xxup.site
 xxvcongresodeasem.org
