@@ -10746,6 +10746,7 @@ adguemin.cf
 adguemin.ga
 adguemin.ml
 adguemin.tk
+adhamabonaser.space
 adhaute.com
 adheaminn.xyz
 adhibit.site
@@ -23502,7 +23503,6 @@ bluebottle.com
 bluecherry.xyz
 bluechipinvestments.com
 bluecitynews.com
-bluecny.com
 blueco.top
 bluecollarguitarpickupsonline.com
 bluecoreshorties.com
@@ -40101,8 +40101,6 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
-document.onreadystatechange
-document.title
 documentingyellowstone.com
 documentlegalisation.net
 documentstorage4.com
@@ -61786,6 +61784,7 @@ honeyfymfm.ru
 honeygain.house
 honeygain.shop
 honeygain.tech
+honeymail.buzz
 honeymoonpackagesmauritius.com
 honeynet.us
 honeys.be
@@ -78072,6 +78071,7 @@ lordfilmu.org
 lordfkas.tk
 lordjohnsbootery.com
 lordmobilehackonline.eu
+lordmoha.cloud
 lordsofts.com
 lordspalacebet4.com
 lordssfilm.online
@@ -78502,6 +78502,7 @@ lovemeet.faith
 lovemeleaveme.com
 lovemue.com
 lovemydoggy.shop
+lovemyson.site
 lovemytrail.org
 lovenco.online
 loveofthai.com
@@ -79066,7 +79067,6 @@ luxusmail.ga
 luxusmail.gq
 luxusmail.ml
 luxusmail.my.id
-luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusmail.xyz
@@ -89174,7 +89174,6 @@ nappassportmrs.website
 nappillows.info
 naprawa-wroclaw.xaa.pl
 napston.org
-napthe89.net
 napwa.org
 naquke.info
 narad.pro
@@ -89397,8 +89396,6 @@ naverly.com
 navientlogin.net
 navigandopisa.com
 navigationre.com
-navigator.userAgent
-navigator.vendor
 naviosun-ca.info
 navistarcumminskenworthdetroit.com
 navivere.net
@@ -89466,7 +89463,6 @@ nbalakerskidstshirt.info
 nbantw.us
 nbapredictor.com
 nbavip.site
-nbc-sn.com
 nbchurch.pro
 nbcstech.com
 nbcstv.com
@@ -102629,7 +102625,6 @@ programmispiapercellulari.info
 programmr.us
 programmymets.ru
 programpit2013rok.pl
-programschool.biz
 programtv.edu.pl
 progrdessive.com
 progrespolska.net
@@ -114585,6 +114580,7 @@ shaveling.best
 shaw.pl
 shawarmarealalgeciras.com
 shayanashop.biz
+shayfeen.us
 shaylarenx.com
 shayuav.com
 shayzam.net
@@ -118648,6 +118644,7 @@ spongemops.biz
 spongemops.us
 sponsored-by-xeovo-vpn.ink
 sponsored-by-xeovo-vpn.site
+sponsored-by-xeovo.site
 sponsorhq.com
 spont.ml
 spontomleo.cf
@@ -119326,6 +119323,7 @@ stamppot.media
 stampsprint.com
 stan-stan.com
 stanalandgroup.com
+stanastroo.ml
 stanbankrot.xyz
 stanbondsa.com.au
 standais.xyz
@@ -121477,6 +121475,7 @@ suzki.us
 suzroot.com
 suzuki-50.ru
 suzukilab.net
+suzy.email
 suzykim.me
 suzykim.tech
 sv-rs.org
@@ -121767,6 +121766,7 @@ syahmiqjoss.host
 syandard.com
 sybdfyy.com
 sycdns.com
+syckcenzvpn.cf
 syckpk.art
 sycoshoppers.com
 syd.com
@@ -130963,6 +130963,7 @@ uikd.com
 uilfemcjsn.pl
 uimove.xyz
 uimq.com
+uinkopal.cloud
 uinsby.email
 uinta.tech
 uioct.com
@@ -138388,11 +138389,6 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
-window.adsbygoogle
-window.dataLayer
-window.livewire
-window.location
-window.onload
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl
