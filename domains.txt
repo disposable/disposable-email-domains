@@ -29959,6 +29959,7 @@ check-novo.net
 check-prizes-now6.life
 check-prizesonline.life
 checkacc.org
+checkadmin.me
 checkalertfriends.info
 checkaskfriends.info
 checkbesthosting.com
@@ -30648,7 +30649,6 @@ chunjanet.shop
 chuntianwiremesh.com
 chuongtrinhcanhac.com
 chuongtrinhchaobuoisang.xyz
-chupanhcuoidep.vn
 churchatthevenue.net
 churchgrowth.info
 churchmember.org
@@ -32782,7 +32782,6 @@ companyid.shop
 companykeyword.com
 companynews.com
 companynotifier.com
-companysem.store
 companytitles.com
 companytour.online
 companytour.shop
@@ -40136,6 +40135,8 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
+document.onreadystatechange
+document.title
 documentingyellowstone.com
 documentlegalisation.net
 documentstorage4.com
@@ -42021,6 +42022,7 @@ dwango.gq
 dwango.ml
 dwango.tk
 dwboya.org
+dwcjcdpdzv.ga
 dwdpoisk.info
 dweezlemail.crabdance.com
 dweezlemail.ufodns.com
@@ -47071,7 +47073,6 @@ eyeonprisons.com
 eyepain.org
 eyepaste.com
 eyepatchesforboys.com
-eyeplace.us
 eyeremind.com
 eyes2u.com
 eyesandfeet.com
@@ -79130,6 +79131,7 @@ luxusmail.ga
 luxusmail.gq
 luxusmail.ml
 luxusmail.my.id
+luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusmail.xyz
@@ -87601,6 +87603,7 @@ musict.net
 musictracker.ru
 musicu.ru
 musicvideo.africa
+musicvideo.icu
 musicwiki.com
 musicyou.tube
 musiiday.com
@@ -89464,6 +89467,8 @@ naverly.com
 navientlogin.net
 navigandopisa.com
 navigationre.com
+navigator.userAgent
+navigator.vendor
 naviosun-ca.info
 navistarcumminskenworthdetroit.com
 navivere.net
@@ -99352,7 +99357,6 @@ phtunnelerr.com
 phubinh.asia
 phubinh.us
 phuchgioa.com
-phucmmo.com
 phuked.net
 phuket4kids.com
 phuketoasis.com
@@ -118893,6 +118897,7 @@ spotoid.com
 spotream.online
 spotspeople.com
 spottswoods.com
+spoty.email
 spoutserver.com
 spoutsocial.ru
 spoy.cn
@@ -138493,6 +138498,11 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
+window.adsbygoogle
+window.dataLayer
+window.livewire
+window.location
+window.onload
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl
