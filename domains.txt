@@ -23520,6 +23520,7 @@ bluebottle.com
 bluecherry.xyz
 bluechipinvestments.com
 bluecitynews.com
+bluecny.com
 blueco.top
 bluecollarguitarpickupsonline.com
 bluecoreshorties.com
@@ -30101,7 +30102,6 @@ chesteryachtsquadron.com
 chestnuthillhomelistings.com
 chesvlas.website
 chetabet.info
-chetroi.site
 chevachi.com
 cheverlyamalia.art
 chevieshair.com
@@ -40134,6 +40134,8 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
+document.onreadystatechange
+document.title
 documentingyellowstone.com
 documentlegalisation.net
 documentstorage4.com
@@ -59837,6 +59839,7 @@ healthyblog.com
 healthybody.store
 healthycatclub.com
 healthychoicescounselingservices.net
+healthydevelopimmune.com
 healthydiets.ru
 healthyfoodandlife.club
 healthygeektea.com
@@ -79129,6 +79132,7 @@ luxusmail.ga
 luxusmail.gq
 luxusmail.ml
 luxusmail.my.id
+luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusmail.xyz
@@ -89463,6 +89467,8 @@ naverly.com
 navientlogin.net
 navigandopisa.com
 navigationre.com
+navigator.userAgent
+navigator.vendor
 naviosun-ca.info
 navistarcumminskenworthdetroit.com
 navivere.net
@@ -99351,6 +99357,7 @@ phtunnelerr.com
 phubinh.asia
 phubinh.us
 phuchgioa.com
+phucmmo.com
 phuked.net
 phuket4kids.com
 phuketoasis.com
@@ -102561,6 +102568,7 @@ prodojiz.ga
 prodojiz.gq
 prodojiz.ml
 prodotype.com
+prodproductsucts.cloud
 produatthe.cf
 produatthe.gq
 produatthe.tk
@@ -108092,6 +108100,7 @@ reverze.ru
 revhairproducts.com
 revhid.com
 revi.ltd
+reviase.com
 revieoo.com
 review4bonus.net
 review4forex.co.uk
@@ -109041,6 +109050,7 @@ roaheirite.site
 roahenself.cf
 roahenself.ga
 roahenself.ml
+roalemd00.online
 roamvegas.com
 roanawel.cf
 roanawel.ga
@@ -113526,6 +113536,7 @@ sell-here.ru
 sell-market1.ru
 sell365.me
 sellamiitaly.cf
+sellamiitaly.ga
 sellamiitaly.gq
 sellamiitaly.tk
 sellamivpn.ga
@@ -114239,7 +114250,6 @@ severimlers.site
 sevgisoysal.org
 sevilshop.ir
 sevingetraadele.com
-seviqt.ga
 sevirama.com
 sevket123.ga
 sevketbaba.cf
@@ -118892,6 +118902,7 @@ spotoid.com
 spotream.online
 spotspeople.com
 spottswoods.com
+spoty.email
 spoutserver.com
 spoutsocial.ru
 spoy.cn
@@ -121667,7 +121678,6 @@ swatch.com
 swatteammusic.com
 swax.net
 swbpepper.com
-swdswedrt.space
 sweang.club
 sweatankreq.email
 sweatmail.com
@@ -123584,7 +123594,6 @@ tehs8ce9f9ibpskvg.ml
 tehs8ce9f9ibpskvg.tk
 tehsisri.email
 tehsisri.live
-tehsisri.tech
 tehsliv.ru
 tehsusu.cf
 tehsusu.ga
@@ -129832,6 +129841,7 @@ tuubz.com
 tuugo.com
 tuulu-altai.ru
 tuvanthietkexaydung.com
+tuvanwebsite.com
 tuvepi.xyz
 tuvi.xyz
 tuvimoingay.us
@@ -130620,6 +130630,7 @@ ubcategories.com
 ubcpk0.com
 ubdeexu2ozqnoykoqn8.ml
 ubdeexu2ozqnoykoqn8.tk
+ubehalilac.ga
 uber-mail.com
 uber333.com
 uber69route.com
@@ -138479,6 +138490,7 @@ winalways.ru
 winandplay.com
 winanipadtips.info
 winaniphone7.info
+winayabeauty.com
 winbro.online
 wincaresolutions.com
 wincep.com
@@ -138494,6 +138506,11 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
+window.adsbygoogle
+window.dataLayer
+window.livewire
+window.location
+window.onload
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl
