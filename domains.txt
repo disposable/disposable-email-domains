@@ -20522,7 +20522,6 @@ bentwillys.info
 benussi.store
 benwola.pl
 benwoodburn.news
-benzes.online
 benzes.site
 benzi.app
 beo.kr
@@ -40146,6 +40145,8 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
+document.onreadystatechange
+document.title
 documentingyellowstone.com
 documentlegalisation.net
 documentstorage4.com
@@ -69225,7 +69226,6 @@ jlctvmlxq.shop
 jlegue.buzz
 jlelio.buzz
 jlets.com
-jlgiuptgtl.ga
 jljc.site
 jlle.tk
 jllxup.us
@@ -77710,6 +77710,7 @@ lockaya.com
 lockdown.africa
 lockedintheconception.com
 lockedsyz.com
+lockedyourprofile.com
 lockersinthecity.com
 locklisa.cf
 locklisa.ga
@@ -79152,6 +79153,7 @@ luxusmail.ga
 luxusmail.gq
 luxusmail.ml
 luxusmail.my.id
+luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusmail.xyz
@@ -86216,6 +86218,7 @@ mondkap-drukkerij.online
 mondrian.wiki
 mondykyr.com
 mone15.ru
+moned65.fun
 monedix.com
 monedocard.com
 monedonow.com
@@ -89270,6 +89273,7 @@ nappassportmrs.website
 nappillows.info
 naprawa-wroclaw.xaa.pl
 napston.org
+napthe89.net
 napwa.org
 naquke.info
 narad.pro
@@ -89492,6 +89496,8 @@ naverly.com
 navientlogin.net
 navigandopisa.com
 navigationre.com
+navigator.userAgent
+navigator.vendor
 naviosun-ca.info
 navistarcumminskenworthdetroit.com
 navivere.net
@@ -104703,6 +104709,7 @@ qscreated.com
 qsdqsdqd.com
 qsdt.com
 qseminarb.com
+qsfzvamuzk.ga
 qsg9ne.us
 qsjs998.com
 qskg.us
@@ -107015,7 +107022,6 @@ reeducaremagrece.com
 reedy.rocks
 reedy.space
 reefbarandmarket.com
-reefohub.online
 reefohub.place
 reegasubs.cf
 reegasubs.ga
@@ -121683,6 +121689,7 @@ svs-samara.ru
 svsmoney.ru
 svupp.se
 svws-tbr.com
+svxnie.ga
 svxr.org
 svywkabolml.pc.pl
 sw-mg.com
@@ -122040,6 +122047,7 @@ systemcart.systems
 systemchange.me
 systemcloud.me
 systeminfo.club
+systemlow.ga
 systemnet.club
 systemoases.com
 systempete.site
@@ -134704,7 +134712,6 @@ vippoker88.online
 vippoker88.org
 vipracing.icu
 vipraybanuk.co.uk
-vipremium.xyz
 vipsale2015online.com
 vipsbet.com
 vipsentence.ru
@@ -135360,7 +135367,6 @@ voizemall.com
 vokan.tk
 vokbu0.info
 volaj.com
-volamtuan.pro
 voland.site
 volary.site
 volcanclub.com
@@ -138549,6 +138555,11 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
+window.adsbygoogle
+window.dataLayer
+window.livewire
+window.location
+window.onload
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl
@@ -143137,7 +143148,6 @@ yespostcardyou.website
 yesselma.com
 yessicaha1223.tk
 yesterday2010.info
-yesterdie.me
 yesuan17.xyz
 yesuan18.xyz
 yesuan20.xyz
