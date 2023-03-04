@@ -480,7 +480,6 @@
 0aswhv.us
 0b3dc612.xyz
 0b7zwe.com
-0bot.ga
 0box.eu
 0box.net
 0c4538c.club
@@ -15384,6 +15383,7 @@ areannuitiesforme.com
 arearugsdeals.com
 areasevenvision.com
 areastate.biz
+areastate.us
 areatoto.us
 areatrend.hk
 arecaref.shop
@@ -20670,7 +20670,6 @@ besguses.pro
 beshc.us
 beshox.fun
 besirogullarilojistik.xyz
-beskohub.online
 beskohub.site
 beslq.shop
 besltd.net
@@ -22850,6 +22849,7 @@ bklynskyway.com
 bkm43.com
 bknugywge.shop
 bko.kr
+bkoil.anonbox.net
 bkpmht.fun
 bkpmny.fun
 bkpmwr.fun
@@ -23531,6 +23531,7 @@ bluebottle.com
 bluecherry.xyz
 bluechipinvestments.com
 bluecitynews.com
+bluecny.com
 blueco.top
 bluecollarguitarpickupsonline.com
 bluecoreshorties.com
@@ -30828,7 +30829,6 @@ cikhuh.us
 cikmaotomotorlari.xyz
 cikuh.com
 cikveyika.com
-cilboy.fun
 cileepen.cf
 cileepen.ga
 cileepen.gq
@@ -40155,6 +40155,8 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
+document.onreadystatechange
+document.title
 documentingyellowstone.com
 documentlegalisation.net
 documentstorage4.com
@@ -53920,6 +53922,7 @@ genf20plus.com
 genf20review1.com
 gengencharities.net
 gengencharties.net
+gengkapak.ml
 gengxinji.com
 gengzei.club
 genicraft.ru
@@ -79181,6 +79184,7 @@ luxusmail.ga
 luxusmail.gq
 luxusmail.ml
 luxusmail.my.id
+luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusmail.xyz
@@ -89527,6 +89531,8 @@ naverly.com
 navientlogin.net
 navigandopisa.com
 navigationre.com
+navigator.userAgent
+navigator.vendor
 naviosun-ca.info
 navistarcumminskenworthdetroit.com
 navivere.net
@@ -101495,7 +101501,6 @@ poste-recherche.xyz
 postelectro.com
 postely-dream.ru
 postemail.net
-postermaker.store
 postermanderson.com
 posterminaly.ru
 posteronwall.com
@@ -105303,6 +105308,7 @@ qwkk111.com
 qwmmanbetx.com
 qwnxf1.us
 qwop.space
+qwopeioqwnfq.me
 qwpofqpoweipoqw.tk
 qwqrwsf.date
 qwrezasw.com
@@ -106561,6 +106567,7 @@ readyy.site
 readyz.site
 readz.site
 reaic.com
+reaj.cfd
 reakisynch.cf
 reakisynch.ga
 reakisynch.gq
@@ -106592,7 +106599,6 @@ realbahis90.com
 realchangepodcast.live
 realcharts.net
 realchristine.com
-realcryptostudio.tech
 realdealneil.com
 realdemocracy.vision
 realdemocracy.works
@@ -108286,6 +108292,7 @@ rezkavideo.ru
 reznickabasta.com
 rezolventa.ru
 rezoth.ml
+rezqaalla.fun
 reztrip3-qa4.com
 rezumenajob.ru
 rezunz.com
@@ -113416,7 +113423,6 @@ seeashop.space
 seebergs.com
 seed.ml
 seed2tree.com
-seedawiseedawi.space
 seedbankcoin.com
 seedboha.cf
 seedboha.ga
@@ -113920,7 +113926,6 @@ seokarachi.com
 seokings.biz
 seoknock.com
 seolite.net.pl
-seolmi.cf
 seolondon.co.uk
 seolondon24.co.uk
 seolove.fr
@@ -125930,7 +125935,6 @@ thoas.ru
 thodetading.xyz
 thodien247.com
 thoen59.universallightkeys.com
-thoinen.tech
 thoitrang.vn
 thoitrangcongso.vn
 thoitrangnucatinh.xyz
@@ -131860,6 +131864,7 @@ unlimitedreviews.com
 unlimitedwebhostingindia.com
 unlimpokecoins.org
 unling.site
+unlinkedgames.com
 unlockallnetflix.com
 unlofty.best
 unmadeinchina.net
@@ -138612,6 +138617,11 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
+window.adsbygoogle
+window.dataLayer
+window.livewire
+window.location
+window.onload
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl
