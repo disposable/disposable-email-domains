@@ -1,0 +1,21 @@
+name: Sync to upstream
+
+on:
+  schedule:
+    - cron: '30 1 * * *'
+  workflow_dispatch:
+
+jobs:
+  fetch-upstream:
+    name: Fetch Upstream
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Configure Git
+        run: |
+          git remote add upstream https://github.com/disposable/disposable-email-domains.git
+      - name: Fetch and merge
+        run: |
+          git fetch upstream
+          git merge upstream/master
+          git push origin master
