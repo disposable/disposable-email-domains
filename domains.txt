@@ -19764,6 +19764,7 @@ bchousingnews.com
 bcjm4.icu
 bcle.de
 bcnsc.online
+bcoat.anonbox.net
 bcodes.site
 bcompiled3.com
 bconsbee.com
@@ -22893,6 +22894,7 @@ bl5ic2ywfn7bo.ml
 bl5ic2ywfn7bo.tk
 bl60.com
 bl70.com
+blablabla24.com
 blablaboiboi.com
 blablaboyzs.com
 blabladoizece.com
@@ -23548,7 +23550,6 @@ bluebottle.com
 bluecherry.xyz
 bluechipinvestments.com
 bluecitynews.com
-bluecny.com
 blueco.top
 bluecollarguitarpickupsonline.com
 bluecoreshorties.com
@@ -27962,6 +27963,7 @@ capturedbychelle.com
 capturehisheartreviews.info
 caputareg.ga
 caputoesp.llc
+capzone.io
 caqmmw.shop
 caqpacks.com
 caqsasxc.art
@@ -29995,6 +29997,7 @@ check-novo.net
 check-prizes-now6.life
 check-prizesonline.life
 checkacc.org
+checkadmin.me
 checkalertfriends.info
 checkaskfriends.info
 checkbesthosting.com
@@ -40186,8 +40189,6 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
-document.onreadystatechange
-document.title
 documentingyellowstone.com
 documentlegalisation.net
 documentstorage4.com
@@ -46581,6 +46582,7 @@ everyshop.us
 everytg.ml
 everything-it.us
 everythingcqc.org
+everythinger.store
 everythingideas.com
 everythingisnothing.com
 everythinglifehouse.com
@@ -71036,7 +71038,6 @@ karaoke-spider.ru
 karaokegeeks.com
 karaokemike.ru
 karapuz.ru
-karasupost.net
 karataylisesi.xyz
 karatebeltsanduniforms.com
 karateslawno.pl
@@ -79253,7 +79254,6 @@ luxusmail.ga
 luxusmail.gq
 luxusmail.ml
 luxusmail.my.id
-luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusmail.xyz
@@ -89608,8 +89608,6 @@ naverly.com
 navientlogin.net
 navigandopisa.com
 navigationre.com
-navigator.userAgent
-navigator.vendor
 naviosun-ca.info
 navistarcumminskenworthdetroit.com
 navivere.net
@@ -102686,6 +102684,7 @@ problemcompany.us
 problemreactionsolution.today
 problemreactionsolution.xyz
 problemstory.us
+problemwork.us
 probotix.biz
 probowlvoting.info
 probowlvoting2011.info
@@ -114893,6 +114892,7 @@ shebhyy.com
 shedik2.tk
 shedplan.info
 shedplan3547.xyz
+shedrrjazf.ga
 sheehansauction.com
 sheenfalls.com
 sheep.blatnet.com
@@ -118940,6 +118940,7 @@ spongemops.biz
 spongemops.us
 sponsored-by-xeovo-vpn.ink
 sponsored-by-xeovo-vpn.site
+sponsored-by-xeovo.site
 sponsorhq.com
 spont.ml
 spontomleo.cf
@@ -119851,7 +119852,6 @@ statecollegedoctors.com
 statecollegeplumbers.com
 statefl.xyz
 stateflee.xyz
-statehand.us
 statelawsuitreform.org
 statelawyerdirectory.com
 statement.email
@@ -138739,11 +138739,6 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
-window.adsbygoogle
-window.dataLayer
-window.livewire
-window.location
-window.onload
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl
