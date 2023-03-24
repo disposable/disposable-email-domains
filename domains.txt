@@ -18188,6 +18188,7 @@ b4ekh.anonbox.net
 b4in.biz
 b4je.icu
 b4nv.us
+b4ry5.anonbox.net
 b4top.tk
 b4umxf.us
 b4xfzg.us
@@ -23554,6 +23555,7 @@ bluebottle.com
 bluecherry.xyz
 bluechipinvestments.com
 bluecitynews.com
+bluecny.com
 blueco.top
 bluecollarguitarpickupsonline.com
 bluecoreshorties.com
@@ -40200,6 +40202,8 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
+document.onreadystatechange
+document.title
 documentingyellowstone.com
 documentlegalisation.net
 documentstorage4.com
@@ -49895,6 +49899,7 @@ fitnessmojo.org
 fitnessondemand.net
 fitnessreviewsonline.com
 fitnessstartswithfood.com
+fitnesstender.us
 fitnessuniverse.africa
 fitnesszbyszko.pl
 fitnestv.best
@@ -68619,6 +68624,7 @@ jeffreypeterson.info
 jefricrak12.ml
 jeg5ym.us
 jehenuo.ru
+jehfbee.site
 jeie.igg.biz
 jeitodecriar.ga
 jejeje.com
@@ -74273,6 +74279,7 @@ l.co.uk
 l.polosburberry.com
 l.safdv.com
 l.searchengineranker.email
+l.teemail.in
 l00s9ukoyitq.cf
 l00s9ukoyitq.ga
 l00s9ukoyitq.gq
@@ -79275,6 +79282,7 @@ luxusmail.ga
 luxusmail.gq
 luxusmail.ml
 luxusmail.my.id
+luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusmail.xyz
@@ -84157,6 +84165,7 @@ mevj.de
 mevoti.xyz
 mevoto.xyz
 mevoty.xyz
+mevrouwhartman.nl
 mew88.com
 mewinsni.cf
 mewinsni.ga
@@ -89633,6 +89642,8 @@ naverly.com
 navientlogin.net
 navigandopisa.com
 navigationre.com
+navigator.userAgent
+navigator.vendor
 naviosun-ca.info
 navistarcumminskenworthdetroit.com
 navivere.net
@@ -93217,7 +93228,6 @@ nyscengage.com
 nysmail.com
 nytaudience.com
 nyter44.website
-nytimes.com
 nyumail.com
 nyumbang.idjaya.eu.org
 nyusul.com
@@ -114807,6 +114817,7 @@ shantiom.gq
 shantiom.ml
 shaonianpaideqihuanpiaoliu.com
 shaparak90.xyz
+shapedcv.com
 shapeej.xyz
 shapeeje.xyz
 shapelybottom.com
@@ -122963,7 +122974,6 @@ tangoqkwn.ru
 tangramshow.ru
 tangstorunelir.space
 tangtingtung.tech
-tanhanfo.info
 tani-japanese-takeaway.com
 taniesianie.online
 tanihosting.net.pl
@@ -138780,6 +138790,11 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
+window.adsbygoogle
+window.dataLayer
+window.livewire
+window.location
+window.onload
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl
@@ -145687,6 +145702,7 @@ zipb.space
 zipbox.info
 zipc.site
 zipcad.com
+zipcatfish.com
 zipd.press
 zipd.site
 zipd.space
