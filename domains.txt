@@ -11699,7 +11699,6 @@ ahmetcan1234.tk
 ahmetliarmut.ml
 ahmetmahmut.ml
 ahmetmehmet.cf
-ahmosalahgood.fun
 ahoj.co.uk
 ahojmail.pl
 ahomeforjames.org
@@ -17726,7 +17725,6 @@ ayamaria.net
 ayamgeprek.buzz
 ayamrempahdosting.com
 ayandon.xyz
-ayanuska.site
 ayanyalvarado.com
 ayberkys.ga
 ayberkys.ml
@@ -23567,6 +23565,7 @@ bluebottle.com
 bluecherry.xyz
 bluechipinvestments.com
 bluecitynews.com
+bluecny.com
 blueco.top
 bluecollarguitarpickupsonline.com
 bluecoreshorties.com
@@ -26874,7 +26873,6 @@ byrnefamilyfarm.com
 byrnewear.com
 byrostudios.com
 bysky.ru
-bystarlex.us
 bytegift.com
 byteleaders.amsterdam
 byteshack.net
@@ -29753,6 +29751,7 @@ chaturbatoid.com
 chatwith.it
 chauhanz.tk
 chaukkas.com
+chausport.store
 chaussresbuys.com
 chaussure-air-max.com
 chaussure-air-maxs.com
@@ -40236,6 +40235,8 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
+document.onreadystatechange
+document.title
 documentingyellowstone.com
 documentlegalisation.net
 documentstorage4.com
@@ -42784,6 +42785,7 @@ easydinnerrecipes.org
 easydirectory.tk
 easydrop.shop
 easyemail.info
+easyemail.pw
 easyfbcommissions.com
 easyflowers.site
 easyfortuna.com
@@ -45528,6 +45530,7 @@ eq2shs5rva7nkwibh6.ga
 eq2shs5rva7nkwibh6.gq
 eq2shs5rva7nkwibh6.ml
 eq2shs5rva7nkwibh6.tk
+eq3cx.anonbox.net
 eqador-nedv.ru
 eqasmail.com
 eqbill.com
@@ -49952,6 +49955,7 @@ fitnr.org
 fito.de
 fitofive.ru
 fitop.com
+fitprowear.us
 fitscapital.top
 fitschool.be
 fitschool.space
@@ -68019,6 +68023,7 @@ jacity.site
 jack762.info
 jackaoutlet.com
 jackdouglas.online
+jackertamekl.site
 jackets-monclers-sale.com
 jacketwarm.com
 jackhansen.net
@@ -71121,7 +71126,6 @@ karateslawno.pl
 karateuniformsandbelts.com
 karatraman.ml
 karavic.com
-karbonaielite.com
 karbonbet.com
 karcherparts.info
 karcherpremium.online
@@ -72154,6 +72158,7 @@ kickref.ru
 kickskshoes.com
 kickstartbradford.com
 kickvictoria.com
+kicsprems.tk
 kicv.com
 kid-car.ru
 kidalovo.com
@@ -75204,6 +75209,7 @@ lawyersworld.world
 laxyeu.us
 layananemail.com
 layarkaca21.uno
+layarlebar.de
 layarqq.life
 layarqq.loan
 layarqq.online
@@ -79339,6 +79345,7 @@ luxusmail.ga
 luxusmail.gq
 luxusmail.ml
 luxusmail.my.id
+luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusmail.xyz
@@ -81538,7 +81545,6 @@ managelaw.ru
 managementa.buzz
 managementinstruction.buzz
 managements.best
-managere.store
 managerpayservice.club
 managgg12.com
 manam.ru
@@ -89708,6 +89714,8 @@ naverly.com
 navientlogin.net
 navigandopisa.com
 navigationre.com
+navigator.userAgent
+navigator.vendor
 naviosun-ca.info
 navistarcumminskenworthdetroit.com
 navivere.net
@@ -91181,6 +91189,7 @@ nguyentienloi.email
 nguyentuanvu.asia
 nguyentuki.com
 nguyenusedcars.com
+nguyenvuquocanh.com
 ngwsw.info
 nh3.ro
 nha.best
@@ -98541,6 +98550,7 @@ peaceridesla.org
 peachcalories.net
 peachsleep.com
 peachtreeresidencescondo.com
+peacoats.co
 peacockbrowser.com
 peakcfg.com
 peakdebt.org
@@ -107865,6 +107875,7 @@ renaulttrucks.ml
 renaulttrucks.tk
 rencai.cd
 renchah.com
+rencontre-coquine.work
 rencontres.cd
 rencontresannonces.com
 rendek.info
@@ -110271,6 +110282,7 @@ rstabilitybetsnapp.xyz
 rstabilitybettingsnapp.xyz
 rstoremail.ml
 rstoremail.tk
+rstoresmail.ml
 rstsec.com
 rsultimate.com
 rsvhr.com
@@ -130145,7 +130157,6 @@ turturizm.ru
 turu.software
 turual.com
 turuma.com
-turuwae.tech
 turvichurch.cf
 turvichurch.ga
 turvichurch.ml
@@ -138885,6 +138896,11 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
+window.adsbygoogle
+window.dataLayer
+window.livewire
+window.location
+window.onload
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl
