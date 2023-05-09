@@ -3319,6 +3319,7 @@
 2pay-s.club
 2pay-w.club
 2pays.ru
+2pbfp.anonbox.net
 2prong.com
 2ptech.info
 2pwwbt.us
@@ -12188,8 +12189,6 @@ ahmed-ould-daddah.org
 ahmed211.cloud
 ahmed805171.cloud
 ahmedassaf2003.site
-ahmedbakr.cloud
-ahmedbakr200.cloud
 ahmedgomaa.tech
 ahmedkhlef.com
 ahmedmouici.xyz
@@ -12836,7 +12835,6 @@ akirbs.cloud
 akissaboe.us
 akitaxe.eu
 akjewelery-kr.info
-akjudjh.cloud
 akk.ro
 akkecuwa.ga
 akkiproducts.com
@@ -12962,7 +12960,6 @@ al-sawani.com
 al26kt.info
 al3a4t.info
 al3ood.com
-alaali.cloud
 alabama-4k.com
 alabama-get.loan
 alabama-nedv.ru
@@ -14044,6 +14041,7 @@ alsisa.ml
 alsisa.tk
 alsjegeloofd.com
 also.oldoutnewin.com
+alsoai.live
 alsoai.shop
 alsoai.store
 alsoget.com
@@ -15495,6 +15493,7 @@ anxiousmonk.com
 anxjpv.site
 anxmalls.com
 any-gsm-network.top
+any.pink
 any.ploooop.com
 any.pointbuysys.com
 anyagrey.com
@@ -23626,10 +23625,12 @@ big.blatnet.com
 big.fanficforum.com
 big.marksypark.com
 big.pointbuysys.com
+big00010mine.cf
 big00011mine.cf
 big00012mine.cf
 big0001mine.cf
 big0002mine.cf
+big0003mine.cf
 big0004mine.cf
 big0005mine.cf
 big0006mine.cf
@@ -43732,8 +43733,6 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
-document.onreadystatechange
-document.title
 documentingyellowstone.com
 documentlegalisation.net
 documentsproducers.online
@@ -45330,6 +45329,7 @@ dsng8742g85fwent83g485dsfn8245.com
 dspmok.us
 dspwebservices.com
 dsresearchins.org
+dsrgarg.site
 dsrkjj.us
 dsrr.com
 dssvet.ru
@@ -63699,6 +63699,7 @@ hackerndgiveaway.ml
 hackerquest.online
 hackers.onl
 hackersquad.tk
+hackertales.com
 hackertrap.info
 hackervietnam.mobi
 hackerzone.ro
@@ -71063,6 +71064,7 @@ imperiya1.ru
 imperrone.com
 impervakunt.cf
 impervaphc.ml
+impervazxy.fun
 impetus-limitless.net
 impi.com.mx
 impian4d2.online
@@ -86463,7 +86465,6 @@ luxusmail.ga
 luxusmail.gq
 luxusmail.ml
 luxusmail.my.id
-luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusmail.xyz
@@ -91593,6 +91594,7 @@ merda.ga
 merda.gq
 merda.ml
 meredithmanor.info
+merepost.com
 merexaga.xyz
 merfwotoer.com
 merfwotoertest.com
@@ -97875,8 +97877,6 @@ naverly.com
 navientlogin.net
 navigandopisa.com
 navigationre.com
-navigator.userAgent
-navigator.vendor
 navigatortrans.ru
 naviosun-ca.info
 navistarcumminskenworthdetroit.com
@@ -123173,7 +123173,6 @@ scleraxmwa.space
 sclgdetbm.shop
 sclwu7.com
 scmail.cf
-scmail.net
 scmbnpoem.pl
 scmmicro.co.in
 sco388.com
@@ -128679,6 +128678,7 @@ somacolorado.com
 somaderm.health
 somalipress.com
 somans.site
+somardiz.com
 somaroh.com
 sombra-company.ru
 sombracorporation.ru
@@ -135240,6 +135240,7 @@ tempmails.org
 tempmaily.com
 tempnursejob.com
 tempo-mail.info
+tempo-mail.xyz
 tempoconsult.info
 tempomail.fr
 tempomail.org
@@ -151101,11 +151102,6 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
-window.adsbygoogle
-window.dataLayer
-window.livewire
-window.location
-window.onload
 windowconfigurator.com
 windowglassrepairs.xyz
 windowoffice7.com
