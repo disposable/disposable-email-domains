@@ -12651,6 +12651,7 @@ aiwhois.xyz
 aiwireless.xyz
 aiwozhongguo.office.gy
 aixjbv.space
+aixnv.com
 aizennsasuke.cf
 aizennsasuke.ga
 aizennsasuke.gq
@@ -15974,6 +15975,7 @@ apptrackernow.com
 apptraker.cd
 appvention.com
 appwatch.icu
+appxapi.com
 appxilo.com
 appxoly.tk
 appzily.com
@@ -19360,6 +19362,7 @@ b4ry5.anonbox.net
 b4rzx.anonbox.net
 b4top.tk
 b4umxf.us
+b4xex.anonbox.net
 b4xfzg.us
 b514qgly.buzz
 b51wc.space
@@ -23625,7 +23628,6 @@ big.blatnet.com
 big.fanficforum.com
 big.marksypark.com
 big.pointbuysys.com
-big00010mine.cf
 big00011mine.cf
 big00012mine.cf
 big0001mine.cf
@@ -25319,6 +25321,7 @@ bluebottle.com
 bluecherry.xyz
 bluechipinvestments.com
 bluecitynews.com
+bluecny.com
 blueco.top
 bluecollarguitarpickupsonline.com
 bluecoreshorties.com
@@ -35173,6 +35176,7 @@ cognitiveways.xyz
 cogpal.com
 cohalfpricedlisting.com
 cohchecovet.com
+cohdi.com
 cohejy.xyz
 cohwabrush.com
 cohydro.cd
@@ -43733,6 +43737,8 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
+document.onreadystatechange
+document.title
 documentingyellowstone.com
 documentlegalisation.net
 documentsproducers.online
@@ -45329,7 +45335,6 @@ dsng8742g85fwent83g485dsfn8245.com
 dspmok.us
 dspwebservices.com
 dsresearchins.org
-dsrgarg.site
 dsrkjj.us
 dsrr.com
 dssvet.ru
@@ -57256,6 +57261,7 @@ futro-w-modzie.pw
 futtureho.site
 futtureho.xyz
 futuramarketing.we.bs
+futuramind.com
 futuraseoservices.com
 future-buy-mega.ru
 future-institute.info
@@ -59278,6 +59284,7 @@ getseoresultsfromnl.com
 getsewingfit.website
 getshopin.xyz
 getsimpleemail.com
+getsingspiel.com
 getsmag.co
 getsnooperapp.com
 getsoberfast.com
@@ -60824,6 +60831,7 @@ go-blogger.ru
 go-centric.com
 go-creditcardnofeeca-ok.live
 go-creditcardnofeecas-ok.live
+go-daddypromocode.com
 go-intl-online-ok.degree
 go-moscow.ru
 go-online-psychic-ok.live
@@ -67170,6 +67178,7 @@ hol.suspent.com
 hola.org
 holabd.com
 holabook.site
+holaco.xyz
 holaunce.site
 holaveso.website
 holcombefinancial.net
@@ -86465,6 +86474,7 @@ luxusmail.ga
 luxusmail.gq
 luxusmail.ml
 luxusmail.my.id
+luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusmail.xyz
@@ -97877,6 +97887,8 @@ naverly.com
 navientlogin.net
 navigandopisa.com
 navigationre.com
+navigator.userAgent
+navigator.vendor
 navigatortrans.ru
 naviosun-ca.info
 navistarcumminskenworthdetroit.com
@@ -151102,6 +151114,11 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
+window.adsbygoogle
+window.dataLayer
+window.livewire
+window.location
+window.onload
 windowconfigurator.com
 windowglassrepairs.xyz
 windowoffice7.com
@@ -158136,6 +158153,7 @@ zeromail.ga
 zeronex.ml
 zeroonesi.shop
 zerosupervision.art
+zerotermux.pm
 zerothccbd.us
 zerothworld.net
 zerotohero-1.com
