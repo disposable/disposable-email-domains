@@ -902,6 +902,7 @@
 10dkmail.net
 10fpjo.us
 10host.top
+10kbiz.net
 10kilo.us
 10launcheds.com
 10m.email
@@ -10196,6 +10197,7 @@ abingtongroup.com
 abirelwardmaternelle.com
 abisheka.cf
 abista.space
+abject.cfd
 abkacam.xyz
 abkcnjiga.com
 abkernglad.site
@@ -17966,6 +17968,7 @@ auditnv.com
 auditorsoft.net
 audoscale.net
 audrey11reveley.ga
+audrianaputri.com
 audvik.ru
 audytowo.pl
 audytwfirmie.pl
@@ -21036,6 +21039,7 @@ bburberryoutletufficialeit.com
 bbuzzwares.site
 bbvapr.com
 bbw.monster
+bbwcu.anonbox.net
 bbwin188.com
 bbwin188.net
 bbwin99.com
@@ -25686,7 +25690,6 @@ bobew.com
 bobfilm.xyz
 bobfilmclub.ru
 bobfournier.com
-bobgf.ru
 bobisback.com
 bobkhatt.cloud
 bobmail.info
@@ -29053,6 +29056,7 @@ bzone-777.com
 bzone234.com
 bzone555.com
 bzr.com
+bzrtv.site
 bztf1kqptryfudz.cf
 bztf1kqptryfudz.ga
 bztf1kqptryfudz.gq
@@ -40133,6 +40137,7 @@ dcviking.ru
 dcvrgbuj.icu
 dcyfsu.stream
 dd-lucky9.com
+dd-shopify.top
 dd1234.com
 dd18269.com
 dd57822.com
@@ -42537,7 +42542,6 @@ dinkysocial.com
 dinly.icu
 dinnernorthconway.com
 dinnersbydiane.com
-dinnnnnnnnnnna.cloud
 dino56pey.com
 dinoandnight.com
 dinoautomation.com
@@ -43783,6 +43787,8 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
+document.onreadystatechange
+document.title
 documentingyellowstone.com
 documentlegalisation.net
 documentsproducers.online
@@ -45380,6 +45386,7 @@ dsng8742g85fwent83g485dsfn8245.com
 dspmok.us
 dspwebservices.com
 dsresearchins.org
+dsrgarg.site
 dsrkjj.us
 dsrr.com
 dssvet.ru
@@ -55455,6 +55462,7 @@ forcabet56.com
 forcauction.com
 force-loving-brilliancedart-clever.com
 forcelons.xyz
+forcutepaws.com
 ford-edge.club
 ford-escape.club
 ford-flex.club
@@ -55938,6 +55946,7 @@ fr-air-maxs.com
 fr-airmaxs.com
 fr-fr.live
 fr-good.xyz
+fr.cr
 fr.nf
 fr33mail.info
 fr3546ruuyuy.cf
@@ -67935,6 +67944,7 @@ hotbet.website
 hotbet.world
 hotbio.asia
 hotbird.giize.com
+hotbitt.io
 hotblogers.com
 hotbox.com
 hotbrandsonsales1.com
@@ -75773,6 +75783,7 @@ jndu8934a.pl
 jnfengli.com
 jnggachoc.cf
 jnggachoc.gq
+jnggmysqll.com
 jnglkdom.com
 jnglkdomhq.com
 jnhbsdjhty18771.cf
@@ -78475,7 +78486,6 @@ keymail.site
 keymaths.net
 keynote2keynote.com
 keynoteplanner.com
-keyospulsa.com
 keyprestige.com
 keypreview.com
 keyprocal.cf
@@ -86554,6 +86564,7 @@ luxusmail.ga
 luxusmail.gq
 luxusmail.ml
 luxusmail.my.id
+luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusmail.xyz
@@ -97974,6 +97985,8 @@ naverly.com
 navientlogin.net
 navigandopisa.com
 navigationre.com
+navigator.userAgent
+navigator.vendor
 navigatortrans.ru
 naviosun-ca.info
 navistarcumminskenworthdetroit.com
@@ -101889,7 +101902,6 @@ nzaif.com
 nzb.fish
 nzb.land
 nzbeez.com
-nzdau19.website
 nzdev.info
 nzdigitalmarketingpodcast.com
 nzdm.com
@@ -123653,7 +123665,6 @@ seafoodcharters.info
 seafoodglossary.com
 seafoodpn.com
 seag7r.site
-seagull-soft.site.org.in
 seagullnet1.com
 seahawksportsshop.com
 seahawksproteamsshop.com
@@ -135708,7 +135719,6 @@ testebarato.xyz
 testeidenovo.xyz
 testenormal.xyz
 tester-games.ru
-tester2341.great-site.net
 testerino.tk
 testextensile.com
 testfastspendslow.com
@@ -138514,6 +138524,7 @@ tmpmail.net
 tmpmail.org
 tmpnator.live
 tmpromo.online
+tmpx.sa.com
 tmqb.com
 tms12.com
 tmsave.com
@@ -140304,6 +140315,7 @@ travelitis.site
 travelkot.ru
 travellaptop.net
 travellenta.ru
+travellerly.click
 traveln.shop
 travelnewnews.ru
 travelnursingrecruiter.com
@@ -150314,7 +150326,6 @@ werw436526.tk
 werwe.in
 wes-x.net
 wesamnusaer.tech
-wesamort.site
 wesandrianto241.ml
 wesatikah407.cf
 wesatikah407.ml
@@ -151244,6 +151255,11 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
+window.adsbygoogle
+window.dataLayer
+window.livewire
+window.location
+window.onload
 windowconfigurator.com
 windowglassrepairs.xyz
 windowoffice7.com
