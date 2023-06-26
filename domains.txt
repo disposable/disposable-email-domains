@@ -10793,7 +10793,6 @@ acrilworld.ml
 acro.app
 acro.video
 acrobat-research.com
-acrobate-d.com
 acrocephalis.com
 acroexch.us
 acrone.website
@@ -12220,6 +12219,7 @@ ahmadidik.cf
 ahmadidik.ga
 ahmadidik.gq
 ahmadidik.ml
+ahmadmod.cloud
 ahmadne.cloud
 ahmadsuhermansyah.me
 ahmail.xyz
@@ -12227,9 +12227,6 @@ ahmed-ould-daddah.org
 ahmed211.cloud
 ahmed805171.cloud
 ahmedassaf2003.site
-ahmedggadkh108.cloud
-ahmedggah123.cloud
-ahmedggahja58.cloud
 ahmedggasj14.cloud
 ahmedggeg100.cloud
 ahmedggsg741.cloud
@@ -13236,6 +13233,7 @@ aleks-berlev.ru
 aleksandraskincare.com
 alekseymalyamov.ru
 alekseyzaharenko.ru
+aleksracing.com
 alemail.club
 alemalakra.com
 alemaureen164.ga
@@ -13530,6 +13528,7 @@ aliwegwpvd.gq
 aliwegwpvd.ml
 aliwegwpvd.tk
 aliwhite.top
+alixasac.workers.dev
 aliyandex.ru
 aliyubillionsblog.com
 aliyummail.cf
@@ -18029,7 +18028,6 @@ auditnv.com
 auditorsoft.net
 audoscale.net
 audrey11reveley.ga
-audrianaputri.com
 audvik.ru
 audytowo.pl
 audytwfirmie.pl
@@ -18862,6 +18860,7 @@ axaz.email
 axbahis77.com
 axbet.live
 axbyur.info
+axce1.website
 axcenze.cloud
 axcess.com
 axefactoryrun.com
@@ -21983,6 +21982,7 @@ benfrey.com
 bengbeng.me
 bengkelseo.com
 bengkoan.live
+bengkoan.ninja
 benh33mnb.buzz
 benh34vcb.buzz
 benharper.xyz
@@ -23396,6 +23396,7 @@ bfil.in
 bfile.site
 bfirstmail.com
 bfitcpupt.pl
+bfk7x.anonbox.net
 bflier.com
 bfncaring.com
 bfo.kr
@@ -25846,6 +25847,7 @@ bodrummixs.info
 bodrumsozluk.xyz
 bodrumvilla.com
 body-lotion.biz
+body.app
 body55.info
 bodybikinitips.com
 bodybuildingdieta.co.uk
@@ -27487,7 +27489,6 @@ broszreforhoes.com
 broted.site
 brothercs6000ireview.org
 brotherprinterdrivershq.com
-brothershit.me
 brothersontheblockincva.com
 brotvwxyz.com
 brouerg.fun
@@ -28223,7 +28224,6 @@ burcopsg.org
 burdayimcanim.ml
 burdet.xyz
 burdurfm.xyz
-burem.studio
 burenie.space
 bureslav.ru
 burgas.vip
@@ -29149,7 +29149,6 @@ bz-mytyshi.ru
 bz8l.com
 bzaveu.xyz
 bzbu9u7w.xorg.pl
-bzctv.online
 bzdkx.us
 bzfads.space
 bzgiv.anonbox.net
@@ -29224,6 +29223,7 @@ c.gsasearchengineranker.space
 c.gsasearchengineranker.top
 c.gsasearchengineranker.xyz
 c.hcac.net
+c.id
 c.kadag.ir
 c.kerl.gq
 c.loanme.creditcard
@@ -30342,6 +30342,7 @@ captchaproxy.net
 captionmediaservices.com
 captivadesign.com
 captivateandcharm.com
+captnsvo23t.website
 capturedbychelle.com
 capturehisheartreviews.info
 caputareg.ga
@@ -30410,6 +30411,7 @@ carbonhans.com
 carbonia.de
 carbonnotr.com
 carbtc.net
+carbuncl.website
 carcanner.site
 carcaremag.com
 carcdr.com
@@ -33318,7 +33320,6 @@ choxetoanquoc.com
 chqydmxsfs.ga
 chr-transactions.com
 chratechbeest.club
-chrgross.site
 chris.burgercentral.us
 chris260.store
 chrisanhill.com
@@ -33698,7 +33699,6 @@ cimaclub.rocks
 cimaclub.social
 cimaclub.world
 cimaclub.zone
-cimagupy.online
 cimas.info
 cimkocar-lor.ru
 cimsimm.ga
@@ -35143,7 +35143,6 @@ cocodani.cf
 cocodivo.com
 cocoidprzodu.be
 cocoivy.site
-cocolesha.space
 cocomobay.com
 coconberbere.com
 coconnect.tech
@@ -36772,6 +36771,7 @@ correoparacarlos.ga
 correoparacarlos.ml
 correoparacarlos.tk
 correos-es.site
+correotemporal.org
 correotodo.com
 corrientelatina.net
 corrupt.life
@@ -43949,6 +43949,8 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
+document.onreadystatechange
+document.title
 documentingyellowstone.com
 documentlegalisation.net
 documentsproducers.online
@@ -44690,6 +44692,7 @@ downgentai.tk
 downgit.tk
 downhillbillies.org
 downlayer.com
+downloa.me
 download-check.xyz
 download-hub.cf
 download-hub.xyz
@@ -45529,6 +45532,7 @@ dsgmsystems.com
 dsgroup.cd
 dsgs.com
 dsgvo.ru
+dshfjdafd.cloud
 dshidshe.shop
 dshop.se
 dshqughcoin9nazl.cf
@@ -45663,6 +45667,7 @@ duboltconstruction.com
 duboyangjiage.com
 dubstepthis.com
 dubu.tech
+dubukim.me
 dubzone.com
 ducatimotorclubdenver.com
 duck2.club
@@ -49914,7 +49919,6 @@ ericherrmann.net
 ericjohnson.ml
 ericjwallace.com
 erickmadrigal.ml
-ericknoel07.website
 ericrberg.com
 ericreyess.com
 ericsieker.com
@@ -53375,7 +53379,6 @@ ferryardianaliasemailgenerator.gq
 ferryardianaliasemailgenerator.ml
 ferryardianaliasemailgenerator.tk
 ferrydr.icu
-ferrynara.com
 ferryswor.com
 ferstbankrottut.xyz
 fertiary.xyz
@@ -66891,7 +66894,6 @@ hisalzes.site
 hisarlondon.xyz
 hischist.shop
 hisense.org
-hishamm12.shop
 hishark.best
 hishatak.com
 hishescape.space
@@ -67040,6 +67042,7 @@ hjkgkgkk.com
 hjkhgh6ghkjfg.ga
 hjkkb.host
 hjnmyp.com
+hjoghiugiuo.shop
 hjotmail.com
 hjprw.info
 hjpu.com
@@ -70673,6 +70676,8 @@ ifozgz.us
 ifpodef.cf
 ifpodef.ga
 ifpodef.tk
+iframe.name
+iframe.style
 ifrance.site
 ifrghee.com
 ifruit.cf
@@ -74895,6 +74900,7 @@ jasperrobot.com
 jaspertab.com
 jasperwrite.com
 jasperwrite.xyz
+jastrebofigor.site
 jasxft.fun
 jateamssign.cf
 jateamssign.ga
@@ -76188,6 +76194,7 @@ joetestalot.com
 joey.com
 joeycampus.com
 joeyfortman.biz
+joeyjasil.cloud
 joeymarx.com
 joeypatino.com
 joeystays.info
@@ -77503,6 +77510,7 @@ kabelnsk.ru
 kabiny-prysznicowe-in.pl
 kabiny-prysznicowe.ovh
 kabirsigh.ga
+kablanmoh.site
 kablee.net
 kabo-verde-nedv.ru
 kabonusmania.com
@@ -77900,7 +77908,6 @@ karbonaielite.com
 karbonbet.com
 karcherparts.info
 karcherpremium.online
-kareemno3aa.site
 kareemshammout.com
 kareicon.org
 karel-bani.ru
@@ -78070,6 +78077,7 @@ katakidz.com
 katalog.goinfo.pl
 katalogstronstron.pl
 katamo1.com
+katanajp.online
 katanga.cd
 katanganews.cd
 katanyoo.shop
@@ -83113,7 +83121,6 @@ lenujksnt96368.ml
 leo-gaming.tk
 leo-perevod.xyz
 leoandassoc.com
-leodenarend.site
 leoforbaby.ru
 leohlch.com
 leohui.net
@@ -86861,6 +86868,7 @@ luxusmail.ga
 luxusmail.gq
 luxusmail.ml
 luxusmail.my.id
+luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusmail.xyz
@@ -88237,6 +88245,7 @@ maildrop.ga
 maildrop.gq
 maildrop.ml
 maildrops.xyz
+maildrr88.shop
 maildu.de
 maildump.tk
 maildx.com
@@ -89386,6 +89395,7 @@ mandownle.ga
 mandownle.gq
 mandownle.tk
 mandraghen.cf
+mandriya.cloud
 mandua.best
 manduxx.info
 mandyfairy.com
@@ -94327,6 +94337,7 @@ modachane1borsee.com
 modaequipate.com
 modafinilrezeptfrei.space
 modaiptv.com
+modal-backdrop.show
 modalova.biz
 modalova.online
 modalova.se
@@ -94444,6 +94455,7 @@ moepay.com
 moeri.org
 moerss.com
 moesao.com
+moesasahmeddd.space
 moesian.com
 moesite.com
 moesns.com
@@ -98319,6 +98331,8 @@ naverly.com
 navientlogin.net
 navigandopisa.com
 navigationre.com
+navigator.userAgent
+navigator.vendor
 navigatortrans.ru
 naviosun-ca.info
 navistarcumminskenworthdetroit.com
@@ -98678,10 +98692,7 @@ nectarweb.com
 nedal2.tech
 nedalalia.cloud
 nedalalian.shop
-nedalalian.tech
-nedalalii.cloud
 nedalmhm.cloud
-nedalmhmo.tech
 nedalned.cloud
 nedalneda.cloud
 nedaned.cloud
@@ -99024,7 +99035,6 @@ netctrcon.live
 netcubo.com
 netdiscount.shop
 netdisk.life
-netek.me
 netexchangeclient.com
 netfacc.com
 netfalson.fun
@@ -101348,7 +101358,6 @@ nountafor.ga
 nountafor.ml
 nountree.com
 nourashop.com
-noure77.shop
 nousavons.online
 nousavons.store
 nousonderwijs.online
@@ -114062,7 +114071,6 @@ pwodskdf.net
 pwopqx.icu
 pwp.lv
 pwrby.com
-pwruttz.com
 pwstory.com
 pwt9azutcao7mi6.ga
 pwt9azutcao7mi6.ml
@@ -118940,6 +118948,7 @@ rh3qqqmfamt3ccdgfa.gq
 rh3qqqmfamt3ccdgfa.ml
 rh3qqqmfamt3ccdgfa.tk
 rhabne.us
+rhafhamed.online
 rhapsodytakeaway.com
 rhatra.com
 rhause.com
@@ -124613,7 +124622,6 @@ selftanningpills.net
 selindaconcession.com
 selipico.site
 seliux.com
-selivashko.online
 selkamedya.com
 selkirkpc.com
 sell-brends.ru
@@ -125808,7 +125816,6 @@ shar-kov.ru
 sharahenriquez.com
 sharaproctor.com
 sharcares.life
-sharcares.live
 sharcares.online
 sharcares.shop
 sharcares.world
@@ -125824,6 +125831,7 @@ sharedspiritsdev.com
 sharedzone.org
 shareefshareef.website
 shareess.icu
+shareff154.shop
 shareflix.xyz
 sharehaus.org
 sharehealthspot.club
@@ -126031,7 +126039,6 @@ shey-sama.ru
 sheybe.live
 sheytg56.ga
 shh10.space
-shhedd12.shop
 shhmail.com
 shhongshuhan.com
 shhsfqijnw.ga
@@ -127554,7 +127561,6 @@ skbhcnai.shop
 skdjfmail.com
 skdl.de
 skdls.com
-skdyxxhj.xyz
 skechers-store.net
 skechers-store.site
 skechersquebec.com
@@ -133306,6 +133312,7 @@ susungaple.org
 susupk.com
 susupoker.biz
 sususegarcoy.tk
+susuu.me
 susybakaa.ml
 sutann.us
 sutbet71.com
@@ -133641,6 +133648,7 @@ sx4yyv.com
 sxatli.info
 sxbsfz.info
 sxbta.com
+sxccwwswedrt.space
 sxfkln.com
 sxh-auto.com
 sxiii.design
@@ -138370,7 +138378,6 @@ timfosterarchitects.com
 timfrench.net
 timgiarevn.com
 timgmail.com
-timhoreads.com
 timids.cf
 timiko.ru
 timind.co
@@ -139011,13 +139018,11 @@ tmpbox.net
 tmpemails.com
 tmpeml.com
 tmpeml.info
-tmpfixzy.app
 tmpjr.me
 tmpmail.co
 tmpmail.net
 tmpmail.org
 tmpnator.live
-tmppg.tk
 tmpromo.online
 tmpx.sa.com
 tmqb.com
@@ -142804,6 +142809,7 @@ tyhrf.jino.ru
 tyiistar.com
 tyiitech.com
 tyiiweb.com
+tyincoming.com
 tyjiy.live
 tyjw.com
 tykesstreamz.online
@@ -149315,6 +149321,7 @@ wadzinski59.dynamailbox.com
 waelectrician.com
 wafaz.com
 wafege.info
+waffed44.shop
 wafflebrigadecaptain.net
 waffwlwolf.live
 wafrem3456ails.com
@@ -151792,6 +151799,11 @@ windmaweek.tk
 windmine.tk
 windom.fun
 window-55.net
+window.adsbygoogle
+window.dataLayer
+window.livewire
+window.location
+window.onload
 windowconfigurator.com
 windowglassrepairs.xyz
 windowoffice7.com
@@ -155861,7 +155873,6 @@ xyhjzg.com
 xyjckj.icu
 xylar.ru
 xylar.store
-xyliase.kr
 xymailpro.com
 xymgzp.com
 xyngular-europe.eu
@@ -157132,7 +157143,6 @@ yody.cloud
 yoex0s.us
 yofashops.site
 yofibeauty.com
-yofmail.store
 yofoto5188.com
 yoga-flexible.club
 yoga-with-jack.com
@@ -157996,7 +158006,6 @@ yunusdelano.online
 yunusemre.kim
 yuoia.com
 yupengjy.com
-yuplot.website
 yups.xyz
 yuqiliangju.com
 yuradresfirm.xyz
@@ -158731,7 +158740,6 @@ zedsoft.net
 zedthei.shop
 zeducation.tech
 zeedcn.site
-zeeeez.site
 zeego.site
 zeelandent.nl
 zeelandsezorg.com
