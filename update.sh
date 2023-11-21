@@ -1,4 +1,5 @@
 #!/bin/bash
+[ -d .venv ] && source .venv/bin/activate
 git pull -q -f
 
 cd disposable
