@@ -7,18 +7,18 @@ class DisposableEmailDomainsTest < Minitest::Test
     refute_nil ::DisposableEmailDomains::VERSION
   end
 
-  def test_list
-    assert_kind_of Array, DisposableEmailDomains.list
-    refute_empty DisposableEmailDomains.list
+  def test_set
+    assert_kind_of Set, DisposableEmailDomains.set
+    refute_empty DisposableEmailDomains.set
 
-    DisposableEmailDomains.list.each do |domain|
+    DisposableEmailDomains.set.each do |domain|
       assert_kind_of String, domain
       refute_match(/[@\s]/, domain)
     end
   end
 
   def test_include
-    DisposableEmailDomains.list.each do |domain|
+    DisposableEmailDomains.set.each do |domain|
       assert DisposableEmailDomains.include? "bot@#{domain}"
     end
 

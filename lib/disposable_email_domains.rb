@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require_relative "disposable_email_domains/version"
+require "set"
 
 module DisposableEmailDomains
   class Error < StandardError; end
@@ -11,11 +12,12 @@ module DisposableEmailDomains
       return false if mail.nil?
 
       domain = mail[/@(.+)/, 1]
-      list.bsearch { |d| domain <=> d }
+      # list.bsearch { |d| domain <=> d }
+      set.include?(domain)
     end
 
-    def list
-      @@list ||= from_datafile
+    def set
+      @@set ||= Set.new(from_datafile)
     end
 
     private
