@@ -7,6 +7,8 @@ module DisposableEmailDomains
   class Error < StandardError; end
 
   class << self
+    delegate :to_a, to: :set
+
     def include?(mail)
       return false if mail.nil?
 
@@ -16,10 +18,6 @@ module DisposableEmailDomains
 
     def disposable?(domain)
       set.include?(domain)
-    end
-
-    def to_json
-      set.to_a
     end
 
     def set
