@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.summary = "List of disposable email domains"
   spec.description = "List of disposable email domains"
   spec.homepage = "https://github.com/minichat-com/disposable-email-domains"
-  spec.required_ruby_version = ">= 3.0.0"
+  spec.required_ruby_version = ">= 2.7.7"
 
   # spec.metadata["allowed_push_host"] = "TODO: Set to your gem server 'https://example.com'"
 
