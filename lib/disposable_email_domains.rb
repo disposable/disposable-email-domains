@@ -5,15 +5,21 @@ require "set"
 
 module DisposableEmailDomains
   class Error < StandardError; end
-  # Your code goes here...
 
   class << self
     def include?(mail)
       return false if mail.nil?
 
       domain = mail[/@(.+)/, 1]
-      # list.bsearch { |d| domain <=> d }
+      disposable?(domain)
+    end
+
+    def disposable?(domain)
       set.include?(domain)
+    end
+
+    def to_json
+      set.to_a
     end
 
     def set
