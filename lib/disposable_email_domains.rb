@@ -2,12 +2,15 @@
 
 require_relative "disposable_email_domains/version"
 require "set"
+require "forwardable"
 
 module DisposableEmailDomains
   class Error < StandardError; end
 
   class << self
-    delegate :to_a, to: :set
+    extend Forwardable
+
+    def_delegators :set, :to_a
 
     def include?(mail)
       return false if mail.nil?
