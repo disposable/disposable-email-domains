@@ -17,3 +17,6 @@ Style/Documentation:
 
 Layout/LineLength:
   Max: 120
+
+Gemspec/RequiredRubyVersion:
+  Enabled: false
