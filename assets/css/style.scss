@@ -1,0 +1,33 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.alert {
+  margin-top: 1rem;
+  padding: 1rem;
+  border-radius: .5rem;
+  font-size: 1rem;
+  display: none;
+
+  &.error {
+    display: block;
+    background-color: #ffe6e6;
+    color: #a94442;
+    border: 1px solid #a94442;
+  }
+
+  &.info {
+    display: block;
+    background-color: #e6e6ff;
+    color: #3c3c9f;
+    border: 1px solid #3c3c9f;
+  }
+
+  &.success {
+    display: block;
+    background-color: #e6ffe6;
+    color: #3c763d;
+    border: 1px solid #3c763d;
+  }
+}

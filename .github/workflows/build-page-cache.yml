@@ -29,21 +29,19 @@ jobs:
         git config --global user.name 'GitHub Actions'
         git config --global user.email 'github-actions@github.com'
 
-        # Ensure the gh-pages branch is available
-        git fetch origin gh-pages
-
         # Switch to gh-pages branch
-        git checkout gh-pages || git checkout -b gh-pages
-
-        # Merge master into gh-pages
-        git pull origin master
+        git checkout -b gh-pages
 
         # Add all generated files (if your script generates files to be committed)
         git add cache/
 
-        # Commit the changes
-        git commit -m "Update cache [skip ci]" || echo "No changes to commit"
+        # Copy README_pages.md to README.md
+        cp README_pages.md README.md
 
-        git push origin gh-pages
+        # overwrite default readme.md
+        git add README.md
+
+        # Commit the changes
+        git commit -m "Update cache [skip ci]" && git push origin gh-pages --force
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
