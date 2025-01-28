@@ -29,11 +29,11 @@ jobs:
         git config --global user.name 'GitHub Actions'
         git config --global user.email 'github-actions@github.com'
 
-        # Create and checkout the gh-pages branch
-        git checkout origin/gh-pages
+        # Ensure the gh-pages branch is available
+        git fetch origin gh-pages
 
-        # Pull changes from the gh-pages branch
-        git pull
+        # Switch to gh-pages branch
+        git checkout gh-pages || git checkout -b gh-pages
 
         # Merge master into gh-pages
         git pull origin master
@@ -42,9 +42,8 @@ jobs:
         git add cache/
 
         # Commit the changes
-        git commit -m "Deploy cache to gh-pages"
+        git commit -m "Update cache [skip ci]" || echo "No changes to commit"
 
-        # Push changes to the gh-pages branch
         git push origin gh-pages
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
