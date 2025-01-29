@@ -90,7 +90,7 @@ document.getElementById('lookup-form').addEventListener('submit', function (even
         if (!data) {
             return;
         }
-        let msg = `<h1>Domain ${data.domain} is listed!</h1><p><h2>Sources:</h2><ul>`;
+        let msg = `<h1>Domain ${data.domain} ${data.strict ? 'is on <a href="https://github.com/disposable/disposable?tab=readme-ov-file#strict-mode" target="_blank">strict mode list</a>' : 'is listed'}!</h1><p><h2>Sources:</h2><ul>`;
         for (let i = 0; i < data.src.length; i++) {
             const entry = data.src[i],
                 external = entry['ext'];
