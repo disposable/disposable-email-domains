@@ -104,7 +104,13 @@ document.getElementById('lookup-form').addEventListener('submit', function (even
                     user = parts[3],
                     repo = parts[4],
                     branch = parts[6],
-                    file = parts.slice(7).join('/').trim('/');
+                    file = parts.slice(7).join('/');
+
+                // remove tailing slash in file
+                if (file.endsWith('/')) {
+                    file = file.slice(0, -1);
+                }
+
                 is_github = true;
                 link = `https://github.com/${user}/${repo}/blob/${branch}/${file}`;
                 url = url.replace('https://raw.githubusercontent.com/', '');
