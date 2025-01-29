@@ -3,8 +3,12 @@ import hashlib
 import json
 import os
 import logging
+import sys
+sys.path.append('./disposable/')
+from disposable import disposableHostGenerator
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s %(levelname)s %(message)s')
+
 
 def create_cache():
     """Create a hash-based cache of domains and their sources.
@@ -15,6 +19,12 @@ def create_cache():
     Each file contains a JSON object with the domain hash as keys
     and the domain and its source as values.
     """
+
+    external_sources = []
+    for source in disposableHostGenerator.sources:
+        if source.get('external'):
+            external_sources.append(source['src'])
+
     domain_cache = {}
 
     if not os.path.exists('cache'):
@@ -43,7 +53,7 @@ def create_cache():
                 if line.startswith('#') or line == '' or ':' not in line:
                     continue
 
-                source, domain = line.rsplit(':', 1)
+                source_url, domain = line.rsplit(':', 1)
                 domain_hash = hashlib.sha1(domain.encode('utf8')).hexdigest()
 
                 hash_prefix = domain_hash[:2]
@@ -51,9 +61,15 @@ def create_cache():
                     continue
 
                 if 'source' in domain_cache[hash_prefix][domain_hash]:
-                    domain_cache[hash_prefix][domain_hash]['source'].append(source)
+                    domain_cache[hash_prefix][domain_hash]['src'].append({
+                        'url': source_url,
+                        'ext': source_url in external_sources
+                    })
                 else:
-                    domain_cache[hash_prefix][domain_hash]['source'] = [source]
+                    domain_cache[hash_prefix][domain_hash]['src'] = [{
+                        'url': source_url,
+                        'ext': source_url in external_sources
+                    }]
 
         for hash_prefix, domain_data in domain_cache.items():
             with open('cache/' + hash_prefix + '.json', 'w') as f:
@@ -61,6 +77,7 @@ def create_cache():
 
     except Exception as e:
         logging.error(e)
+
 
 if __name__ == '__main__':
     create_cache()

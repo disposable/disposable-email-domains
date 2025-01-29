@@ -39,7 +39,7 @@ jobs:
         git checkout -b gh-pages
 
         # Add all generated files (if your script generates files to be committed)
-        git add cache/
+        git add cache/ --force
 
         # Copy README_pages.md to README.md
         cp README_pages.md README.md

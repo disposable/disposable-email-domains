@@ -412,3 +412,6 @@ $RECYCLE.BIN/
 *.lnk
 
 blacklist.txt
+
+# ignore cache files in normal commit
+cache/
