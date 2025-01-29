@@ -9,6 +9,7 @@ For more informations, please check the [main repository](https://github.com/dis
 ---
 
 # Lookup a domain
+To check if a domain is listed on the disposable email list, please use the lookup form below.
 
 <form id="lookup-form">
   <label for="entry">Enter a domain name:</label>
