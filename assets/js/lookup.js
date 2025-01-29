@@ -92,8 +92,8 @@ document.getElementById('lookup-form').addEventListener('submit', function (even
         }
         let msg = `<h1>Domain ${data.domain} is listed!</h1><p><h2>Sources:</h2><ul>`;
         for (let i = 0; i < data.source.length; i++) {
-            const url = data.source[i];
-            let link = url;
+            let url = data.source[i],
+                link = url;
 
             if (url.startsWith('https://raw.githubusercontent.com/')) {
                 // reformat link to github repository page in https://github.com/<user>/<repo>/blob/<branch>/<filepath>
