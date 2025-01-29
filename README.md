@@ -2,6 +2,8 @@
 
 For more informations, please check the [main repository](https://github.com/disposable/disposable).
 
+To check if a domain is listed on the disposable email list, please use the [lookup form](https://disposable.github.io/disposable-email-domains/lookup).
+
 ---
 
 *If your domain is listed and it is not a domain used for temporary emails, please open [an issue](https://github.com/disposable/disposable/issues) in the main repository.*
