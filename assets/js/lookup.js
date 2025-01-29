@@ -91,8 +91,9 @@ document.getElementById('lookup-form').addEventListener('submit', async (event) 
     }
 
     const sources = data.src.map(entry => {
-        const url = entry.url,
+        let url = entry.url,
             external = entry.ext,
+            display = url,
             is_github = false;
 
         if (url.startsWith('https://raw.githubusercontent.com/')) {
@@ -103,15 +104,17 @@ document.getElementById('lookup-form').addEventListener('submit', async (event) 
                 file = parts.slice(7).join('/').trim('/');
             is_github = true;
             url = `https://github.com/${user}/${repo}/blob/${branch}/${file}`;
+            display = `${user}/${repo}`;
         }
         return {
             url,
             external,
             is_github,
+            display
         };
     });
 
-    const msg = `<h1>Domain ${data.domain} is listed!</h1><p><h2>Sources:</h2><ul>${sources.map(source => `<li><a href="${source.url}" target="_blank">${source.url}</a>${source.external ? ' (external)' : ''}</li>`).join('')}</ul></p>`;
+    const msg = `<h1>Domain ${data.domain} is listed!</h1><p><h2>Sources:</h2><ul>${sources.map(source => `<li><a href="${source.url}" target="_blank${source.is_github ? ' class="github-link"' : ''}">${source.display}</a>${source.external ? ' (external)' : ''}</li>`).join('')}</ul></p>`;
 
     showMessage(msg, 'info');
 });
