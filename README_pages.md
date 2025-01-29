@@ -39,7 +39,3 @@ To check if a domain is listed on the disposable email list, please use the look
 
 * [TXT](https://disposable.github.io/disposable-email-domains/domains_sha1.txt): `https://disposable.github.io/disposable-email-domains/domains_sha1.txt`
 * [JSON](https://disposable.github.io/disposable-email-domains/domains_sha1.json): `https://disposable.github.io/disposable-email-domains/domains_sha1.json`
-
----
-
-To check which list or source has added a domain, please see the [**Source Map for Domains**](https://disposable.github.io/disposable-email-domains/domains_source_map.txt).
