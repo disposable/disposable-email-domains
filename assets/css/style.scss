@@ -10,22 +10,23 @@
   font-size: 1rem;
   display: none;
 
-  &.error {
+  &.error, &.info, &.success {
     display: block;
+  }
+
+  &.error {
     background-color: #ffe6e6;
     color: #a94442;
     border: 1px solid #a94442;
   }
 
   &.info {
-    display: block;
-    background-color: #e6e6ff;
-    color: #3c3c9f;
-    border: 1px solid #3c3c9f;
+    background-color: #f8f8f8;
+    color: #606c71;
+    border: 1px solid #f8f8f8;
   }
 
   &.success {
-    display: block;
     background-color: #e6ffe6;
     color: #3c763d;
     border: 1px solid #3c763d;
