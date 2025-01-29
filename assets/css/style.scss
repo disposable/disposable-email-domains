@@ -3,6 +3,13 @@
 
 @import "{{ site.theme }}";
 
+form#lookup-form {
+  padding: 1rem;
+  border-radius: .5rem;
+  font-size: 1rem;
+  border: 1px solid #eaeaea;
+}
+
 .alert {
   margin-top: 1rem;
   padding: 1rem;
@@ -23,7 +30,7 @@
   &.info {
     background-color: #f8f8f8;
     color: #606c71;
-    border: 1px solid #f8f8f8;
+    border: 1px solid #eaeaea;
   }
 
   &.success {
