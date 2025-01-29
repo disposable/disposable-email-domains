@@ -90,11 +90,24 @@ document.getElementById('lookup-form').addEventListener('submit', function (even
         if (!data) {
             return;
         }
-        let msg = `<h1>Domain ${data.domain} is listed!</h1><p><h2>Sources:</h2>`;
+        let msg = `<h1>Domain ${data.domain} is listed!</h1><p><h2>Sources:</h2><ul>`;
         for (let i = 0; i < data.source.length; i++) {
-            msg += `<a href="${data.source[i]}" target="_blank">${data.source[i]}</a><br/>`;
+            const url = data.source[i];
+            let link = url;
+
+            if (url.startsWith('https://raw.githubusercontent.com/')) {
+                // reformat link to github repository page in https://github.com/<user>/<repo>/blob/<branch>/<filepath>
+                const parts = url.split('/');
+                const user = parts[3];
+                const repo = parts[4];
+                const branch = parts[6];
+                const file = parts.slice(7).join('/');
+                link = `https://github.com/${user}/${repo}/blob/${branch}/${file}`;
+                url = url.replace('https://raw.githubusercontent.com/', '');
+            }
+            msg += `<li><a href="${link}" target="_blank">${url}</a></li>`;
         }
-        msg += '</p>';
+        msg += '</ul></p>';
         showMessage(msg, 'info');
     });
 });
