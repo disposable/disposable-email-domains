@@ -38,7 +38,7 @@ async function fetchAndCacheJson(prefix) {
     }
 
     try {
-        const response = await fetch(`cache/${prefix}.json`);
+        const response = await fetch(`cache/${prefix}.json?v=${Date.now()}`);
         if (!response.ok) {
             throw new Error(`Failed to load cache/${prefix}.json`);
         }

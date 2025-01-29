@@ -60,7 +60,7 @@ def create_cache():
                 if domain_hash not in domain_cache.get(hash_prefix, {}):
                     continue
 
-                if 'source' in domain_cache[hash_prefix][domain_hash]:
+                if 'src' in domain_cache[hash_prefix][domain_hash]:
                     domain_cache[hash_prefix][domain_hash]['src'].append({
                         'url': source_url,
                         'ext': source_url in external_sources

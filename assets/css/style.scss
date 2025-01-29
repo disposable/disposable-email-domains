@@ -31,3 +31,14 @@
     border: 1px solid #3c763d;
   }
 }
+
+a.github-link::before {
+  // prefix link with github favicon
+  display: inline-block;
+  content: '';
+  width: 16px;
+  height: 16px;
+  margin-right: .5rem;
+  background: url('https://github.com/favicon.ico') no-repeat center center;
+  background-size: contain;
+}
