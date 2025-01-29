@@ -104,7 +104,7 @@ document.getElementById('lookup-form').addEventListener('submit', function (even
                     user = parts[3],
                     repo = parts[4],
                     branch = parts[5],
-                    file = parts.slice(7).join('/');
+                    file = parts.slice(6).join('/');
 
                 // remove tailing slash in file
                 if (file.endsWith('/')) {
