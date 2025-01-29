@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Lookup a domain
+description: ""
 hide_description: true
 hide_github_btn: true
 show_downloads: false
