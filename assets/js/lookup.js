@@ -103,7 +103,7 @@ document.getElementById('lookup-form').addEventListener('submit', function (even
                 const parts = url.split('/'),
                     user = parts[3],
                     repo = parts[4],
-                    branch = parts[6],
+                    branch = parts[5],
                     file = parts.slice(7).join('/');
 
                 // remove tailing slash in file
