@@ -44,7 +44,32 @@ def create_cache():
                     domain_cache[hash_prefix] = {}
 
                 domain_cache[hash_prefix][domain_hash] = {
-                    'domain': domain
+                    'domain': domain,
+                    'strict': False,
+                    'src': []
+                }
+
+        # Add domains from grey/strict list
+        with open('disposable/greylist.txt') as f:
+            for domain in f:
+                domain = domain.strip()
+                if domain.startswith('#') or domain == '':
+                    continue
+                domain_hash = hashlib.sha1(domain.encode('utf8')).hexdigest()
+
+                hash_prefix = domain_hash[:2]
+                if hash_prefix not in domain_cache:
+                    domain_cache[hash_prefix] = {}
+
+                domain_cache[hash_prefix][domain_hash] = {
+                    'domain': domain,
+                    'strict': True,
+                    'src': [
+                        {
+                            'url': 'https://raw.githubusercontent.com/disposable/disposable/master/greylist.txt',
+                            'ext': False
+                        }
+                    ]
                 }
 
         with open('domains_source_map.txt', 'r') as f:
@@ -60,16 +85,10 @@ def create_cache():
                 if domain_hash not in domain_cache.get(hash_prefix, {}):
                     continue
 
-                if 'src' in domain_cache[hash_prefix][domain_hash]:
-                    domain_cache[hash_prefix][domain_hash]['src'].append({
-                        'url': source_url,
-                        'ext': source_url in external_sources
-                    })
-                else:
-                    domain_cache[hash_prefix][domain_hash]['src'] = [{
-                        'url': source_url,
-                        'ext': source_url in external_sources
-                    }]
+                domain_cache[hash_prefix][domain_hash]['src'].append({
+                    'url': source_url,
+                    'ext': source_url in external_sources
+                })
 
         for hash_prefix, domain_data in domain_cache.items():
             with open('cache/' + hash_prefix + '.json', 'w') as f:
