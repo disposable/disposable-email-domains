@@ -80,41 +80,38 @@ async function processDomain(input) {
 
     return jsonData[sha1Hash];
 }
-document.getElementById('lookup-form').addEventListener('submit', async (event) => {
-    event.preventDefault();
+
+document.getElementById('lookup-form').addEventListener('submit', function (event) {
+    event.preventDefault(); // Prevent form submission
 
     const domainInput = document.getElementById('domain').value;
 
-    const data = await processDomain(domainInput);
-    if (!data) {
-        return;
-    }
-
-    const sources = data.src.map(entry => {
-        let url = entry.url,
-            external = entry.ext,
-            display = url,
-            is_github = false;
-
-        if (url.startsWith('https://raw.githubusercontent.com/')) {
-            const parts = url.split('/'),
-                user = parts[3],
-                repo = parts[4],
-                branch = parts[6],
-                file = parts.slice(7).join('/').trim('/');
-            is_github = true;
-            url = `https://github.com/${user}/${repo}/blob/${branch}/${file}`;
-            display = `${user}/${repo}`;
+    processDomain(domainInput).then((data) => {
+        if (!data) {
+            return;
         }
-        return {
-            url,
-            external,
-            is_github,
-            display
-        };
+        let msg = `<h1>Domain ${data.domain} is listed!</h1><p><h2>Sources:</h2><ul>`;
+        for (let i = 0; i < data.src.length; i++) {
+            const entry = data.src[i],
+                external = entry['ext'];
+            let url = entry['url'],
+                link = url,
+                is_github = false;
+
+            if (url.startsWith('https://raw.githubusercontent.com/')) {
+                // reformat link to github repository page in https://github.com/<user>/<repo>/blob/<branch>/<filepath>
+                const parts = url.split('/'),
+                    user = parts[3],
+                    repo = parts[4],
+                    branch = parts[6],
+                    file = parts.slice(7).join('/').trim('/');
+                is_github = true;
+                link = `https://github.com/${user}/${repo}/blob/${branch}/${file}`;
+                url = url.replace('https://raw.githubusercontent.com/', '');
+            }
+            msg += `<li><a href="${link}" target="_blank" ${is_github ? 'class="github-link"' : ''}>${url}</a>${external ? ' (external)' : ''}</li>`;
+        }
+        msg += '</ul></p>';
+        showMessage(msg, 'info');
     });
-
-    const msg = `<h1>Domain ${data.domain} is listed!</h1><p><h2>Sources:</h2><ul>${sources.map(source => `<li><a href="${source.url}" target="_blank${source.is_github ? ' class="github-link"' : ''}">${source.display}</a>${source.external ? ' (external)' : ''}</li>`).join('')}</ul></p>`;
-
-    showMessage(msg, 'info');
 });
