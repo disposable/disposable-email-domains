@@ -14,6 +14,14 @@ function isValidDomain(domain) {
     return domainRegex.test(domain);
 }
 
+function escapeHtml(unsafe) {
+    return unsafe
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#039;");
+}
 
 function showMessage(html, type) {
     const messageDiv = document.getElementById('result');
@@ -59,7 +67,7 @@ async function processDomain(input) {
 
     // Validate the cleaned domain
     if (!isValidDomain(cleanedInput)) {
-        showMessage(`Domain ${cleanedInput} is not valid.`, 'error');
+        showMessage(`Domain ${escapeHtml(cleanedInput)} is not valid.`, 'error');
         return null, null;
     }
 
@@ -76,7 +84,7 @@ async function processDomain(input) {
 
     // Look up the SHA-1 hash in the JSON data
     if (!jsonData[sha1Hash]) {
-        showMessage(`Domain ${cleanedInput} is not listed.`, 'success');
+        showMessage(`Domain ${escapeHtml(cleanedInput)} is not listed.`, 'success');
     }
 
     return jsonData[sha1Hash];
@@ -87,7 +95,7 @@ function lookup(domainInput) {
         if (!data) {
             return;
         }
-        let msg = `<h1>Domain ${escapeHtml(data.domain)} ${data.strict ? 'is on <a href="https://github.com/disposable/disposable?tab=readme-ov-file#strict-mode" target="_blank">strict mode list</a>' : 'is listed'}!</h1><p><h2>Sources:</h2><ul>`;
+        let msg = `<h1>Domain ${data.domain} ${data.strict ? 'is on <a href="https://github.com/disposable/disposable?tab=readme-ov-file#strict-mode" target="_blank">strict mode list</a>' : 'is listed'}!</h1><p><h2>Sources:</h2><ul>`;
         for (let i = 0; i < data.src.length; i++) {
             const entry = data.src[i],
                 external = entry['ext'];
