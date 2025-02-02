@@ -14,18 +14,10 @@ function isValidDomain(domain) {
     return domainRegex.test(domain);
 }
 
-function escapeHtml(unsafe) {
-    return unsafe
-        .replace(/&/g, "&amp;")
-        .replace(/</g, "&lt;")
-        .replace(/>/g, "&gt;")
-        .replace(/"/g, "&quot;")
-        .replace(/'/g, "&#039;");
-}
 
-function showMessage(message, type) {
+function showMessage(html, type) {
     const messageDiv = document.getElementById('result');
-    messageDiv.innerHTML = escapeHtml(message);
+    messageDiv.innerHTML = html;
     messageDiv.className = 'alert ' + type;
 }
 
