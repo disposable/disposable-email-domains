@@ -90,11 +90,7 @@ async function processDomain(input) {
     return jsonData[sha1Hash];
 }
 
-document.getElementById('lookup-form').addEventListener('submit', function (event) {
-    event.preventDefault(); // Prevent form submission
-
-    const domainInput = document.getElementById('domain').value;
-
+function lookup(domainInput) {
     processDomain(domainInput).then((data) => {
         if (!data) {
             return;
@@ -129,11 +125,17 @@ document.getElementById('lookup-form').addEventListener('submit', function (even
         msg += '</ul></p>';
         showMessage(msg, 'info');
     });
+}
+
+document.getElementById('lookup-form').addEventListener('submit', function (event) {
+    event.preventDefault();
+    const domainInput = document.getElementById('domain').value;
+    lookup(domainInput);
 });
 
 // check if domain query parameter is given, set as value of input and submit
 const domain = new URLSearchParams(window.location.search).get('domain');
 if (domain) {
     document.getElementById('domain').value = domain;
-    document.getElementById('lookup-form').submit();
+    lookup(domain);
 }
