@@ -96,12 +96,18 @@ function lookup(domainInput) {
             return;
         }
         let msg = `<h1>Domain ${data.domain} ${data.strict ? 'is on <a href="https://github.com/disposable/disposable?tab=readme-ov-file#strict-mode" target="_blank">strict mode list</a>' : 'is listed'}!</h1><p><h2>Sources:</h2><ul>`;
+        let has_external = false;
         for (let i = 0; i < data.src.length; i++) {
             const entry = data.src[i],
                 external = entry['ext'];
             let url = entry['url'],
                 link = url,
+                issue_link = null,
                 is_github = false;
+
+            if (external) {
+                has_external = true;
+            }
 
             if (url.startsWith('https://raw.githubusercontent.com/')) {
                 // reformat link to github repository page in https://github.com/<user>/<repo>/blob/<branch>/<filepath>
@@ -118,11 +124,23 @@ function lookup(domainInput) {
 
                 is_github = true;
                 link = `https://github.com/${user}/${repo}/blob/${branch}/${file}`;
+                issue_link = `https://github.com/${user}/${repo}/issues/new`;
                 url = url.replace('https://raw.githubusercontent.com/', '');
             }
-            msg += `<li><a href="${link}" target="_blank" ${is_github ? 'class="github-link"' : ''}>${url}</a>${external ? ' (external)' : ''}</li>`;
+            msg += `<li><a href="${link}" target="_blank" ${is_github ? 'class="github-link"' : ''}>${url}</a>${external && !is_github ? ' (external)' : ''}
+                ${issue_link ? ' (<a href="' + issue_link + '" class="btn" target="_blank">create issue</a>)' : ''}</li>`;
         }
         msg += '</ul></p>';
+
+        if (!has_external) {
+            // add link to create false-positive issue on main repository
+            msg += `<p>Domain was added by source from the <a href="https://github.com/disposable/disposable-email-domains" target="_blank">main repository</a>.
+            <a class="btn" href="https://github.com/disposable/disposable/issues/new?template=non-disposable-domain-listed.md" target="_blank">Create false-positive issue</a></p>`;
+        } else {
+            // show message that issue creation for external sources is not possible
+            msg += `<p>Domain listed from external source. Issue creation for external sources is not possible.</p>`;
+        }
+
         showMessage(msg, 'info');
     });
 }
