@@ -128,14 +128,14 @@ function lookup(domainInput) {
                 url = url.replace('https://raw.githubusercontent.com/', '');
             }
             msg += `<li><a href="${link}" target="_blank" ${is_github ? 'class="github-link"' : ''}>${url}</a>${external && !is_github ? ' (external)' : ''}
-                ${issue_link ? ' (<a href="' + issue_link + '" class="btn" target="_blank">create issue</a>)' : ''}</li>`;
+                ${issue_link ? ' (<a href="' + issue_link + '" target="_blank">create issue</a>)' : ''}</li>`;
         }
         msg += '</ul></p>';
 
         if (!has_external) {
             // add link to create false-positive issue on main repository
             msg += `<p>Domain was added by source from the <a href="https://github.com/disposable/disposable-email-domains" target="_blank">main repository</a>.
-            <a class="btn" href="https://github.com/disposable/disposable/issues/new?template=non-disposable-domain-listed.md" target="_blank">Create false-positive issue</a></p>`;
+            <a href="https://github.com/disposable/disposable/issues/new?template=non-disposable-domain-listed.md" target="_blank">Create false-positive issue</a></p>`;
         } else {
             // show message that issue creation for external sources is not possible
             msg += `<p>Domain listed from external source. Issue creation for external sources is not possible.</p>`;
