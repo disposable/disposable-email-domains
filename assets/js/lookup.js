@@ -121,3 +121,10 @@ document.getElementById('lookup-form').addEventListener('submit', function (even
         showMessage(msg, 'info');
     });
 });
+
+// check if domain query parameter is given, set as value of input and submit
+const domain = new URLSearchParams(window.location.search).get('domain');
+if (domain) {
+    document.getElementById('domain').value = domain;
+    document.getElementById('lookup-form').submit();
+}
