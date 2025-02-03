@@ -95,7 +95,13 @@ function lookup(domainInput) {
         if (!data) {
             return;
         }
-        let msg = `<h1>Domain ${data.domain} ${data.strict ? 'is on <a href="https://github.com/disposable/disposable?tab=readme-ov-file#strict-mode" target="_blank">strict mode list</a>' : 'is listed'}!</h1><p><h2>Sources:</h2><ul>`;
+
+        if (data.whitelist) {
+            showMessage(`Domain ${escapeHtml(cleanedInput)} is excluded by <a href="https://github.com/disposable/disposable/blob/master/whitelist.txt" target="_blank">whitelist</a>.`, 'success');
+        }
+
+        let msg = `<h1>Domain ${data.domain} ${data.strict ? 'is on <a href="https://github.com/disposable/disposable?tab=readme-ov-file#strict-mode" target="_blank">strict mode list</a>' :
+                 'is listed'}!</h1><p><h2>Sources:</h2><ul>`;
         let has_external = false;
         for (let i = 0; i < data.src.length; i++) {
             const entry = data.src[i],
@@ -128,17 +134,17 @@ function lookup(domainInput) {
                 url = url.replace('https://raw.githubusercontent.com/', '');
             }
             msg += `<li><a href="${link}" target="_blank" ${is_github ? 'class="github-link"' : ''}>${url}</a>${external && !is_github ? ' (external)' : ''}
-                ${issue_link ? ' (<a href="' + issue_link + '" target="_blank">create issue</a>)' : ''}</li>`;
+                ${issue_link ? ' (false positive? <a href="' + issue_link + '" target="_blank">create issue</a>)' : ''}</li>`;
         }
         msg += '</ul></p>';
 
         if (!has_external) {
             // add link to create false-positive issue on main repository
-            msg += `<p>Domain was added by source from the <a href="https://github.com/disposable/disposable-email-domains" target="_blank">main repository</a>.
-            <a href="https://github.com/disposable/disposable/issues/new?template=non-disposable-domain-listed.md" target="_blank">Create false-positive issue</a></p>`;
+            msg += `<p>This domain was added from the <a href="https://github.com/disposable/disposable-email-domains" target="_blank">official repository</a>.
+If you believe this domain is incorrectly listed as disposable, please <a href="https://github.com/disposable/disposable/issues/new?template=non-disposable-domain-listed.md" target="_blank">report it as a false positive</a>.</p>`;
         } else {
             // show message that issue creation for external sources is not possible
-            msg += `<p>Domain listed from external source. Issue creation for external sources is not possible.</p>`;
+            msg += `<p>This domain was sourced from an external provider. As we do not manage external sources, we are unable to handle false-positive reports for these. Please contact the source directly for any inquiries.</p>`;
         }
 
         showMessage(msg, 'info');

@@ -72,6 +72,29 @@ def create_cache():
                     ]
                 }
 
+        # Add domains from grey/whitelist list
+        with open('disposable/whitelist.txt') as f:
+            for domain in f:
+                domain = domain.strip()
+                if domain.startswith('#') or domain == '':
+                    continue
+                domain_hash = hashlib.sha1(domain.encode('utf8')).hexdigest()
+
+                hash_prefix = domain_hash[:2]
+                if hash_prefix not in domain_cache:
+                    domain_cache[hash_prefix] = {}
+
+                domain_cache[hash_prefix][domain_hash] = {
+                    'domain': domain,
+                    'whitelist': True,
+                    'src': [
+                        {
+                            'url': 'https://raw.githubusercontent.com/disposable/disposable/master/whitelist.txt',
+                            'ext': False
+                        }
+                    ]
+                }
+
         with open('domains_source_map.txt', 'r') as f:
             for line in f:
                 line = line.strip()
