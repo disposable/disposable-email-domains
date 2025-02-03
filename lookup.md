@@ -6,9 +6,11 @@ show_downloads: false
 ---
 
 <form id="lookup-form">
-  <label for="entry">Enter a domain name:</label>
-  <input type="text" id="domain" name="domain" required>
-  <button type="submit">Lookup</button>
+  <fieldset role="group">
+    <label for="entry">Enter a domain name:</label>
+    <input type="text" id="domain" name="domain" required>
+    <button type="submit">Lookup</button>
+  </fieldset>
 </form>
 
 <div id="result" class="alert"></div>
