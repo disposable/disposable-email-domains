@@ -97,7 +97,7 @@ function lookup(domainInput) {
         }
 
         if (data.whitelist) {
-            showMessage(`Domain ${escapeHtml(cleanedInput)} is excluded by <a href="https://github.com/disposable/disposable/blob/master/whitelist.txt" target="_blank">whitelist</a>.`, 'success');
+            showMessage(`Domain ${escapeHtml(data.domain)} is excluded by <a href="https://github.com/disposable/disposable/blob/master/whitelist.txt" target="_blank">whitelist</a>.`, 'success');
         }
 
         let msg = `<h1>Domain ${data.domain} ${data.strict ? 'is on <a href="https://github.com/disposable/disposable?tab=readme-ov-file#strict-mode" target="_blank">strict mode list</a>' :
