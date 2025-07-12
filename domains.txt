@@ -1,4 +1,3 @@
-.tooltip.bottom
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -40,6 +39,7 @@
 00sh.cf
 010gmail.com
 011gmail.com
+0123.website
 012gmail.com
 017gmail.com
 01852990.ga
@@ -3706,6 +3706,7 @@
 9kfifc2x.pl
 9klsh2kz9.pl
 9mail.cf
+9mail.shop
 9mail9.cf
 9maja.pl
 9me.site
@@ -3767,7 +3768,6 @@
 9ziqmkpzz3aif.ml
 9ziqmkpzz3aif.tk
 9zjz7suyl.pl
-Temporary-Mail.net
 a-action.ru
 a-b.co.za
 a-bc.net
@@ -3795,7 +3795,6 @@ a.b.c.emlpro.com
 a.b.c.emltmp.com
 a.b.c.laste.ml
 a.barbiedreamhouse.club
-a.bc
 a.beardtrimmer.club
 a.bestwrinklecreamnow.com
 a.betr.co
@@ -5188,7 +5187,6 @@ aifmhymvug7n4.ga
 aifmhymvug7n4.gq
 aifmhymvug7n4.ml
 aifmhymvug7n4.tk
-aigledev.com
 aihent.com
 aihtnb.com
 aihualiu.com
@@ -6148,6 +6146,7 @@ amilegit.com
 amimail.com
 amimu.com
 amin.co.pl
+aminating.com
 amindhab.ga
 amindhab.gq
 aminois.ga
@@ -7882,7 +7881,6 @@ availablewibowo.biz
 avainternational.com
 avaliaboards.com
 avalins.com
-avalonminer.cloud
 avalonrx.com
 avalonyouth.com
 avanafilprime.com
@@ -8700,7 +8698,6 @@ back.marksypark.com
 back.oldoutnewin.com
 back2barack.info
 back2bsback.com
-backToTopButton.style.display
 backalleybowling.info
 backalleydesigns.org
 backbone.works
@@ -11336,7 +11333,6 @@ booyabiachiyo.com
 bopff.anonbox.net
 bopra.xyz
 bopunkten.se
-bopwf.anonbox.net
 boraa.xyz
 borakvalley.com
 boran.ga
@@ -11412,6 +11408,7 @@ bossless.net
 bossmail.de
 bossman.chat
 bossmanjack.net
+bossmanjack.shop
 bosterpremium.com
 bostonhydraulic.com
 bostonplanet.com
@@ -12807,7 +12804,6 @@ cafebacke.com
 cafebacke.net
 cafecar.xyz
 cafecoquin.com
-cafeneon.se
 cafeqrmenu.xyz
 cafesui.com
 cafrem3456ails.com
@@ -14239,7 +14235,6 @@ chewiemail.com
 chewydonut.com
 chexsystemsaccount.com
 chezdepaor.com
-chezjoms.com
 chfp.de
 chfx.com
 chg.yomail.info
@@ -14651,6 +14646,7 @@ ckfsunwwtlhwkclxjah.gq
 ckfsunwwtlhwkclxjah.ml
 ckfsunwwtlhwkclxjah.tk
 ckhouse.hk
+ckiaspal.ovh
 ckiso.com
 ckkdetails.com
 ckme1c0id1.cf
@@ -15197,6 +15193,7 @@ codem.site
 codemail1.com
 codeo.site
 codeq.site
+coderdir.com
 coderoutemaroc.com
 codestar.site
 codeu.site
@@ -15690,8 +15687,6 @@ copjlix.de.vc
 copley.entadsl.com
 copot.info
 copperemail.com
-copyBtn.innerHTML
-copyTitle.textContent
 copyandart.de
 copycashvalve.com
 copyhome.win
@@ -16786,6 +16781,7 @@ dafrem3456ails.com
 daftarjudimixparlay.com
 daga3799.com
 dagagd.pl
+dagavip1.top
 dagberet.com
 dagj.emlpro.com
 dahaka696.com
@@ -17845,7 +17841,6 @@ despam.it
 despammed.com
 destinationsmoke.com
 destive.world
-destroyLink.nextSibling.textContent
 destructiveblog.com
 destweb.com
 deszn1d5wl8iv0q.cf
@@ -18970,7 +18965,6 @@ doctovc.com
 doctroscares.shop
 doctroscares.world
 docu.me
-document.cookie
 docusign-enterprise.com
 docv.site
 docw.site
@@ -19246,7 +19240,6 @@ doresonico.uk
 doriana424.com
 dorkalicious.co.uk
 dorodred.com
-dorpolnews.com
 dorukhansozer.cfd
 dorywalski.pl
 dosait.ru
@@ -19693,6 +19686,7 @@ ds-3.tk
 ds-love.space
 ds-lover.ru
 ds4cz.anonbox.net
+ds4kojima.com
 dsaca.com
 dsad.de
 dsadsaadsa.online
@@ -21650,6 +21644,7 @@ endeavorla.com
 endeavorsllc.com
 endelite.com
 endergraph.com
+endibit.com
 endob.com
 endosferes.ru
 endrix.org
@@ -25205,7 +25200,6 @@ friendlymail.co.uk
 friendlynewscorner.com
 friendlynewsinsight.com
 friendlynewslink.com
-friendlynewsportal.com
 friendlynewswire.com
 friendsack.com
 frisbook.com
@@ -27889,7 +27883,6 @@ groupe-psa.cf
 groupe-psa.gq
 groupe-psa.ml
 groupe-psa.tk
-groupgameasia.xyz
 groups.poisedtoshrike.com
 grow-mail.com
 growar.com
@@ -29507,7 +29500,6 @@ hissfuse.com
 histhisc.shop
 historicstalphonsus.org
 historictheology.com
-historyLink.nextSibling.textContent
 historyship.ru
 hisukamie.com
 hit.cowsnbullz.com
@@ -29938,6 +29930,7 @@ horshing.site
 hortmail.de
 horvathurtablahoz.ml
 hos24.de
+hosintoy.com
 hosliy.com
 hospitals.solutions
 hospitalvains.social
@@ -31985,7 +31978,6 @@ inox.org.pl
 inpowiki.xyz
 inppares.org.pe
 inpsur.com
-inputRect.width
 inpwa.com
 inrelations.ru
 inrim.cf
@@ -33310,7 +33302,6 @@ jembut142.ga
 jembut142.gq
 jembut142.ml
 jembut142.tk
-jembutmera.me
 jeme.com
 jemmctldpk.pl
 jennie.club
@@ -34301,6 +34292,7 @@ jwtukew1xb1q.tk
 jwvestates.com
 jx.emltmp.com
 jxb.yomail.info
+jxbav.com
 jxg.freeml.net
 jxgrc.com
 jxi.emlhub.com
@@ -35593,7 +35585,6 @@ kjkjk.com
 kjkszpjcompany.com
 kjncascoiaf.ru
 kjoiewrt.in
-kjwebox.tech
 kjwu.emlpro.com
 kjwyfs.com
 kk.yomail.info
@@ -35865,6 +35856,7 @@ kolyasski.com
 komalik.club
 koman.team
 kombatcopper.com
+komberluxury.xyz
 kombiservisler.com
 komilbek90.site
 kommespaeter.de
@@ -37672,6 +37664,7 @@ linseyalexander.com
 linshi-email.com
 linshiyou.com
 linshiyouxiang.net
+linshiyouxiang.xyz
 linshuhang.com
 linux-mail.xyz
 linux.onthewifi.com
@@ -37918,6 +37911,7 @@ lixo.loxot.eu
 liyaxiu.com
 liybt.live
 liza.freeml.net
+lizadjp.news
 lizardrich.com
 lizenzzentrale.com
 lizery.com
@@ -38072,7 +38066,6 @@ loadednicetext.site
 loadedrarebooks.site
 loadfreshstuff.site
 loadfreshtexts.site
-loadingRow.innerHTML
 loadingsite.info
 loadingya.com
 loadlibbooks.site
@@ -42809,7 +42802,6 @@ modaborsechane2.com
 modaborseguccioutletonline.com
 modaborseprezzi.com
 modachane1borsee.com
-modal.dataset.showModal
 modapeuterey2012.com
 modapeutereyuomo.com
 modapk.fun
@@ -48465,6 +48457,7 @@ pacarmu.link
 pacdoitreiunu.com
 paceforwarders.com
 paceincorp.com
+pacfut.com
 pachilly.com
 pacificraft.com
 pacificwestrealty.net
@@ -49281,7 +49274,6 @@ perkypoll.net
 perkypoll.org
 perl.mil
 perm-master.ru
-permanentTooltip.style.left
 permanentans.ru
 permcourier.com
 permkurort.ru
@@ -53287,9 +53279,6 @@ refo.site
 refp.site
 refpiwork.ga
 refr.site
-refreshButton.disabled
-refreshButton.innerHTML
-refreshText.textContent
 refsb.site
 refsc.site
 refse.site
@@ -53565,7 +53554,6 @@ repyoutact.com
 reqaxv.com
 reqdocs.com
 requanague.site
-requestBody.domain
 requestmeds.com
 reqz.spymail.one
 rerajut.com
@@ -53612,7 +53600,6 @@ resortmapprinters.com
 respectabrew.com
 respectabrew.net
 respekus.com
-response.message
 responsive.co.il
 resself.site
 ressources-solidaires.info
@@ -54878,7 +54865,6 @@ rz.freeml.net
 rz.laste.ml
 rza.dropmail.me
 rzaca.com
-rzae.dev
 rzayev.com
 rzdxpnzipvpgdjwo.cf
 rzdxpnzipvpgdjwo.ga
@@ -56606,7 +56592,6 @@ sfxeur.com
 sfxmailbox.com
 sfy.com
 sfzcc.com
-sg-cherrypiefarmhouse.com
 sg.emlhub.com
 sg.freeml.net
 sgag.de
@@ -57852,6 +57837,7 @@ sns.dropmail.me
 snsanfcjfja.com
 snugmail.net
 snuzh.com
+snvpro.online
 snwxz.com
 so-com.tk
 so-net.cf
@@ -58067,6 +58053,7 @@ solpowcont.info
 soltur.bogatynia.net.pl
 solu.gq
 solu7ions.com
+solusisukses.digital
 soluteconsulting.com
 soluteconsulting.us
 solution-finders.com
@@ -60530,6 +60517,7 @@ taxon.com
 taxy.com
 taykunsenozen.sbs
 taylerdeborah.london-mail.top
+taylorcheck.xyz
 taylorventuresllc.com
 taynguyen24h.net
 tayo.ooo
@@ -62091,6 +62079,7 @@ tk8phblcr2ct0ktmk3.ml
 tk8phblcr2ct0ktmk3.tk
 tkaniny.com
 tkaninymaxwell.pl
+tkcsugik.ovh
 tkeiyaku.cf
 tkfb24h.com
 tkfkdgowj.com
@@ -62843,7 +62832,6 @@ tqosi.com
 tqpx.yomail.info
 tqqun.com
 tqwagwknnm.pl
-tr.unread
 tr23.com
 tr2k.cf
 tr2k.ga
@@ -66052,6 +66040,7 @@ vkr1.com
 vkrr.ru
 vkrr.store
 vkusno-vse.ru
+vkwd7.anonbox.net
 vl2ivlyuzopeawoepx.cf
 vl2ivlyuzopeawoepx.ga
 vl2ivlyuzopeawoepx.gq
@@ -67430,7 +67419,6 @@ whatnametogivesite.com
 whatowhatboyx.com
 whatpaas.com
 whatsaas.com
-whatsminerelite.cloud
 whatsnewjob.com
 whatthefish.info
 whatwhat.com
@@ -67663,11 +67651,6 @@ windlady.com
 windlady.net
 windmine.tk
 window-55.net
-window.adsbygoogle
-window.changeMailbox
-window.currentLang
-window.dataLayer
-window.location.href
 windowoffice7.com
 windows.sos.pl
 windows8hosting.info
@@ -67905,7 +67888,6 @@ wo295ttsarx6uqbo.ml
 wo295ttsarx6uqbo.tk
 wo4sl.anonbox.net
 woa.org.ua
-woaddd.shop
 wobz.com
 wocall.com
 wodeda.com
@@ -68498,7 +68480,6 @@ x1bkskmuf4.ga
 x1bkskmuf4.gq
 x1bkskmuf4.ml
 x1bkskmuf4.tk
-x1ix.com
 x1mails.com
 x1post.com
 x1x.spb.ru
@@ -70769,6 +70750,7 @@ zep-hyr.com
 zepco.ru
 zepexo.com
 zephrmail.info
+zephyrustech.co
 zepp.dk
 zepter-moscow.biz
 zer-0.cf
@@ -70921,6 +70903,7 @@ zinc.fr.nf
 zinfighkildo.ftpserver.biz
 zingar.com
 zingermail.co
+zingmail.shop
 zingsingingfitness.com
 zinmail.cf
 zinmail.ga
