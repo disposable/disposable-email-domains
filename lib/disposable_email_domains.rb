@@ -24,13 +24,13 @@ module DisposableEmailDomains
     end
 
     def set
-      @@set ||= Set.new(from_datafile)
+      @@set ||= Set.new(from_datafile('domains.txt')) | from_datafile('domains_ext.txt')
     end
 
     private
 
-    def from_datafile
-      path = File.join(File.dirname(File.expand_path(__FILE__)), "./../domains.txt")
+    def from_datafile(file)
+      path = File.join(File.dirname(File.expand_path(__FILE__)), "./../#{file}")
       File.read(path).split("\n")
     end
   end

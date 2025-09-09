@@ -26,4 +26,15 @@ class DisposableEmailDomainsTest < Minitest::Test
     refute DisposableEmailDomains.include? "someone@gmail.com"
     refute DisposableEmailDomains.include? nil
   end
+
+  def test_domains_ext_included
+    assert DisposableEmailDomains.include? 'bot@tutanota.com'
+    assert DisposableEmailDomains.include? 'bot@wwpager.org'
+    assert DisposableEmailDomains.include? 'bot@wwpager.net'
+    assert DisposableEmailDomains.include? 'bot@wwpager.me'
+    assert DisposableEmailDomains.include? 'bot@wwpager.com'
+    assert DisposableEmailDomains.include? 'bot@wwpager.ru'
+    assert DisposableEmailDomains.include? 'bot@protonmail.com'
+    assert DisposableEmailDomains.include? 'bot@proton.me'
+  end
 end
