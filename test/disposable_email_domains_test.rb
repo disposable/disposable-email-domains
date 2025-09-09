@@ -19,6 +19,7 @@ class DisposableEmailDomainsTest < Minitest::Test
 
   def test_include
     DisposableEmailDomains.set.each do |domain|
+      p domain
       assert DisposableEmailDomains.include? "bot@#{domain}"
     end
 
