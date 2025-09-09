@@ -24,7 +24,7 @@ module DisposableEmailDomains
     end
 
     def set
-      @@set ||= Set.new(from_datafile('domains.txt')) | from_datafile('domains_ext.txt')
+      @@set ||= Set.new(from_datafile("domains.txt")) | from_datafile("domains_ext.txt")
     end
 
     private
