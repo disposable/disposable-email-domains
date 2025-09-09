@@ -1,0 +1,52 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+form#lookup-form {
+  padding: 1rem;
+  border-radius: .5rem;
+  font-size: 1rem;
+  border: 1px solid #eaeaea;
+}
+
+.alert {
+  margin-top: 1rem;
+  padding: 1rem;
+  border-radius: .5rem;
+  font-size: 1rem;
+  display: none;
+
+  &.error, &.info, &.success {
+    display: block;
+  }
+
+  &.error {
+    background-color: #ffe6e6;
+    color: #a94442;
+    border: 1px solid #a94442;
+  }
+
+  &.info {
+    background-color: #f8f8f8;
+    color: #606c71;
+    border: 1px solid #eaeaea;
+  }
+
+  &.success {
+    background-color: #e6ffe6;
+    color: #3c763d;
+    border: 1px solid #3c763d;
+  }
+}
+
+a.github-link::before {
+  // prefix link with github favicon
+  display: inline-block;
+  content: '';
+  width: 16px;
+  height: 16px;
+  margin-right: .5rem;
+  background: url('https://github.com/favicon.ico') no-repeat center center;
+  background-size: contain;
+}

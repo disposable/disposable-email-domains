@@ -1,0 +1,56 @@
+name: Deploy cache
+permissions:
+  contents: write
+  pull-requests: write
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build-cache:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout master branch
+      uses: actions/checkout@v2
+      with:
+        ref: master
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.10'
+
+    - name: Install requirements of disposable submodule
+      run: |
+        git submodule init
+        git submodule update
+        pip3 install -r disposable/requirements.txt
+
+    - name: Run Python script
+      run: |
+        python generate-cache.py
+
+    - name: Commit files to gh-pages branch
+      run: |
+        git config --global user.name 'GitHub Actions'
+        git config --global user.email 'github-actions@github.com'
+
+        # Switch to gh-pages branch
+        git checkout -b gh-pages
+
+        # Add all generated files (if your script generates files to be committed)
+        git add cache/ --force
+
+        # Copy README_pages.md to README.md
+        cp README_pages.md README.md
+
+        # overwrite default readme.md
+        git add README.md
+
+        # Commit the changes
+        git commit -m "Update cache [skip ci]" && git push origin gh-pages --force
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
