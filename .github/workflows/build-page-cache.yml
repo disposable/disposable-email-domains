@@ -13,25 +13,28 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout master branch
-      uses: actions/checkout@v2
+    - name: Checkout repository
+      uses: actions/checkout@v4
       with:
         ref: master
+        submodules: recursive
 
     - name: Set up Python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v5
       with:
         python-version: '3.10'
 
-    - name: Install requirements of disposable submodule
+    - name: Set up uv
+      uses: astral-sh/setup-uv@v4
+
+    - name: Sync disposable dependencies
       run: |
-        git submodule init
-        git submodule update
-        pip3 install -r disposable/requirements.txt
+        cd disposable
+        uv sync
 
     - name: Run Python script
       run: |
-        python generate-cache.py
+        uv --project disposable run python generate-cache.py
 
     - name: Commit files to gh-pages branch
       run: |
