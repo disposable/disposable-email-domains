@@ -7,7 +7,7 @@ git pull -q -f
 cd ..
 
 tmpfile=$(mktemp)
-(cd disposable && uv sync)
+(cd disposable && uv sync -qq)
 uv --project disposable run ./disposable/.generate --dedicated-strict --source-map --dns-verify 2>$tmpfile
 git commit -m "$(printf "Update domains\n\n"; head -n 500 $tmpfile)" \
     domains.txt domains.json domains_legacy.txt domains_mx.txt domains_mx.json \
