@@ -16,4 +16,5 @@ show_downloads: false
   <div id="result" class="alert"></div>
 </div>
 
+<script src="https://unpkg.com/tldjs@2.3.1/tld.js"></script>
 <script src="{{ '/assets/js/lookup.js' | relative_url }}"></script>
