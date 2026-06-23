@@ -100,73 +100,8 @@ async function processDomain(input) {
     return { valid: true, domain: cleanedInput, listed: false };
 }
 
-function formatSingleDomainMessage(result) {
-    if (result.error === 'invalid') {
-        return `Domain ${escapeHtml(result.domain)} is not valid.`;
-    }
-    if (result.error === 'load_failed') {
-        return `Could not load JSON file for prefix: ${result.prefix}.`;
-    }
-    if (!result.listed) {
-        return `Domain ${escapeHtml(result.domain)} is not listed.`;
-    }
-
-    if (result.listed_via_primary) {
-        const primaryData = result.primaryData;
-        let msg = `<h1>Domain ${escapeHtml(result.domain)} is listed because <code>${escapeHtml(result.primaryDomain)}</code> is on the ${primaryData.strict ? '<a href="https://github.com/disposable/disposable?tab=readme-ov-file#strict-mode" target="_blank">strict mode list</a>' : 'list'}!</h1>`;
-        msg += `<p><h2>Sources for <code>${escapeHtml(result.primaryDomain)}</code>:</h2><ul>`;
-        let has_external = false;
-        for (let i = 0; i < primaryData.src.length; i++) {
-            const entry = primaryData.src[i],
-                external = entry['ext'];
-            let url = entry['url'],
-                link = url,
-                issue_link = null,
-                is_github = false;
-
-            if (external) {
-                has_external = true;
-            }
-
-            if (url.startsWith('https://raw.githubusercontent.com/')) {
-                const parts = url.split('/'),
-                    user = parts[3],
-                    repo = parts[4],
-                    branch = parts[5];
-                let file = parts.slice(6).join('/');
-
-                if (file.endsWith('/')) {
-                    file = file.slice(0, -1);
-                }
-
-                is_github = true;
-                link = `https://github.com/${user}/${repo}/blob/${branch}/${file}`;
-                issue_link = `https://github.com/${user}/${repo}/issues/new`;
-                url = url.replace('https://raw.githubusercontent.com/', '');
-            }
-            msg += `<li><a href="${link}" target="_blank" ${is_github ? 'class="github-link"' : ''}>${url}</a>${external && !is_github ? ' (external)' : ''}
-                ${issue_link ? ' (false positive? <a href="' + issue_link + '" target="_blank">create issue</a>)' : ''}</li>`;
-        }
-        msg += '</ul></p>';
-
-        if (!has_external) {
-            msg += `<p>This domain was added from the <a href="https://github.com/disposable/disposable-email-domains" target="_blank">official repository</a>.
-If you believe this domain is incorrectly listed as disposable, please <a href="https://github.com/disposable/disposable/issues/new?template=non-disposable-domain-listed.md" target="_blank">report it as a false positive</a>.</p>`;
-        } else {
-            msg += `<p>This domain was sourced from an external provider. As we do not manage external sources, we are unable to handle false-positive reports for these. Please contact the source directly for any inquiries.</p>`;
-        }
-
-        return msg;
-    }
-
-    const data = result.data;
-
-    if (data.whitelist) {
-        return `Domain ${escapeHtml(data.domain)} is excluded by <a href="https://github.com/disposable/disposable/blob/master/whitelist.txt" target="_blank">whitelist</a>.`;
-    }
-
-    let msg = `<h1>Domain ${data.domain} ${data.strict ? 'is on <a href="https://github.com/disposable/disposable?tab=readme-ov-file#strict-mode" target="_blank">strict mode list</a>' :
-             'is listed'}!</h1><p><h2>Sources:</h2><ul>`;
+function formatSources(data) {
+    let html = '<ul>';
     let has_external = false;
     for (let i = 0; i < data.src.length; i++) {
         const entry = data.src[i],
@@ -196,14 +131,57 @@ If you believe this domain is incorrectly listed as disposable, please <a href="
             issue_link = `https://github.com/${user}/${repo}/issues/new`;
             url = url.replace('https://raw.githubusercontent.com/', '');
         }
-        msg += `<li><a href="${link}" target="_blank" ${is_github ? 'class="github-link"' : ''}>${url}</a>${external && !is_github ? ' (external)' : ''}
+        html += `<li><a href="${link}" target="_blank" ${is_github ? 'class="github-link"' : ''}>${url}</a>${external && !is_github ? ' (external)' : ''}
             ${issue_link ? ' (false positive? <a href="' + issue_link + '" target="_blank">create issue</a>)' : ''}</li>`;
     }
-    msg += '</ul></p>';
+    html += '</ul>';
+    return { html, hasExternal: has_external };
+}
 
-    if (!has_external) {
+function formatSingleDomainMessage(result) {
+    if (result.error === 'invalid') {
+        return `Domain ${escapeHtml(result.domain)} is not valid.`;
+    }
+    if (result.error === 'load_failed') {
+        return `Could not load JSON file for prefix: ${result.prefix}.`;
+    }
+    if (!result.listed) {
+        return `Domain ${escapeHtml(result.domain)} is not listed.`;
+    }
+
+    if (result.listed_via_primary) {
+        const primaryData = result.primaryData;
+        let msg = `<h1>Domain ${escapeHtml(result.domain)} is listed because <code>${escapeHtml(result.primaryDomain)}</code> is on the ${primaryData.strict ? '<a href="https://github.com/disposable/disposable?tab=readme-ov-file#strict-mode" target="_blank">strict mode list</a>' : 'list'}!</h1>`;
+        msg += `<p><h2>Sources for <code>${escapeHtml(result.primaryDomain)}</code>:</h2>`;
+        const sources = formatSources(primaryData);
+        msg += sources.html;
+        msg += '</p>';
+
+        if (!sources.hasExternal) {
+            msg += `<p>This domain was added from the <a href="https://github.com/disposable/disposable-email-domains" target="_blank">official repository</a>.
+If you believe this domain is incorrectly listed as disposable, please <a href="https://github.com/disposable/disposable/issues/new?template=false-positive-report.yml" target="_blank">report it as a false positive</a>.</p>`;
+        } else {
+            msg += `<p>This domain was sourced from an external provider. As we do not manage external sources, we are unable to handle false-positive reports for these. Please contact the source directly for any inquiries.</p>`;
+        }
+
+        return msg;
+    }
+
+    const data = result.data;
+
+    if (data.whitelist) {
+        return `Domain ${escapeHtml(data.domain)} is excluded by <a href="https://github.com/disposable/disposable/blob/master/whitelist.txt" target="_blank">whitelist</a>.`;
+    }
+
+    let msg = `<h1>Domain ${data.domain} ${data.strict ? 'is on <a href="https://github.com/disposable/disposable?tab=readme-ov-file#strict-mode" target="_blank">strict mode list</a>' :
+             'is listed'}!</h1><p><h2>Sources:</h2>`;
+    const sources = formatSources(data);
+    msg += sources.html;
+    msg += '</p>';
+
+    if (!sources.hasExternal) {
         msg += `<p>This domain was added from the <a href="https://github.com/disposable/disposable-email-domains" target="_blank">official repository</a>.
-If you believe this domain is incorrectly listed as disposable, please <a href="https://github.com/disposable/disposable/issues/new?template=non-disposable-domain-listed.md" target="_blank">report it as a false positive</a>.</p>`;
+If you believe this domain is incorrectly listed as disposable, please <a href="https://github.com/disposable/disposable/issues/new?template=false-positive-report.yml" target="_blank">report it as a false positive</a>.</p>`;
     } else {
         msg += `<p>This domain was sourced from an external provider. As we do not manage external sources, we are unable to handle false-positive reports for these. Please contact the source directly for any inquiries.</p>`;
     }
@@ -232,7 +210,7 @@ async function lookup(domainInput) {
         } else if (result.listed && isWhitelisted) {
             type = 'success';
         } else if (result.listed) {
-            type = 'error';
+            type = 'info';
         }
         showMessage(formatSingleDomainMessage(result), type);
         return;
@@ -268,11 +246,14 @@ async function lookup(domainInput) {
     if (listed.length > 0) {
         msg += `<div class="result-section"><h3>Listed (${listed.length})</h3><ul>`;
         for (const r of listed) {
+            const data = r.listed_via_primary ? r.primaryData : r.data;
             if (r.listed_via_primary) {
-                msg += `<li><span class="domain-listed">${escapeHtml(r.domain)}${r.primaryData.strict ? ' (strict)' : ''}</span> (listed because <code>${escapeHtml(r.primaryDomain)}</code> is on the list)</li>`;
+                msg += `<li><span class="domain-listed">${escapeHtml(r.domain)}${data.strict ? ' (strict)' : ''}</span> (listed because <code>${escapeHtml(r.primaryDomain)}</code> is on the list)`;
             } else {
-                msg += `<li><span class="domain-listed">${escapeHtml(r.data.domain)}${r.data.strict ? ' (strict)' : ''}</span></li>`;
+                msg += `<li><span class="domain-listed">${escapeHtml(data.domain)}${data.strict ? ' (strict)' : ''}</span>`;
             }
+            msg += formatSources(data).html;
+            msg += '</li>';
         }
         msg += `</ul></div>`;
     }

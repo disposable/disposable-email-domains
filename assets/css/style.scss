@@ -205,6 +205,11 @@ form#lookup-form {
     color: #7d4e00;
     font-weight: 600;
   }
+
+  ul ul {
+    margin: 0.25rem 0 0.5rem 0;
+    font-size: 0.9rem;
+  }
 }
 
 a.github-link::before {
