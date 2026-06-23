@@ -322,6 +322,13 @@ document.getElementById('lookup-form').addEventListener('submit', function (even
     lookup(domainInput);
 });
 
+document.getElementById('domain').addEventListener('keydown', function (event) {
+    if (event.ctrlKey && event.key === 'Enter') {
+        event.preventDefault();
+        document.getElementById('lookup-form').dispatchEvent(new Event('submit'));
+    }
+});
+
 // check if domain query parameter is given, set as value of input and submit
 const domain = new URLSearchParams(window.location.search).get('domain');
 if (domain) {
