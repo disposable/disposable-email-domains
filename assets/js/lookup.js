@@ -159,6 +159,8 @@ async function lookup(domainInput) {
             type = 'success';
         } else if (result.listed && result.data && result.data.whitelist) {
             type = 'success';
+        } else if (result.listed) {
+            type = 'error';
         }
         showMessage(formatSingleDomainMessage(result), type);
         return;
@@ -194,7 +196,7 @@ async function lookup(domainInput) {
     if (listed.length > 0) {
         msg += `<div class="result-section"><h3>Listed (${listed.length})</h3><ul>`;
         for (const r of listed) {
-            msg += `<li><strong>${escapeHtml(r.data.domain)}</strong>${r.data.strict ? ' (strict)' : ''}</li>`;
+            msg += `<li><span class="domain-listed">${escapeHtml(r.data.domain)}${r.data.strict ? ' (strict)' : ''}</span></li>`;
         }
         msg += `</ul></div>`;
     }
@@ -202,7 +204,7 @@ async function lookup(domainInput) {
     if (whitelisted.length > 0) {
         msg += `<div class="result-section"><h3>Whitelisted (${whitelisted.length})</h3><ul>`;
         for (const r of whitelisted) {
-            msg += `<li><strong>${escapeHtml(r.data.domain)}</strong> - excluded by <a href="https://github.com/disposable/disposable/blob/master/whitelist.txt" target="_blank">whitelist</a></li>`;
+            msg += `<li><span class="domain-whitelisted">${escapeHtml(r.data.domain)}</span> - excluded by <a href="https://github.com/disposable/disposable/blob/master/whitelist.txt" target="_blank">whitelist</a></li>`;
         }
         msg += `</ul></div>`;
     }
@@ -210,7 +212,7 @@ async function lookup(domainInput) {
     if (notListed.length > 0) {
         msg += `<div class="result-section"><h3>Not Listed (${notListed.length})</h3><ul>`;
         for (const r of notListed) {
-            msg += `<li>${escapeHtml(r.domain)}</li>`;
+            msg += `<li><span class="domain-notlisted">${escapeHtml(r.domain)}</span></li>`;
         }
         msg += `</ul></div>`;
     }
@@ -231,16 +233,7 @@ async function lookup(domainInput) {
         msg += `</ul></div>`;
     }
 
-    let type = 'info';
-    if (listed.length > 0) {
-        type = 'error';
-    } else if (invalid.length === results.length) {
-        type = 'error';
-    } else if (whitelisted.length > 0 || notListed.length > 0) {
-        type = 'success';
-    }
-
-    showMessage(msg, type);
+    showMessage(msg, 'info');
 }
 
 document.getElementById('lookup-form').addEventListener('submit', function (event) {
