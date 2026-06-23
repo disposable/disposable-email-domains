@@ -185,10 +185,25 @@ form#lookup-form {
   border-radius: 0.5rem;
   background: #ffffff;
   border: 1px solid #d0d7de;
+  color: #24292f;
 
   h3 {
     margin: 0 0 0.5rem 0;
     font-size: 1rem;
+  }
+
+  .domain-listed {
+    color: #cf222e;
+    font-weight: 600;
+  }
+
+  .domain-notlisted {
+    color: #1a7f37;
+  }
+
+  .domain-whitelisted {
+    color: #7d4e00;
+    font-weight: 600;
   }
 }
 
