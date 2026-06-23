@@ -4,13 +4,8 @@ const cache = {};
 
 // Function to validate a domain name
 function isValidDomain(domain) {
-    // Remove any spaces
     domain = domain.trim();
-
-    // Regular expression for a valid domain name
     const domainRegex = /^(?!:\/\/)([a-zA-Z0-9-_]{1,63}\.)+[a-zA-Z]{2,63}$/;
-
-    // Test the domain against the regex
     return domainRegex.test(domain);
 }
 
@@ -38,10 +33,8 @@ async function calculateSha1(input) {
     return hashArray.map(byte => byte.toString(16).padStart(2, '0')).join('');
 }
 
-
 // Function to fetch and cache JSON file
 async function fetchAndCacheJson(prefix) {
-    // Check if the file is already cached
     if (cache[prefix]) {
         return cache[prefix];
     }
@@ -53,103 +46,201 @@ async function fetchAndCacheJson(prefix) {
         }
 
         const jsonData = await response.json();
-        cache[prefix] = jsonData; // Cache the loaded JSON data
+        cache[prefix] = jsonData;
         return jsonData;
     } catch (error) {
-        showMessage(error.message, 'error');
         return null;
     }
 }
-// Function to process the input
+
+// Process a single domain and return a structured result object
 async function processDomain(input) {
-    // Clean input by removing spaces and converting to lowercase
     const cleanedInput = input.replace(/\s+/g, '').toLowerCase();
 
-    // Validate the cleaned domain
     if (!isValidDomain(cleanedInput)) {
-        showMessage(`Domain ${escapeHtml(cleanedInput)} is not valid.`, 'error');
-        return null, null;
+        return { valid: false, domain: cleanedInput, error: 'invalid' };
     }
 
-    // Calculate SHA-1 of the valid, lowercase domain
     const sha1Hash = await calculateSha1(cleanedInput);
-    const prefix = sha1Hash.slice(0, 2); // Extract the first 2 characters of the hash
+    const prefix = sha1Hash.slice(0, 2);
 
-    // Load the corresponding JSON file
     const jsonData = await fetchAndCacheJson(prefix);
     if (!jsonData) {
-        showMessage(`Could not load JSON file for prefix: ${prefix}.`, 'error');
-        return null, null;
+        return { valid: true, domain: cleanedInput, error: 'load_failed', prefix: prefix };
     }
 
-    // Look up the SHA-1 hash in the JSON data
-    if (!jsonData[sha1Hash]) {
-        showMessage(`Domain ${escapeHtml(cleanedInput)} is not listed.`, 'success');
+    const data = jsonData[sha1Hash];
+    if (!data) {
+        return { valid: true, domain: cleanedInput, listed: false };
     }
 
-    return jsonData[sha1Hash];
+    return { valid: true, domain: cleanedInput, listed: true, data: data };
 }
 
-function lookup(domainInput) {
-    processDomain(domainInput).then((data) => {
-        if (!data) {
-            return;
+function formatSingleDomainMessage(result) {
+    if (result.error === 'invalid') {
+        return `Domain ${escapeHtml(result.domain)} is not valid.`;
+    }
+    if (result.error === 'load_failed') {
+        return `Could not load JSON file for prefix: ${result.prefix}.`;
+    }
+    if (!result.listed) {
+        return `Domain ${escapeHtml(result.domain)} is not listed.`;
+    }
+
+    const data = result.data;
+
+    if (data.whitelist) {
+        return `Domain ${escapeHtml(data.domain)} is excluded by <a href="https://github.com/disposable/disposable/blob/master/whitelist.txt" target="_blank">whitelist</a>.`;
+    }
+
+    let msg = `<h1>Domain ${data.domain} ${data.strict ? 'is on <a href="https://github.com/disposable/disposable?tab=readme-ov-file#strict-mode" target="_blank">strict mode list</a>' :
+             'is listed'}!</h1><p><h2>Sources:</h2><ul>`;
+    let has_external = false;
+    for (let i = 0; i < data.src.length; i++) {
+        const entry = data.src[i],
+            external = entry['ext'];
+        let url = entry['url'],
+            link = url,
+            issue_link = null,
+            is_github = false;
+
+        if (external) {
+            has_external = true;
         }
 
-        if (data.whitelist) {
-            showMessage(`Domain ${escapeHtml(data.domain)} is excluded by <a href="https://github.com/disposable/disposable/blob/master/whitelist.txt" target="_blank">whitelist</a>.`, 'success');
-            return;
-        }
+        if (url.startsWith('https://raw.githubusercontent.com/')) {
+            const parts = url.split('/'),
+                user = parts[3],
+                repo = parts[4],
+                branch = parts[5];
+            let file = parts.slice(6).join('/');
 
-        let msg = `<h1>Domain ${data.domain} ${data.strict ? 'is on <a href="https://github.com/disposable/disposable?tab=readme-ov-file#strict-mode" target="_blank">strict mode list</a>' :
-                 'is listed'}!</h1><p><h2>Sources:</h2><ul>`;
-        let has_external = false;
-        for (let i = 0; i < data.src.length; i++) {
-            const entry = data.src[i],
-                external = entry['ext'];
-            let url = entry['url'],
-                link = url,
-                issue_link = null,
-                is_github = false;
-
-            if (external) {
-                has_external = true;
+            if (file.endsWith('/')) {
+                file = file.slice(0, -1);
             }
 
-            if (url.startsWith('https://raw.githubusercontent.com/')) {
-                // reformat link to github repository page in https://github.com/<user>/<repo>/blob/<branch>/<filepath>
-                const parts = url.split('/'),
-                    user = parts[3],
-                    repo = parts[4],
-                    branch = parts[5],
-                    file = parts.slice(6).join('/');
-
-                // remove tailing slash in file
-                if (file.endsWith('/')) {
-                    file = file.slice(0, -1);
-                }
-
-                is_github = true;
-                link = `https://github.com/${user}/${repo}/blob/${branch}/${file}`;
-                issue_link = `https://github.com/${user}/${repo}/issues/new`;
-                url = url.replace('https://raw.githubusercontent.com/', '');
-            }
-            msg += `<li><a href="${link}" target="_blank" ${is_github ? 'class="github-link"' : ''}>${url}</a>${external && !is_github ? ' (external)' : ''}
-                ${issue_link ? ' (false positive? <a href="' + issue_link + '" target="_blank">create issue</a>)' : ''}</li>`;
+            is_github = true;
+            link = `https://github.com/${user}/${repo}/blob/${branch}/${file}`;
+            issue_link = `https://github.com/${user}/${repo}/issues/new`;
+            url = url.replace('https://raw.githubusercontent.com/', '');
         }
-        msg += '</ul></p>';
+        msg += `<li><a href="${link}" target="_blank" ${is_github ? 'class="github-link"' : ''}>${url}</a>${external && !is_github ? ' (external)' : ''}
+            ${issue_link ? ' (false positive? <a href="' + issue_link + '" target="_blank">create issue</a>)' : ''}</li>`;
+    }
+    msg += '</ul></p>';
 
-        if (!has_external) {
-            // add link to create false-positive issue on main repository
-            msg += `<p>This domain was added from the <a href="https://github.com/disposable/disposable-email-domains" target="_blank">official repository</a>.
+    if (!has_external) {
+        msg += `<p>This domain was added from the <a href="https://github.com/disposable/disposable-email-domains" target="_blank">official repository</a>.
 If you believe this domain is incorrectly listed as disposable, please <a href="https://github.com/disposable/disposable/issues/new?template=non-disposable-domain-listed.md" target="_blank">report it as a false positive</a>.</p>`;
-        } else {
-            // show message that issue creation for external sources is not possible
-            msg += `<p>This domain was sourced from an external provider. As we do not manage external sources, we are unable to handle false-positive reports for these. Please contact the source directly for any inquiries.</p>`;
-        }
+    } else {
+        msg += `<p>This domain was sourced from an external provider. As we do not manage external sources, we are unable to handle false-positive reports for these. Please contact the source directly for any inquiries.</p>`;
+    }
 
-        showMessage(msg, 'info');
-    });
+    return msg;
+}
+
+async function lookup(domainInput) {
+    const domains = domainInput.split(/[\s,;]+/).filter(d => d.trim() !== '');
+
+    if (domains.length === 0) {
+        showMessage('Please enter at least one domain.', 'error');
+        return;
+    }
+
+    const results = await Promise.all(domains.map(d => processDomain(d)));
+
+    if (domains.length === 1) {
+        const result = results[0];
+        let type = 'info';
+        if (result.error === 'invalid') {
+            type = 'error';
+        } else if (!result.listed && !result.error) {
+            type = 'success';
+        } else if (result.listed && result.data && result.data.whitelist) {
+            type = 'success';
+        }
+        showMessage(formatSingleDomainMessage(result), type);
+        return;
+    }
+
+    // Bulk results aggregation
+    const invalid = results.filter(r => r.error === 'invalid');
+    const loadFailed = results.filter(r => r.error === 'load_failed');
+    const notListed = results.filter(r => r.valid && !r.listed && !r.error);
+    const listed = results.filter(r => r.listed && r.data && !r.data.whitelist);
+    const whitelisted = results.filter(r => r.listed && r.data && r.data.whitelist);
+
+    let msg = `<h2>Bulk Lookup Results</h2>`;
+
+    msg += `<div class="result-summary">`;
+    if (listed.length > 0) {
+        msg += `<span class="result-badge badge-listed">Listed: ${listed.length}</span>`;
+    }
+    if (whitelisted.length > 0) {
+        msg += `<span class="result-badge badge-whitelisted">Whitelisted: ${whitelisted.length}</span>`;
+    }
+    if (notListed.length > 0) {
+        msg += `<span class="result-badge badge-notlisted">Not Listed: ${notListed.length}</span>`;
+    }
+    if (invalid.length > 0) {
+        msg += `<span class="result-badge badge-invalid">Invalid: ${invalid.length}</span>`;
+    }
+    if (loadFailed.length > 0) {
+        msg += `<span class="result-badge badge-loadfailed">Load Failed: ${loadFailed.length}</span>`;
+    }
+    msg += `</div>`;
+
+    if (listed.length > 0) {
+        msg += `<div class="result-section"><h3>Listed (${listed.length})</h3><ul>`;
+        for (const r of listed) {
+            msg += `<li><strong>${escapeHtml(r.data.domain)}</strong>${r.data.strict ? ' (strict)' : ''}</li>`;
+        }
+        msg += `</ul></div>`;
+    }
+
+    if (whitelisted.length > 0) {
+        msg += `<div class="result-section"><h3>Whitelisted (${whitelisted.length})</h3><ul>`;
+        for (const r of whitelisted) {
+            msg += `<li><strong>${escapeHtml(r.data.domain)}</strong> - excluded by <a href="https://github.com/disposable/disposable/blob/master/whitelist.txt" target="_blank">whitelist</a></li>`;
+        }
+        msg += `</ul></div>`;
+    }
+
+    if (notListed.length > 0) {
+        msg += `<div class="result-section"><h3>Not Listed (${notListed.length})</h3><ul>`;
+        for (const r of notListed) {
+            msg += `<li>${escapeHtml(r.domain)}</li>`;
+        }
+        msg += `</ul></div>`;
+    }
+
+    if (invalid.length > 0) {
+        msg += `<div class="result-section"><h3>Invalid (${invalid.length})</h3><ul>`;
+        for (const r of invalid) {
+            msg += `<li>${escapeHtml(r.domain)}</li>`;
+        }
+        msg += `</ul></div>`;
+    }
+
+    if (loadFailed.length > 0) {
+        msg += `<div class="result-section"><h3>Load Failed (${loadFailed.length})</h3><ul>`;
+        for (const r of loadFailed) {
+            msg += `<li>${escapeHtml(r.domain)} (prefix: ${r.prefix})</li>`;
+        }
+        msg += `</ul></div>`;
+    }
+
+    let type = 'info';
+    if (listed.length > 0) {
+        type = 'error';
+    } else if (invalid.length === results.length) {
+        type = 'error';
+    } else if (whitelisted.length > 0 || notListed.length > 0) {
+        type = 'success';
+    }
+
+    showMessage(msg, type);
 }
 
 document.getElementById('lookup-form').addEventListener('submit', function (event) {

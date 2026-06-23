@@ -3,45 +3,196 @@
 
 @import "{{ site.theme }}";
 
+.lookup-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
 form#lookup-form {
-  padding: 1rem;
-  border-radius: .5rem;
+  padding: 1.5rem;
+  border-radius: .75rem;
   font-size: 1rem;
-  border: 1px solid #eaeaea;
+  border: 1px solid #e1e4e8;
+  background: #ffffff;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.05), 0 4px 12px rgba(0,0,0,0.05);
+
+  label {
+    display: block;
+    font-weight: 600;
+    font-size: 1.1rem;
+    margin-bottom: 0.25rem;
+    color: #24292f;
+  }
+
+  .form-hint {
+    margin: 0 0 0.75rem 0;
+    font-size: 0.9rem;
+    color: #656d76;
+  }
+
+  textarea {
+    width: 100%;
+    min-height: 140px;
+    padding: 0.75rem;
+    margin: 0 0 1rem 0;
+    border: 1px solid #d0d7de;
+    border-radius: 0.5rem;
+    font-family: inherit;
+    font-size: inherit;
+    resize: vertical;
+    box-sizing: border-box;
+    transition: border-color 0.2s, box-shadow 0.2s;
+
+    &:focus {
+      outline: none;
+      border-color: #0969da;
+      box-shadow: 0 0 0 3px rgba(9, 105, 218, 0.15);
+    }
+
+    &::placeholder {
+      color: #8c959f;
+    }
+  }
+
+  .btn-primary {
+    display: inline-block;
+    padding: 0.6rem 1.5rem;
+    font-size: 1rem;
+    font-weight: 600;
+    color: #fff;
+    background-color: #2da44e;
+    border: 1px solid rgba(27, 31, 36, 0.15);
+    border-radius: 0.375rem;
+    cursor: pointer;
+    transition: background-color 0.2s, transform 0.1s;
+    box-shadow: 0 1px 0 rgba(27, 31, 36, 0.1), inset 0 1px 0 rgba(255, 255, 255, 0.03);
+
+    &:hover {
+      background-color: #2c974b;
+    }
+
+    &:active {
+      transform: translateY(1px);
+    }
+  }
 }
 
 .alert {
-  margin-top: 1rem;
-  padding: 1rem;
-  border-radius: .5rem;
+  margin-top: 1.5rem;
+  padding: 1.25rem;
+  border-radius: .75rem;
   font-size: 1rem;
   display: none;
+  animation: fadeIn 0.3s ease-out;
 
   &.error, &.info, &.success {
     display: block;
   }
 
   &.error {
-    background-color: #ffe6e6;
-    color: #a94442;
-    border: 1px solid #a94442;
+    background-color: #fff5f5;
+    color: #cf222e;
+    border: 1px solid #ff8fa3;
   }
 
   &.info {
-    background-color: #f8f8f8;
-    color: #606c71;
-    border: 1px solid #eaeaea;
+    background-color: #f6f8fa;
+    color: #24292f;
+    border: 1px solid #d0d7de;
   }
 
   &.success {
-    background-color: #e6ffe6;
-    color: #3c763d;
-    border: 1px solid #3c763d;
+    background-color: #dafbe1;
+    color: #1a7f37;
+    border: 1px solid #4ac26b;
+  }
+
+  h1, h2, h3 {
+    margin-top: 0;
+    margin-bottom: 0.75rem;
+  }
+
+  ul {
+    margin: 0.5rem 0;
+    padding-left: 1.25rem;
+  }
+
+  li {
+    margin-bottom: 0.35rem;
+  }
+
+  a {
+    color: #0969da;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+.result-summary {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.result-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.35rem 0.75rem;
+  border-radius: 2rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+
+  &.badge-listed {
+    background-color: #ffebe9;
+    color: #cf222e;
+    border: 1px solid #ff8fa3;
+  }
+
+  &.badge-whitelisted {
+    background-color: #fff8c5;
+    color: #7d4e00;
+    border: 1px solid #eac54f;
+  }
+
+  &.badge-notlisted {
+    background-color: #dafbe1;
+    color: #1a7f37;
+    border: 1px solid #4ac26b;
+  }
+
+  &.badge-invalid {
+    background-color: #f6f8fa;
+    color: #656d76;
+    border: 1px solid #d0d7de;
+  }
+
+  &.badge-loadfailed {
+    background-color: #ffebe9;
+    color: #a40e26;
+    border: 1px solid #ff8fa3;
+  }
+}
+
+.result-section {
+  margin-bottom: 1.25rem;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  background: #ffffff;
+  border: 1px solid #d0d7de;
+
+  h3 {
+    margin: 0 0 0.5rem 0;
+    font-size: 1rem;
   }
 }
 
 a.github-link::before {
-  // prefix link with github favicon
   display: inline-block;
   content: '';
   width: 16px;
@@ -49,4 +200,104 @@ a.github-link::before {
   margin-right: .5rem;
   background: url('https://github.com/favicon.ico') no-repeat center center;
   background-size: contain;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.page-intro {
+  max-width: 800px;
+  margin: 0 auto 2rem auto;
+  padding: 0 1rem;
+  text-align: center;
+  font-size: 1.05rem;
+  color: #656d76;
+
+  a {
+    color: #0969da;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  .page-note {
+    font-size: 0.9rem;
+    margin-top: 0.5rem;
+    color: #8c959f;
+  }
+}
+
+.resource-grid {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 1rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+}
+
+.resource-card {
+  padding: 1.25rem;
+  border-radius: 0.75rem;
+  background: #ffffff;
+  border: 1px solid #e1e4e8;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.05), 0 4px 12px rgba(0,0,0,0.05);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08), 0 8px 24px rgba(0,0,0,0.05);
+  }
+
+  h3 {
+    margin: 0 0 0.35rem 0;
+    font-size: 1.1rem;
+    color: #24292f;
+  }
+
+  p {
+    margin: 0 0 1rem 0;
+    font-size: 0.9rem;
+    color: #656d76;
+  }
+}
+
+.resource-links {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.resource-link {
+  display: inline-block;
+  padding: 0.35rem 0.9rem;
+  border-radius: 0.375rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #0969da;
+  background-color: #ddf4ff;
+  border: 1px solid #a0d8ff;
+  text-decoration: none;
+  transition: background-color 0.15s;
+
+  &:hover {
+    background-color: #b6e3ff;
+    text-decoration: none;
+  }
+}
+
+.last-update {
+  max-width: 800px;
+  margin: 2rem auto 0 auto;
+  padding: 0 1rem;
+  text-align: center;
 }

@@ -5,12 +5,15 @@ description: "To check if a domain is listed on the disposable email list, pleas
 show_downloads: false
 ---
 
-<form id="lookup-form">
-  <label for="entry">Enter a domain name:</label>
-  <input type="text" id="domain" name="domain" required>
-  <button type="submit">Lookup</button>
-</form>
+<div class="lookup-container">
+  <form id="lookup-form">
+    <label for="domain">Enter one or more domain names</label>
+    <p class="form-hint">Separate by spaces, commas, semicolons, or newlines</p>
+    <textarea id="domain" name="domain" rows="6" placeholder="example.com, mailinator.com, tempmail.net" required></textarea>
+    <button type="submit" class="btn-primary">Lookup</button>
+  </form>
 
-<div id="result" class="alert"></div>
+  <div id="result" class="alert"></div>
+</div>
 
 <script src="{{ '/assets/js/lookup.js' | relative_url }}"></script>
