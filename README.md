@@ -1,28 +1,56 @@
-# Disposable email domains
+<div class="page-intro">
+  <p>For more informations, please check the <a href="https://github.com/disposable/disposable" target="_blank">main repository</a>.</p>
+  <p class="page-note">If your domain is listed and it is not a domain used for temporary emails, please open <a href="https://github.com/disposable/disposable/issues" target="_blank">an issue</a> in the main repository.</p>
+</div>
 
-For more informations, please check the [main repository](https://github.com/disposable/disposable).
+## Lookup a domain
 
-To check if a domain is listed on the disposable email list and check the source for the record, please use the [lookup form](https://disposable.github.io/disposable-email-domains/lookup).
+<div class="lookup-container">
+  <form id="lookup-form">
+    <label for="domain">Enter one or more domain names</label>
+    <p class="form-hint">Separate by spaces, commas, semicolons, or newlines</p>
+    <textarea id="domain" name="domain" rows="6" placeholder="example.com, mailinator.com, tempmail.net" required></textarea>
+    <button type="submit" class="btn-primary">Lookup</button>
+  </form>
+
+  <div id="result" class="alert"></div>
+</div>
+
+<script src="{{ '/assets/js/lookup.js' | relative_url }}"></script>
 
 ---
 
-*If your domain is listed and it is not a domain used for temporary emails, please open [an issue](https://github.com/disposable/disposable/issues) in the main repository.*
+## Available Lists
 
----
+<div class="resource-grid">
+  <div class="resource-card">
+    <h3>Generic Lists</h3>
+    <p>All domains in the list.</p>
+    <div class="resource-links">
+      <a href="https://disposable.github.io/disposable-email-domains/domains.txt" class="resource-link">TXT</a>
+      <a href="https://disposable.github.io/disposable-email-domains/domains.json" class="resource-link">JSON</a>
+    </div>
+  </div>
 
-![GitHub last commit](https://img.shields.io/github/last-commit/disposable/disposable-email-domains?label=Last%20update)
+  <div class="resource-card">
+    <h3>Validated DNS</h3>
+    <p>Domains with a valid MX / A record.</p>
+    <div class="resource-links">
+      <a href="https://disposable.github.io/disposable-email-domains/domains_mx.txt" class="resource-link">TXT</a>
+      <a href="https://disposable.github.io/disposable-email-domains/domains_mx.json" class="resource-link">JSON</a>
+    </div>
+  </div>
 
-### Generic lists with all domains
+  <div class="resource-card">
+    <h3>SHA1 Hashes</h3>
+    <p>SHA1-hashed domain list.</p>
+    <div class="resource-links">
+      <a href="https://disposable.github.io/disposable-email-domains/domains_sha1.txt" class="resource-link">TXT</a>
+      <a href="https://disposable.github.io/disposable-email-domains/domains_sha1.json" class="resource-link">JSON</a>
+    </div>
+  </div>
+</div>
 
-* [TXT](https://disposable.github.io/disposable-email-domains/domains.txt): `https://disposable.github.io/disposable-email-domains/domains.txt`
-* [JSON](https://disposable.github.io/disposable-email-domains/domains.json): `https://disposable.github.io/disposable-email-domains/domains.json`
-
-### Hosts with validated DNS (a valid MX / A record):
-
-* [TXT](https://disposable.github.io/disposable-email-domains/domains_mx.txt): `https://disposable.github.io/disposable-email-domains/domains_mx.txt`
-* [JSON](https://disposable.github.io/disposable-email-domains/domains_mx.json): `https://disposable.github.io/disposable-email-domains/domains_mx.json`
-
-### List of SHA1
-
-* [TXT](https://disposable.github.io/disposable-email-domains/domains_sha1.txt): `https://disposable.github.io/disposable-email-domains/domains_sha1.txt`
-* [JSON](https://disposable.github.io/disposable-email-domains/domains_sha1.json): `https://disposable.github.io/disposable-email-domains/domains_sha1.json`
+<div class="last-update">
+  <img src="https://img.shields.io/github/last-commit/disposable/disposable-email-domains?label=Last%20update" alt="Last update">
+</div>
