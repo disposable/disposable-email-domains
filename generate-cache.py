@@ -114,7 +114,10 @@ def create_cache():
                 })
 
         for hash_prefix, domain_data in domain_cache.items():
-            with open('cache/' + hash_prefix + '.json', 'w') as f:
+            if len(hash_prefix) != 2 or not all(c in '0123456789abcdef' for c in hash_prefix):
+                logging.error('Invalid hash prefix skipped: %s', hash_prefix)
+                continue
+            with open(os.path.join('cache', hash_prefix + '.json'), 'w') as f:
                 json.dump(domain_data, f)
 
     except Exception as e:
