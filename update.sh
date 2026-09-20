@@ -1,4 +1,7 @@
 #!/bin/bash
+# Optional local secrets (API keys for gated sources, e.g. DUSTMAIL_API_KEY)
+[ -f "$HOME/.disposable-env" ] && . "$HOME/.disposable-env"
+
 git pull -q -f
 
 cd disposable
