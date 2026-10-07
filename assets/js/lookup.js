@@ -1,4 +1,7 @@
 // assets/js/lookup.js
+const MAILSERVICES_URL = 'https://raw.githubusercontent.com/disposable/static-disposable-lists/master/mailservices.json';
+const MAILSERVICES_PAGE = 'https://disposable.github.io/static-disposable-lists/index.html#mail-services';
+
 // Cache object to store loaded JSON files
 const cache = {};
 
@@ -115,6 +118,17 @@ function formatSources(data) {
             has_external = true;
         }
 
+        if (url === 'greylist') {
+            // strict source map labels the whole grey tier as "greylist" -
+            // point at the services catalog instead of the raw file
+            link = MAILSERVICES_PAGE;
+            url = 'greylist (see mailservices.json catalog)';
+        } else if (url === MAILSERVICES_URL) {
+            const q = data.svc ? data.svc.name : data.domain;
+            link = `${MAILSERVICES_PAGE}?q=${encodeURIComponent(q)}`;
+            url = 'mailservices.json catalog';
+        }
+
         if (url.startsWith('https://raw.githubusercontent.com/')) {
             const parts = url.split('/'),
                 user = parts[3],
@@ -136,6 +150,36 @@ function formatSources(data) {
     }
     html += '</ul>';
     return { html, hasExternal: has_external };
+}
+
+function formatService(svc) {
+    const link = `${MAILSERVICES_PAGE}?q=${encodeURIComponent(svc.name)}`;
+    const bits = [];
+    if (svc.type) {
+        bits.push(`type: ${escapeHtml(svc.type)}`);
+    }
+    if (svc.verification && svc.verification.length) {
+        bits.push(`signup verification: ${escapeHtml(svc.verification.join(', '))}`);
+    }
+    let html = `<p>Provider: <a href="${link}" target="_blank"><code>${escapeHtml(svc.name)}</code></a>`;
+    if (bits.length) {
+        html += ` (${bits.join(', ')})`;
+    }
+    if (svc.remark) {
+        html += `<br><em>${escapeHtml(svc.remark)}</em>`;
+    }
+    html += '</p>';
+    return html;
+}
+
+function formatStrictReason(svc) {
+    if (svc && svc.type === 'forwarding') {
+        return '<p>Reason: alias/forwarding provider - included in strict mode only.</p>';
+    }
+    if (svc && svc.verification && svc.verification.some(v => v === 'none' || v === 'email')) {
+        return '<p>Reason: signup possible without identity verification - included in strict mode only.</p>';
+    }
+    return '';
 }
 
 function formatSingleDomainMessage(result) {
@@ -170,11 +214,23 @@ If you believe this domain is incorrectly listed as disposable, please <a href="
     const data = result.data;
 
     if (data.whitelist) {
-        return `Domain ${escapeHtml(data.domain)} is excluded by <a href="https://github.com/disposable/disposable/blob/master/whitelist.txt" target="_blank">whitelist</a>.`;
+        let msg = `Domain ${escapeHtml(data.domain)} is excluded by <a href="https://github.com/disposable/disposable/blob/master/whitelist.txt" target="_blank">whitelist</a>.`;
+        if (data.svc) {
+            msg = `Domain ${escapeHtml(data.domain)} belongs to a legitimate mail provider (excluded).`;
+            msg += formatService(data.svc);
+        }
+        return msg;
     }
 
     let msg = `<h1>Domain ${data.domain} ${data.strict ? 'is on <a href="https://github.com/disposable/disposable?tab=readme-ov-file#strict-mode" target="_blank">strict mode list</a>' :
-             'is listed'}!</h1><p><h2>Sources:</h2>`;
+             'is listed'}!</h1>`;
+    if (data.svc) {
+        msg += formatService(data.svc);
+        if (data.strict) {
+            msg += formatStrictReason(data.svc);
+        }
+    }
+    msg += '<p><h2>Sources:</h2>';
     const sources = formatSources(data);
     msg += sources.html;
     msg += '</p>';
