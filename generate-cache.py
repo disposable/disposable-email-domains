@@ -72,6 +72,30 @@ def create_cache():
                     ]
                 }
 
+        # Add domains from the generated strict list. It includes
+        # greylist.txt plus the mailservices.json grey tier (freemail and
+        # forwarding providers with anonymous signup), which greylist.txt
+        # alone does not cover.
+        if os.path.exists('domains_strict.txt'):
+            with open('domains_strict.txt') as f:
+                for domain in f:
+                    domain = domain.strip()
+                    if domain.startswith('#') or domain == '':
+                        continue
+                    domain_hash = hashlib.sha1(domain.encode('utf8')).hexdigest()
+
+                    hash_prefix = domain_hash[:2]
+                    if hash_prefix not in domain_cache:
+                        domain_cache[hash_prefix] = {}
+                    if domain_hash in domain_cache[hash_prefix]:
+                        continue
+
+                    domain_cache[hash_prefix][domain_hash] = {
+                        'domain': domain,
+                        'strict': True,
+                        'src': []
+                    }
+
         # Add domains from grey/whitelist list
         with open('disposable/whitelist.txt') as f:
             for domain in f:
@@ -95,23 +119,26 @@ def create_cache():
                     ]
                 }
 
-        with open('domains_source_map.txt', 'r') as f:
-            for line in f:
-                line = line.strip()
-                if line.startswith('#') or line == '' or ':' not in line:
-                    continue
+        for source_map in ('domains_source_map.txt', 'domains_strict_source_map.txt'):
+            if not os.path.exists(source_map):
+                continue
+            with open(source_map, 'r') as f:
+                for line in f:
+                    line = line.strip()
+                    if line.startswith('#') or line == '' or ':' not in line:
+                        continue
 
-                source_url, domain = line.rsplit(':', 1)
-                domain_hash = hashlib.sha1(domain.encode('utf8')).hexdigest()
+                    source_url, domain = line.rsplit(':', 1)
+                    domain_hash = hashlib.sha1(domain.encode('utf8')).hexdigest()
 
-                hash_prefix = domain_hash[:2]
-                if domain_hash not in domain_cache.get(hash_prefix, {}):
-                    continue
+                    hash_prefix = domain_hash[:2]
+                    if domain_hash not in domain_cache.get(hash_prefix, {}):
+                        continue
 
-                domain_cache[hash_prefix][domain_hash]['src'].append({
-                    'url': source_url,
-                    'ext': source_url in external_sources
-                })
+                    domain_cache[hash_prefix][domain_hash]['src'].append({
+                        'url': source_url,
+                        'ext': source_url in external_sources
+                    })
 
         for hash_prefix, domain_data in domain_cache.items():
             with open('cache/' + hash_prefix + '.json', 'w') as f:

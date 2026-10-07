@@ -28,3 +28,20 @@ To check if a domain is listed on the disposable email list and check the source
 
 * [TXT](https://disposable.github.io/disposable-email-domains/domains_sha1.txt): `https://disposable.github.io/disposable-email-domains/domains_sha1.txt`
 * [JSON](https://disposable.github.io/disposable-email-domains/domains_sha1.json): `https://disposable.github.io/disposable-email-domains/domains_sha1.json`
+
+### Strict lists (superset - use only if you also want anonymous-signup providers)
+
+The strict lists contain all disposable domains plus legitimate mail providers
+that allow signup without identity verification (alias/forwarding services and
+freemail with CAPTCHA-only signup, e.g. outlook.com / hotmail.com).
+Membership is derived from
+[mailservices.json](https://github.com/disposable/static-disposable-lists/blob/master/mailservices.json)
+and [greylist.txt](https://github.com/disposable/disposable/blob/master/greylist.txt).
+If you only want disposable providers, use `domains.txt` instead.
+
+* [TXT](https://disposable.github.io/disposable-email-domains/domains_strict.txt): `https://disposable.github.io/disposable-email-domains/domains_strict.txt`
+* [JSON](https://disposable.github.io/disposable-email-domains/domains_strict.json): `https://disposable.github.io/disposable-email-domains/domains_strict.json`
+* [TXT (MX)](https://disposable.github.io/disposable-email-domains/domains_strict_mx.txt): `https://disposable.github.io/disposable-email-domains/domains_strict_mx.txt`
+* [JSON (MX)](https://disposable.github.io/disposable-email-domains/domains_strict_mx.json): `https://disposable.github.io/disposable-email-domains/domains_strict_mx.json`
+* [TXT (SHA1)](https://disposable.github.io/disposable-email-domains/domains_strict_sha1.txt): `https://disposable.github.io/disposable-email-domains/domains_strict_sha1.txt`
+* [JSON (SHA1)](https://disposable.github.io/disposable-email-domains/domains_strict_sha1.json): `https://disposable.github.io/disposable-email-domains/domains_strict_sha1.json`

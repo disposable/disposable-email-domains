@@ -17,13 +17,13 @@ uv --project disposable run ./disposable/.generate --dedicated-strict --source-m
 # change check but committed alongside whenever domain files change.
 # source_cache.json (pre-DuckDB retention cache) is migrated on first run;
 # its tracked deletion is committed once the migration has happened.
-if git diff --quiet domains.txt domains.json domains_legacy.txt domains_mx.txt domains_mx.json \
+if git diff --quiet disposable domains.txt domains.json domains_legacy.txt domains_mx.txt domains_mx.json \
     domains_sha1.json domains_sha1.txt domains_source_map.txt \
     domains_strict.json domains_strict.txt domains_strict_sha1.json domains_strict_sha1.txt \
     domains_strict_source_map.txt domains_strict_mx.json domains_strict_mx.txt 2>/dev/null; then
     echo "No domain changes to commit"
 else
-    files="domains.txt domains.json domains_legacy.txt domains_mx.txt domains_mx.json \
+    files="disposable domains.txt domains.json domains_legacy.txt domains_mx.txt domains_mx.json \
         domains_sha1.json domains_sha1.txt domains_source_map.txt \
         domains_strict.json domains_strict.txt domains_strict_sha1.json domains_strict_sha1.txt \
         domains_strict_source_map.txt domains_strict_mx.json domains_strict_mx.txt"
