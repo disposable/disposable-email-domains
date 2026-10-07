@@ -11,6 +11,10 @@ on:
       - master
   workflow_dispatch:  # Allow manual trigger
 
+concurrency:
+  group: deploy-cache
+  cancel-in-progress: true
+
 jobs:
   build-cache:
     runs-on: ubuntu-latest
