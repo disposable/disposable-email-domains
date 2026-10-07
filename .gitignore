@@ -415,3 +415,6 @@ blacklist.txt
 
 # ignore cache files in normal commit
 cache/
+# Mutable retention-state database lives on the orphan "state" branch
+history.duckdb
+history.duckdb.wal
