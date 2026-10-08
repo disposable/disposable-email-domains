@@ -204,7 +204,11 @@ def create_cache():
                     if domain_hash not in domain_cache.get(hash_prefix, {}):
                         continue
 
-                    domain_cache[hash_prefix][domain_hash]['src'].append({
+                    entry = domain_cache[hash_prefix][domain_hash]
+                    if source_url in {s['url'] for s in entry['src']}:
+                        continue  # domains.txt and domains_strict.txt share sources
+
+                    entry['src'].append({
                         'url': source_url,
                         'ext': source_url in external_sources
                     })
