@@ -27,13 +27,17 @@ uv --project disposable run ./disposable/.generate --dedicated-strict --source-m
 if git diff --quiet disposable domains.txt domains.json domains_legacy.txt domains_mx.txt domains_mx.json \
     domains_sha1.json domains_sha1.txt domains_source_map.txt \
     domains_strict.json domains_strict.txt domains_strict_sha1.json domains_strict_sha1.txt \
-    domains_strict_source_map.txt domains_strict_mx.json domains_strict_mx.txt 2>/dev/null; then
+    domains_strict_source_map.txt domains_strict_mx.json domains_strict_mx.txt \
+    domains_forwarding.txt domains_forwarding.json 2>/dev/null; then
     echo "No domain changes to commit"
 else
     files="disposable domains.txt domains.json domains_legacy.txt domains_mx.txt domains_mx.json \
         domains_sha1.json domains_sha1.txt domains_source_map.txt \
         domains_strict.json domains_strict.txt domains_strict_sha1.json domains_strict_sha1.txt \
-        domains_strict_source_map.txt domains_strict_mx.json domains_strict_mx.txt"
+        domains_strict_source_map.txt domains_strict_mx.json domains_strict_mx.txt \
+        domains_forwarding.txt domains_forwarding.json"
+    # New files may be untracked - stage them so commit-by-path picks them up
+    git add -A -- domains_forwarding.txt domains_forwarding.json
     for f in source_cache.json; do
         if [ -f "$f" ] || git ls-files --error-unmatch "$f" >/dev/null 2>&1; then
             git add -A -- "$f"

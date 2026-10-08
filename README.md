@@ -45,3 +45,18 @@ If you only want disposable providers, use `domains.txt` instead.
 * [JSON (MX)](https://disposable.github.io/disposable-email-domains/domains_strict_mx.json): `https://disposable.github.io/disposable-email-domains/domains_strict_mx.json`
 * [TXT (SHA1)](https://disposable.github.io/disposable-email-domains/domains_strict_sha1.txt): `https://disposable.github.io/disposable-email-domains/domains_strict_sha1.txt`
 * [JSON (SHA1)](https://disposable.github.io/disposable-email-domains/domains_strict_sha1.json): `https://disposable.github.io/disposable-email-domains/domains_strict_sha1.json`
+
+### Disposable + forwarding/alias services
+
+All disposable domains plus alias/forwarding services (SimpleLogin, Firefox
+Relay, Apple Hide My Email, ...) - but no freemail mailbox providers. This
+matches what the strict list covered before the 2025-10 mailservices refactor;
+use it if you want to block disposable and aliasing addresses while still
+accepting freemail signups (gmail.com, outlook.com, ...).
+
+The `.json` variant is an object mapping each domain to metadata - for
+forwarding hosts the provider name, type and signup verification; for
+disposable domains the contributing source lists.
+
+* [TXT](https://disposable.github.io/disposable-email-domains/domains_forwarding.txt): `https://disposable.github.io/disposable-email-domains/domains_forwarding.txt`
+* [JSON](https://disposable.github.io/disposable-email-domains/domains_forwarding.json): `https://disposable.github.io/disposable-email-domains/domains_forwarding.json`
