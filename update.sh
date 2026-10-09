@@ -2,7 +2,15 @@
 # Optional local secrets (API keys for gated sources, e.g. DUSTMAIL_API_KEY)
 [ -f "$HOME/.disposable-env" ] && . "$HOME/.disposable-env"
 
+# Re-exec if the pull changed this script - bash reads script files
+# incrementally, so continuing under a replaced file can skip or garble
+# lines (this is how a generated-but-uncommitted domains_forwarding.* got
+# stranded once).
+old_sum=$(md5sum "$0" 2>/dev/null | cut -d' ' -f1)
 git pull -q -f
+if [ -n "$old_sum" ] && ! md5sum "$0" | grep -q "$old_sum"; then
+    exec bash "$0" "$@"
+fi
 
 # Restore the history DB from the orphan "state" branch if it is missing
 # locally. The file is intentionally untracked on master.
