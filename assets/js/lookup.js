@@ -2,6 +2,12 @@
 const MAILSERVICES_URL = 'https://raw.githubusercontent.com/disposable/static-disposable-lists/master/mailservices.json';
 const MAILSERVICES_PAGE = 'https://disposable.github.io/static-disposable-lists/index.html#mail-services';
 
+// Non-GitHub sources that still have a dedicated false-positive channel.
+// Maps the source URL as it appears in the source map to a "report issue" link.
+const SOURCE_FEEDBACK = {
+    'https://throwaway.cloud/list.txt': 'https://github.com/iocium/feedback.throwaway.cloud/issues/new',
+};
+
 // Cache object to store loaded JSON files
 const cache = {};
 
@@ -127,6 +133,10 @@ function formatSources(data) {
             const q = data.svc ? data.svc.name : data.domain;
             link = `${MAILSERVICES_PAGE}?q=${encodeURIComponent(q)}`;
             url = 'mailservices.json catalog';
+        }
+
+        if (SOURCE_FEEDBACK[url]) {
+            issue_link = SOURCE_FEEDBACK[url];
         }
 
         if (url.startsWith('https://raw.githubusercontent.com/')) {
