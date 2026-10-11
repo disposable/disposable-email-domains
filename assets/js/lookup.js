@@ -8,6 +8,10 @@ const SOURCE_FEEDBACK = {
     'https://throwaway.cloud/list.txt': 'https://github.com/iocium/feedback.throwaway.cloud/issues/new',
 };
 
+const GITHUB_REPO = 'disposable/disposable';
+const GITHUB_SEARCH_URL = 'https://api.github.com/search/issues';
+let lookupSeq = 0;
+
 // Cache object to store loaded JSON files
 const cache = {};
 
@@ -107,6 +111,52 @@ async function processDomain(input) {
     }
 
     return { valid: true, domain: cleanedInput, listed: false };
+}
+
+// Search GitHub for issues mentioning the domain (unauthenticated search
+// API, CORS-enabled; fails silently on rate limit/network errors). Both
+// open and closed issues are shown - a closed report still answers
+// "has this been handled?".
+async function fetchRelatedIssues(domain) {
+    try {
+        const q = `repo:${GITHUB_REPO} is:issue ${domain}`;
+        const response = await fetch(`${GITHUB_SEARCH_URL}?q=${encodeURIComponent(q)}&per_page=5&sort=updated&order=desc`, {
+            headers: { 'Accept': 'application/vnd.github+json' },
+        });
+        if (!response.ok) {
+            return null;
+        }
+        const json = await response.json();
+        return { items: json.items || [], total: json.total_count || 0 };
+    } catch (e) {
+        return null;
+    }
+}
+
+async function appendRelatedIssues(domain, seq) {
+    const res = await fetchRelatedIssues(domain);
+    // A newer lookup may have replaced the result while fetching.
+    if (!res || !res.items.length || seq !== lookupSeq) {
+        return;
+    }
+    const messageDiv = document.getElementById('result');
+    if (!messageDiv || !messageDiv.innerHTML) {
+        return;
+    }
+    let html = `<h3>Related issues</h3><ul>`;
+    for (const it of res.items) {
+        const state = `<code>${escapeHtml(it.state)}</code>`;
+        const labels = (it.labels || [])
+            .map(l => `<code>${escapeHtml(l.name)}</code>`)
+            .join(' ');
+        html += `<li><a href="${it.html_url}" target="_blank">#${it.number} ${escapeHtml(it.title)}</a> ${state} ${labels}</li>`;
+    }
+    html += '</ul>';
+    if (res.total > res.items.length) {
+        const allq = encodeURIComponent(`repo:${GITHUB_REPO} is:issue ${domain}`);
+        html += `<p><a href="https://github.com/search?q=${allq}&type=issues" target="_blank">View all ${res.total} issues</a></p>`;
+    }
+    messageDiv.insertAdjacentHTML('beforeend', html);
 }
 
 function formatSources(data) {
@@ -279,6 +329,8 @@ async function lookup(domainInput) {
             type = 'info';
         }
         showMessage(formatSingleDomainMessage(result), type);
+        const searched = (result.data && result.data.domain) || domains[0].toLowerCase();
+        appendRelatedIssues(searched, ++lookupSeq);
         return;
     }
 
